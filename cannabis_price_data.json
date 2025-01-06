@@ -44557,6 +44557,92 @@
         }
     ],
     "doc_data": [],
+    "delivery": [
+        {
+            "id": 1,
+            "name_apo": "cannem",
+            "lieferung": true,
+            "zeitangabe": "am selben Tag"
+        },
+        {
+            "id": 2,
+            "name_apo": "medicalherbs",
+            "lieferung": false,
+            "zeitangabe": "am selben Tag"
+        }
+    ],
+    "delivery_zipcodes": [
+        {
+            "id": 1,
+            "delivery_id": 1,
+            "plz": "68159"
+        },
+        {
+            "id": 2,
+            "delivery_id": 1,
+            "plz": "68161"
+        },
+        {
+            "id": 3,
+            "delivery_id": 1,
+            "plz": "68163"
+        },
+        {
+            "id": 4,
+            "delivery_id": 1,
+            "plz": "68165"
+        },
+        {
+            "id": 5,
+            "delivery_id": 1,
+            "plz": "68167"
+        },
+        {
+            "id": 6,
+            "delivery_id": 1,
+            "plz": "68169"
+        },
+        {
+            "id": 7,
+            "delivery_id": 1,
+            "plz": "68199"
+        },
+        {
+            "id": 8,
+            "delivery_id": 1,
+            "plz": "68219"
+        },
+        {
+            "id": 9,
+            "delivery_id": 1,
+            "plz": "68229"
+        },
+        {
+            "id": 10,
+            "delivery_id": 1,
+            "plz": "68239"
+        },
+        {
+            "id": 11,
+            "delivery_id": 1,
+            "plz": "68259"
+        },
+        {
+            "id": 12,
+            "delivery_id": 1,
+            "plz": "68305"
+        },
+        {
+            "id": 13,
+            "delivery_id": 1,
+            "plz": "68307"
+        },
+        {
+            "id": 14,
+            "delivery_id": 1,
+            "plz": "68309"
+        }
+    ],
     "data_cannem": [
         {
             "product_link_cannem": "https://cannem.de/product/cm-30-1-diamond-mints/",
