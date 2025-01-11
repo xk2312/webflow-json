@@ -1,1 +1,32 @@
-{"min_thc":0.7,"max_thc":33.6,"min_cbd":0.05,"max_cbd":17.0,"min_price":3.95,"max_price":15.99,"min_terps":0.45,"max_terps":3.56,"min_limonen":0.04,"max_limonen":0.75,"min_beta_myrcen":0.04,"max_beta_myrcen":0.79,"min_beta_caryophyllen":0.04,"max_beta_caryophyllen":0.92,"min_linalool":0.06,"max_linalool":0.5,"min_alpha_pinen":0.02,"max_alpha_pinen":0.44,"min_alpha_humulen":0.05,"max_alpha_humulen":0.36,"min_fenchol":0.04,"max_fenchol":0.22,"min_ocimen":0.06,"max_ocimen":0.53,"min_beta_pinen":0.03,"max_beta_pinen":0.21,"min_alpha_bisabolol":0.06,"max_alpha_bisabolol":0.06}
+[
+    {
+        "min_thc": 0.7,
+        "max_thc": 33.6,
+        "min_cbd": 0.05,
+        "max_cbd": 17.0,
+        "min_price": 3.95,
+        "max_price": 15.99,
+        "min_terps": 0.45,
+        "max_terps": 3.56,
+        "min_limonen": 0.04,
+        "max_limonen": 0.75,
+        "min_beta_myrcen": 0.04,
+        "max_beta_myrcen": 0.79,
+        "min_beta_caryophyllen": 0.04,
+        "max_beta_caryophyllen": 0.92,
+        "min_linalool": 0.06,
+        "max_linalool": 0.5,
+        "min_alpha_pinen": 0.02,
+        "max_alpha_pinen": 0.44,
+        "min_alpha_humulen": 0.05,
+        "max_alpha_humulen": 0.36,
+        "min_fenchol": 0.04,
+        "max_fenchol": 0.22,
+        "min_ocimen": 0.06,
+        "max_ocimen": 0.53,
+        "min_beta_pinen": 0.03,
+        "max_beta_pinen": 0.21,
+        "min_alpha_bisabolol": 0.06,
+        "max_alpha_bisabolol": 0.06
+    }
+]
