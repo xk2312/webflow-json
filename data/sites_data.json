@@ -40168,6 +40168,14 @@
         "site_end": "2025-01-04 19:33:57.634360"
     },
     {
+        "id": 4056,
+        "session_id": "1a1eddad-ac36-4c6f-aa46-949c6723919f",
+        "session_status": 19,
+        "site_start": "2025-01-02 18:14:57.710785",
+        "landing_page": "https://www.zencan.de/kultivare/harlequin",
+        "site_end": "2025-01-11 10:59:53.818566"
+    },
+    {
         "id": 5736,
         "session_id": "d769f5b5-c64d-40a7-9008-13d94a5723fa",
         "session_status": 1,
@@ -40294,14 +40302,6 @@
         "site_start": "2025-01-08 13:49:04.782526",
         "landing_page": "https://www.zencan.de/apo-partner-landing",
         "site_end": "2025-01-08 14:59:05.617727"
-    },
-    {
-        "id": 4056,
-        "session_id": "1a1eddad-ac36-4c6f-aa46-949c6723919f",
-        "session_status": 19,
-        "site_start": "2025-01-02 18:14:57.710785",
-        "landing_page": "https://www.zencan.de/kultivare/harlequin",
-        "site_end": "2025-01-11 00:24:23.125860"
     },
     {
         "id": 8483,
@@ -49608,20 +49608,20 @@
         "site_end": "2025-01-09 18:16:19.223060"
     },
     {
+        "id": 2049,
+        "session_id": "eb6cebb1-198e-4361-bc84-0149654f414d",
+        "session_status": 1,
+        "site_start": "2024-12-31 11:22:24.799813",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-11 19:50:12.269537"
+    },
+    {
         "id": 9610,
         "session_id": "960b7b41-fe27-45cf-9e65-c3ebdb0df93e",
         "session_status": 3,
         "site_start": "2025-01-09 17:26:57.799105",
         "landing_page": "https://www.zencan.de/ratgeber/thc-oel",
         "site_end": "2025-01-09 19:24:39.004025"
-    },
-    {
-        "id": 2049,
-        "session_id": "eb6cebb1-198e-4361-bc84-0149654f414d",
-        "session_status": 1,
-        "site_start": "2024-12-31 11:22:24.799813",
-        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
-        "site_end": "2025-01-11 00:14:53.780361"
     },
     {
         "id": 5958,
@@ -66301,15 +66301,7 @@
         "session_status": 3,
         "site_start": "2025-01-07 13:07:58.478800",
         "landing_page": "https://www.zencan.de/apo-partner-landing",
-        "site_end": "2025-01-10 23:52:23.343151"
-    },
-    {
-        "id": 6850,
-        "session_id": "05e00a70-92ff-4f6c-b497-06e451546faa",
-        "session_status": 13,
-        "site_start": "2025-01-06 11:43:19.995655",
-        "landing_page": "https://www.zencan.de/search?query=gelonade",
-        "site_end": "2025-01-10 23:52:23.491447"
+        "site_end": "2025-01-11 17:50:38.294976"
     },
     {
         "id": 7583,
@@ -66510,6 +66502,14 @@
         "site_start": "2025-01-07 16:49:45.845302",
         "landing_page": "https://www.zencan.de/kultivare/blue-wizard",
         "site_end": "2025-01-07 16:53:36.303443"
+    },
+    {
+        "id": 6850,
+        "session_id": "05e00a70-92ff-4f6c-b497-06e451546faa",
+        "session_status": 13,
+        "site_start": "2025-01-06 11:43:19.995655",
+        "landing_page": "https://www.zencan.de/search?query=gelonade",
+        "site_end": "2025-01-11 10:20:13.137854"
     },
     {
         "id": 7765,
@@ -81024,14 +81024,6 @@
         "site_end": "2025-01-10 13:52:29.009476"
     },
     {
-        "id": 10598,
-        "session_id": "43a1a790-ed09-4cbd-8a97-5d57086cedb3",
-        "session_status": 1,
-        "site_start": "2025-01-11 00:02:28.785001",
-        "landing_page": "https://www.zencan.de/",
-        "site_end": "2025-01-11 02:56:35.838501"
-    },
-    {
         "id": 10138,
         "session_id": "bdc61c5b-5257-44be-a793-bb972072eff8",
         "session_status": 1,
@@ -81054,6 +81046,14 @@
         "site_start": "2025-01-10 18:37:21.449686",
         "landing_page": "https://www.zencan.de/",
         "site_end": "2025-01-11 02:33:24.999284"
+    },
+    {
+        "id": 10598,
+        "session_id": "43a1a790-ed09-4cbd-8a97-5d57086cedb3",
+        "session_status": 1,
+        "site_start": "2025-01-11 00:02:28.785001",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 13:27:12.016214"
     },
     {
         "id": 10152,
@@ -82445,7 +82445,7 @@
         "session_status": 1,
         "site_start": "2025-01-03 22:27:44.853583",
         "landing_page": "https://www.zencan.de/ratgeber/edibles",
-        "site_end": "2025-01-11 00:55:27.122622"
+        "site_end": "2025-01-11 16:07:05.680760"
     },
     {
         "id": 10324,
@@ -82456,20 +82456,20 @@
         "site_end": "2025-01-10 18:06:45.293333"
     },
     {
+        "id": 7017,
+        "session_id": "e423f822-184d-4873-a1e4-fe6a3323f0b5",
+        "session_status": 2,
+        "site_start": "2025-01-06 16:23:39.747968",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 08:33:12.084279"
+    },
+    {
         "id": 10325,
         "session_id": "bfcec674-ac2d-4228-b1ba-736697c413d0",
         "session_status": 1,
         "site_start": "2025-01-10 18:07:01.644242",
         "landing_page": "https://www.zencan.de/ratgeber/thc-oel",
         "site_end": "2025-01-10 18:07:11.808722"
-    },
-    {
-        "id": 7017,
-        "session_id": "e423f822-184d-4873-a1e4-fe6a3323f0b5",
-        "session_status": 2,
-        "site_start": "2025-01-06 16:23:39.747968",
-        "landing_page": "https://www.zencan.de/",
-        "site_end": "2025-01-11 02:57:13.855448"
     },
     {
         "id": 10327,
@@ -82600,6 +82600,14 @@
         "site_end": "2025-01-10 19:48:35.112025"
     },
     {
+        "id": 7693,
+        "session_id": "74b38058-7a90-4cea-a8b2-7c79c4e4ffdd",
+        "session_status": 1,
+        "site_start": "2025-01-07 15:06:00.067988",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-11 19:50:38.181997"
+    },
+    {
         "id": 10348,
         "session_id": "4155c88b-b1e8-4b95-b41d-3606c75c423b",
         "session_status": 1,
@@ -82670,14 +82678,6 @@
         "site_start": "2025-01-10 19:28:52.950314",
         "landing_page": "https://www.zencan.de/produkte/bathera-24-1-permanent-marker-biscotti-x-jealousy-x-sherb-bx",
         "site_end": "2025-01-10 19:29:03.154267"
-    },
-    {
-        "id": 7693,
-        "session_id": "74b38058-7a90-4cea-a8b2-7c79c4e4ffdd",
-        "session_status": 1,
-        "site_start": "2025-01-07 15:06:00.067988",
-        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
-        "site_end": "2025-01-10 20:47:42.957000"
     },
     {
         "id": 10353,
@@ -83944,14 +83944,6 @@
         "site_end": "2025-01-10 22:00:21.366571"
     },
     {
-        "id": 10497,
-        "session_id": "482b2729-73f8-49ca-ab7a-cd6508dcf60c",
-        "session_status": 1,
-        "site_start": "2025-01-10 21:40:36.593315",
-        "landing_page": "https://www.zencan.de/produkte/gr-nhorn-gg-22-1-gorilla-glue",
-        "site_end": "2025-01-10 22:00:31.449870"
-    },
-    {
         "id": 10512,
         "session_id": "529f625b-c7a3-41ba-81f1-13c316d6850d",
         "session_status": 2,
@@ -84152,6 +84144,14 @@
         "site_end": "2025-01-10 22:24:39.173458"
     },
     {
+        "id": 10497,
+        "session_id": "482b2729-73f8-49ca-ab7a-cd6508dcf60c",
+        "session_status": 1,
+        "site_start": "2025-01-10 21:40:36.593315",
+        "landing_page": "https://www.zencan.de/produkte/gr-nhorn-gg-22-1-gorilla-glue",
+        "site_end": "2025-01-11 15:35:17.514852"
+    },
+    {
         "id": 10543,
         "session_id": "eb5960b9-46cc-4fb6-8892-33741ec41430",
         "session_status": 2,
@@ -84334,14 +84334,6 @@
         "site_start": "2025-01-10 22:56:53.393540",
         "landing_page": "https://www.zencan.de/kultivare/orange-bud",
         "site_end": "2025-01-10 22:56:53.393540"
-    },
-    {
-        "id": 10563,
-        "session_id": "8b99bd48-caf4-44d1-9a8c-71ff909ddbfb",
-        "session_status": 1,
-        "site_start": "2025-01-10 23:15:08.809692",
-        "landing_page": "https://www.zencan.de/ratgeber/cannabutter",
-        "site_end": "2025-01-10 23:30:01.954987"
     },
     {
         "id": 10560,
@@ -84648,6 +84640,14 @@
         "site_end": "2025-01-11 00:39:01.667700"
     },
     {
+        "id": 10563,
+        "session_id": "8b99bd48-caf4-44d1-9a8c-71ff909ddbfb",
+        "session_status": 1,
+        "site_start": "2025-01-10 23:15:08.809692",
+        "landing_page": "https://www.zencan.de/ratgeber/cannabutter",
+        "site_end": "2025-01-11 07:53:33.607474"
+    },
+    {
         "id": 10585,
         "session_id": "4de5b349-04d8-4232-a3cf-59bd4bd11c28",
         "session_status": 1,
@@ -84672,20 +84672,20 @@
         "site_end": "2025-01-11 00:18:28.979701"
     },
     {
+        "id": 10564,
+        "session_id": "d1169dd0-84b8-495d-b54f-7780963c0097",
+        "session_status": 1,
+        "site_start": "2025-01-10 23:19:44.918435",
+        "landing_page": "https://www.zencan.de/kultivare/delahaze",
+        "site_end": "2025-01-11 12:57:59.536724"
+    },
+    {
         "id": 10597,
         "session_id": "6035e717-f869-4203-b424-5d4d74182ffb",
         "session_status": 1,
         "site_start": "2025-01-11 00:02:04.933881",
         "landing_page": "https://www.zencan.de/ratgeber/grinder",
         "site_end": "2025-01-11 00:08:35.839804"
-    },
-    {
-        "id": 10564,
-        "session_id": "d1169dd0-84b8-495d-b54f-7780963c0097",
-        "session_status": 1,
-        "site_start": "2025-01-10 23:19:44.918435",
-        "landing_page": "https://www.zencan.de/kultivare/delahaze",
-        "site_end": "2025-01-11 00:20:04.880141"
     },
     {
         "id": 10606,
@@ -84712,6 +84712,22 @@
         "site_end": "2025-01-11 00:13:53.362242"
     },
     {
+        "id": 10618,
+        "session_id": "b5190718-520e-429d-87c7-c0061d3e81fd",
+        "session_status": 1,
+        "site_start": "2025-01-11 00:20:31.523142",
+        "landing_page": "https://www.zencan.de/ratgeber/thc-oel",
+        "site_end": "2025-01-11 10:31:17.849998"
+    },
+    {
+        "id": 10622,
+        "session_id": "864f3c16-ea8f-45c4-8d1a-d4ba05b8c9fe",
+        "session_status": 4,
+        "site_start": "2025-01-11 00:25:47.383020",
+        "landing_page": "https://www.zencan.de/produkte/420-evolution-33-1-ca-pch-peach-chementine",
+        "site_end": "2025-01-11 13:02:44.933673"
+    },
+    {
         "id": 10625,
         "session_id": "2031665c-c2f1-4229-9fa2-b893c0112827",
         "session_status": 1,
@@ -84726,14 +84742,6 @@
         "site_start": "2025-01-11 00:25:30.928026",
         "landing_page": "https://www.zencan.de/search?query=420+Evolution+",
         "site_end": "2025-01-11 00:25:41.049970"
-    },
-    {
-        "id": 10618,
-        "session_id": "b5190718-520e-429d-87c7-c0061d3e81fd",
-        "session_status": 1,
-        "site_start": "2025-01-11 00:20:31.523142",
-        "landing_page": "https://www.zencan.de/ratgeber/thc-oel",
-        "site_end": "2025-01-11 00:22:21.942093"
     },
     {
         "id": 10624,
@@ -84766,14 +84774,6 @@
         "site_start": "2025-01-11 00:18:09.178631",
         "landing_page": "https://www.zencan.de/ratgeber/marihuana-kaufen",
         "site_end": "2025-01-11 00:18:09.178631"
-    },
-    {
-        "id": 10622,
-        "session_id": "864f3c16-ea8f-45c4-8d1a-d4ba05b8c9fe",
-        "session_status": 4,
-        "site_start": "2025-01-11 00:25:47.383020",
-        "landing_page": "https://www.zencan.de/produkte/420-evolution-33-1-ca-pch-peach-chementine",
-        "site_end": "2025-01-11 00:29:22.523680"
     },
     {
         "id": 10619,
@@ -84910,6 +84910,14 @@
         "site_start": "2025-01-11 00:53:07.267778",
         "landing_page": "https://www.zencan.de/?sort=thc",
         "site_end": "2025-01-11 00:55:59.794944"
+    },
+    {
+        "id": 10604,
+        "session_id": "62f37aa8-6154-42c5-99cd-513a9670fa25",
+        "session_status": 1,
+        "site_start": "2025-01-11 00:08:03.213237",
+        "landing_page": "https://www.zencan.de/ratgeber/kush-sorten",
+        "site_end": "2025-01-11 09:33:14.587128"
     },
     {
         "id": 10644,
@@ -85088,14 +85096,6 @@
         "site_end": "2025-01-11 01:21:15.873024"
     },
     {
-        "id": 10604,
-        "session_id": "62f37aa8-6154-42c5-99cd-513a9670fa25",
-        "session_status": 1,
-        "site_start": "2025-01-11 00:08:03.213237",
-        "landing_page": "https://www.zencan.de/ratgeber/kush-sorten",
-        "site_end": "2025-01-11 02:57:29.135435"
-    },
-    {
         "id": 10655,
         "session_id": "1675f0a8-f233-42fb-a924-19b3e975ed0c",
         "session_status": 1,
@@ -85152,20 +85152,12 @@
         "site_end": "2025-01-11 01:58:16.518876"
     },
     {
-        "id": 10600,
-        "session_id": "1f6a9b92-b09d-4712-b393-01406aa4bf8c",
-        "session_status": 1,
-        "site_start": "2025-01-11 00:05:02.342643",
-        "landing_page": "https://www.zencan.de/kultivare/g13-haze",
-        "site_end": "2025-01-11 02:57:32.487170"
-    },
-    {
-        "id": 10699,
+        "id": 10706,
         "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
-        "session_status": 7,
-        "site_start": "2025-01-11 02:51:13.281477",
+        "session_status": 11,
+        "site_start": "2025-01-11 03:09:46.763842",
         "landing_page": "https://www.zencan.de/excalibur/user-tracking",
-        "site_end": "2025-01-11 02:57:33.705575"
+        "site_end": "2025-01-11 03:11:59.870063"
     },
     {
         "id": 10697,
@@ -85200,12 +85192,36 @@
         "site_end": "2025-01-11 02:29:25.414331"
     },
     {
+        "id": 10714,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 18,
+        "site_start": "2025-01-11 03:24:21.030824",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 03:25:41.737829"
+    },
+    {
         "id": 10678,
         "session_id": "b6a1d5a3-bffb-49a7-94cf-35d57a5ef66d",
         "session_status": 1,
         "site_start": "2025-01-11 02:09:23.980674",
         "landing_page": "https://www.zencan.de/kultivare/banana-og",
         "site_end": "2025-01-11 02:09:54.079082"
+    },
+    {
+        "id": 10701,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 8,
+        "site_start": "2025-01-11 03:01:55.713762",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 03:03:07.941732"
+    },
+    {
+        "id": 10702,
+        "session_id": "a7956059-89a4-4c11-8e25-a147c1e150cb",
+        "session_status": 1,
+        "site_start": "2025-01-11 03:02:09.204682",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 03:02:09.204682"
     },
     {
         "id": 10666,
@@ -85280,6 +85296,14 @@
         "site_end": "2025-01-11 02:10:12.605658"
     },
     {
+        "id": 10703,
+        "session_id": "970d0e5d-5a01-4288-bd29-010616773a3e",
+        "session_status": 1,
+        "site_start": "2025-01-11 03:02:09.737818",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 03:02:09.737818"
+    },
+    {
         "id": 10669,
         "session_id": "3c662971-3b10-4ffa-9ec1-c53722d958f4",
         "session_status": 1,
@@ -85336,20 +85360,20 @@
         "site_end": "2025-01-11 01:52:12.996946"
     },
     {
-        "id": 10700,
-        "session_id": "4042cee2-db36-4a28-9042-74cbdbf63a27",
-        "session_status": 4,
-        "site_start": "2025-01-11 02:51:35.133062",
-        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
-        "site_end": "2025-01-11 02:52:15.302665"
-    },
-    {
         "id": 10668,
         "session_id": "d63bf07b-750b-4a29-ab6c-aec9d39b1722",
         "session_status": 1,
         "site_start": "2025-01-11 01:52:10.720180",
         "landing_page": "https://www.zencan.de/ratgeber/marihuana-kaufen",
         "site_end": "2025-01-11 01:52:21.083758"
+    },
+    {
+        "id": 10708,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 13,
+        "site_start": "2025-01-11 03:15:19.084307",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 03:17:39.252214"
     },
     {
         "id": 10693,
@@ -85373,7 +85397,7 @@
         "session_status": 1,
         "site_start": "2025-01-11 00:48:19.454303",
         "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
-        "site_end": "2025-01-11 02:14:36.618689"
+        "site_end": "2025-01-11 12:03:35.849153"
     },
     {
         "id": 10682,
@@ -85448,12 +85472,28 @@
         "site_end": "2025-01-11 02:32:48.297945"
     },
     {
+        "id": 10711,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 15,
+        "site_start": "2025-01-11 03:19:19.806055",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 03:20:20.172935"
+    },
+    {
         "id": 10689,
         "session_id": "5b0354d4-69cd-4e57-ba6b-31497db9de9e",
         "session_status": 1,
         "site_start": "2025-01-11 02:27:38.484624",
         "landing_page": "https://www.zencan.de/",
         "site_end": "2025-01-11 02:27:38.484624"
+    },
+    {
+        "id": 10707,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 12,
+        "site_start": "2025-01-11 03:12:02.725043",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 03:15:16.431586"
     },
     {
         "id": 10695,
@@ -85472,11 +85512,4059 @@
         "site_end": "2025-01-11 02:37:44.103106"
     },
     {
+        "id": 10709,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 14,
+        "site_start": "2025-01-11 03:17:41.572821",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 03:19:16.314930"
+    },
+    {
+        "id": 10712,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 16,
+        "site_start": "2025-01-11 03:20:23.589291",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 03:22:44.704461"
+    },
+    {
+        "id": 10705,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 10,
+        "site_start": "2025-01-11 03:08:55.132186",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 03:09:45.275829"
+    },
+    {
+        "id": 10699,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 7,
+        "site_start": "2025-01-11 02:51:13.281477",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 03:01:53.363356"
+    },
+    {
+        "id": 10704,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 9,
+        "site_start": "2025-01-11 03:03:11.365901",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 03:08:52.248728"
+    },
+    {
+        "id": 10700,
+        "session_id": "4042cee2-db36-4a28-9042-74cbdbf63a27",
+        "session_status": 4,
+        "site_start": "2025-01-11 02:51:35.133062",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 03:50:09.671075"
+    },
+    {
+        "id": 10713,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 17,
+        "site_start": "2025-01-11 03:22:51.249154",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 03:24:11.475930"
+    },
+    {
+        "id": 10719,
+        "session_id": "d2a044fa-3901-4dde-8b99-931a04eb9987",
+        "session_status": 1,
+        "site_start": "2025-01-11 03:35:22.359956",
+        "landing_page": "https://www.zencan.de/ratgeber/cannabis-nebenwirkungen",
+        "site_end": "2025-01-11 03:36:42.966763"
+    },
+    {
+        "id": 10710,
+        "session_id": "3a2e65b8-fadc-43f2-b406-b5d85d59bc19",
+        "session_status": 1,
+        "site_start": "2025-01-11 03:17:48.175983",
+        "landing_page": "https://www.zencan.de/produkte/ostara-balance-long-valley-legend",
+        "site_end": "2025-01-11 03:25:37.892820"
+    },
+    {
+        "id": 10715,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 19,
+        "site_start": "2025-01-11 03:25:49.901988",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 03:27:30.687350"
+    },
+    {
+        "id": 10716,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 20,
+        "site_start": "2025-01-11 03:27:35.970917",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 03:32:06.266139"
+    },
+    {
+        "id": 10717,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 21,
+        "site_start": "2025-01-11 03:32:07.929189",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 03:34:38.038404"
+    },
+    {
+        "id": 10718,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 22,
+        "site_start": "2025-01-11 03:34:43.224231",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 03:36:13.135376"
+    },
+    {
+        "id": 10766,
+        "session_id": "ad1fe9c6-21ca-4ea6-b817-e43207b5f9b7",
+        "session_status": 1,
+        "site_start": "2025-01-11 07:27:34.590158",
+        "landing_page": "https://www.zencan.de/ratgeber/cannabutter",
+        "site_end": "2025-01-11 07:29:15.232698"
+    },
+    {
+        "id": 10727,
+        "session_id": "2791f36e-39d3-4747-8281-b708957b2345",
+        "session_status": 1,
+        "site_start": "2025-01-11 03:44:27.437463",
+        "landing_page": "https://www.zencan.de/kultivare/sky-pie",
+        "site_end": "2025-01-11 03:45:07.581528"
+    },
+    {
+        "id": 10756,
+        "session_id": "ebb0070a-712f-47c6-8195-428972ce0a71",
+        "session_status": 1,
+        "site_start": "2025-01-11 06:45:45.126039",
+        "landing_page": "https://www.zencan.de/ratgeber/thc-oel",
+        "site_end": "2025-01-11 06:47:35.457730"
+    },
+    {
+        "id": 10762,
+        "session_id": "89d147a6-fbee-44ce-8805-91b5248de682",
+        "session_status": 1,
+        "site_start": "2025-01-11 07:13:21.479740",
+        "landing_page": "https://www.zencan.de/produkte/remexian-30-1-gmo-gmo-breath",
+        "site_end": "2025-01-11 07:14:22.139240"
+    },
+    {
+        "id": 10747,
+        "session_id": "dfd836e4-3132-41f8-8c23-7fa38b37b6e9",
+        "session_status": 1,
+        "site_start": "2025-01-11 05:25:44.587083",
+        "landing_page": "https://www.zencan.de/kultivare/karels-haze",
+        "site_end": "2025-01-11 05:25:44.587083"
+    },
+    {
+        "id": 10743,
+        "session_id": "8b54a1f3-45d2-46a2-ac0f-77c7c0dca2e3",
+        "session_status": 1,
+        "site_start": "2025-01-11 04:53:29.876795",
+        "landing_page": "https://www.zencan.de/kultivare/dawg-bud-fusion?visitor_id=78b100fd-f5b1-473d-9c08-87ae23240cc3",
+        "site_end": "2025-01-11 04:53:29.876795"
+    },
+    {
+        "id": 10742,
+        "session_id": "c519e6a4-d0b5-48d9-8388-3908c9d68c7a",
+        "session_status": 1,
+        "site_start": "2025-01-11 04:48:20.363653",
+        "landing_page": "https://www.zencan.de/kultivare/grape-ape",
+        "site_end": "2025-01-11 04:48:20.363653"
+    },
+    {
+        "id": 10741,
+        "session_id": "4409a47c-5189-4648-a75e-da4a928a060f",
+        "session_status": 1,
+        "site_start": "2025-01-11 04:42:58.307289",
+        "landing_page": "https://www.zencan.de/kultivare/ghost-train-haze",
+        "site_end": "2025-01-11 04:42:58.307289"
+    },
+    {
+        "id": 10720,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 23,
+        "site_start": "2025-01-11 03:36:16.938788",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 03:37:42.885350"
+    },
+    {
+        "id": 10724,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 27,
+        "site_start": "2025-01-11 03:40:52.708976",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 03:42:22.910948"
+    },
+    {
+        "id": 10731,
+        "session_id": "4042cee2-db36-4a28-9042-74cbdbf63a27",
+        "session_status": 5,
+        "site_start": "2025-01-11 03:50:13.131175",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 03:50:43.375011"
+    },
+    {
+        "id": 10760,
+        "session_id": "429f854a-2245-47ec-a010-ecb3697cea87",
+        "session_status": 1,
+        "site_start": "2025-01-11 07:02:29.749487",
+        "landing_page": "https://www.zencan.de/produkte/cannabis-flos-weeco-23-1-frosted-lemon-angel",
+        "site_end": "2025-01-11 07:02:29.749487"
+    },
+    {
+        "id": 10751,
+        "session_id": "5fa9dbcf-55fe-4e03-8295-4b05dc73bd18",
+        "session_status": 2,
+        "site_start": "2025-01-11 05:59:09.603914",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 06:02:29.169072"
+    },
+    {
+        "id": 10745,
+        "session_id": "e24874d6-08e3-491e-b785-092da3305a20",
+        "session_status": 1,
+        "site_start": "2025-01-11 05:09:14.196204",
+        "landing_page": "https://www.zencan.de/produkte/bathera-24-1-z-splitter-zkittlez-x-atom-splitter",
+        "site_end": "2025-01-11 05:09:14.196204"
+    },
+    {
+        "id": 10728,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 30,
+        "site_start": "2025-01-11 03:44:36.171731",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 03:47:19.738057"
+    },
+    {
+        "id": 10757,
+        "session_id": "6f84d2c0-6768-416c-87c8-4d7da5ccdffa",
+        "session_status": 1,
+        "site_start": "2025-01-11 06:48:22.930663",
+        "landing_page": "https://www.zencan.de/kultivare/ludina",
+        "site_end": "2025-01-11 06:48:22.930663"
+    },
+    {
+        "id": 10725,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 28,
+        "site_start": "2025-01-11 03:42:24.211749",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 03:43:04.701830"
+    },
+    {
+        "id": 10736,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 34,
+        "site_start": "2025-01-11 04:03:05.053210",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 04:05:15.166415"
+    },
+    {
+        "id": 10740,
+        "session_id": "093c4629-ce65-485d-9c0d-4797773178ff",
+        "session_status": 1,
+        "site_start": "2025-01-11 04:26:08.294134",
+        "landing_page": "https://www.zencan.de/produkte/oht-ckz-1-rntz-58649",
+        "site_end": "2025-01-11 04:26:08.294134"
+    },
+    {
+        "id": 10765,
+        "session_id": "8cdb0feb-d1ee-43fa-b221-8500f347a1c3",
+        "session_status": 1,
+        "site_start": "2025-01-11 07:21:57.558985",
+        "landing_page": "https://www.zencan.de/produkte/ostara-balance-long-valley-legend",
+        "site_end": "2025-01-11 09:44:48.361193"
+    },
+    {
+        "id": 10770,
+        "session_id": "4cd8cd20-6571-4c12-913e-aa900d098c22",
+        "session_status": 1,
+        "site_start": "2025-01-11 07:42:43.529210",
+        "landing_page": "https://www.zencan.de/kultivare/nevilles-haze",
+        "site_end": "2025-01-11 07:43:14.218248"
+    },
+    {
+        "id": 10744,
+        "session_id": "b3017080-39f8-4eda-90df-55e9b6de9a6f",
+        "session_status": 1,
+        "site_start": "2025-01-11 05:08:20.008618",
+        "landing_page": "https://www.zencan.de/ratgeber/cannabis-nebenwirkungen",
+        "site_end": "2025-01-11 05:17:30.352273"
+    },
+    {
+        "id": 10721,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 24,
+        "site_start": "2025-01-11 03:37:46.703049",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 03:39:26.837302"
+    },
+    {
+        "id": 10732,
+        "session_id": "3053e515-bd75-4657-93b8-75937d0c2c8a",
+        "session_status": 1,
+        "site_start": "2025-01-11 03:50:58.065295",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 11:31:53.142197"
+    },
+    {
+        "id": 10761,
+        "session_id": "6abcd9ce-f81c-463d-b75a-1a2ea6a7dda7",
+        "session_status": 1,
+        "site_start": "2025-01-11 07:08:20.458473",
+        "landing_page": "https://www.zencan.de/produkte/420-compound-22-1-ca-mwz-mellowz-8",
+        "site_end": "2025-01-11 07:08:30.594866"
+    },
+    {
+        "id": 10750,
+        "session_id": "286fa657-0f1b-4b1f-8424-212e8c8d9d40",
+        "session_status": 1,
+        "site_start": "2025-01-11 05:50:38.644982",
+        "landing_page": "https://www.zencan.de/ratgeber/marihuana-kaufen",
+        "site_end": "2025-01-11 05:51:19.366029"
+    },
+    {
+        "id": 10738,
+        "session_id": "1cc39540-0ae0-481c-9c44-9c88543b5ff5",
+        "session_status": 1,
+        "site_start": "2025-01-11 04:16:53.102722",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 04:16:53.102722"
+    },
+    {
+        "id": 10730,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 32,
+        "site_start": "2025-01-11 03:48:54.132273",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 04:02:47.916963"
+    },
+    {
+        "id": 10726,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 29,
+        "site_start": "2025-01-11 03:43:10.550438",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 03:44:31.704272"
+    },
+    {
+        "id": 10739,
+        "session_id": "6c1e4734-e4d2-4fc8-abce-257f5ccf7f03",
+        "session_status": 1,
+        "site_start": "2025-01-11 04:16:53.644822",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 04:16:53.644822"
+    },
+    {
+        "id": 10734,
+        "session_id": "8e1a3470-9d0f-4d27-8f21-e4e6c5cf05fb",
+        "session_status": 1,
+        "site_start": "2025-01-11 04:02:57.179542",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 04:02:57.179542"
+    },
+    {
+        "id": 10722,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 25,
+        "site_start": "2025-01-11 03:39:28.332438",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 03:40:41.752050"
+    },
+    {
+        "id": 10729,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 31,
+        "site_start": "2025-01-11 03:47:22.710627",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 03:48:52.870120"
+    },
+    {
+        "id": 10723,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 26,
+        "site_start": "2025-01-11 03:40:46.319873",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 03:40:46.319873"
+    },
+    {
+        "id": 10733,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 33,
+        "site_start": "2025-01-11 04:02:48.644981",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 04:02:58.903779"
+    },
+    {
+        "id": 10758,
+        "session_id": "1a473a64-c61e-4ddf-bbe2-e6ffd826930a",
+        "session_status": 1,
+        "site_start": "2025-01-11 06:58:31.837615",
+        "landing_page": "https://www.zencan.de/produkte/nimbus-easy-24-1-la-sage",
+        "site_end": "2025-01-11 06:58:31.837615"
+    },
+    {
+        "id": 10735,
+        "session_id": "9c561d1b-db4b-4abc-8cd5-d64a646d2cb0",
+        "session_status": 1,
+        "site_start": "2025-01-11 04:03:03.373314",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 04:03:03.373314"
+    },
+    {
+        "id": 10748,
+        "session_id": "b852e0d1-fd44-44fc-84b4-db23271a1b88",
+        "session_status": 1,
+        "site_start": "2025-01-11 05:28:11.289586",
+        "landing_page": "https://www.zencan.de/kultivare/buddhas-sister",
+        "site_end": "2025-01-11 05:28:11.289586"
+    },
+    {
+        "id": 10763,
+        "session_id": "27875820-9f7e-40a2-9ff1-4fbb6727d536",
+        "session_status": 1,
+        "site_start": "2025-01-11 07:19:49.846691",
+        "landing_page": "https://www.zencan.de/ratgeber/pure-haze",
+        "site_end": "2025-01-11 07:19:49.846691"
+    },
+    {
+        "id": 10753,
+        "session_id": "b90aa99c-920f-4013-a871-5a573d9488eb",
+        "session_status": 1,
+        "site_start": "2025-01-11 06:12:28.685798",
+        "landing_page": "https://www.zencan.de/ratgeber/austherapiert",
+        "site_end": "2025-01-11 06:12:28.685798"
+    },
+    {
+        "id": 10775,
+        "session_id": "5d56be78-5caa-413d-abd8-a52ff8e821e4",
+        "session_status": 1,
+        "site_start": "2025-01-11 07:50:14.498815",
+        "landing_page": "https://www.zencan.de/produkte/madrecan-21-1-wop-wonder-punch-ee58b",
+        "site_end": "2025-01-11 07:50:14.498815"
+    },
+    {
+        "id": 10746,
+        "session_id": "2ffb9655-a4fa-44e8-b69e-41d1f1fef9c1",
+        "session_status": 1,
+        "site_start": "2025-01-11 05:19:24.330107",
+        "landing_page": "https://www.zencan.de/kultivare/skywalker-og",
+        "site_end": "2025-01-11 05:19:24.330107"
+    },
+    {
+        "id": 10769,
+        "session_id": "bb796d93-e91d-4c6a-bba6-e9f05372d3c0",
+        "session_status": 1,
+        "site_start": "2025-01-11 07:41:24.537259",
+        "landing_page": "https://www.zencan.de/produkte/demecan-mc-regular-drop-glitter-pop-bomb",
+        "site_end": "2025-01-11 07:41:24.537259"
+    },
+    {
+        "id": 10779,
+        "session_id": "09bf821b-ae36-4c54-9646-a39531866453",
+        "session_status": 1,
+        "site_start": "2025-01-11 08:09:17.552599",
+        "landing_page": "https://www.zencan.de/kultivare/timewreck",
+        "site_end": "2025-01-11 08:09:17.552599"
+    },
+    {
+        "id": 10767,
+        "session_id": "5692255b-db9e-4358-91f3-14fb16e0f1b0",
+        "session_status": 1,
+        "site_start": "2025-01-11 07:27:57.890577",
+        "landing_page": "https://www.zencan.de/kultivare/grape-god",
+        "site_end": "2025-01-11 07:27:57.890577"
+    },
+    {
+        "id": 10749,
+        "session_id": "5fa9dbcf-55fe-4e03-8295-4b05dc73bd18",
+        "session_status": 1,
+        "site_start": "2025-01-11 05:43:45.312951",
+        "landing_page": "https://www.zencan.de/kultivare/blueberry",
+        "site_end": "2025-01-11 05:59:05.676521"
+    },
+    {
+        "id": 10752,
+        "session_id": "427a0c1a-87fa-46b5-8461-92345b44e6d9",
+        "session_status": 1,
+        "site_start": "2025-01-11 06:05:25.008805",
+        "landing_page": "https://www.zencan.de/produkte/remexian-20-1-white-widow",
+        "site_end": "2025-01-11 06:05:25.008805"
+    },
+    {
+        "id": 10737,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 35,
+        "site_start": "2025-01-11 04:05:20.430748",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 11:28:44.489850"
+    },
+    {
+        "id": 10755,
+        "session_id": "6bbad548-355c-463a-a538-fb0e5141c9d0",
+        "session_status": 1,
+        "site_start": "2025-01-11 06:24:43.220720",
+        "landing_page": "https://www.zencan.de/produkte/avaay-signature-7-11-gco-green-croc-orange",
+        "site_end": "2025-01-11 06:24:43.220720"
+    },
+    {
+        "id": 10759,
+        "session_id": "2774891d-ab7a-4786-8796-779b2ab0d5df",
+        "session_status": 1,
+        "site_start": "2025-01-11 06:58:54.334247",
+        "landing_page": "https://www.zencan.de/kultivare/platinum",
+        "site_end": "2025-01-11 07:01:28.256771"
+    },
+    {
+        "id": 10768,
+        "session_id": "417c749d-77ff-48a8-a52b-6974345c7d33",
+        "session_status": 1,
+        "site_start": "2025-01-11 07:29:04.811521",
+        "landing_page": "https://www.zencan.de/produkte/avaay-signature-30-1-cbx-chatterbox",
+        "site_end": "2025-01-11 07:29:04.811521"
+    },
+    {
+        "id": 10778,
+        "session_id": "63a348ed-99f8-4b9f-884a-b0c745f82e24",
+        "session_status": 1,
+        "site_start": "2025-01-11 08:06:41.382657",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-11 08:42:07.930968"
+    },
+    {
+        "id": 10774,
+        "session_id": "067c7f32-ac34-4137-8201-d295e7f80739",
+        "session_status": 1,
+        "site_start": "2025-01-11 07:50:01.099585",
+        "landing_page": "https://www.zencan.de/produkte/lot-420-oc-orange-cake",
+        "site_end": "2025-01-11 07:50:21.224962"
+    },
+    {
+        "id": 10781,
+        "session_id": "86543982-7273-4620-893d-5975d62e63f2",
+        "session_status": 1,
+        "site_start": "2025-01-11 08:10:57.765384",
+        "landing_page": "https://www.zencan.de/ratgeber/dronabinol",
+        "site_end": "2025-01-11 08:16:37.948940"
+    },
+    {
+        "id": 10776,
+        "session_id": "c84b1be6-37f3-4c47-a751-7b48a6613446",
+        "session_status": 1,
+        "site_start": "2025-01-11 07:50:31.119776",
+        "landing_page": "https://www.zencan.de/ratgeber/dronabinol",
+        "site_end": "2025-01-11 11:30:11.312755"
+    },
+    {
+        "id": 10771,
+        "session_id": "ca6fdbbb-ae44-4817-b64b-9c4c0c96bf51",
+        "session_status": 1,
+        "site_start": "2025-01-11 07:48:29.937234",
+        "landing_page": "https://www.zencan.de/ratgeber/sativa-indica-unterschied",
+        "site_end": "2025-01-11 07:49:30.467321"
+    },
+    {
+        "id": 10773,
+        "session_id": "b6c7ede0-cae2-4e2d-b6b9-33765552374d",
+        "session_status": 1,
+        "site_start": "2025-01-11 07:48:59.518723",
+        "landing_page": "https://www.zencan.de/kultivare/god-bud",
+        "site_end": "2025-01-11 07:48:59.518723"
+    },
+    {
+        "id": 10772,
+        "session_id": "101be6c1-3594-4348-ba7b-3a4193e8923f",
+        "session_status": 1,
+        "site_start": "2025-01-11 07:48:49.235887",
+        "landing_page": "https://www.zencan.de/ratgeber/thc-oel",
+        "site_end": "2025-01-11 07:53:39.425040"
+    },
+    {
+        "id": 10777,
+        "session_id": "6095621a-ba72-46e6-bc59-b0b549305bb3",
+        "session_status": 1,
+        "site_start": "2025-01-11 07:55:43.496634",
+        "landing_page": "https://www.zencan.de/produkte/tilray-thc10-cbd10-no-2-warlock-cbd",
+        "site_end": "2025-01-11 07:55:43.496634"
+    },
+    {
+        "id": 10764,
+        "session_id": "77e51e50-8c98-4483-87d3-00df0e6b7049",
+        "session_status": 1,
+        "site_start": "2025-01-11 07:20:44.983548",
+        "landing_page": "https://www.zencan.de/produkte/peace-naturals-31-1-sc-space-cake",
+        "site_end": "2025-01-11 08:49:05.080143"
+    },
+    {
+        "id": 10754,
+        "session_id": "cc986d2f-a9d7-44aa-922e-df308269c9eb",
+        "session_status": 1,
+        "site_start": "2025-01-11 06:14:55.430666",
+        "landing_page": "https://www.zencan.de/ratgeber/cannabis-nebenwirkungen",
+        "site_end": "2025-01-11 08:44:00.805256"
+    },
+    {
+        "id": 10780,
+        "session_id": "b65a4b19-09d8-47ee-8a56-2fb81c24cbc2",
+        "session_status": 1,
+        "site_start": "2025-01-11 08:10:41.749042",
+        "landing_page": "https://www.zencan.de/produkte/re-cannis-1-17-cbd-g40",
+        "site_end": "2025-01-11 08:10:41.749042"
+    },
+    {
+        "id": 10782,
+        "session_id": "5174280b-d05a-45bf-9e26-d66d90ee838c",
+        "session_status": 1,
+        "site_start": "2025-01-11 08:11:29.810574",
+        "landing_page": "https://www.zencan.de/kultivare/gelato33",
+        "site_end": "2025-01-11 08:11:29.810574"
+    },
+    {
+        "id": 10784,
+        "session_id": "c99213dd-908d-41ed-a5f2-a8e2e53fa256",
+        "session_status": 1,
+        "site_start": "2025-01-11 08:27:25.168064",
+        "landing_page": "https://www.zencan.de/produkte/demecan-craft-sky-25-01-sky-pie",
+        "site_end": "2025-01-11 08:28:25.777075"
+    },
+    {
+        "id": 10826,
+        "session_id": "ada88850-c4ba-48cf-964f-e492a03d6e85",
+        "session_status": 1,
+        "site_start": "2025-01-11 09:59:39.538824",
+        "landing_page": "https://www.zencan.de/ratgeber/dronabinol",
+        "site_end": "2025-01-11 10:00:20.157947"
+    },
+    {
+        "id": 10817,
+        "session_id": "a30b4d45-bbe9-4fe7-b71f-0848aca88928",
+        "session_status": 2,
+        "site_start": "2025-01-11 09:44:42.122090",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 09:45:12.450012"
+    },
+    {
+        "id": 10794,
+        "session_id": "9cccac29-7361-4b83-b634-6dd4c2a7b847",
+        "session_status": 1,
+        "site_start": "2025-01-11 08:50:52.692929",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-11 13:02:09.304480"
+    },
+    {
+        "id": 10814,
+        "session_id": "986fd646-497c-47ab-b022-a35f31f5d0c7",
+        "session_status": 1,
+        "site_start": "2025-01-11 09:34:54.565927",
+        "landing_page": "https://www.zencan.de/produkte/31-1-amici-as-atomic-sour-grapefruit-ceb90",
+        "site_end": "2025-01-11 09:36:14.694888"
+    },
+    {
+        "id": 10812,
+        "session_id": "8e54c3da-7c04-460b-922d-e4d0c8e79ba4",
+        "session_status": 1,
+        "site_start": "2025-01-11 09:34:47.084597",
+        "landing_page": "https://www.zencan.de/ratgeber/thc-oel?visitor_id=ae002eb1-974c-4e7f-aa79-3494f9c68329",
+        "site_end": "2025-01-11 09:34:47.084597"
+    },
+    {
+        "id": 10805,
+        "session_id": "27ada677-08dc-4fea-9eac-54b48f20d0dd",
+        "session_status": 2,
+        "site_start": "2025-01-11 09:19:31.630658",
+        "landing_page": "https://www.zencan.de/?sort=thc",
+        "site_end": "2025-01-11 09:20:57.252438"
+    },
+    {
+        "id": 10786,
+        "session_id": "bb590254-31ae-4aea-b638-ad151551eced",
+        "session_status": 1,
+        "site_start": "2025-01-11 08:32:07.133848",
+        "landing_page": "https://www.zencan.de/kultivare/frosted-lemon-angel",
+        "site_end": "2025-01-11 08:34:53.780341"
+    },
+    {
+        "id": 10785,
+        "session_id": "28972fc0-6d90-46f8-b0ec-a49392ddb920",
+        "session_status": 1,
+        "site_start": "2025-01-11 08:30:46.585193",
+        "landing_page": "https://www.zencan.de/kultivare/super-citra-g",
+        "site_end": "2025-01-11 08:35:01.272881"
+    },
+    {
+        "id": 10790,
+        "session_id": "15bce585-08c1-4c1a-ac25-e4f8a0759750",
+        "session_status": 1,
+        "site_start": "2025-01-11 08:41:40.780546",
+        "landing_page": "https://www.zencan.de/terpene",
+        "site_end": "2025-01-11 08:41:40.780546"
+    },
+    {
+        "id": 10792,
+        "session_id": "cc986d2f-a9d7-44aa-922e-df308269c9eb",
+        "session_status": 2,
+        "site_start": "2025-01-11 08:44:05.400926",
+        "landing_page": "https://www.zencan.de/ratgeber/kush-sorten",
+        "site_end": "2025-01-11 08:46:55.677792"
+    },
+    {
+        "id": 10820,
+        "session_id": "a30b4d45-bbe9-4fe7-b71f-0848aca88928",
+        "session_status": 5,
+        "site_start": "2025-01-11 09:46:56.955804",
+        "landing_page": "https://www.zencan.de/kultivare/alien-kush",
+        "site_end": "2025-01-11 09:47:24.496719"
+    },
+    {
+        "id": 10799,
+        "session_id": "7f4d31c4-1cff-4354-aeb0-99757516364b",
+        "session_status": 1,
+        "site_start": "2025-01-11 09:08:50.071364",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-11 09:09:20.286183"
+    },
+    {
+        "id": 10791,
+        "session_id": "2cf1b36c-5e74-422a-9a53-98aa352bfeca",
+        "session_status": 1,
+        "site_start": "2025-01-11 08:42:27.704234",
+        "landing_page": "https://www.zencan.de/kultivare/dawg-bud-fusion",
+        "site_end": "2025-01-11 08:42:27.704234"
+    },
+    {
+        "id": 10789,
+        "session_id": "913db0ef-f4f5-4500-b049-50ddbd6c9862",
+        "session_status": 1,
+        "site_start": "2025-01-11 08:40:27.854437",
+        "landing_page": "https://www.zencan.de/kultivare/sky-pie",
+        "site_end": "2025-01-11 08:42:28.140166"
+    },
+    {
+        "id": 10800,
+        "session_id": "86360e0b-6aaf-4cf3-b301-45b3d7810085",
+        "session_status": 1,
+        "site_start": "2025-01-11 09:09:20.468956",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-11 09:09:20.468956"
+    },
+    {
+        "id": 10828,
+        "session_id": "538b51fb-14fa-4fe7-91d0-348d23a09a5f",
+        "session_status": 1,
+        "site_start": "2025-01-11 10:02:01.344461",
+        "landing_page": "https://www.zencan.de/kultivare/strawberry-og",
+        "site_end": "2025-01-11 10:02:01.344461"
+    },
+    {
+        "id": 10798,
+        "session_id": "ca61f544-811d-48da-95e0-e18788c5689c",
+        "session_status": 1,
+        "site_start": "2025-01-11 09:08:22.591977",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-11 09:14:33.041812"
+    },
+    {
+        "id": 10783,
+        "session_id": "3ba17edc-9edc-4c1b-af79-1ab443569b95",
+        "session_status": 1,
+        "site_start": "2025-01-11 08:18:22.909128",
+        "landing_page": "https://www.zencan.de/produkte/nimbus-easy-22-1-french-cookies",
+        "site_end": "2025-01-11 08:18:22.909128"
+    },
+    {
+        "id": 10833,
+        "session_id": "316fd45e-9130-488f-9997-d48916328570",
+        "session_status": 1,
+        "site_start": "2025-01-11 10:07:10.995843",
+        "landing_page": "https://www.zencan.de/kultivare/cookies-cream",
+        "site_end": "2025-01-11 10:07:10.995843"
+    },
+    {
+        "id": 10815,
+        "session_id": "f4b5b010-8657-4ed6-afd8-16ac9500d335",
+        "session_status": 1,
+        "site_start": "2025-01-11 09:43:25.039332",
+        "landing_page": "https://www.zencan.de/ratgeber/thc-oel",
+        "site_end": "2025-01-11 09:43:35.465655"
+    },
+    {
+        "id": 10809,
+        "session_id": "27ada677-08dc-4fea-9eac-54b48f20d0dd",
+        "session_status": 4,
+        "site_start": "2025-01-11 09:26:15.490128",
+        "landing_page": "https://www.zencan.de/produkte/huala-25-1-ca-alm-alien-mints",
+        "site_end": "2025-01-11 09:27:15.744416"
+    },
+    {
+        "id": 10787,
+        "session_id": "69cf9820-432f-418d-abbd-5e1cb5ee5495",
+        "session_status": 1,
+        "site_start": "2025-01-11 08:38:42.730350",
+        "landing_page": "https://www.zencan.de/kultivare/purplematic-cbd",
+        "site_end": "2025-01-11 08:38:42.730350"
+    },
+    {
+        "id": 10795,
+        "session_id": "a19caf08-1d10-4ede-abde-823d2197eece",
+        "session_status": 1,
+        "site_start": "2025-01-11 08:59:37.794279",
+        "landing_page": "https://www.zencan.de/kultivare/super-citra-g",
+        "site_end": "2025-01-11 09:27:19.780395"
+    },
+    {
+        "id": 10804,
+        "session_id": "27ada677-08dc-4fea-9eac-54b48f20d0dd",
+        "session_status": 1,
+        "site_start": "2025-01-11 09:19:16.971311",
+        "landing_page": "https://www.zencan.de/kultivare/frosted-lemon-angel",
+        "site_end": "2025-01-11 09:19:27.227818"
+    },
+    {
+        "id": 10807,
+        "session_id": "e656e1cf-ef17-4f29-a932-510e8a743fbd",
+        "session_status": 1,
+        "site_start": "2025-01-11 09:24:38.404545",
+        "landing_page": "https://www.zencan.de/kultivare/purple-kush",
+        "site_end": "2025-01-11 09:25:38.602279"
+    },
+    {
+        "id": 10818,
+        "session_id": "a30b4d45-bbe9-4fe7-b71f-0848aca88928",
+        "session_status": 3,
+        "site_start": "2025-01-11 09:45:16.664430",
+        "landing_page": "https://www.zencan.de/kultivare",
+        "site_end": "2025-01-11 09:45:56.000739"
+    },
+    {
+        "id": 10793,
+        "session_id": "96566d38-5d8d-40e3-aa1f-2a873f465c5a",
+        "session_status": 1,
+        "site_start": "2025-01-11 08:50:15.564266",
+        "landing_page": "https://www.zencan.de/produkte/therismos-23-1-jfg-jet-fuel-gelato",
+        "site_end": "2025-01-11 08:50:15.564266"
+    },
+    {
+        "id": 10788,
+        "session_id": "1e5907ce-00ba-49a5-844e-714f520ee9bb",
+        "session_status": 1,
+        "site_start": "2025-01-11 08:40:20.715404",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 08:40:20.715404"
+    },
+    {
+        "id": 10803,
+        "session_id": "17f4783b-62a3-47d0-8754-ddd92d97ada3",
+        "session_status": 1,
+        "site_start": "2025-01-11 09:17:28.063035",
+        "landing_page": "https://www.zencan.de/kultivare/shark-attack",
+        "site_end": "2025-01-11 09:19:48.240891"
+    },
+    {
+        "id": 10802,
+        "session_id": "19e787a0-ce95-44be-b6ab-dd8962fc165d",
+        "session_status": 1,
+        "site_start": "2025-01-11 09:11:29.620232",
+        "landing_page": "https://www.zencan.de/ratgeber/cannabis-nebenwirkungen",
+        "site_end": "2025-01-11 09:12:49.823210"
+    },
+    {
+        "id": 10801,
+        "session_id": "cdc26253-1f3f-4000-bf37-b8e054e3fdb1",
+        "session_status": 1,
+        "site_start": "2025-01-11 09:10:37.099053",
+        "landing_page": "https://www.zencan.de/produkte/cannamedical-sativa-light-strawberry-ice",
+        "site_end": "2025-01-11 09:10:37.099053"
+    },
+    {
+        "id": 10821,
+        "session_id": "5e711aeb-2441-4664-b43c-533a501bfe32",
+        "session_status": 1,
+        "site_start": "2025-01-11 09:48:00.324600",
+        "landing_page": "https://www.zencan.de/kultivare/alien-tahoe-og",
+        "site_end": "2025-01-11 09:48:00.324600"
+    },
+    {
+        "id": 10810,
+        "session_id": "27ada677-08dc-4fea-9eac-54b48f20d0dd",
+        "session_status": 5,
+        "site_start": "2025-01-11 09:27:20.326736",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 09:32:50.363615"
+    },
+    {
+        "id": 10808,
+        "session_id": "a8ccf471-09a3-4a9c-afee-a9172797c71c",
+        "session_status": 1,
+        "site_start": "2025-01-11 09:25:39.910123",
+        "landing_page": "https://www.zencan.de/kultivare/frosted-lemon-cake",
+        "site_end": "2025-01-11 09:29:30.086464"
+    },
+    {
+        "id": 10797,
+        "session_id": "81346d67-6e6d-41d3-a0fe-41aa6d0f708d",
+        "session_status": 1,
+        "site_start": "2025-01-11 09:02:17.845105",
+        "landing_page": "https://www.zencan.de/kultivare/super-citra-g",
+        "site_end": "2025-01-11 09:04:28.189308"
+    },
+    {
+        "id": 10796,
+        "session_id": "9070e501-8db4-4669-b02f-4e3d1505bfaf",
+        "session_status": 1,
+        "site_start": "2025-01-11 09:01:33.519180",
+        "landing_page": "https://www.zencan.de/ratgeber/cannabis-nebenwirkungen",
+        "site_end": "2025-01-11 09:10:54.261047"
+    },
+    {
+        "id": 10806,
+        "session_id": "27ada677-08dc-4fea-9eac-54b48f20d0dd",
+        "session_status": 3,
+        "site_start": "2025-01-11 09:21:06.741750",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 09:26:07.167339"
+    },
+    {
+        "id": 10830,
+        "session_id": "c58021bd-174d-4d4c-86bf-68a59e64978c",
+        "session_status": 1,
+        "site_start": "2025-01-11 10:05:12.441459",
+        "landing_page": "https://www.zencan.de/produkte/tilray-thc9-cbd9-no-1-warlock-cbd",
+        "site_end": "2025-01-11 10:05:12.441459"
+    },
+    {
+        "id": 10819,
+        "session_id": "a30b4d45-bbe9-4fe7-b71f-0848aca88928",
+        "session_status": 4,
+        "site_start": "2025-01-11 09:45:56.216978",
+        "landing_page": "https://www.zencan.de/kultivare/afghanica",
+        "site_end": "2025-01-11 09:46:16.605605"
+    },
+    {
+        "id": 10816,
+        "session_id": "a30b4d45-bbe9-4fe7-b71f-0848aca88928",
+        "session_status": 1,
+        "site_start": "2025-01-11 09:44:13.269145",
+        "landing_page": "https://www.zencan.de/produkte/imc-go-thc23-selected-jokerz-53",
+        "site_end": "2025-01-11 09:44:33.482090"
+    },
+    {
+        "id": 10811,
+        "session_id": "b39a08eb-e7f5-4679-969b-b8d8fddc39cb",
+        "session_status": 1,
+        "site_start": "2025-01-11 09:31:53.081979",
+        "landing_page": "https://www.zencan.de/kultivare/super-citra-g",
+        "site_end": "2025-01-11 09:33:13.207633"
+    },
+    {
+        "id": 10829,
+        "session_id": "aa2ed4bd-e26d-4491-89c5-3993ad5686b4",
+        "session_status": 2,
+        "site_start": "2025-01-11 10:04:55.492611",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 10:05:15.785299"
+    },
+    {
+        "id": 10837,
+        "session_id": "e5374f9f-3737-49f4-beb2-197de1c5c457",
+        "session_status": 2,
+        "site_start": "2025-01-11 10:14:29.553988",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 10:14:29.553988"
+    },
+    {
+        "id": 10827,
+        "session_id": "86a0df47-42b8-444b-9530-e1d3399f15e4",
+        "session_status": 1,
+        "site_start": "2025-01-11 09:59:45.284840",
+        "landing_page": "https://www.zencan.de/kultivare/pineapple-express",
+        "site_end": "2025-01-11 10:01:05.434035"
+    },
+    {
+        "id": 10813,
+        "session_id": "e656e1cf-ef17-4f29-a932-510e8a743fbd",
+        "session_status": 2,
+        "site_start": "2025-01-11 09:34:49.524447",
+        "landing_page": "https://www.zencan.de/kultivare/purple-kush",
+        "site_end": "2025-01-11 09:37:50.890058"
+    },
+    {
+        "id": 10824,
+        "session_id": "dd68c15a-b717-4a9a-babe-02693c0de4c8",
+        "session_status": 1,
+        "site_start": "2025-01-11 09:53:12.627154",
+        "landing_page": "https://www.zencan.de/ratgeber/haze-sorten",
+        "site_end": "2025-01-11 09:53:12.627154"
+    },
+    {
+        "id": 10825,
+        "session_id": "512099e7-b1ce-429a-bf74-73b81215add9",
+        "session_status": 1,
+        "site_start": "2025-01-11 09:58:37.794860",
+        "landing_page": "https://www.zencan.de/kultivare/eve",
+        "site_end": "2025-01-11 09:58:37.794860"
+    },
+    {
+        "id": 10832,
+        "session_id": "2ff939cb-2d44-4913-a1c8-02bd2860c932",
+        "session_status": 1,
+        "site_start": "2025-01-11 10:06:48.985861",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-11 10:07:19.143743"
+    },
+    {
+        "id": 10838,
+        "session_id": "4dd90cd1-fbdd-4dd6-be21-630dbb372044",
+        "session_status": 1,
+        "site_start": "2025-01-11 10:17:15.263577",
+        "landing_page": "https://www.zencan.de/kultivare/space-cake",
+        "site_end": "2025-01-11 10:17:15.263577"
+    },
+    {
+        "id": 10822,
+        "session_id": "0ac6b334-c257-4116-ac2e-1b6ec88e9888",
+        "session_status": 1,
+        "site_start": "2025-01-11 09:48:51.735330",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-11 09:49:11.881698"
+    },
+    {
+        "id": 10845,
+        "session_id": "2f2bc7e9-7a02-414d-a82f-e8b791be7fb5",
+        "session_status": 1,
+        "site_start": "2025-01-11 10:21:14.630416",
+        "landing_page": "https://www.zencan.de/produkte/cnbs-cpj-31-1-cap-junky",
+        "site_end": "2025-01-11 10:21:14.630416"
+    },
+    {
+        "id": 10823,
+        "session_id": "aa2ed4bd-e26d-4491-89c5-3993ad5686b4",
+        "session_status": 1,
+        "site_start": "2025-01-11 09:49:51.994432",
+        "landing_page": "https://www.zencan.de/ratgeber/cannabis-kaufen",
+        "site_end": "2025-01-11 10:04:42.744613"
+    },
+    {
+        "id": 10836,
+        "session_id": "e5374f9f-3737-49f4-beb2-197de1c5c457",
+        "session_status": 1,
+        "site_start": "2025-01-11 10:14:16.807504",
+        "landing_page": "https://www.zencan.de/ratgeber/marihuana-kaufen",
+        "site_end": "2025-01-11 10:14:16.807504"
+    },
+    {
+        "id": 10831,
+        "session_id": "aa2ed4bd-e26d-4491-89c5-3993ad5686b4",
+        "session_status": 3,
+        "site_start": "2025-01-11 10:05:26.854711",
+        "landing_page": "https://www.zencan.de/produkte/pedanios-27-1-bly-ca-black-jelly",
+        "site_end": "2025-01-11 10:05:57.100642"
+    },
+    {
+        "id": 10839,
+        "session_id": "0becb26f-6908-4adf-b65c-a2273e812aad",
+        "session_status": 1,
+        "site_start": "2025-01-11 10:17:18.811357",
+        "landing_page": "https://www.zencan.de/produkte/imc-thc22-t01-hindu-kush",
+        "site_end": "2025-01-11 10:17:18.811357"
+    },
+    {
+        "id": 10840,
+        "session_id": "394f68d6-3aaf-43cc-8b63-6c74cb91d24f",
+        "session_status": 1,
+        "site_start": "2025-01-11 10:17:19.178832",
+        "landing_page": "https://www.zencan.de/ratgeber/medizinisches-cannabis",
+        "site_end": "2025-01-11 10:17:19.178832"
+    },
+    {
+        "id": 10843,
+        "session_id": "05e00a70-92ff-4f6c-b497-06e451546faa",
+        "session_status": 14,
+        "site_start": "2025-01-11 10:19:31.512428",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 17:33:14.581461"
+    },
+    {
+        "id": 10834,
+        "session_id": "64fe2db3-999f-41dc-8346-3b96ab027754",
+        "session_status": 1,
+        "site_start": "2025-01-11 10:07:13.725367",
+        "landing_page": "https://www.zencan.de/kultivare/sugar-cake",
+        "site_end": "2025-01-11 10:14:22.917308"
+    },
+    {
+        "id": 10842,
+        "session_id": "080ed1e3-257b-4cee-956d-e17e7ae9a3e7",
+        "session_status": 1,
+        "site_start": "2025-01-11 10:19:19.919738",
+        "landing_page": "https://www.zencan.de/produkte/pedanios-31-1-cos-ca-cosmic-cream",
+        "site_end": "2025-01-11 10:19:19.919738"
+    },
+    {
+        "id": 10841,
+        "session_id": "eaa1a3c3-3adc-4ee6-b167-e4dd4eb552d6",
+        "session_status": 1,
+        "site_start": "2025-01-11 10:17:49.850932",
+        "landing_page": "https://www.zencan.de/kultivare/ghost-train-haze",
+        "site_end": "2025-01-11 11:32:29.613682"
+    },
+    {
+        "id": 10835,
+        "session_id": "4b453298-ba5e-4e74-992b-8e80641a6994",
+        "session_status": 1,
+        "site_start": "2025-01-11 10:11:33.318070",
+        "landing_page": "https://www.zencan.de/kultivare/wedding-tree",
+        "site_end": "2025-01-11 11:59:42.888593"
+    },
+    {
+        "id": 10867,
+        "session_id": "28aeb0b2-5c31-4969-bc2e-6d95f5c44422",
+        "session_status": 1,
+        "site_start": "2025-01-11 11:27:16.060744",
+        "landing_page": "https://www.zencan.de/produkte/tilray-thc-9-cbd-9-warlock",
+        "site_end": "2025-01-11 11:27:16.060744"
+    },
+    {
+        "id": 10856,
+        "session_id": "2e7baf5d-2dc3-4fda-834d-3edb4991bff3",
+        "session_status": 1,
+        "site_start": "2025-01-11 10:44:29.617187",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-11 10:44:39.770526"
+    },
+    {
+        "id": 10860,
+        "session_id": "8842f526-7ce5-41f8-8bfd-4eca6622b8f8",
+        "session_status": 1,
+        "site_start": "2025-01-11 10:56:48.271940",
+        "landing_page": "https://www.zencan.de/produkte/khiron-g-23-1-gelato-42",
+        "site_end": "2025-01-11 10:58:48.379823"
+    },
+    {
+        "id": 10891,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 39,
+        "site_start": "2025-01-11 11:46:54.696813",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 11:50:25.293999"
+    },
+    {
+        "id": 10885,
+        "session_id": "3053e515-bd75-4657-93b8-75937d0c2c8a",
+        "session_status": 4,
+        "site_start": "2025-01-11 11:42:23.255947",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 11:49:02.472266"
+    },
+    {
+        "id": 10869,
+        "session_id": "faf416df-79ca-470a-a495-09225f094b01",
+        "session_status": 1,
+        "site_start": "2025-01-11 11:28:59.505747",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 11:28:59.505747"
+    },
+    {
+        "id": 10870,
+        "session_id": "3780902e-9680-4c05-bf48-64abecae078f",
+        "session_status": 1,
+        "site_start": "2025-01-11 11:29:00.919424",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 11:29:00.919424"
+    },
+    {
+        "id": 10862,
+        "session_id": "42805bda-a6e1-4edb-a068-c236fc2adf2b",
+        "session_status": 1,
+        "site_start": "2025-01-11 11:01:41.093250",
+        "landing_page": "https://www.zencan.de/ratgeber/marihuana-kaufen",
+        "site_end": "2025-01-11 11:02:01.359939"
+    },
+    {
+        "id": 10858,
+        "session_id": "57379d34-1509-4775-940e-946b200c28aa",
+        "session_status": 1,
+        "site_start": "2025-01-11 10:53:26.681021",
+        "landing_page": "https://www.zencan.de/ratgeber/cannabispflanze",
+        "site_end": "2025-01-11 10:53:26.681021"
+    },
+    {
+        "id": 10852,
+        "session_id": "3cdd87b9-bc08-4b31-a166-3f678f4ef8ff",
+        "session_status": 1,
+        "site_start": "2025-01-11 10:40:30.794678",
+        "landing_page": "https://www.zencan.de/kultivare/super-citra-g",
+        "site_end": "2025-01-11 10:42:11.275588"
+    },
+    {
+        "id": 10878,
+        "session_id": "e6706a49-421a-41db-ab15-51acdb474f8a",
+        "session_status": 1,
+        "site_start": "2025-01-11 11:36:34.000781",
+        "landing_page": "https://www.zencan.de/produkte/herbasana-la-santa-24-1-passion-soda",
+        "site_end": "2025-01-11 11:36:34.000781"
+    },
+    {
+        "id": 10863,
+        "session_id": "f87d2927-350f-4556-8e30-f6e30dd09741",
+        "session_status": 1,
+        "site_start": "2025-01-11 11:03:23.743272",
+        "landing_page": "https://www.zencan.de/kultivare/sky-pie",
+        "site_end": "2025-01-11 11:03:53.889893"
+    },
+    {
+        "id": 10879,
+        "session_id": "7f8366ce-61aa-4634-912d-6b941985c236",
+        "session_status": 1,
+        "site_start": "2025-01-11 11:36:35.382049",
+        "landing_page": "https://www.zencan.de/kultivare/black-cherry-pie",
+        "site_end": "2025-01-11 11:36:35.382049"
+    },
+    {
+        "id": 10884,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 38,
+        "site_start": "2025-01-11 11:41:41.772725",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 11:46:51.896708"
+    },
+    {
+        "id": 10864,
+        "session_id": "063e7bf4-d5a9-4037-9543-c3d02cc3e741",
+        "session_status": 1,
+        "site_start": "2025-01-11 11:04:07.389652",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-11 11:04:47.569661"
+    },
+    {
+        "id": 10865,
+        "session_id": "67f51ab8-4c76-49a1-a420-499dd29dd84b",
+        "session_status": 1,
+        "site_start": "2025-01-11 11:05:26.611928",
+        "landing_page": "https://www.zencan.de/kultivare/ghost-train-haze",
+        "site_end": "2025-01-11 11:05:26.611928"
+    },
+    {
+        "id": 10883,
+        "session_id": "5dfa64a7-afdf-482b-8a3f-ddd09ece5ec5",
+        "session_status": 1,
+        "site_start": "2025-01-11 11:41:21.899223",
+        "landing_page": "https://www.zencan.de/kultivare/purple-haze",
+        "site_end": "2025-01-11 11:41:21.899223"
+    },
+    {
+        "id": 10851,
+        "session_id": "cd9672b1-ce99-4f3a-ae44-4e65d2242712",
+        "session_status": 1,
+        "site_start": "2025-01-11 10:40:08.999742",
+        "landing_page": "https://www.zencan.de/produkte/demecan-craft-marker-28-01-magic-marker-2",
+        "site_end": "2025-01-11 10:40:08.999742"
+    },
+    {
+        "id": 10866,
+        "session_id": "60ab5ca0-61b8-449b-9b26-841d3286c0c7",
+        "session_status": 1,
+        "site_start": "2025-01-11 11:07:30.465889",
+        "landing_page": "https://www.zencan.de/kultivare/jack-herer",
+        "site_end": "2025-01-11 11:07:30.465889"
+    },
+    {
+        "id": 10886,
+        "session_id": "21ae3790-37c2-4e2b-a2eb-6691f3d21ba7",
+        "session_status": 1,
+        "site_start": "2025-01-11 11:42:51.050791",
+        "landing_page": "https://www.zencan.de/produkte/ostara-balance-long-valley-legend",
+        "site_end": "2025-01-11 11:43:51.201965"
+    },
+    {
+        "id": 10876,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 37,
+        "site_start": "2025-01-11 11:35:34.264922",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 11:41:35.283690"
+    },
+    {
+        "id": 10898,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 40,
+        "site_start": "2025-01-11 11:50:30.961329",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 11:52:01.088845"
+    },
+    {
+        "id": 10846,
+        "session_id": "fc76c3c2-23f1-4fb4-a84b-1f49c46fce75",
+        "session_status": 1,
+        "site_start": "2025-01-11 10:27:07.167300",
+        "landing_page": "https://www.zencan.de/kultivare/skunk-1",
+        "site_end": "2025-01-11 10:43:17.418478"
+    },
+    {
+        "id": 10880,
+        "session_id": "39b49b27-27ce-4093-be55-4a365488d325",
+        "session_status": 1,
+        "site_start": "2025-01-11 11:36:36.540639",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-11 11:37:06.909387"
+    },
+    {
+        "id": 10877,
+        "session_id": "0157d67a-7030-4626-85d1-a1ce4514df00",
+        "session_status": 1,
+        "site_start": "2025-01-11 11:36:29.290135",
+        "landing_page": "https://www.zencan.de/terpene/beta-myrcen",
+        "site_end": "2025-01-11 11:37:19.477760"
+    },
+    {
+        "id": 10873,
+        "session_id": "bdebdb42-d07e-4fa7-b5b9-81abd344126a",
+        "session_status": 1,
+        "site_start": "2025-01-11 11:30:52.856247",
+        "landing_page": "https://www.zencan.de/produkte/ostara-balance-long-valley-legend",
+        "site_end": "2025-01-11 11:30:52.856247"
+    },
+    {
+        "id": 10861,
+        "session_id": "10e50c2b-8756-4b73-beaa-3a7ea220abd4",
+        "session_status": 1,
+        "site_start": "2025-01-11 10:57:34.699814",
+        "landing_page": "https://www.zencan.de/produkte/demecan-craft-marker-28-01-magic-marker-2",
+        "site_end": "2025-01-11 10:57:34.699814"
+    },
+    {
+        "id": 10847,
+        "session_id": "39e04d40-9b9b-4b90-aade-451b89806503",
+        "session_status": 2,
+        "site_start": "2025-01-11 10:28:38.798706",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 10:28:48.974800"
+    },
+    {
+        "id": 10850,
+        "session_id": "55be1e94-1d2f-454d-8358-a52067a0ecb8",
+        "session_status": 1,
+        "site_start": "2025-01-11 10:39:43.368715",
+        "landing_page": "https://www.zencan.de/kultivare/strawberry-og",
+        "site_end": "2025-01-11 10:43:33.952043"
+    },
+    {
+        "id": 10857,
+        "session_id": "d2324897-12de-4634-9d8d-4e03aa57aa21",
+        "session_status": 1,
+        "site_start": "2025-01-11 10:49:56.639096",
+        "landing_page": "https://www.zencan.de/kultivare/wizards-punch",
+        "site_end": "2025-01-11 10:50:37.310615"
+    },
+    {
+        "id": 10854,
+        "session_id": "29216296-a610-4733-a100-6f07afde220d",
+        "session_status": 1,
+        "site_start": "2025-01-11 10:42:21.262239",
+        "landing_page": "https://www.zencan.de/ratgeber/haze-sorten",
+        "site_end": "2025-01-11 10:43:41.609325"
+    },
+    {
+        "id": 10859,
+        "session_id": "1f3251de-ba9b-40f8-9efc-66a86e6b0bc2",
+        "session_status": 1,
+        "site_start": "2025-01-11 10:53:47.095592",
+        "landing_page": "https://www.zencan.de/kultivare/super-citra-g",
+        "site_end": "2025-01-11 10:57:37.562402"
+    },
+    {
+        "id": 10872,
+        "session_id": "8cdb0feb-d1ee-43fa-b221-8500f347a1c3",
+        "session_status": 2,
+        "site_start": "2025-01-11 11:30:04.953968",
+        "landing_page": "https://www.zencan.de/produkte/ostara-balance-long-valley-legend",
+        "site_end": "2025-01-11 11:34:52.409326"
+    },
+    {
+        "id": 10849,
+        "session_id": "c991610a-6f30-449a-93e0-7b6b5d556304",
+        "session_status": 1,
+        "site_start": "2025-01-11 10:29:13.208623",
+        "landing_page": "https://www.zencan.de/kultivare/wedding-cake?visitor_id=63726bf4-2899-4a4a-bf4a-96107566cbd6",
+        "site_end": "2025-01-11 10:29:13.208623"
+    },
+    {
+        "id": 10848,
+        "session_id": "39e04d40-9b9b-4b90-aade-451b89806503",
+        "session_status": 3,
+        "site_start": "2025-01-11 10:28:58.528421",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 10:37:39.466186"
+    },
+    {
+        "id": 10855,
+        "session_id": "b2c946da-c329-4945-8fe0-8f70784c2193",
+        "session_status": 1,
+        "site_start": "2025-01-11 10:44:15.902919",
+        "landing_page": "https://www.zencan.de/kultivare/purple-haze?visitor_id=d066711b-b358-4a2d-811b-20b19a0bf963",
+        "site_end": "2025-01-11 10:44:15.902919"
+    },
+    {
+        "id": 10853,
+        "session_id": "8b05cbd0-8b39-4f04-8d40-71f15d07bed9",
+        "session_status": 1,
+        "site_start": "2025-01-11 10:41:13.834447",
+        "landing_page": "https://www.zencan.de/kultivare/sour-diesel",
+        "site_end": "2025-01-11 10:41:13.834447"
+    },
+    {
+        "id": 10881,
+        "session_id": "0157d67a-7030-4626-85d1-a1ce4514df00",
+        "session_status": 2,
+        "site_start": "2025-01-11 11:37:21.848849",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 11:37:51.844051"
+    },
+    {
+        "id": 10888,
+        "session_id": "eb9ef8f6-543b-4cf7-9a3c-068f627c8101",
+        "session_status": 1,
+        "site_start": "2025-01-11 11:44:21.486776",
+        "landing_page": "https://www.zencan.de/kultivare/gorilla-glue",
+        "site_end": "2025-01-11 11:44:21.486776"
+    },
+    {
+        "id": 10874,
+        "session_id": "3053e515-bd75-4657-93b8-75937d0c2c8a",
+        "session_status": 2,
+        "site_start": "2025-01-11 11:31:57.490603",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 11:32:07.641663"
+    },
+    {
+        "id": 10868,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 36,
+        "site_start": "2025-01-11 11:28:57.175119",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 11:35:30.273012"
+    },
+    {
+        "id": 10902,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 42,
+        "site_start": "2025-01-11 11:57:15.058182",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 12:09:55.221035"
+    },
+    {
+        "id": 10889,
+        "session_id": "6cc31126-f16f-4568-bb38-fef57a92ecfe",
+        "session_status": 1,
+        "site_start": "2025-01-11 11:44:23.783915",
+        "landing_page": "https://www.zencan.de/produkte/bathera-25-1-fine-cookies",
+        "site_end": "2025-01-11 11:44:23.783915"
+    },
+    {
+        "id": 10901,
+        "session_id": "c9a3077d-bfc4-44a7-8246-9bb79ecc82b5",
+        "session_status": 1,
+        "site_start": "2025-01-11 11:56:23.403014",
+        "landing_page": "https://www.zencan.de/kultivare/do-si-dos",
+        "site_end": "2025-01-11 12:15:26.797768"
+    },
+    {
+        "id": 10896,
+        "session_id": "922cb57c-ff8b-488b-b3e6-09b0590119e9",
+        "session_status": 1,
+        "site_start": "2025-01-11 11:49:20.610563",
+        "landing_page": "https://www.zencan.de/produkte/bathera-24-1-permanent-marker",
+        "site_end": "2025-01-11 11:49:20.610563"
+    },
+    {
+        "id": 10875,
+        "session_id": "3053e515-bd75-4657-93b8-75937d0c2c8a",
+        "session_status": 3,
+        "site_start": "2025-01-11 11:32:14.586194",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 11:42:16.726588"
+    },
+    {
+        "id": 10844,
+        "session_id": "05e00a70-92ff-4f6c-b497-06e451546faa",
+        "session_status": 14,
+        "site_start": "2025-01-11 10:20:40.227012",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 17:33:14.581461"
+    },
+    {
+        "id": 10887,
+        "session_id": "e24ee4f9-2b16-4726-a84d-666b29616f98",
+        "session_status": 1,
+        "site_start": "2025-01-11 11:43:27.656150",
+        "landing_page": "https://www.zencan.de/kultivare/strawberry-og",
+        "site_end": "2025-01-11 11:43:27.656150"
+    },
+    {
+        "id": 10893,
+        "session_id": "483de2a2-51a3-4bb9-b8bd-76c42ae8eab5",
+        "session_status": 1,
+        "site_start": "2025-01-11 11:49:02.776227",
+        "landing_page": "https://www.zencan.de/kultivare/super-citra-g",
+        "site_end": "2025-01-11 11:50:32.924882"
+    },
+    {
+        "id": 10890,
+        "session_id": "79a423da-50a7-4cbc-a05a-4af7fe5db78c",
+        "session_status": 1,
+        "site_start": "2025-01-11 11:46:32.403454",
+        "landing_page": "https://www.zencan.de/produkte/cannabis-flos-23-1-prt-ku-black-cherry-pie-34726",
+        "site_end": "2025-01-11 11:46:32.403454"
+    },
+    {
+        "id": 10906,
+        "session_id": "82aeb4f1-07fa-4844-a373-2b37b4610d41",
+        "session_status": 1,
+        "site_start": "2025-01-11 12:05:06.638852",
+        "landing_page": "https://www.zencan.de/kultivare/hindu-kush",
+        "site_end": "2025-01-11 12:06:17.032779"
+    },
+    {
+        "id": 10894,
+        "session_id": "3053e515-bd75-4657-93b8-75937d0c2c8a",
+        "session_status": 5,
+        "site_start": "2025-01-11 11:49:09.871382",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 12:02:09.338913"
+    },
+    {
+        "id": 10892,
+        "session_id": "27e5bfec-a39f-43e6-99f0-1c42c9360009",
+        "session_status": 1,
+        "site_start": "2025-01-11 11:48:21.945405",
+        "landing_page": "https://www.zencan.de/kultivare/chocolate-marshmallows",
+        "site_end": "2025-01-11 11:54:49.579561"
+    },
+    {
+        "id": 10897,
+        "session_id": "96efcbf4-57fe-4c7f-8440-eecd922d0623",
+        "session_status": 1,
+        "site_start": "2025-01-11 11:50:18.813161",
+        "landing_page": "https://www.zencan.de/ratgeber/cannabutter",
+        "site_end": "2025-01-11 11:50:39.123292"
+    },
+    {
+        "id": 10899,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 41,
+        "site_start": "2025-01-11 11:52:01.849132",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 11:57:12.288049"
+    },
+    {
+        "id": 10903,
+        "session_id": "8caaa38f-4932-4ba7-858a-14b86382b888",
+        "session_status": 1,
+        "site_start": "2025-01-11 11:57:19.404262",
+        "landing_page": "https://www.zencan.de/ratgeber/marihuana-kaufen?visitor_id=f0262af6-f4da-4ab8-b10f-67b4ac9007e7",
+        "site_end": "2025-01-11 11:57:19.404262"
+    },
+    {
+        "id": 10900,
+        "session_id": "83453c21-3c6b-4ec4-bec6-3c78d32ff4b6",
+        "session_status": 1,
+        "site_start": "2025-01-11 11:52:54.099770",
+        "landing_page": "https://www.zencan.de/produkte/ostara-balance-long-valley-legend",
+        "site_end": "2025-01-11 11:52:54.099770"
+    },
+    {
+        "id": 10871,
+        "session_id": "17ce2f0d-651f-430b-9eb2-235c2b350a8e",
+        "session_status": 1,
+        "site_start": "2025-01-11 11:29:43.447016",
+        "landing_page": "https://www.zencan.de/kultivare/super-citra-g",
+        "site_end": "2025-01-11 12:56:25.146374"
+    },
+    {
+        "id": 10882,
+        "session_id": "4bd30b53-6e7b-4476-8853-739ff3a589ca",
+        "session_status": 1,
+        "site_start": "2025-01-11 11:41:04.976587",
+        "landing_page": "https://www.zencan.de/kultivare/frosted-lemon-angel",
+        "site_end": "2025-01-11 12:03:55.738566"
+    },
+    {
+        "id": 10895,
+        "session_id": "a55ba1ac-795d-4020-8961-d2634f7eedf4",
+        "session_status": 1,
+        "site_start": "2025-01-11 11:49:12.787692",
+        "landing_page": "https://www.zencan.de/kultivare/strawberry-og",
+        "site_end": "2025-01-11 13:03:21.312366"
+    },
+    {
+        "id": 10905,
+        "session_id": "3053e515-bd75-4657-93b8-75937d0c2c8a",
+        "session_status": 6,
+        "site_start": "2025-01-11 12:02:13.801520",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 12:38:57.786982"
+    },
+    {
+        "id": 10945,
+        "session_id": "05bf3d24-16a2-4dd5-9f94-2c0b94abc459",
+        "session_status": 1,
+        "site_start": "2025-01-11 13:03:00.975736",
+        "landing_page": "https://www.zencan.de/produkte/cm-24-1-bry-strawberry-og",
+        "site_end": "2025-01-11 13:03:41.276093"
+    },
+    {
+        "id": 10911,
+        "session_id": "1c984ace-1093-45b3-a71a-3b181525720b",
+        "session_status": 1,
+        "site_start": "2025-01-11 12:10:29.524873",
+        "landing_page": "https://www.zencan.de/ratgeber/cannabis-nebenwirkungen",
+        "site_end": "2025-01-11 12:16:39.695642"
+    },
+    {
+        "id": 10924,
+        "session_id": "00abb5c8-7123-4dcd-8381-848f16c05eb4",
+        "session_status": 3,
+        "site_start": "2025-01-11 12:25:20.169820",
+        "landing_page": "https://www.zencan.de/kultivare/banana-kush-copy",
+        "site_end": "2025-01-11 12:25:40.543815"
+    },
+    {
+        "id": 10920,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 47,
+        "site_start": "2025-01-11 12:23:06.446779",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 12:25:57.285095"
+    },
+    {
+        "id": 10913,
+        "session_id": "12e70bcd-4591-43c6-b1d4-a802823a6197",
+        "session_status": 1,
+        "site_start": "2025-01-11 12:15:59.239271",
+        "landing_page": "https://www.zencan.de/kultivare/tangie-chem",
+        "site_end": "2025-01-11 12:16:59.918425"
+    },
+    {
+        "id": 10953,
+        "session_id": "853dab30-f784-405a-9f0f-67480ed8c6c1",
+        "session_status": 1,
+        "site_start": "2025-01-11 13:21:02.034761",
+        "landing_page": "https://www.zencan.de/kultivare/banana-kush",
+        "site_end": "2025-01-11 13:25:23.746395"
+    },
+    {
+        "id": 10914,
+        "session_id": "12e70bcd-4591-43c6-b1d4-a802823a6197",
+        "session_status": 2,
+        "site_start": "2025-01-11 12:17:03.601756",
+        "landing_page": "https://www.zencan.de/search?query=mac",
+        "site_end": "2025-01-11 12:17:14.581770"
+    },
+    {
+        "id": 10912,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 44,
+        "site_start": "2025-01-11 12:13:30.781573",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 12:17:20.931734"
+    },
+    {
+        "id": 10909,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 43,
+        "site_start": "2025-01-11 12:10:01.861350",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 12:13:22.399349"
+    },
+    {
+        "id": 10948,
+        "session_id": "fa5700aa-6f25-463c-af97-6fc1056bf269",
+        "session_status": 1,
+        "site_start": "2025-01-11 13:07:09.901200",
+        "landing_page": "https://www.zencan.de/kultivare/wizards-punch",
+        "site_end": "2025-01-11 13:07:09.901200"
+    },
+    {
+        "id": 10968,
+        "session_id": "43a1a790-ed09-4cbd-8a97-5d57086cedb3",
+        "session_status": 4,
+        "site_start": "2025-01-11 13:37:21.160512",
+        "landing_page": "https://www.zencan.de/produkte/420-evolution-25-1-ca-pld-plum-driver",
+        "site_end": "2025-01-11 14:06:51.322556"
+    },
+    {
+        "id": 10907,
+        "session_id": "172a490a-f819-4362-a0f6-cf98e35b4a68",
+        "session_status": 1,
+        "site_start": "2025-01-11 12:07:59.811395",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 12:13:47.578579"
+    },
+    {
+        "id": 10939,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 54,
+        "site_start": "2025-01-11 12:49:45.997309",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 13:32:03.838192"
+    },
+    {
+        "id": 10928,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 49,
+        "site_start": "2025-01-11 12:29:42.135188",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 12:30:23.286671"
+    },
+    {
+        "id": 10915,
+        "session_id": "57fc6517-f9a3-4991-9e2a-ef1ab92f8f2a",
+        "session_status": 2,
+        "site_start": "2025-01-11 12:17:20.003494",
+        "landing_page": "https://www.zencan.de/kultivare/banana-og",
+        "site_end": "2025-01-11 12:17:50.221088"
+    },
+    {
+        "id": 10925,
+        "session_id": "c3596316-cd19-4196-9f93-eadcb7dc918e",
+        "session_status": 1,
+        "site_start": "2025-01-11 12:25:29.337039",
+        "landing_page": "https://www.zencan.de/kultivare/chocolate-marshmallows",
+        "site_end": "2025-01-11 12:26:40.285575"
+    },
+    {
+        "id": 10933,
+        "session_id": "ff17ba51-9493-416d-9897-de7b410d19df",
+        "session_status": 1,
+        "site_start": "2025-01-11 12:36:19.980705",
+        "landing_page": "https://www.zencan.de/produkte/remexian-30-1-chk-chemical-kush",
+        "site_end": "2025-01-11 12:36:19.980705"
+    },
+    {
+        "id": 10954,
+        "session_id": "486168e5-df65-4495-9920-7d32f03fee86",
+        "session_status": 1,
+        "site_start": "2025-01-11 13:21:24.804579",
+        "landing_page": "https://www.zencan.de/kultivare/platinum",
+        "site_end": "2025-01-11 13:21:24.804579"
+    },
+    {
+        "id": 10956,
+        "session_id": "c70c872d-11c3-40ad-bc22-a215eb5bbcd0",
+        "session_status": 1,
+        "site_start": "2025-01-11 13:23:33.694954",
+        "landing_page": "https://www.zencan.de/kultivare/grapes-and-cream",
+        "site_end": "2025-01-11 13:23:33.694954"
+    },
+    {
+        "id": 10917,
+        "session_id": "12e70bcd-4591-43c6-b1d4-a802823a6197",
+        "session_status": 3,
+        "site_start": "2025-01-11 12:17:24.743805",
+        "landing_page": "https://www.zencan.de/produkte/420-evolution-25-1-ca-mac-mac-1",
+        "site_end": "2025-01-11 12:18:15.516449"
+    },
+    {
+        "id": 10927,
+        "session_id": "dac1e725-0fe4-4612-873a-ea6147e03cfe",
+        "session_status": 1,
+        "site_start": "2025-01-11 12:28:10.992635",
+        "landing_page": "https://www.zencan.de/ratgeber/sativa-indica-unterschied",
+        "site_end": "2025-01-11 12:30:51.718395"
+    },
+    {
+        "id": 10908,
+        "session_id": "a7fe24ef-4787-4dc3-8101-ea03eb936f36",
+        "session_status": 1,
+        "site_start": "2025-01-11 12:10:01.700268",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 12:10:01.700268"
+    },
+    {
+        "id": 10910,
+        "session_id": "ba578327-b80e-4062-b069-2672e79b55e2",
+        "session_status": 1,
+        "site_start": "2025-01-11 12:10:04.565903",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 12:10:04.565903"
+    },
+    {
+        "id": 10955,
+        "session_id": "37f5992d-b026-4c94-8de1-abcbb4642988",
+        "session_status": 1,
+        "site_start": "2025-01-11 13:23:15.011417",
+        "landing_page": "https://www.zencan.de/kultivare/frosted-lemon-cake",
+        "site_end": "2025-01-11 13:23:35.219901"
+    },
+    {
+        "id": 10919,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 46,
+        "site_start": "2025-01-11 12:19:40.451062",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 12:23:02.907605"
+    },
+    {
+        "id": 10904,
+        "session_id": "57fc6517-f9a3-4991-9e2a-ef1ab92f8f2a",
+        "session_status": 1,
+        "site_start": "2025-01-11 12:01:58.393411",
+        "landing_page": "https://www.zencan.de/kultivare/banana-og",
+        "site_end": "2025-01-11 12:10:28.759184"
+    },
+    {
+        "id": 10921,
+        "session_id": "f7751d97-93d6-4cc7-857c-f5326d825c2c",
+        "session_status": 1,
+        "site_start": "2025-01-11 12:23:12.693262",
+        "landing_page": "https://www.zencan.de/ratgeber/cannabis-wirkung?visitor_id=f67210a6-4d24-4040-ae13-f097afed40e9",
+        "site_end": "2025-01-11 12:23:12.693262"
+    },
+    {
+        "id": 10941,
+        "session_id": "4a690acf-6bca-42dc-aef1-a72deee3592f",
+        "session_status": 1,
+        "site_start": "2025-01-11 12:55:23.688289",
+        "landing_page": "https://www.zencan.de/kultivare/ludina?visitor_id=319200dd-a8f2-4f85-9452-d1da34f46b55",
+        "site_end": "2025-01-11 12:55:23.688289"
+    },
+    {
+        "id": 10949,
+        "session_id": "13d394bf-747c-46a9-b269-5a7e308d05c8",
+        "session_status": 1,
+        "site_start": "2025-01-11 13:14:24.594483",
+        "landing_page": "https://www.zencan.de/kultivare/frosted-lemon-cake",
+        "site_end": "2025-01-11 13:15:55.191541"
+    },
+    {
+        "id": 10916,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 45,
+        "site_start": "2025-01-11 12:17:22.901565",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 12:19:33.290335"
+    },
+    {
+        "id": 10930,
+        "session_id": "a738da73-6aae-4358-a70d-bd075fca6693",
+        "session_status": 1,
+        "site_start": "2025-01-11 12:32:40.874443",
+        "landing_page": "https://www.zencan.de/kultivare/grape-galena",
+        "site_end": "2025-01-11 12:38:50.352745"
+    },
+    {
+        "id": 10918,
+        "session_id": "6437072d-1bb7-4cad-b5b9-992b3bf8b7e8",
+        "session_status": 1,
+        "site_start": "2025-01-11 12:18:35.231484",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-11 12:23:55.430081"
+    },
+    {
+        "id": 10952,
+        "session_id": "a48c5f63-47ac-4f90-b818-3b955431d325",
+        "session_status": 1,
+        "site_start": "2025-01-11 13:19:05.298706",
+        "landing_page": "https://www.zencan.de/ratgeber/cannabis-nebenwirkungen",
+        "site_end": "2025-01-11 13:20:55.823561"
+    },
+    {
+        "id": 10936,
+        "session_id": "fa0a3cd6-f630-451b-8f19-5695fe8e6177",
+        "session_status": 1,
+        "site_start": "2025-01-11 12:44:13.347145",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-11 12:45:23.503918"
+    },
+    {
+        "id": 10940,
+        "session_id": "12c4d37e-f64a-4c23-993a-ca808b447ea2",
+        "session_status": 1,
+        "site_start": "2025-01-11 12:51:25.961997",
+        "landing_page": "https://www.zencan.de/produkte/tilray-thc18-spotlight-porto-girl-scout-cookies-7a9a8",
+        "site_end": "2025-01-11 12:51:25.961997"
+    },
+    {
+        "id": 10922,
+        "session_id": "00abb5c8-7123-4dcd-8381-848f16c05eb4",
+        "session_status": 1,
+        "site_start": "2025-01-11 12:24:52.500488",
+        "landing_page": "https://www.zencan.de/kultivare/legendary-larry",
+        "site_end": "2025-01-11 12:25:02.687420"
+    },
+    {
+        "id": 10943,
+        "session_id": "e8b9dc6a-1687-46fb-992b-c71ea895848e",
+        "session_status": 1,
+        "site_start": "2025-01-11 12:59:29.974558",
+        "landing_page": "https://www.zencan.de/kultivare/chocolate-marshmallows",
+        "site_end": "2025-01-11 12:59:50.602447"
+    },
+    {
+        "id": 10947,
+        "session_id": "52592329-89c1-41f6-ba94-f88f3783a75b",
+        "session_status": 1,
+        "site_start": "2025-01-11 13:04:31.735722",
+        "landing_page": "https://www.zencan.de/produkte/cannabis-1a-18-1-flos-white-widow",
+        "site_end": "2025-01-11 13:04:31.735722"
+    },
+    {
+        "id": 10932,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 52,
+        "site_start": "2025-01-11 12:34:35.154124",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 12:42:40.841034"
+    },
+    {
+        "id": 10923,
+        "session_id": "00abb5c8-7123-4dcd-8381-848f16c05eb4",
+        "session_status": 2,
+        "site_start": "2025-01-11 12:25:09.592356",
+        "landing_page": "https://www.zencan.de/search?query=bubble+gum",
+        "site_end": "2025-01-11 12:25:09.592356"
+    },
+    {
+        "id": 10946,
+        "session_id": "f7f11ae1-659b-43b7-9129-c1ea2fcdba45",
+        "session_status": 1,
+        "site_start": "2025-01-11 13:03:59.194787",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-11 13:06:32.048632"
+    },
+    {
+        "id": 10951,
+        "session_id": "cc59ab90-4789-41ac-960c-7fd471bbc5a6",
+        "session_status": 1,
+        "site_start": "2025-01-11 13:18:13.725660",
+        "landing_page": "https://www.zencan.de/kultivare/frosted-lemon-cake",
+        "site_end": "2025-01-11 13:19:03.997443"
+    },
+    {
+        "id": 10938,
+        "session_id": "a48979ba-237e-4028-9725-5d349664ddc8",
+        "session_status": 1,
+        "site_start": "2025-01-11 12:49:26.784859",
+        "landing_page": "https://www.zencan.de/ratgeber/haze-sorten?visitor_id=5f261b32-4883-475a-9288-a708e2c3d0d2",
+        "site_end": "2025-01-11 12:49:26.784859"
+    },
+    {
+        "id": 10926,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 48,
+        "site_start": "2025-01-11 12:26:04.500424",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 12:29:35.284601"
+    },
+    {
+        "id": 10929,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 50,
+        "site_start": "2025-01-11 12:30:31.269716",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 12:34:22.327172"
+    },
+    {
+        "id": 10931,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 51,
+        "site_start": "2025-01-11 12:34:30.152656",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 12:34:30.152656"
+    },
+    {
+        "id": 10950,
+        "session_id": "a95383b6-7e24-4c4b-ac1c-b1f119498e03",
+        "session_status": 1,
+        "site_start": "2025-01-11 13:15:10.670143",
+        "landing_page": "https://www.zencan.de/kultivare/purple-haze?visitor_id=d066711b-b358-4a2d-811b-20b19a0bf963",
+        "site_end": "2025-01-11 13:15:10.670143"
+    },
+    {
+        "id": 10935,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 53,
+        "site_start": "2025-01-11 12:42:44.228465",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 12:49:44.321417"
+    },
+    {
+        "id": 10937,
+        "session_id": "768165e2-c7c8-402b-af52-79fc816329ee",
+        "session_status": 1,
+        "site_start": "2025-01-11 12:44:58.988700",
+        "landing_page": "https://www.zencan.de/ratgeber/cannabis-auf-rezept",
+        "site_end": "2025-01-11 13:34:52.944604"
+    },
+    {
+        "id": 10944,
+        "session_id": "691e8761-56f2-49d8-b9da-eb77ea79ae21",
+        "session_status": 1,
+        "site_start": "2025-01-11 13:02:09.483046",
+        "landing_page": "https://www.zencan.de/ratgeber/hanfblatt?visitor_id=01bd7e48-47cf-4c15-9dd1-dd4c6abe25ca",
+        "site_end": "2025-01-11 13:02:09.483046"
+    },
+    {
+        "id": 10942,
+        "session_id": "0dd37f7b-7874-4c29-8d2d-7288f5740092",
+        "session_status": 1,
+        "site_start": "2025-01-11 12:56:35.391699",
+        "landing_page": "https://www.zencan.de/kultivare/grapes-and-cream",
+        "site_end": "2025-01-11 13:11:17.226972"
+    },
+    {
+        "id": 10967,
+        "session_id": "43a1a790-ed09-4cbd-8a97-5d57086cedb3",
+        "session_status": 3,
+        "site_start": "2025-01-11 13:37:12.200182",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 13:37:12.200182"
+    },
+    {
+        "id": 10957,
+        "session_id": "16f1b79c-ed13-45ee-9fb5-8938ba54124e",
+        "session_status": 1,
+        "site_start": "2025-01-11 13:23:43.799773",
+        "landing_page": "https://www.zencan.de/kultivare/frosted-lemon-cake",
+        "site_end": "2025-01-11 13:23:43.799773"
+    },
+    {
+        "id": 10964,
+        "session_id": "378d5d6b-f774-456b-b824-5075dd084af9",
+        "session_status": 1,
+        "site_start": "2025-01-11 13:32:20.722380",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 13:32:20.722380"
+    },
+    {
+        "id": 10962,
+        "session_id": "68b604dd-6abb-4023-81e3-0cd0146aaf62",
+        "session_status": 1,
+        "site_start": "2025-01-11 13:30:33.930216",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-11 13:35:21.042418"
+    },
+    {
+        "id": 10961,
+        "session_id": "324bd59f-dd00-4e00-a272-169ae87eef71",
+        "session_status": 1,
+        "site_start": "2025-01-11 13:30:11.312689",
+        "landing_page": "https://www.zencan.de/ratgeber/marihuana-kaufen",
+        "site_end": "2025-01-11 13:31:02.538550"
+    },
+    {
+        "id": 10965,
+        "session_id": "01fcb578-d524-48f6-b6ec-221bfbb426c1",
+        "session_status": 1,
+        "site_start": "2025-01-11 13:32:20.980250",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 13:32:20.980250"
+    },
+    {
+        "id": 10958,
+        "session_id": "be096e7a-dff5-4b14-9877-c4c824e88ff0",
+        "session_status": 1,
+        "site_start": "2025-01-11 13:24:07.944210",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-11 13:40:11.606076"
+    },
+    {
+        "id": 10934,
+        "session_id": "3053e515-bd75-4657-93b8-75937d0c2c8a",
+        "session_status": 7,
+        "site_start": "2025-01-11 12:39:02.316385",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 15:12:39.011281"
+    },
+    {
+        "id": 10963,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 55,
+        "site_start": "2025-01-11 13:32:10.954799",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 13:36:31.098882"
+    },
+    {
+        "id": 10959,
+        "session_id": "43a1a790-ed09-4cbd-8a97-5d57086cedb3",
+        "session_status": 2,
+        "site_start": "2025-01-11 13:27:12.213656",
+        "landing_page": "https://www.zencan.de/produkte/demecan-craft-t4n-g-25-01-banjo",
+        "site_end": "2025-01-11 13:37:05.477734"
+    },
+    {
+        "id": 10966,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 56,
+        "site_start": "2025-01-11 13:36:38.207770",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 13:40:38.405491"
+    },
+    {
+        "id": 10969,
+        "session_id": "30ac1d45-dfdf-4a69-a1c5-b2f86381506d",
+        "session_status": 1,
+        "site_start": "2025-01-11 13:40:30.856957",
+        "landing_page": "https://www.zencan.de/kultivare/ice-cream-cake",
+        "site_end": "2025-01-11 13:40:30.856957"
+    },
+    {
+        "id": 10979,
+        "session_id": "f1828676-0f62-406e-8606-b16c91a711b2",
+        "session_status": 1,
+        "site_start": "2025-01-11 13:52:06.145340",
+        "landing_page": "https://www.zencan.de/produkte/cnbs-cpj-31-1-cap-junky",
+        "site_end": "2025-01-11 13:52:06.145340"
+    },
+    {
+        "id": 10983,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 62,
+        "site_start": "2025-01-11 13:55:18.381363",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 13:57:08.519036"
+    },
+    {
+        "id": 10981,
+        "session_id": "6479c097-9672-4f36-9587-473b92d461bd",
+        "session_status": 1,
+        "site_start": "2025-01-11 13:52:21.600789",
+        "landing_page": "https://www.zencan.de/produkte/peace-naturals-31-1-gc-gmo-cookies",
+        "site_end": "2025-01-11 13:52:21.600789"
+    },
+    {
+        "id": 10970,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 57,
+        "site_start": "2025-01-11 13:40:39.662812",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 13:41:39.808139"
+    },
+    {
+        "id": 11017,
+        "session_id": "cb3227b7-7c09-4f26-a9f5-2bd3b6353c48",
+        "session_status": 1,
+        "site_start": "2025-01-11 14:33:32.770885",
+        "landing_page": "https://www.zencan.de/kultivare/super-citra-g",
+        "site_end": "2025-01-11 14:34:02.962454"
+    },
+    {
+        "id": 10989,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 64,
+        "site_start": "2025-01-11 14:00:28.288680",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 14:02:28.968452"
+    },
+    {
+        "id": 11005,
+        "session_id": "43a1a790-ed09-4cbd-8a97-5d57086cedb3",
+        "session_status": 7,
+        "site_start": "2025-01-11 14:10:28.434392",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 14:10:28.434392"
+    },
+    {
+        "id": 10972,
+        "session_id": "3d9fdc87-376e-4483-be1c-4fb093084e0b",
+        "session_status": 1,
+        "site_start": "2025-01-11 13:42:13.899772",
+        "landing_page": "https://www.zencan.de/ratgeber/cannabutter",
+        "site_end": "2025-01-11 13:42:24.309513"
+    },
+    {
+        "id": 10998,
+        "session_id": "d81a8783-ede4-458d-907c-a99c24a9db23",
+        "session_status": 2,
+        "site_start": "2025-01-11 14:06:44.201558",
+        "landing_page": "https://www.zencan.de/kultivare/super-lemon-haze",
+        "site_end": "2025-01-11 14:10:35.227409"
+    },
+    {
+        "id": 10971,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 58,
+        "site_start": "2025-01-11 13:41:41.095192",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 13:44:11.304919"
+    },
+    {
+        "id": 10994,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 66,
+        "site_start": "2025-01-11 14:05:12.460868",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 14:09:42.929108"
+    },
+    {
+        "id": 10986,
+        "session_id": "6591845e-70b3-4320-97c7-bb7defca4f22",
+        "session_status": 1,
+        "site_start": "2025-01-11 13:58:27.044228",
+        "landing_page": "https://www.zencan.de/kultivare/sherbet",
+        "site_end": "2025-01-11 13:59:07.364309"
+    },
+    {
+        "id": 10999,
+        "session_id": "43a1a790-ed09-4cbd-8a97-5d57086cedb3",
+        "session_status": 5,
+        "site_start": "2025-01-11 14:06:53.722438",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 14:07:03.882610"
+    },
+    {
+        "id": 10995,
+        "session_id": "18328b87-99bf-4397-ae07-c978641dcac5",
+        "session_status": 1,
+        "site_start": "2025-01-11 14:05:42.897168",
+        "landing_page": "https://www.zencan.de/produkte/imc-cbd-14-c01-god-bud",
+        "site_end": "2025-01-11 14:09:43.077100"
+    },
+    {
+        "id": 10980,
+        "session_id": "eef77780-1487-4028-b33e-397ac318438e",
+        "session_status": 1,
+        "site_start": "2025-01-11 13:52:14.859114",
+        "landing_page": "https://www.zencan.de/produkte/remexian-28-1-godfather-og-x",
+        "site_end": "2025-01-11 14:09:43.935630"
+    },
+    {
+        "id": 10975,
+        "session_id": "d1529343-2756-4f99-ac13-9a16ae99b75e",
+        "session_status": 1,
+        "site_start": "2025-01-11 13:47:12.844646",
+        "landing_page": "https://www.zencan.de/ratgeber/marihuana-kaufen",
+        "site_end": "2025-01-11 13:47:22.986427"
+    },
+    {
+        "id": 10977,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 60,
+        "site_start": "2025-01-11 13:51:42.950402",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 13:54:53.394686"
+    },
+    {
+        "id": 10987,
+        "session_id": "895604a3-e8eb-4285-8c20-b5a0b7fc1e58",
+        "session_status": 1,
+        "site_start": "2025-01-11 13:59:17.064155",
+        "landing_page": "https://www.zencan.de/kultivare/oaxacan-gold",
+        "site_end": "2025-01-11 13:59:57.219754"
+    },
+    {
+        "id": 10982,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 61,
+        "site_start": "2025-01-11 13:54:56.126710",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 13:55:16.316861"
+    },
+    {
+        "id": 10993,
+        "session_id": "c944837e-8eaa-4089-9ce2-d2c482d9fd24",
+        "session_status": 1,
+        "site_start": "2025-01-11 14:04:57.337945",
+        "landing_page": "https://www.zencan.de/ratgeber/cannabissorten",
+        "site_end": "2025-01-11 14:09:47.605758"
+    },
+    {
+        "id": 11019,
+        "session_id": "efcf8883-6976-49ab-9c80-2173096677e8",
+        "session_status": 1,
+        "site_start": "2025-01-11 14:42:13.693505",
+        "landing_page": "https://www.zencan.de/ratgeber/marihuana-kaufen?visitor_id=b5945135-50e2-41e3-9019-d409e611f7fb",
+        "site_end": "2025-01-11 14:42:13.693505"
+    },
+    {
+        "id": 11014,
+        "session_id": "b4632131-735a-49ef-bc89-de5c6da3b5b1",
+        "session_status": 1,
+        "site_start": "2025-01-11 14:25:33.245872",
+        "landing_page": "https://www.zencan.de/produkte/bathera-25-1-garlic-funk-gmo-x-first-class-funk",
+        "site_end": "2025-01-11 14:25:43.398428"
+    },
+    {
+        "id": 10985,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 63,
+        "site_start": "2025-01-11 13:57:08.680134",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 14:00:25.318842"
+    },
+    {
+        "id": 10976,
+        "session_id": "d1529343-2756-4f99-ac13-9a16ae99b75e",
+        "session_status": 2,
+        "site_start": "2025-01-11 13:47:28.848209",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 13:48:34.965354"
+    },
+    {
+        "id": 10974,
+        "session_id": "df0cb114-de59-4266-9567-4c7354faf7b8",
+        "session_status": 1,
+        "site_start": "2025-01-11 13:46:35.893783",
+        "landing_page": "https://www.zencan.de/produkte/peace-naturals-33-1-sc-space-cake",
+        "site_end": "2025-01-11 13:48:46.981261"
+    },
+    {
+        "id": 10973,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 59,
+        "site_start": "2025-01-11 13:44:12.529883",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 13:51:42.790600"
+    },
+    {
+        "id": 10978,
+        "session_id": "868bad98-71d4-4286-a0c7-ff656b736863",
+        "session_status": 1,
+        "site_start": "2025-01-11 13:51:58.900952",
+        "landing_page": "https://www.zencan.de/produkte/420-evolution-25-1-ca-pld-plum-driver",
+        "site_end": "2025-01-11 13:51:58.900952"
+    },
+    {
+        "id": 10988,
+        "session_id": "943fe1e5-b7f0-452a-8bb5-b27911f148db",
+        "session_status": 1,
+        "site_start": "2025-01-11 13:59:52.423967",
+        "landing_page": "https://www.zencan.de/kultivare/frosted-lemon-angel",
+        "site_end": "2025-01-11 14:01:02.553679"
+    },
+    {
+        "id": 10984,
+        "session_id": "8a79c9b6-60b2-4964-83bf-dc76dc6da3ce",
+        "session_status": 1,
+        "site_start": "2025-01-11 13:55:18.389836",
+        "landing_page": "https://www.zencan.de/produkte/remexian-28-1-godfather-og-x",
+        "site_end": "2025-01-11 13:56:28.901783"
+    },
+    {
+        "id": 11029,
+        "session_id": "029e913b-dd2c-4408-98f0-d7fed007e305",
+        "session_status": 3,
+        "site_start": "2025-01-11 15:04:14.400441",
+        "landing_page": "https://www.zencan.de/kultivare/jet-fuel-gelato",
+        "site_end": "2025-01-11 16:01:46.525804"
+    },
+    {
+        "id": 11012,
+        "session_id": "5a69ace1-4e00-4ceb-b9a0-6fb712031513",
+        "session_status": 1,
+        "site_start": "2025-01-11 14:20:12.890017",
+        "landing_page": "https://www.zencan.de/terpene/fenchol",
+        "site_end": "2025-01-11 14:20:12.890017"
+    },
+    {
+        "id": 11009,
+        "session_id": "cb8da640-26cd-4a20-a6cf-b675264df3e7",
+        "session_status": 1,
+        "site_start": "2025-01-11 14:15:39.071431",
+        "landing_page": "https://www.zencan.de/kultivare/jet-fuel-gelato",
+        "site_end": "2025-01-11 14:15:39.071431"
+    },
+    {
+        "id": 10997,
+        "session_id": "d81a8783-ede4-458d-907c-a99c24a9db23",
+        "session_status": 1,
+        "site_start": "2025-01-11 14:06:25.927839",
+        "landing_page": "https://www.zencan.de/kultivare/super-citra-g",
+        "site_end": "2025-01-11 14:06:36.193108"
+    },
+    {
+        "id": 11010,
+        "session_id": "1780e9ca-c2ae-483a-83b4-c584fe1e047b",
+        "session_status": 1,
+        "site_start": "2025-01-11 14:18:05.096816",
+        "landing_page": "https://www.zencan.de/ratgeber/cannabissorten",
+        "site_end": "2025-01-11 14:21:25.631490"
+    },
+    {
+        "id": 11020,
+        "session_id": "d11d8eb5-7550-49a6-a63e-a681633b618d",
+        "session_status": 1,
+        "site_start": "2025-01-11 14:42:24.883966",
+        "landing_page": "https://www.zencan.de/ratgeber/kush-sorten",
+        "site_end": "2025-01-11 14:42:35.032054"
+    },
+    {
+        "id": 10992,
+        "session_id": "1f4504c6-bb7c-4c6b-8baf-d9089e6cab75",
+        "session_status": 1,
+        "site_start": "2025-01-11 14:04:30.928394",
+        "landing_page": "https://www.zencan.de/kultivare/orange-bud",
+        "site_end": "2025-01-11 14:05:01.722273"
+    },
+    {
+        "id": 11023,
+        "session_id": "467d5e8f-b0ba-40b2-bc96-d14f612f6e0f",
+        "session_status": 1,
+        "site_start": "2025-01-11 14:54:41.611225",
+        "landing_page": "https://www.zencan.de/kultivare/sugar-cake",
+        "site_end": "2025-01-11 14:56:01.804510"
+    },
+    {
+        "id": 10991,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 65,
+        "site_start": "2025-01-11 14:02:37.569923",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 14:05:07.971776"
+    },
+    {
+        "id": 10990,
+        "session_id": "f61ecee9-647c-4ef8-854d-e23ec2600f55",
+        "session_status": 1,
+        "site_start": "2025-01-11 14:02:00.742943",
+        "landing_page": "https://www.zencan.de/kultivare/super-citra-g",
+        "site_end": "2025-01-11 14:06:40.903528"
+    },
+    {
+        "id": 11001,
+        "session_id": "fac6163e-df23-49c6-800d-02f935167f6c",
+        "session_status": 1,
+        "site_start": "2025-01-11 14:07:33.690249",
+        "landing_page": "https://www.zencan.de/kultivare/super-citra-g",
+        "site_end": "2025-01-11 14:12:50.739066"
+    },
+    {
+        "id": 11000,
+        "session_id": "43a1a790-ed09-4cbd-8a97-5d57086cedb3",
+        "session_status": 6,
+        "site_start": "2025-01-11 14:07:10.324725",
+        "landing_page": "https://www.zencan.de/produkte/420-natural-17-1-ca-trp-tropicana-cookies",
+        "site_end": "2025-01-11 14:10:20.930060"
+    },
+    {
+        "id": 11002,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 67,
+        "site_start": "2025-01-11 14:09:47.461570",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 14:12:57.995878"
+    },
+    {
+        "id": 11018,
+        "session_id": "cb8da640-26cd-4a20-a6cf-b675264df3e7",
+        "session_status": 2,
+        "site_start": "2025-01-11 14:41:02.150444",
+        "landing_page": "https://www.zencan.de/kultivare/jet-fuel-gelato",
+        "site_end": "2025-01-11 14:43:21.613286"
+    },
+    {
+        "id": 11028,
+        "session_id": "029e913b-dd2c-4408-98f0-d7fed007e305",
+        "session_status": 2,
+        "site_start": "2025-01-11 15:03:50.723416",
+        "landing_page": "https://www.zencan.de/search?query=Gelato+jet+fuel",
+        "site_end": "2025-01-11 15:04:11.111716"
+    },
+    {
+        "id": 11013,
+        "session_id": "0e143b10-7430-4b53-a528-765e326c50c5",
+        "session_status": 1,
+        "site_start": "2025-01-11 14:21:40.733132",
+        "landing_page": "https://www.zencan.de/kultivare/carmelita",
+        "site_end": "2025-01-11 14:27:51.954357"
+    },
+    {
+        "id": 11008,
+        "session_id": "1f9498df-28e2-4ac9-abb8-89d5da0674be",
+        "session_status": 1,
+        "site_start": "2025-01-11 14:14:45.305824",
+        "landing_page": "https://www.zencan.de/kultivare/jet-fuel-gelato",
+        "site_end": "2025-01-11 14:14:55.700928"
+    },
+    {
+        "id": 11011,
+        "session_id": "336c198f-797e-45b8-adf5-21b5787928c3",
+        "session_status": 1,
+        "site_start": "2025-01-11 14:18:25.445151",
+        "landing_page": "https://www.zencan.de/produkte/420-compound-25-1-ca-rgr-rose-gold-runtz",
+        "site_end": "2025-01-11 14:18:25.445151"
+    },
+    {
+        "id": 11007,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 68,
+        "site_start": "2025-01-11 14:13:07.600084",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 16:17:32.369537"
+    },
+    {
+        "id": 11021,
+        "session_id": "d6010a75-9819-4898-b077-6b79ce0e668e",
+        "session_status": 1,
+        "site_start": "2025-01-11 14:51:48.070944",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-11 15:55:53.269774"
+    },
+    {
+        "id": 11025,
+        "session_id": "a0c10ee9-4a4e-4d94-8f81-a74e81e725ed",
+        "session_status": 1,
+        "site_start": "2025-01-11 14:59:00.720210",
+        "landing_page": "https://www.zencan.de/kultivare/rockstar-kush",
+        "site_end": "2025-01-11 14:59:00.720210"
+    },
+    {
+        "id": 11015,
+        "session_id": "1b0e845c-f435-4528-9f35-52f88cb69bd8",
+        "session_status": 1,
+        "site_start": "2025-01-11 14:25:34.974486",
+        "landing_page": "https://www.zencan.de/kultivare/strawberry-diesel",
+        "site_end": "2025-01-11 14:26:55.215220"
+    },
+    {
+        "id": 11022,
+        "session_id": "c45dd078-0bf4-4213-a3c0-577819da77d6",
+        "session_status": 1,
+        "site_start": "2025-01-11 14:53:23.314915",
+        "landing_page": "https://www.zencan.de/kultivare/frosted-lemon-cake",
+        "site_end": "2025-01-11 14:53:33.416522"
+    },
+    {
+        "id": 11026,
+        "session_id": "5d857d5b-0ab6-4d1a-97d3-e20ca27d5a4d",
+        "session_status": 1,
+        "site_start": "2025-01-11 14:59:15.931294",
+        "landing_page": "https://www.zencan.de/ratgeber/marihuana-kaufen",
+        "site_end": "2025-01-11 15:01:28.062309"
+    },
+    {
+        "id": 11024,
+        "session_id": "cdb89ec0-3b27-47d7-acd1-04472d9c013a",
+        "session_status": 1,
+        "site_start": "2025-01-11 14:56:13.578432",
+        "landing_page": "https://www.zencan.de/kultivare/white-widow",
+        "site_end": "2025-01-11 14:56:13.578432"
+    },
+    {
+        "id": 11030,
+        "session_id": "ef9b2686-561e-45b8-b012-d7b9c16ef3ce",
+        "session_status": 1,
+        "site_start": "2025-01-11 15:05:58.901396",
+        "landing_page": "https://www.zencan.de/kultivare/amnesia-haze",
+        "site_end": "2025-01-11 15:05:58.901396"
+    },
+    {
+        "id": 11033,
+        "session_id": "61745618-9b74-47f0-930f-96ec3bfb7110",
+        "session_status": 1,
+        "site_start": "2025-01-11 15:13:15.131303",
+        "landing_page": "https://www.zencan.de/ratgeber/grinder",
+        "site_end": "2025-01-11 15:13:15.131303"
+    },
+    {
+        "id": 11027,
+        "session_id": "029e913b-dd2c-4408-98f0-d7fed007e305",
+        "session_status": 1,
+        "site_start": "2025-01-11 15:03:20.138948",
+        "landing_page": "https://www.zencan.de/kultivare/jet-fuel-gelato",
+        "site_end": "2025-01-11 15:03:40.668359"
+    },
+    {
+        "id": 11016,
+        "session_id": "2219a3a5-2110-4fba-bf16-d4886d9d14f5",
+        "session_status": 1,
+        "site_start": "2025-01-11 14:27:21.778475",
+        "landing_page": "https://www.zencan.de/kultivare/ghost-train-haze",
+        "site_end": "2025-01-11 16:05:44.274524"
+    },
+    {
+        "id": 11031,
+        "session_id": "0eb6c433-5ffa-48e4-a27e-27338387bae7",
+        "session_status": 1,
+        "site_start": "2025-01-11 15:08:58.918606",
+        "landing_page": "https://www.zencan.de/kultivare/frosted-lemon-angel",
+        "site_end": "2025-01-11 15:09:19.288353"
+    },
+    {
+        "id": 11034,
+        "session_id": "b75307c7-3a77-45f6-b12a-2e53d8cca1ad",
+        "session_status": 1,
+        "site_start": "2025-01-11 15:14:38.645194",
+        "landing_page": "https://www.zencan.de/produkte/420-natural-17-1-ca-trp-tropicana-cookies",
+        "site_end": "2025-01-11 17:37:13.551679"
+    },
+    {
+        "id": 10996,
+        "session_id": "df3bc7a4-a26c-4659-ae88-f6699c8ef575",
+        "session_status": 2,
+        "site_start": "2025-01-11 14:06:20.089789",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-11 15:20:38.098707"
+    },
+    {
+        "id": 11032,
+        "session_id": "3053e515-bd75-4657-93b8-75937d0c2c8a",
+        "session_status": 8,
+        "site_start": "2025-01-11 15:12:44.855234",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 17:10:39.795167"
+    },
+    {
+        "id": 11003,
+        "session_id": "3b34c393-10a5-4dcf-9d6e-4d4d8fd2fcd4",
+        "session_status": 1,
+        "site_start": "2025-01-11 14:09:56.277129",
+        "landing_page": "https://www.zencan.de/produkte/420-natural-17-1-ca-trp-tropicana-cookies",
+        "site_end": "2025-01-11 16:16:34.110842"
+    },
+    {
+        "id": 11079,
+        "session_id": "66a8e0a2-12a1-45e2-b382-f933eb105e52",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:24:55.146126",
+        "landing_page": "https://www.zencan.de/produkte/remexian-28-1-godfather-og-x",
+        "site_end": "2025-01-11 16:25:35.912074"
+    },
+    {
+        "id": 11041,
+        "session_id": "3a339d18-8ede-431f-8355-e0842182f3ad",
+        "session_status": 1,
+        "site_start": "2025-01-11 15:36:50.283067",
+        "landing_page": "https://www.zencan.de/produkte/420-evolution-33-1-ca-pch-peach-chementine",
+        "site_end": "2025-01-11 15:38:41.104137"
+    },
+    {
+        "id": 11036,
+        "session_id": "3ca7af2d-d07e-43bd-8173-d48a5883373f",
+        "session_status": 1,
+        "site_start": "2025-01-11 15:23:01.356739",
+        "landing_page": "https://www.zencan.de/ratgeber/flavonoide",
+        "site_end": "2025-01-11 15:23:01.356739"
+    },
+    {
+        "id": 11044,
+        "session_id": "51d961f6-691c-4f8b-9b32-5b82d45a8b92",
+        "session_status": 1,
+        "site_start": "2025-01-11 15:37:24.925024",
+        "landing_page": "https://www.zencan.de/kultivare/utopia-haze-2",
+        "site_end": "2025-01-11 15:38:45.058518"
+    },
+    {
+        "id": 11043,
+        "session_id": "c6f83b05-6b3c-41c4-82a4-1e687a0ee81d",
+        "session_status": 1,
+        "site_start": "2025-01-11 15:37:07.023162",
+        "landing_page": "https://www.zencan.de/kultivare/northern-lights-5",
+        "site_end": "2025-01-11 16:00:24.642269"
+    },
+    {
+        "id": 11038,
+        "session_id": "baa6cb08-1cc9-428b-92e8-805110872835",
+        "session_status": 1,
+        "site_start": "2025-01-11 15:31:03.904352",
+        "landing_page": "https://www.zencan.de/kultivare/black-domina",
+        "site_end": "2025-01-11 15:31:03.904352"
+    },
+    {
+        "id": 11039,
+        "session_id": "a35ea7c7-b8f3-4eeb-8f13-56db0c5ebc5b",
+        "session_status": 1,
+        "site_start": "2025-01-11 15:31:08.677562",
+        "landing_page": "https://www.zencan.de/kultivare/black-domina",
+        "site_end": "2025-01-11 15:31:08.677562"
+    },
+    {
+        "id": 11035,
+        "session_id": "f1899217-aa4d-4ace-a9e3-43d5ac94cb8f",
+        "session_status": 1,
+        "site_start": "2025-01-11 15:18:40.254982",
+        "landing_page": "https://www.zencan.de/kultivare/banana-og",
+        "site_end": "2025-01-11 15:39:05.909995"
+    },
+    {
+        "id": 11045,
+        "session_id": "3a339d18-8ede-431f-8355-e0842182f3ad",
+        "session_status": 2,
+        "site_start": "2025-01-11 15:38:44.292187",
+        "landing_page": "https://www.zencan.de/categories/cannabis-wirkung",
+        "site_end": "2025-01-11 15:39:15.062222"
+    },
+    {
+        "id": 11064,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 70,
+        "site_start": "2025-01-11 16:18:01.205218",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 16:21:31.419642"
+    },
+    {
+        "id": 11052,
+        "session_id": "dbf8f9aa-5d83-4112-9498-95b59762b658",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:02:36.988825",
+        "landing_page": "https://www.zencan.de/ratgeber/dronabinol",
+        "site_end": "2025-01-11 16:04:07.133081"
+    },
+    {
+        "id": 11058,
+        "session_id": "86ac52bf-e11f-41ec-87e6-3ec38a24b279",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:14:19.841605",
+        "landing_page": "https://www.zencan.de/kultivare/cherry-pie",
+        "site_end": "2025-01-11 16:14:19.841605"
+    },
+    {
+        "id": 11047,
+        "session_id": "ac089ae4-a80a-4d7e-b30f-d0c59d402aab",
+        "session_status": 1,
+        "site_start": "2025-01-11 15:39:59.724065",
+        "landing_page": "https://www.zencan.de/kultivare/gorilla-glue-4",
+        "site_end": "2025-01-11 15:40:19.866849"
+    },
+    {
+        "id": 11040,
+        "session_id": "6d26084f-99cc-4bce-9097-f4ac59dedc9c",
+        "session_status": 1,
+        "site_start": "2025-01-11 15:35:18.354480",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-11 15:35:18.354480"
+    },
+    {
+        "id": 11075,
+        "session_id": "8f8f9b14-c665-46ea-b320-322287a96298",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:24:38.453634",
+        "landing_page": "https://www.zencan.de/produkte/420-evolution-25-1-ca-pld-plum-driver",
+        "site_end": "2025-01-11 16:25:28.909111"
+    },
+    {
+        "id": 11053,
+        "session_id": "e5b84570-96b1-454a-a397-2223dad38f52",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:03:38.464282",
+        "landing_page": "https://www.zencan.de/produkte/420-sungrown-25-1-ca-zrp-zour-apple",
+        "site_end": "2025-01-11 16:04:28.577314"
+    },
+    {
+        "id": 11074,
+        "session_id": "a97763d2-ee05-4a08-9fe9-d396b63a88d0",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:24:24.628644",
+        "landing_page": "https://www.zencan.de/produkte/demecan-mc-regular-drop-glitter-pop-bomb",
+        "site_end": "2025-01-11 16:24:24.628644"
+    },
+    {
+        "id": 11072,
+        "session_id": "2eeddb1d-8689-45a7-8248-ed969253dd3a",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:24:15.150859",
+        "landing_page": "https://www.zencan.de/produkte/cannamedical-indica-forte-el-jefe",
+        "site_end": "2025-01-11 16:24:25.907669"
+    },
+    {
+        "id": 11070,
+        "session_id": "d871ef6c-d306-4f95-8925-291dcbc073f2",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:24:05.943143",
+        "landing_page": "https://www.zencan.de/produkte/cannamedical-sativa-light-strawberry-ice",
+        "site_end": "2025-01-11 16:24:26.907282"
+    },
+    {
+        "id": 11068,
+        "session_id": "d2486206-c809-4eae-95f3-6e57aa53cc0c",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:23:57.303038",
+        "landing_page": "https://www.zencan.de/produkte/420-natural-17-1-ca-trp-tropicana-cookies",
+        "site_end": "2025-01-11 16:24:27.908894"
+    },
+    {
+        "id": 11042,
+        "session_id": "4356da29-4a5c-493d-9c68-b3da96566640",
+        "session_status": 1,
+        "site_start": "2025-01-11 15:36:53.814570",
+        "landing_page": "https://www.zencan.de/kultivare/afina",
+        "site_end": "2025-01-11 15:37:24.257858"
+    },
+    {
+        "id": 11037,
+        "session_id": "383e0dfb-21af-4f45-91b4-a3a54839ed6b",
+        "session_status": 1,
+        "site_start": "2025-01-11 15:27:00.057457",
+        "landing_page": "https://www.zencan.de/kultivare/electric-honeydew",
+        "site_end": "2025-01-11 15:27:10.181335"
+    },
+    {
+        "id": 11004,
+        "session_id": "7a38318b-619e-4c46-86df-862688f0da9b",
+        "session_status": 1,
+        "site_start": "2025-01-11 14:10:05.847192",
+        "landing_page": "https://www.zencan.de/produkte/imc-thc17-t01-hindu-kush",
+        "site_end": "2025-01-11 16:16:34.102658"
+    },
+    {
+        "id": 11065,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 71,
+        "site_start": "2025-01-11 16:21:31.995543",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 16:23:34.101928"
+    },
+    {
+        "id": 11049,
+        "session_id": "1960dcde-7319-461c-8e0f-50fac88733fe",
+        "session_status": 1,
+        "site_start": "2025-01-11 15:42:24.621214",
+        "landing_page": "https://www.zencan.de/produkte/peace-naturals-33-1-sc-space-cake",
+        "site_end": "2025-01-11 18:13:47.802726"
+    },
+    {
+        "id": 11050,
+        "session_id": "6fa65d3e-2a79-44bf-a88c-b3d773e39218",
+        "session_status": 1,
+        "site_start": "2025-01-11 15:42:42.462701",
+        "landing_page": "https://www.zencan.de/kultivare/kryptonite",
+        "site_end": "2025-01-11 15:42:42.462701"
+    },
+    {
+        "id": 11057,
+        "session_id": "7aa03d1e-5693-4182-9446-07b29d269803",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:12:29.444120",
+        "landing_page": "https://www.zencan.de/ratgeber/cannabutter",
+        "site_end": "2025-01-11 16:16:49.629589"
+    },
+    {
+        "id": 11067,
+        "session_id": "3064a3f6-e073-48eb-8f2a-d2edc34ef963",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:23:47.831605",
+        "landing_page": "https://www.zencan.de/produkte/cm-20-1-crm-creamy-kee-s",
+        "site_end": "2025-01-11 16:24:28.908985"
+    },
+    {
+        "id": 11006,
+        "session_id": "43a1a790-ed09-4cbd-8a97-5d57086cedb3",
+        "session_status": 8,
+        "site_start": "2025-01-11 14:10:36.478420",
+        "landing_page": "https://www.zencan.de/produkte/cm-20-1-crm-creamy-kee-s-a8eee",
+        "site_end": "2025-01-11 16:15:09.588761"
+    },
+    {
+        "id": 11046,
+        "session_id": "3a339d18-8ede-431f-8355-e0842182f3ad",
+        "session_status": 3,
+        "site_start": "2025-01-11 15:39:25.857883",
+        "landing_page": "https://www.zencan.de/categories/cannabis-kaufen",
+        "site_end": "2025-01-11 16:11:16.168112"
+    },
+    {
+        "id": 11051,
+        "session_id": "3375b5f2-a217-4bc6-b04b-96fb3e398dd3",
+        "session_status": 1,
+        "site_start": "2025-01-11 15:57:07.782559",
+        "landing_page": "https://www.zencan.de/kultivare/super-lemon-haze",
+        "site_end": "2025-01-11 15:57:07.782559"
+    },
+    {
+        "id": 11048,
+        "session_id": "75547dc0-06f5-426c-8dcf-aa9e67c5e213",
+        "session_status": 1,
+        "site_start": "2025-01-11 15:40:39.895961",
+        "landing_page": "https://www.zencan.de/ratgeber/cannabutter",
+        "site_end": "2025-01-11 16:11:23.504536"
+    },
+    {
+        "id": 11073,
+        "session_id": "813daef9-837b-4236-a6e2-c29ff9672be5",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:24:19.359075",
+        "landing_page": "https://www.zencan.de/produkte/drapalin-20-1-pop",
+        "site_end": "2025-01-11 16:24:29.956510"
+    },
+    {
+        "id": 11060,
+        "session_id": "43a1a790-ed09-4cbd-8a97-5d57086cedb3",
+        "session_status": 9,
+        "site_start": "2025-01-11 16:15:22.621244",
+        "landing_page": "https://www.zencan.de/produkte/cm-20-1-crm-creamy-kee-s",
+        "site_end": "2025-01-11 16:17:22.956211"
+    },
+    {
+        "id": 11062,
+        "session_id": "d5d6b51a-6821-41cc-bc49-b86c866c1aaa",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:17:58.037289",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 16:17:58.037289"
+    },
+    {
+        "id": 11063,
+        "session_id": "9b0e9031-3d91-4df7-b7b2-01c4ed52fa04",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:17:59.002037",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 16:17:59.002037"
+    },
+    {
+        "id": 11061,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 69,
+        "site_start": "2025-01-11 16:17:40.505896",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 16:18:00.691863"
+    },
+    {
+        "id": 11056,
+        "session_id": "6153d1f8-4859-42d6-bb16-fe884553bb0d",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:10:44.287291",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-11 16:12:24.422450"
+    },
+    {
+        "id": 11054,
+        "session_id": "9a8485a4-c29d-4bcc-bb5f-f0ee7b662503",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:07:26.493272",
+        "landing_page": "https://www.zencan.de/produkte/navcora-thc18-spotlight-porto-master-kush",
+        "site_end": "2025-01-11 16:07:36.852101"
+    },
+    {
+        "id": 11055,
+        "session_id": "6f033ec3-db65-4851-8850-63701a285ac9",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:07:29.446782",
+        "landing_page": "https://www.zencan.de/ratgeber/dronabinol",
+        "site_end": "2025-01-11 16:07:39.576775"
+    },
+    {
+        "id": 11071,
+        "session_id": "1a47ad62-ae41-4461-9e61-373550d47867",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:24:10.310027",
+        "landing_page": "https://www.zencan.de/produkte/remexian-24-1-grg-grape-galena",
+        "site_end": "2025-01-11 16:24:30.874966"
+    },
+    {
+        "id": 11069,
+        "session_id": "0b351339-2fcc-4e9e-94d3-8989fae80c27",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:24:01.555253",
+        "landing_page": "https://www.zencan.de/produkte/imc-thc17-t01-hindu-kush",
+        "site_end": "2025-01-11 16:24:31.739652"
+    },
+    {
+        "id": 11059,
+        "session_id": "89aad041-f898-415a-9656-32827dc65ec0",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:14:33.991038",
+        "landing_page": "https://www.zencan.de/kultivare/super-citra-g",
+        "site_end": "2025-01-11 16:15:34.129113"
+    },
+    {
+        "id": 11094,
+        "session_id": "9ab23684-2241-4b8a-a7ec-cf02d9506070",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:39:15.752940",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 16:39:15.752940"
+    },
+    {
+        "id": 11076,
+        "session_id": "70bf81dc-eeb3-4e46-ba7e-69f60691633f",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:24:41.441303",
+        "landing_page": "https://www.zencan.de/produkte/bathera-24-1-permanent-marker-biscotti-x-jealousy-x-sherb-bx",
+        "site_end": "2025-01-11 16:25:31.911783"
+    },
+    {
+        "id": 11077,
+        "session_id": "263968a7-1c1b-4d5a-88b5-ac8f5dc24a6c",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:24:47.132166",
+        "landing_page": "https://www.zencan.de/produkte/cnbs-cpj-31-1-cap-junky",
+        "site_end": "2025-01-11 16:25:37.907650"
+    },
+    {
+        "id": 11082,
+        "session_id": "e842d265-2720-4187-9321-d83a354e617e",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:25:08.059008",
+        "landing_page": "https://www.zencan.de/produkte/420-evolution-30-1-ca-flm-frozen-lemon-mints",
+        "site_end": "2025-01-11 16:25:38.910537"
+    },
+    {
+        "id": 11080,
+        "session_id": "1b8d4c6a-877c-4433-9a1c-995b29c11e44",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:25:00.096853",
+        "landing_page": "https://www.zencan.de/produkte/pedanios-27-1-frg-ca-farm-gas",
+        "site_end": "2025-01-11 16:25:40.957454"
+    },
+    {
+        "id": 11088,
+        "session_id": "4338add8-7464-4e3c-9bf6-605e40867c1c",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:32:02.851139",
+        "landing_page": "https://www.zencan.de/produkte/remexian-25-1-lpp-lemon-pepper-punch",
+        "site_end": "2025-01-11 16:32:02.851139"
+    },
+    {
+        "id": 11084,
+        "session_id": "4cf9c67c-0c3d-448e-933b-d9ec1a7de57a",
+        "session_status": 2,
+        "site_start": "2025-01-11 16:26:22.311030",
+        "landing_page": "https://www.zencan.de/produkte/420-evolution-30-1-ca-icc-ice-cream-cake-kush-mints-f3ba9",
+        "site_end": "2025-01-11 16:28:12.415280"
+    },
+    {
+        "id": 11083,
+        "session_id": "4cf9c67c-0c3d-448e-933b-d9ec1a7de57a",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:25:57.106065",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 16:26:17.372454"
+    },
+    {
+        "id": 11081,
+        "session_id": "b8e8dcc7-fe4d-4ee3-b8c3-a4085acbf23b",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:25:04.093727",
+        "landing_page": "https://www.zencan.de/produkte/huala-25-1-ca-alm-alien-mints",
+        "site_end": "2025-01-11 16:25:34.959551"
+    },
+    {
+        "id": 11078,
+        "session_id": "10209595-b815-4fed-9a32-a16baf2f7c98",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:24:51.498903",
+        "landing_page": "https://www.zencan.de/produkte/420-evolution-30-1-ca-gmo-gmo",
+        "site_end": "2025-01-11 16:25:41.909040"
+    },
+    {
+        "id": 11085,
+        "session_id": "4cf9c67c-0c3d-448e-933b-d9ec1a7de57a",
+        "session_status": 3,
+        "site_start": "2025-01-11 16:28:14.221132",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 16:29:24.376829"
+    },
+    {
+        "id": 11086,
+        "session_id": "4cf9c67c-0c3d-448e-933b-d9ec1a7de57a",
+        "session_status": 4,
+        "site_start": "2025-01-11 16:29:31.734778",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 16:29:31.734778"
+    },
+    {
+        "id": 11087,
+        "session_id": "4cf9c67c-0c3d-448e-933b-d9ec1a7de57a",
+        "session_status": 5,
+        "site_start": "2025-01-11 16:31:28.996259",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 16:34:59.107148"
+    },
+    {
+        "id": 11089,
+        "session_id": "68ca5437-8a6d-4957-a13a-23b6dafa10d2",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:32:43.189309",
+        "landing_page": "https://www.zencan.de/produkte/cannabis-flos-22-1-pt-ku-master-kush-dab-canify-master-kush",
+        "site_end": "2025-01-11 16:33:03.315767"
+    },
+    {
+        "id": 11090,
+        "session_id": "4cf9c67c-0c3d-448e-933b-d9ec1a7de57a",
+        "session_status": 6,
+        "site_start": "2025-01-11 16:34:59.967990",
+        "landing_page": "https://www.zencan.de/produkte/420-evolution-30-1-ca-icc-ice-cream-cake-kush-mints-f3ba9",
+        "site_end": "2025-01-11 16:34:59.967990"
+    },
+    {
+        "id": 11066,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 72,
+        "site_start": "2025-01-11 16:23:40.875349",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 16:35:50.963941"
+    },
+    {
+        "id": 11093,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 73,
+        "site_start": "2025-01-11 16:35:56.957110",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 16:40:07.082337"
+    },
+    {
+        "id": 11092,
+        "session_id": "378f3ee6-e2d4-41d5-aba7-c7489eb5b80f",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:35:26.812990",
+        "landing_page": "https://www.zencan.de/produkte/bathera-25-1-garlic-funk-gmo-x-first-class-funk",
+        "site_end": "2025-01-11 16:36:26.986163"
+    },
+    {
+        "id": 11095,
+        "session_id": "b4b2ae52-7302-4564-8f39-f78a684b9fa0",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:39:36.436979",
+        "landing_page": "https://www.zencan.de/produkte/cm-20-1-crm-creamy-kee-s",
+        "site_end": "2025-01-11 16:39:36.436979"
+    },
+    {
+        "id": 11096,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 74,
+        "site_start": "2025-01-11 16:40:09.709279",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 16:40:29.812181"
+    },
+    {
+        "id": 11097,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 75,
+        "site_start": "2025-01-11 16:40:37.503832",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 16:51:37.593075"
+    },
+    {
+        "id": 11098,
+        "session_id": "f4b37af9-4615-47d9-85bf-2f8e0cfe8675",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:43:03.858699",
+        "landing_page": "https://www.zencan.de/ratgeber/cannabis-nebenwirkungen",
+        "site_end": "2025-01-11 17:25:27.307863"
+    },
+    {
+        "id": 11106,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 80,
+        "site_start": "2025-01-11 16:58:38.189285",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 16:59:38.969527"
+    },
+    {
+        "id": 11116,
+        "session_id": "2848d49e-0d63-4aee-9f7d-f0e0a7692e26",
+        "session_status": 1,
+        "site_start": "2025-01-11 17:23:20.339437",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-11 17:30:20.810791"
+    },
+    {
+        "id": 11110,
+        "session_id": "514d01fe-f966-4676-88c3-a70eb0c7017e",
+        "session_status": 1,
+        "site_start": "2025-01-11 17:08:13.643165",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-11 18:46:18.151212"
+    },
+    {
+        "id": 11109,
+        "session_id": "b8023cd4-7bb8-4e49-b506-5ff1c134e030",
+        "session_status": 1,
+        "site_start": "2025-01-11 17:05:49.534260",
+        "landing_page": "https://www.zencan.de/produkte/bathera-24-1-permanent-marker-biscotti-x-jealousy-x-sherb-bx",
+        "site_end": "2025-01-11 17:13:16.283572"
+    },
+    {
+        "id": 11117,
+        "session_id": "d6138ad5-096d-4cc0-a671-7edaad6bbe16",
+        "session_status": 1,
+        "site_start": "2025-01-11 17:30:57.564904",
+        "landing_page": "https://www.zencan.de/kultivare/peyote-critical",
+        "site_end": "2025-01-11 17:31:07.686167"
+    },
+    {
+        "id": 11125,
+        "session_id": "aac828c4-2b3d-4f36-96fa-a2226d7785b9",
+        "session_status": 1,
+        "site_start": "2025-01-11 17:54:46.366881",
+        "landing_page": "https://www.zencan.de/produkte/bathera-25-1-velvet-glove",
+        "site_end": "2025-01-11 19:26:46.448328"
+    },
+    {
+        "id": 11114,
+        "session_id": "6fec3e16-6d75-4201-8a1d-701a0e028985",
+        "session_status": 1,
+        "site_start": "2025-01-11 17:12:58.307526",
+        "landing_page": "https://www.zencan.de/ratgeber/kush-sorten",
+        "site_end": "2025-01-11 17:18:49.069632"
+    },
+    {
+        "id": 11108,
+        "session_id": "308584d3-c867-4875-8bb0-da8377881df3",
+        "session_status": 1,
+        "site_start": "2025-01-11 17:04:18.031712",
+        "landing_page": "https://www.zencan.de/produkte/enua-30-1-dsh-ca-dark-shadow-haze",
+        "site_end": "2025-01-11 17:04:18.031712"
+    },
+    {
+        "id": 11101,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 76,
+        "site_start": "2025-01-11 16:51:39.915984",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 16:56:40.047408"
+    },
+    {
+        "id": 11102,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 77,
+        "site_start": "2025-01-11 16:56:42.692880",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 16:56:52.884492"
+    },
+    {
+        "id": 11103,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 78,
+        "site_start": "2025-01-11 16:56:58.545161",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 16:56:58.545161"
+    },
+    {
+        "id": 11115,
+        "session_id": "65bf09f7-cf30-4c8a-9bc1-7e4ede42528f",
+        "session_status": 1,
+        "site_start": "2025-01-11 17:19:36.297362",
+        "landing_page": "https://www.zencan.de/produkte/botanics-golden-ace-20-1-orange-panties",
+        "site_end": "2025-01-11 17:19:56.537111"
+    },
+    {
+        "id": 11122,
+        "session_id": "4ebe5a60-b927-4304-825b-f2f5df291906",
+        "session_status": 1,
+        "site_start": "2025-01-11 17:50:24.064957",
+        "landing_page": "https://www.zencan.de/produkte/remexian-28-1-godfather-og-x",
+        "site_end": "2025-01-11 17:50:24.064957"
+    },
+    {
+        "id": 11119,
+        "session_id": "c7dcf1bc-9650-48b8-951c-d306cff08ed0",
+        "session_status": 1,
+        "site_start": "2025-01-11 17:36:19.926767",
+        "landing_page": "https://www.zencan.de/produkte/tilray-thc18-spotlight-porto-jack-herer",
+        "site_end": "2025-01-11 17:36:19.926767"
+    },
+    {
+        "id": 11124,
+        "session_id": "bf186873-8aff-4dd5-977e-d9bc4ab39dc8",
+        "session_status": 1,
+        "site_start": "2025-01-11 17:54:46.175923",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-11 17:56:56.458962"
+    },
+    {
+        "id": 11100,
+        "session_id": "2c27e8e5-b739-484b-bb5f-258be26c4049",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:50:09.656248",
+        "landing_page": "https://www.zencan.de/kultivare/jet-fuel-gelato",
+        "site_end": "2025-01-11 16:50:09.656248"
+    },
+    {
+        "id": 11118,
+        "session_id": "05e00a70-92ff-4f6c-b497-06e451546faa",
+        "session_status": 15,
+        "site_start": "2025-01-11 17:33:17.349932",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 17:50:38.294644"
+    },
+    {
+        "id": 11111,
+        "session_id": "1c8bae7f-e15c-4a35-adc4-d3ca68f728ff",
+        "session_status": 1,
+        "site_start": "2025-01-11 17:08:29.227916",
+        "landing_page": "https://www.zencan.de/ratgeber/cannabutter#",
+        "site_end": "2025-01-11 17:08:39.680282"
+    },
+    {
+        "id": 11127,
+        "session_id": "10a8c7a2-7416-43f5-bedc-e86ba9549e0c",
+        "session_status": 1,
+        "site_start": "2025-01-11 17:58:09.974133",
+        "landing_page": "https://www.zencan.de/ratgeber/thc-oel",
+        "site_end": "2025-01-11 18:00:50.205578"
+    },
+    {
+        "id": 11104,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 79,
+        "site_start": "2025-01-11 16:57:05.375448",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 16:58:35.791982"
+    },
+    {
+        "id": 11126,
+        "session_id": "36aac248-d0fc-476f-8640-2300eb5e2ee2",
+        "session_status": 1,
+        "site_start": "2025-01-11 17:57:09.673809",
+        "landing_page": "https://www.zencan.de/kultivare/god-bud-2",
+        "site_end": "2025-01-11 17:57:09.673809"
+    },
+    {
+        "id": 11105,
+        "session_id": "66773eef-3caa-4b97-bb6d-47f91874ac95",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:57:17.952490",
+        "landing_page": "https://www.zencan.de/ratgeber/cannabis-auf-rezept",
+        "site_end": "2025-01-11 16:58:38.061296"
+    },
+    {
+        "id": 11129,
+        "session_id": "9abb8a6e-c0ed-4c17-a868-85f780560fb1",
+        "session_status": 1,
+        "site_start": "2025-01-11 18:00:16.030446",
+        "landing_page": "https://www.zencan.de/produkte/420-evolution-30-1-ca-wes-wedding-singer",
+        "site_end": "2025-01-11 18:00:56.199570"
+    },
+    {
+        "id": 11112,
+        "session_id": "a8dfa71c-f30d-45f6-8bf7-2a8cd643f80f",
+        "session_status": 1,
+        "site_start": "2025-01-11 17:09:20.632470",
+        "landing_page": "https://www.zencan.de/produkte/re-cannis-9-5-10-5-hybrid-midnight-d3752",
+        "site_end": "2025-01-11 17:09:20.632470"
+    },
+    {
+        "id": 11113,
+        "session_id": "3053e515-bd75-4657-93b8-75937d0c2c8a",
+        "session_status": 9,
+        "site_start": "2025-01-11 17:10:44.561552",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 17:51:31.301160"
+    },
+    {
+        "id": 11120,
+        "session_id": "7e3aa450-79f1-4c9a-b5c9-7cd0d494a969",
+        "session_status": 1,
+        "site_start": "2025-01-11 17:40:26.158069",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-11 17:41:26.355511"
+    },
+    {
+        "id": 11128,
+        "session_id": "d4438c73-ed2d-4e72-9969-77f24806870c",
+        "session_status": 1,
+        "site_start": "2025-01-11 17:59:45.510039",
+        "landing_page": "https://www.zencan.de/kultivare/duke",
+        "site_end": "2025-01-11 18:01:55.705010"
+    },
+    {
+        "id": 11130,
+        "session_id": "454f8b45-4116-4f68-900c-2975802ea43b",
+        "session_status": 1,
+        "site_start": "2025-01-11 18:04:55.754182",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 18:06:38.280087"
+    },
+    {
+        "id": 11131,
+        "session_id": "548a371e-4172-408e-9a6c-f34619d5ed3f",
+        "session_status": 1,
+        "site_start": "2025-01-11 18:10:42.840023",
+        "landing_page": "https://www.zencan.de/produkte/pedanios-10-10-eqi-ca-equiposa",
+        "site_end": "2025-01-11 18:10:42.840023"
+    },
+    {
+        "id": 11132,
+        "session_id": "6b9d29e3-7a85-407a-a8bb-540334ca9368",
+        "session_status": 1,
+        "site_start": "2025-01-11 18:13:52.541788",
+        "landing_page": "https://www.zencan.de/kultivare/black-cherry-punch?visitor_id=0ccc8e29-fa7e-4672-bb0d-862916867bc3",
+        "site_end": "2025-01-11 18:13:52.541788"
+    },
+    {
+        "id": 11121,
+        "session_id": "2829cdc4-2cd3-463f-a937-5f30333e41fb",
+        "session_status": 1,
+        "site_start": "2025-01-11 17:47:02.610160",
+        "landing_page": "https://www.zencan.de/kultivare/utopia-haze",
+        "site_end": "2025-01-11 18:15:24.549694"
+    },
+    {
+        "id": 11135,
+        "session_id": "9116005b-136e-4d57-a3a6-5871de042873",
+        "session_status": 1,
+        "site_start": "2025-01-11 18:16:55.985800",
+        "landing_page": "https://www.zencan.de/kultivare/black-cherry-pie",
+        "site_end": "2025-01-11 18:17:06.162521"
+    },
+    {
+        "id": 11133,
+        "session_id": "7e77e3ca-2ee5-40a8-a602-7ad443feb0d2",
+        "session_status": 1,
+        "site_start": "2025-01-11 18:14:55.788489",
+        "landing_page": "https://www.zencan.de/kultivare/royal-gorilla",
+        "site_end": "2025-01-11 18:17:38.848908"
+    },
+    {
+        "id": 11136,
+        "session_id": "7e77e3ca-2ee5-40a8-a602-7ad443feb0d2",
+        "session_status": 2,
+        "site_start": "2025-01-11 18:17:39.905588",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 18:17:50.102319"
+    },
+    {
+        "id": 11134,
+        "session_id": "4e34d5fd-b7a5-444a-85d8-4a78ca10bc05",
+        "session_status": 1,
+        "site_start": "2025-01-11 18:16:01.036878",
+        "landing_page": "https://www.zencan.de/kultivare/orange-bud",
+        "site_end": "2025-01-11 18:18:01.724072"
+    },
+    {
+        "id": 10960,
+        "session_id": "b92331e5-8f55-4c43-b45a-3b37ff2369a1",
+        "session_status": 1,
+        "site_start": "2025-01-11 13:28:17.955017",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 18:41:48.335326"
+    },
+    {
+        "id": 11137,
+        "session_id": "9c5786f7-92b3-4f97-9082-90b88c4036fb",
+        "session_status": 1,
+        "site_start": "2025-01-11 18:18:22.383027",
+        "landing_page": "https://www.zencan.de/ratgeber/thc-oel?visitor_id=ae002eb1-974c-4e7f-aa79-3494f9c68329",
+        "site_end": "2025-01-11 18:18:22.383027"
+    },
+    {
+        "id": 11099,
+        "session_id": "866f9849-6bed-4a32-a08a-85f1de4b7e36",
+        "session_status": 1,
+        "site_start": "2025-01-11 16:44:13.793657",
+        "landing_page": "https://www.zencan.de/ratgeber/grinder",
+        "site_end": "2025-01-11 19:50:06.494734"
+    },
+    {
+        "id": 11138,
+        "session_id": "f4d334a4-91b5-479a-9445-ca601a3aac85",
+        "session_status": 1,
+        "site_start": "2025-01-11 18:19:36.585885",
+        "landing_page": "https://www.zencan.de/ratgeber/cannabutter",
+        "site_end": "2025-01-11 18:46:49.834529"
+    },
+    {
+        "id": 11139,
+        "session_id": "9116005b-136e-4d57-a3a6-5871de042873",
+        "session_status": 2,
+        "site_start": "2025-01-11 18:23:15.053704",
+        "landing_page": "https://www.zencan.de/kultivare/black-cherry-pie#",
+        "site_end": "2025-01-11 18:23:25.180826"
+    },
+    {
+        "id": 11140,
+        "session_id": "d0820f81-689a-4828-80c9-2b146b3a7920",
+        "session_status": 1,
+        "site_start": "2025-01-11 18:29:32.831924",
+        "landing_page": "https://www.zencan.de/produkte/peace-naturals-31-1-sc-space-cake",
+        "site_end": "2025-01-11 18:39:49.273698"
+    },
+    {
+        "id": 11141,
+        "session_id": "8f2ae9ec-b051-4790-88b2-c3bcf509afcf",
+        "session_status": 1,
+        "site_start": "2025-01-11 18:32:19.539873",
+        "landing_page": "https://www.zencan.de/produkte/beacon-gc-t30-garlic-cookies",
+        "site_end": "2025-01-11 18:32:19.539873"
+    },
+    {
+        "id": 11152,
+        "session_id": "4b08781f-9dbb-42cd-9bb9-9cfc4c612670",
+        "session_status": 1,
+        "site_start": "2025-01-11 18:45:13.085194",
+        "landing_page": "https://www.zencan.de/ratgeber",
+        "site_end": "2025-01-11 18:45:53.438447"
+    },
+    {
+        "id": 11183,
+        "session_id": "45555881-babe-4b85-8fb5-09019eb27bfe",
+        "session_status": 1,
+        "site_start": "2025-01-11 19:22:58.303119",
+        "landing_page": "https://www.zencan.de/ratgeber/dezember-cannabis-deals-zencan-tops-und-flops",
+        "site_end": "2025-01-11 19:23:08.548366"
+    },
+    {
+        "id": 11151,
+        "session_id": "82884e2c-2fd2-4051-a9e3-aebd6759a1bc",
+        "session_status": 1,
+        "site_start": "2025-01-11 18:44:27.226692",
+        "landing_page": "https://www.zencan.de/ratgeber",
+        "site_end": "2025-01-11 18:44:57.424704"
+    },
+    {
+        "id": 11154,
+        "session_id": "20bf80f5-3f7c-479b-8742-677172e086c0",
+        "session_status": 1,
+        "site_start": "2025-01-11 18:46:24.071056",
+        "landing_page": "https://www.zencan.de/ratgeber/thc-oel",
+        "site_end": "2025-01-11 18:48:34.264151"
+    },
+    {
+        "id": 11148,
+        "session_id": "9359e708-35d5-46dd-9d21-800003a6a90a",
+        "session_status": 1,
+        "site_start": "2025-01-11 18:40:52.012028",
+        "landing_page": "https://www.zencan.de/produkte/bathera-21-1-zashimi-zkittlez-x-mochi-gelato",
+        "site_end": "2025-01-11 18:40:52.012028"
+    },
+    {
+        "id": 11167,
+        "session_id": "a3b32532-252f-40e9-9a09-c35e2f262fdc",
+        "session_status": 1,
+        "site_start": "2025-01-11 18:59:49.467238",
+        "landing_page": "https://www.zencan.de/ratgeber/dezember-cannabis-deals-zencan-tops-und-flops",
+        "site_end": "2025-01-11 18:59:49.467238"
+    },
+    {
+        "id": 11150,
+        "session_id": "0741a8cf-e799-4f35-91ce-8dfa1a994fac",
+        "session_status": 2,
+        "site_start": "2025-01-11 18:44:09.972914",
+        "landing_page": "https://www.zencan.de/produkte/curaleaf-natural-22-1-pt-wpt-wedding-pop-triangle",
+        "site_end": "2025-01-11 18:55:40.148053"
+    },
+    {
+        "id": 11175,
+        "session_id": "0bd17b70-1760-404f-a142-9c9522d780e3",
+        "session_status": 1,
+        "site_start": "2025-01-11 19:10:43.377054",
+        "landing_page": "https://www.zencan.de/produkte/avaay-26-1-sk-sour-og-kush",
+        "site_end": "2025-01-11 19:11:54.608260"
+    },
+    {
+        "id": 11155,
+        "session_id": "12b722f7-3fa1-490a-b79a-b883c57401c2",
+        "session_status": 1,
+        "site_start": "2025-01-11 18:48:58.697783",
+        "landing_page": "https://www.zencan.de/impressum",
+        "site_end": "2025-01-11 18:49:58.920744"
+    },
+    {
+        "id": 11162,
+        "session_id": "0741a8cf-e799-4f35-91ce-8dfa1a994fac",
+        "session_status": 3,
+        "site_start": "2025-01-11 18:55:45.812314",
+        "landing_page": "https://www.zencan.de/search?query=tilray+thc18+spotlight+porto%3A+headband",
+        "site_end": "2025-01-11 18:55:45.812314"
+    },
+    {
+        "id": 11149,
+        "session_id": "0741a8cf-e799-4f35-91ce-8dfa1a994fac",
+        "session_status": 1,
+        "site_start": "2025-01-11 18:42:45.680770",
+        "landing_page": "https://www.zencan.de/produkte/curaleaf-natural-22-1-pt-wpt-wedding-pop-triangle",
+        "site_end": "2025-01-11 18:44:05.859872"
+    },
+    {
+        "id": 11172,
+        "session_id": "98af5d64-c8a8-48f2-8384-8922d3752db2",
+        "session_status": 1,
+        "site_start": "2025-01-11 19:09:44.763312",
+        "landing_page": "https://www.zencan.de/ratgeber/cannabis-nebenwirkungen",
+        "site_end": "2025-01-11 19:11:25.402962"
+    },
+    {
+        "id": 11107,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 81,
+        "site_start": "2025-01-11 16:59:47.417495",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 18:48:57.564477"
+    },
+    {
+        "id": 11145,
+        "session_id": "f699108b-f0cb-4aa4-91a7-3c8ec52899dc",
+        "session_status": 1,
+        "site_start": "2025-01-11 18:39:32.796471",
+        "landing_page": "https://www.zencan.de/ratgeber/cannabis-nebenwirkungen",
+        "site_end": "2025-01-11 18:40:13.080415"
+    },
+    {
+        "id": 11158,
+        "session_id": "e5fbab1b-e6f5-44e2-a40d-1d1f74a2e614",
+        "session_status": 1,
+        "site_start": "2025-01-11 18:50:09.759335",
+        "landing_page": "https://www.zencan.de/kultivare/super-citra-g",
+        "site_end": "2025-01-11 18:50:09.759335"
+    },
+    {
+        "id": 11142,
+        "session_id": "43771425-602e-45b1-a548-f637ba6b8bf9",
+        "session_status": 1,
+        "site_start": "2025-01-11 18:34:55.017440",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-11 18:51:21.887702"
+    },
+    {
+        "id": 11180,
+        "session_id": "6735319b-6a48-4312-ad8a-7018d2ad6863",
+        "session_status": 1,
+        "site_start": "2025-01-11 19:15:00.087434",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-11 19:16:40.582876"
+    },
+    {
+        "id": 11169,
+        "session_id": "e10dcb7b-5c8c-4be4-b8d1-97594269fe90",
+        "session_status": 1,
+        "site_start": "2025-01-11 19:01:15.301002",
+        "landing_page": "https://www.zencan.de/ratgeber/dezember-cannabis-deals-zencan-tops-und-flops",
+        "site_end": "2025-01-11 19:02:15.743204"
+    },
+    {
+        "id": 11179,
+        "session_id": "f1fffae3-3cba-4adb-b020-3ee208e4cb18",
+        "session_status": 1,
+        "site_start": "2025-01-11 19:14:32.478819",
+        "landing_page": "https://www.zencan.de/ratgeber/cannabis-nebenwirkungen",
+        "site_end": "2025-01-11 19:14:32.478819"
+    },
+    {
+        "id": 11173,
+        "session_id": "91e302d7-0e46-4a0b-86b5-2d160d9292e4",
+        "session_status": 1,
+        "site_start": "2025-01-11 19:10:18.527615",
+        "landing_page": "https://www.zencan.de/produkte/bathera-30-1-polar-pop-polar-pop",
+        "site_end": "2025-01-11 19:10:28.708153"
+    },
+    {
+        "id": 11174,
+        "session_id": "91e302d7-0e46-4a0b-86b5-2d160d9292e4",
+        "session_status": 2,
+        "site_start": "2025-01-11 19:10:35.043621",
+        "landing_page": "https://www.zencan.de/?sort=thc",
+        "site_end": "2025-01-11 19:12:07.846387"
+    },
+    {
+        "id": 11159,
+        "session_id": "e15ad678-5c3e-4833-914c-b1063ecf5558",
+        "session_status": 1,
+        "site_start": "2025-01-11 18:54:05.322705",
+        "landing_page": "https://www.zencan.de/kultivare/mendo-breath",
+        "site_end": "2025-01-11 18:55:58.239056"
+    },
+    {
+        "id": 11153,
+        "session_id": "299a8295-6ab9-45a9-ab6d-267a9df1d354",
+        "session_status": 1,
+        "site_start": "2025-01-11 18:45:33.768687",
+        "landing_page": "https://www.zencan.de/produkte/re-cannis-16-1-sativa-alaska",
+        "site_end": "2025-01-11 18:45:33.768687"
+    },
+    {
+        "id": 11147,
+        "session_id": "e7595aab-e738-4b7a-8863-dd6c3d62e55e",
+        "session_status": 1,
+        "site_start": "2025-01-11 18:40:10.317941",
+        "landing_page": "https://www.zencan.de/produkte/remexian-30-1-bkc-black-kyber-crystal-2b3e1",
+        "site_end": "2025-01-11 19:50:38.688731"
+    },
+    {
+        "id": 11164,
+        "session_id": "d3565a7f-cd55-4338-bb44-6187b3857af2",
+        "session_status": 3,
+        "site_start": "2025-01-11 18:56:07.749300",
+        "landing_page": "https://www.zencan.de/kultivare",
+        "site_end": "2025-01-11 18:57:40.156453"
+    },
+    {
+        "id": 11171,
+        "session_id": "503ce7c6-f25e-48bc-86c7-06cd92c575bb",
+        "session_status": 1,
+        "site_start": "2025-01-11 19:07:56.976178",
+        "landing_page": "https://www.zencan.de/ratgeber/thc-oel",
+        "site_end": "2025-01-11 19:08:38.334001"
+    },
+    {
+        "id": 11161,
+        "session_id": "d3565a7f-cd55-4338-bb44-6187b3857af2",
+        "session_status": 2,
+        "site_start": "2025-01-11 18:55:35.002617",
+        "landing_page": "https://www.zencan.de/ratgeber",
+        "site_end": "2025-01-11 18:56:05.292602"
+    },
+    {
+        "id": 11146,
+        "session_id": "6450de0f-a18f-454e-8616-363d95f59371",
+        "session_status": 1,
+        "site_start": "2025-01-11 18:39:39.706059",
+        "landing_page": "https://www.zencan.de/ratgeber/thc-oel",
+        "site_end": "2025-01-11 18:41:49.998580"
+    },
+    {
+        "id": 11144,
+        "session_id": "14e86cab-196b-498c-a05f-4afcc2ad22cc",
+        "session_status": 1,
+        "site_start": "2025-01-11 18:38:09.299709",
+        "landing_page": "https://www.zencan.de/kultivare/super-citra-g",
+        "site_end": "2025-01-11 18:39:42.336059"
+    },
+    {
+        "id": 11168,
+        "session_id": "764579b8-d770-4c98-9ea5-b13126165d41",
+        "session_status": 1,
+        "site_start": "2025-01-11 18:59:57.485699",
+        "landing_page": "https://www.zencan.de/ratgeber",
+        "site_end": "2025-01-11 19:00:27.914193"
+    },
+    {
+        "id": 11181,
+        "session_id": "620ac9a8-bc90-43d2-8ccc-0e4117bea61a",
+        "session_status": 1,
+        "site_start": "2025-01-11 19:20:57.560172",
+        "landing_page": "https://www.zencan.de/kultivare/wedding-cake",
+        "site_end": "2025-01-11 19:20:57.560172"
+    },
+    {
+        "id": 11166,
+        "session_id": "83a18844-7200-41e2-b62a-d7a7c5663e8d",
+        "session_status": 1,
+        "site_start": "2025-01-11 18:59:19.899282",
+        "landing_page": "https://www.zencan.de/produkte/alephsana-amber-26-mango-kush-6af8b",
+        "site_end": "2025-01-11 18:59:19.899282"
+    },
+    {
+        "id": 11157,
+        "session_id": "12b722f7-3fa1-490a-b79a-b883c57401c2",
+        "session_status": 2,
+        "site_start": "2025-01-11 18:50:03.432390",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 18:50:38.898394"
+    },
+    {
+        "id": 11165,
+        "session_id": "af500c89-2fbc-42cb-b5d8-f20a96e3eab5",
+        "session_status": 1,
+        "site_start": "2025-01-11 18:59:19.008314",
+        "landing_page": "https://www.zencan.de/ratgeber",
+        "site_end": "2025-01-11 18:59:29.283789"
+    },
+    {
+        "id": 11177,
+        "session_id": "91e302d7-0e46-4a0b-86b5-2d160d9292e4",
+        "session_status": 3,
+        "site_start": "2025-01-11 19:12:15.147445",
+        "landing_page": "https://www.zencan.de/?sort=thc",
+        "site_end": "2025-01-11 19:12:15.147445"
+    },
+    {
+        "id": 11170,
+        "session_id": "4878e8fc-b032-4283-be2b-d9d315743a12",
+        "session_status": 1,
+        "site_start": "2025-01-11 19:04:29.813072",
+        "landing_page": "https://www.zencan.de/ratgeber/marihuana-kaufen",
+        "site_end": "2025-01-11 19:06:00.078769"
+    },
+    {
+        "id": 11160,
+        "session_id": "d3565a7f-cd55-4338-bb44-6187b3857af2",
+        "session_status": 1,
+        "site_start": "2025-01-11 18:55:22.118917",
+        "landing_page": "https://www.zencan.de/ratgeber",
+        "site_end": "2025-01-11 18:55:32.381839"
+    },
+    {
+        "id": 11178,
+        "session_id": "91e302d7-0e46-4a0b-86b5-2d160d9292e4",
+        "session_status": 4,
+        "site_start": "2025-01-11 19:12:28.105303",
+        "landing_page": "https://www.zencan.de/produkte/bathera-30-1-polar-pop-polar-pop",
+        "site_end": "2025-01-11 19:12:28.105303"
+    },
+    {
+        "id": 11176,
+        "session_id": "ce3a1135-43a1-4886-9496-70c650b8178f",
+        "session_status": 1,
+        "site_start": "2025-01-11 19:10:48.254473",
+        "landing_page": "https://www.zencan.de/produkte/bedrobinol-ludina",
+        "site_end": "2025-01-11 19:11:18.370999"
+    },
+    {
+        "id": 11184,
+        "session_id": "55802799-c768-46d2-aab3-a0cb5aedab68",
+        "session_status": 1,
+        "site_start": "2025-01-11 19:23:08.685001",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-11 19:23:38.892093"
+    },
+    {
+        "id": 11201,
+        "session_id": "20cdaaba-2380-410a-bfef-c3811b9d300c",
+        "session_status": 1,
+        "site_start": "2025-01-11 19:38:13.482007",
+        "landing_page": "https://www.zencan.de/kultivare/black-cherry-pie",
+        "site_end": "2025-01-11 19:39:04.612040"
+    },
+    {
+        "id": 11208,
+        "session_id": "a4400eab-58a0-4887-9b53-6bf04ace1ab9",
+        "session_status": 4,
+        "site_start": "2025-01-11 19:43:41.079685",
+        "landing_page": "https://www.zencan.de/search?query=gelonade",
+        "site_end": "2025-01-11 19:43:41.079685"
+    },
+    {
+        "id": 11209,
+        "session_id": "a4400eab-58a0-4887-9b53-6bf04ace1ab9",
+        "session_status": 5,
+        "site_start": "2025-01-11 19:43:42.084094",
+        "landing_page": "https://www.zencan.de/kultivare/guava",
+        "site_end": "2025-01-11 19:43:42.084094"
+    },
+    {
+        "id": 11185,
+        "session_id": "1793607c-8a3f-479b-860a-74d613ba5652",
+        "session_status": 1,
+        "site_start": "2025-01-11 19:23:39.974762",
+        "landing_page": "https://www.zencan.de/ratgeber",
+        "site_end": "2025-01-11 19:23:50.379677"
+    },
+    {
+        "id": 11202,
+        "session_id": "20cdaaba-2380-410a-bfef-c3811b9d300c",
+        "session_status": 2,
+        "site_start": "2025-01-11 19:39:11.373554",
+        "landing_page": "https://www.zencan.de/kultivare/black-cherry-pie",
+        "site_end": "2025-01-11 19:39:11.373554"
+    },
+    {
+        "id": 11156,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 82,
+        "site_start": "2025-01-11 18:49:05.057027",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 19:50:55.957662"
+    },
+    {
+        "id": 11186,
+        "session_id": "1793607c-8a3f-479b-860a-74d613ba5652",
+        "session_status": 2,
+        "site_start": "2025-01-11 19:23:59.469605",
+        "landing_page": "https://www.zencan.de/?sort=pqi",
+        "site_end": "2025-01-11 19:23:59.469605"
+    },
+    {
+        "id": 11123,
+        "session_id": "6ee9a029-d037-47b8-81d6-a0c22f0254e0",
+        "session_status": 1,
+        "site_start": "2025-01-11 17:53:38.021407",
+        "landing_page": "https://www.zencan.de/kultivare/ghost-train-haze",
+        "site_end": "2025-01-11 19:50:58.339127"
+    },
+    {
         "id": 10601,
         "session_id": "0f2fdbb8-830d-48ac-93c7-5629459b29dc",
         "session_status": 1,
         "site_start": "2025-01-11 00:05:09.394951",
         "landing_page": "https://www.zencan.de/ratgeber/indica-oder-sativa-es-ist-verzwickt",
-        "site_end": "2025-01-11 02:57:32.021204"
+        "site_end": "2025-01-11 19:51:00.895783"
+    },
+    {
+        "id": 11182,
+        "session_id": "b654b530-1fa8-40b9-9896-3f02f5b824c8",
+        "session_status": 1,
+        "site_start": "2025-01-11 19:22:24.964560",
+        "landing_page": "https://www.zencan.de/kultivare/jet-fuel-gelato",
+        "site_end": "2025-01-11 19:25:36.573018"
+    },
+    {
+        "id": 10600,
+        "session_id": "1f6a9b92-b09d-4712-b393-01406aa4bf8c",
+        "session_status": 1,
+        "site_start": "2025-01-11 00:05:02.342643",
+        "landing_page": "https://www.zencan.de/kultivare/g13-haze",
+        "site_end": "2025-01-11 19:51:01.517144"
+    },
+    {
+        "id": 11143,
+        "session_id": "20f673b5-8406-4dcb-a70d-df8b8c25f329",
+        "session_status": 1,
+        "site_start": "2025-01-11 18:36:44.816118",
+        "landing_page": "https://www.zencan.de/kultivare/gmo-breath",
+        "site_end": "2025-01-11 19:50:09.344607"
+    },
+    {
+        "id": 11210,
+        "session_id": "1e4fd15e-1ff0-4d3a-b274-afa8e4f697cb",
+        "session_status": 1,
+        "site_start": "2025-01-11 19:47:00.186689",
+        "landing_page": "https://www.zencan.de/kultivare/black-cherry-pie",
+        "site_end": "2025-01-11 19:47:00.186689"
+    },
+    {
+        "id": 11192,
+        "session_id": "6435b292-6d28-4b58-a029-41aea2a3d77f",
+        "session_status": 1,
+        "site_start": "2025-01-11 19:27:18.495063",
+        "landing_page": "https://www.zencan.de/kultivare/god-bud-2",
+        "site_end": "2025-01-11 19:27:18.495063"
+    },
+    {
+        "id": 11187,
+        "session_id": "1793607c-8a3f-479b-860a-74d613ba5652",
+        "session_status": 3,
+        "site_start": "2025-01-11 19:24:11.161431",
+        "landing_page": "https://www.zencan.de/terpene",
+        "site_end": "2025-01-11 19:24:21.331880"
+    },
+    {
+        "id": 11189,
+        "session_id": "1793607c-8a3f-479b-860a-74d613ba5652",
+        "session_status": 5,
+        "site_start": "2025-01-11 19:24:36.259903",
+        "landing_page": "https://www.zencan.de/ratgeber/cannabis-gegen-schmerzen",
+        "site_end": "2025-01-11 19:27:23.588832"
+    },
+    {
+        "id": 11188,
+        "session_id": "1793607c-8a3f-479b-860a-74d613ba5652",
+        "session_status": 4,
+        "site_start": "2025-01-11 19:24:23.236823",
+        "landing_page": "https://www.zencan.de/categories/cannabis-medizin",
+        "site_end": "2025-01-11 19:24:33.586501"
+    },
+    {
+        "id": 11196,
+        "session_id": "320b3f01-24f2-44d4-ad24-44182d41902d",
+        "session_status": 1,
+        "site_start": "2025-01-11 19:31:57.912993",
+        "landing_page": "https://www.zencan.de/ratgeber/thc-oel#",
+        "site_end": "2025-01-11 19:35:08.200661"
+    },
+    {
+        "id": 11211,
+        "session_id": "af63864a-7015-462a-b816-a9d2c2956768",
+        "session_status": 1,
+        "site_start": "2025-01-11 19:47:11.816896",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-11 19:49:22.102826"
+    },
+    {
+        "id": 11204,
+        "session_id": "a4400eab-58a0-4887-9b53-6bf04ace1ab9",
+        "session_status": 1,
+        "site_start": "2025-01-11 19:40:37.685189",
+        "landing_page": "https://www.zencan.de/kultivare/guava",
+        "site_end": "2025-01-11 19:43:07.892598"
+    },
+    {
+        "id": 11195,
+        "session_id": "44793f46-36fe-4636-ac30-8c3b61c227fb",
+        "session_status": 1,
+        "site_start": "2025-01-11 19:28:54.247378",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-11 19:33:14.503391"
+    },
+    {
+        "id": 11200,
+        "session_id": "108fc32f-b3a7-432f-b333-9a9ad17dc0cd",
+        "session_status": 1,
+        "site_start": "2025-01-11 19:36:33.940988",
+        "landing_page": "https://www.zencan.de/produkte/420-evolution-33-1-ca-pch-peach-chementine",
+        "site_end": "2025-01-11 19:36:33.940988"
+    },
+    {
+        "id": 11191,
+        "session_id": "c2d64aa8-c99e-42dc-a999-08d27012fcc4",
+        "session_status": 1,
+        "site_start": "2025-01-11 19:27:18.300489",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-11 19:28:38.934598"
+    },
+    {
+        "id": 11205,
+        "session_id": "da8b51cc-58de-4453-bc24-b620c289a62f",
+        "session_status": 1,
+        "site_start": "2025-01-11 19:41:24.747543",
+        "landing_page": "https://www.zencan.de/produkte/roxton-air-bs01-banana-sorbet-a82c1",
+        "site_end": "2025-01-11 19:41:24.747543"
+    },
+    {
+        "id": 11203,
+        "session_id": "0df2cd16-96ce-4d7f-b710-b6b9a1a6e4ce",
+        "session_status": 1,
+        "site_start": "2025-01-11 19:40:09.955733",
+        "landing_page": "https://www.zencan.de/kultivare/sky-pie",
+        "site_end": "2025-01-11 19:40:30.093811"
+    },
+    {
+        "id": 11198,
+        "session_id": "03353915-440a-4c16-a313-d99c072ec9d7",
+        "session_status": 1,
+        "site_start": "2025-01-11 19:35:31.767446",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-11 19:35:31.767446"
+    },
+    {
+        "id": 11206,
+        "session_id": "a4400eab-58a0-4887-9b53-6bf04ace1ab9",
+        "session_status": 2,
+        "site_start": "2025-01-11 19:43:17.621049",
+        "landing_page": "https://www.zencan.de/search?query=gelonade",
+        "site_end": "2025-01-11 19:43:17.621049"
+    },
+    {
+        "id": 11197,
+        "session_id": "44793f46-36fe-4636-ac30-8c3b61c227fb",
+        "session_status": 2,
+        "site_start": "2025-01-11 19:33:14.833054",
+        "landing_page": "https://www.zencan.de/ratgeber/indica-oder-sativa-es-ist-verzwickt",
+        "site_end": "2025-01-11 19:34:24.410745"
+    },
+    {
+        "id": 11193,
+        "session_id": "1793607c-8a3f-479b-860a-74d613ba5652",
+        "session_status": 6,
+        "site_start": "2025-01-11 19:27:24.025774",
+        "landing_page": "https://www.zencan.de/ratgeber/medizinisches-cannabis",
+        "site_end": "2025-01-11 19:42:29.082167"
+    },
+    {
+        "id": 11194,
+        "session_id": "28cc8b60-83f1-48ce-a526-481d5de2230c",
+        "session_status": 1,
+        "site_start": "2025-01-11 19:27:59.312275",
+        "landing_page": "https://www.zencan.de/produkte/peace-naturals-31-1-sc-space-cake",
+        "site_end": "2025-01-11 19:27:59.312275"
+    },
+    {
+        "id": 11199,
+        "session_id": "9116005b-136e-4d57-a3a6-5871de042873",
+        "session_status": 3,
+        "site_start": "2025-01-11 19:36:18.941936",
+        "landing_page": "https://www.zencan.de/kultivare/black-cherry-pie",
+        "site_end": "2025-01-11 19:36:49.644307"
+    },
+    {
+        "id": 11163,
+        "session_id": "0741a8cf-e799-4f35-91ce-8dfa1a994fac",
+        "session_status": 4,
+        "site_start": "2025-01-11 18:55:51.043032",
+        "landing_page": "https://www.zencan.de/produkte/tilray-thc18-spotlight-porto-headband",
+        "site_end": "2025-01-11 19:50:33.951545"
+    },
+    {
+        "id": 11091,
+        "session_id": "4cf9c67c-0c3d-448e-933b-d9ec1a7de57a",
+        "session_status": 7,
+        "site_start": "2025-01-11 16:35:08.888146",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 19:50:34.072562"
+    },
+    {
+        "id": 11190,
+        "session_id": "d1363e8c-6a77-454d-a41a-331b3219f53b",
+        "session_status": 1,
+        "site_start": "2025-01-11 19:26:53.108456",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-11 19:29:03.398796"
+    },
+    {
+        "id": 11207,
+        "session_id": "a4400eab-58a0-4887-9b53-6bf04ace1ab9",
+        "session_status": 3,
+        "site_start": "2025-01-11 19:43:25.677482",
+        "landing_page": "https://www.zencan.de/produkte/cnbs-gelo-20-1-gelonade",
+        "site_end": "2025-01-11 19:43:35.823634"
     }
 ]
