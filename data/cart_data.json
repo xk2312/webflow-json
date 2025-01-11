@@ -4601,5 +4601,81 @@
         "aponame1": "cannalivery",
         "preis1": 148.85,
         "timestamp": "2025-01-10 23:55:09.464000"
+    },
+    {
+        "id": 384,
+        "session_id": "43a1a790-ed09-4cbd-8a97-5d57086cedb3",
+        "produktname1": "demecan craft walkie talkie 31:01: sugar cake",
+        "menge1": 5,
+        "preisprogramm1": 12.99,
+        "timestamp": "2025-01-11 03:16:54.118000"
+    },
+    {
+        "id": 385,
+        "session_id": "27ada677-08dc-4fea-9eac-54b48f20d0dd",
+        "produktname1": "pedanios 27/1 pnd-ca: pink diesel",
+        "menge1": 5,
+        "preisprogramm1": 10.59,
+        "aponame1": "cannabisapo24",
+        "preis1": 52.95,
+        "timestamp": "2025-01-11 08:20:18.953000"
+    },
+    {
+        "id": 386,
+        "session_id": "27ada677-08dc-4fea-9eac-54b48f20d0dd",
+        "produktname1": "huala 25/1 ca alm: alien mints",
+        "menge1": 5,
+        "preisprogramm1": 4.99,
+        "aponame1": "mycannabis",
+        "preis1": 24.95,
+        "aponame2": "santa",
+        "preis2": 30.5,
+        "aponame3": "gruenhorn",
+        "preis3": 36.25,
+        "timestamp": "2025-01-11 08:21:42.100000"
+    },
+    {
+        "id": 387,
+        "session_id": "aa2ed4bd-e26d-4491-89c5-3993ad5686b4",
+        "produktname1": "pedanios 27/1 bly-ca: black jelly",
+        "menge1": 5,
+        "preisprogramm1": 11.99,
+        "aponame1": "gruenhorn",
+        "preis1": 59.95,
+        "aponame2": "mycannabis",
+        "preis2": 59.95,
+        "timestamp": "2025-01-11 09:05:10.723000"
+    },
+    {
+        "id": 388,
+        "session_id": "d1529343-2756-4f99-ac13-9a16ae99b75e",
+        "produktname1": "pedanios 27/1 bly-ca: black jelly",
+        "menge1": 5,
+        "preisprogramm1": 11.99,
+        "aponame1": "gruenhorn",
+        "preis1": 59.95,
+        "aponame2": "mycannabis",
+        "preis2": 59.95,
+        "timestamp": "2025-01-11 12:47:44.232000"
+    },
+    {
+        "id": 389,
+        "session_id": "0741a8cf-e799-4f35-91ce-8dfa1a994fac",
+        "produktname1": "curaleaf natural 22/1 pt wpt: wedding pop triangle",
+        "menge1": 5,
+        "preisprogramm1": 6.29,
+        "aponame1": "cannalivery",
+        "preis1": 31.45,
+        "timestamp": "2025-01-11 17:42:49.704000"
+    },
+    {
+        "id": 390,
+        "session_id": "0741a8cf-e799-4f35-91ce-8dfa1a994fac",
+        "produktname1": "tilray thc18 spotlight porto: headband",
+        "menge1": 5,
+        "preisprogramm1": 7.74,
+        "aponame1": "cannabisapo24",
+        "preis1": 38.7,
+        "timestamp": "2025-01-11 17:55:59.594000"
     }
 ]
