@@ -49608,20 +49608,20 @@
         "site_end": "2025-01-09 18:16:19.223060"
     },
     {
-        "id": 2049,
-        "session_id": "eb6cebb1-198e-4361-bc84-0149654f414d",
-        "session_status": 1,
-        "site_start": "2024-12-31 11:22:24.799813",
-        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
-        "site_end": "2025-01-11 19:50:12.269537"
-    },
-    {
         "id": 9610,
         "session_id": "960b7b41-fe27-45cf-9e65-c3ebdb0df93e",
         "session_status": 3,
         "site_start": "2025-01-09 17:26:57.799105",
         "landing_page": "https://www.zencan.de/ratgeber/thc-oel",
         "site_end": "2025-01-09 19:24:39.004025"
+    },
+    {
+        "id": 2049,
+        "session_id": "eb6cebb1-198e-4361-bc84-0149654f414d",
+        "session_status": 1,
+        "site_start": "2024-12-31 11:22:24.799813",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-11 19:53:11.767434"
     },
     {
         "id": 5958,
@@ -82605,7 +82605,7 @@
         "session_status": 1,
         "site_start": "2025-01-07 15:06:00.067988",
         "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
-        "site_end": "2025-01-11 19:50:38.181997"
+        "site_end": "2025-01-11 19:52:38.168646"
     },
     {
         "id": 10348,
@@ -88933,7 +88933,7 @@
         "session_status": 1,
         "site_start": "2025-01-11 16:44:13.793657",
         "landing_page": "https://www.zencan.de/ratgeber/grinder",
-        "site_end": "2025-01-11 19:50:06.494734"
+        "site_end": "2025-01-11 19:53:06.532825"
     },
     {
         "id": 11138,
@@ -89152,14 +89152,6 @@
         "site_end": "2025-01-11 18:45:33.768687"
     },
     {
-        "id": 11147,
-        "session_id": "e7595aab-e738-4b7a-8863-dd6c3d62e55e",
-        "session_status": 1,
-        "site_start": "2025-01-11 18:40:10.317941",
-        "landing_page": "https://www.zencan.de/produkte/remexian-30-1-bkc-black-kyber-crystal-2b3e1",
-        "site_end": "2025-01-11 19:50:38.688731"
-    },
-    {
         "id": 11164,
         "session_id": "d3565a7f-cd55-4338-bb44-6187b3857af2",
         "session_status": 3,
@@ -89240,6 +89232,14 @@
         "site_end": "2025-01-11 18:59:29.283789"
     },
     {
+        "id": 11147,
+        "session_id": "e7595aab-e738-4b7a-8863-dd6c3d62e55e",
+        "session_status": 1,
+        "site_start": "2025-01-11 18:40:10.317941",
+        "landing_page": "https://www.zencan.de/produkte/remexian-30-1-bkc-black-kyber-crystal-2b3e1",
+        "site_end": "2025-01-11 19:52:17.911041"
+    },
+    {
         "id": 11177,
         "session_id": "91e302d7-0e46-4a0b-86b5-2d160d9292e4",
         "session_status": 3,
@@ -89280,6 +89280,14 @@
         "site_end": "2025-01-11 19:11:18.370999"
     },
     {
+        "id": 11091,
+        "session_id": "4cf9c67c-0c3d-448e-933b-d9ec1a7de57a",
+        "session_status": 7,
+        "site_start": "2025-01-11 16:35:08.888146",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-11 19:53:34.071700"
+    },
+    {
         "id": 11184,
         "session_id": "55802799-c768-46d2-aab3-a0cb5aedab68",
         "session_status": 1,
@@ -89294,6 +89302,14 @@
         "site_start": "2025-01-11 19:38:13.482007",
         "landing_page": "https://www.zencan.de/kultivare/black-cherry-pie",
         "site_end": "2025-01-11 19:39:04.612040"
+    },
+    {
+        "id": 11156,
+        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
+        "session_status": 82,
+        "site_start": "2025-01-11 18:49:05.057027",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-11 19:53:34.073191"
     },
     {
         "id": 11208,
@@ -89328,14 +89344,6 @@
         "site_end": "2025-01-11 19:39:11.373554"
     },
     {
-        "id": 11156,
-        "session_id": "9225890d-753c-4a12-9fa4-e6cacf61ce00",
-        "session_status": 82,
-        "site_start": "2025-01-11 18:49:05.057027",
-        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
-        "site_end": "2025-01-11 19:50:55.957662"
-    },
-    {
         "id": 11186,
         "session_id": "1793607c-8a3f-479b-860a-74d613ba5652",
         "session_status": 2,
@@ -89344,44 +89352,12 @@
         "site_end": "2025-01-11 19:23:59.469605"
     },
     {
-        "id": 11123,
-        "session_id": "6ee9a029-d037-47b8-81d6-a0c22f0254e0",
-        "session_status": 1,
-        "site_start": "2025-01-11 17:53:38.021407",
-        "landing_page": "https://www.zencan.de/kultivare/ghost-train-haze",
-        "site_end": "2025-01-11 19:50:58.339127"
-    },
-    {
-        "id": 10601,
-        "session_id": "0f2fdbb8-830d-48ac-93c7-5629459b29dc",
-        "session_status": 1,
-        "site_start": "2025-01-11 00:05:09.394951",
-        "landing_page": "https://www.zencan.de/ratgeber/indica-oder-sativa-es-ist-verzwickt",
-        "site_end": "2025-01-11 19:51:00.895783"
-    },
-    {
         "id": 11182,
         "session_id": "b654b530-1fa8-40b9-9896-3f02f5b824c8",
         "session_status": 1,
         "site_start": "2025-01-11 19:22:24.964560",
         "landing_page": "https://www.zencan.de/kultivare/jet-fuel-gelato",
         "site_end": "2025-01-11 19:25:36.573018"
-    },
-    {
-        "id": 10600,
-        "session_id": "1f6a9b92-b09d-4712-b393-01406aa4bf8c",
-        "session_status": 1,
-        "site_start": "2025-01-11 00:05:02.342643",
-        "landing_page": "https://www.zencan.de/kultivare/g13-haze",
-        "site_end": "2025-01-11 19:51:01.517144"
-    },
-    {
-        "id": 11143,
-        "session_id": "20f673b5-8406-4dcb-a70d-df8b8c25f329",
-        "session_status": 1,
-        "site_start": "2025-01-11 18:36:44.816118",
-        "landing_page": "https://www.zencan.de/kultivare/gmo-breath",
-        "site_end": "2025-01-11 19:50:09.344607"
     },
     {
         "id": 11210,
@@ -89464,6 +89440,14 @@
         "site_end": "2025-01-11 19:36:33.940988"
     },
     {
+        "id": 11143,
+        "session_id": "20f673b5-8406-4dcb-a70d-df8b8c25f329",
+        "session_status": 1,
+        "site_start": "2025-01-11 18:36:44.816118",
+        "landing_page": "https://www.zencan.de/kultivare/gmo-breath",
+        "site_end": "2025-01-11 19:53:09.335375"
+    },
+    {
         "id": 11191,
         "session_id": "c2d64aa8-c99e-42dc-a999-08d27012fcc4",
         "session_status": 1,
@@ -89536,20 +89520,20 @@
         "site_end": "2025-01-11 19:36:49.644307"
     },
     {
-        "id": 11163,
-        "session_id": "0741a8cf-e799-4f35-91ce-8dfa1a994fac",
-        "session_status": 4,
-        "site_start": "2025-01-11 18:55:51.043032",
-        "landing_page": "https://www.zencan.de/produkte/tilray-thc18-spotlight-porto-headband",
-        "site_end": "2025-01-11 19:50:33.951545"
+        "id": 11212,
+        "session_id": "798a3a08-da11-4c5e-8379-aa73cfce94b8",
+        "session_status": 1,
+        "site_start": "2025-01-11 19:52:18.831037",
+        "landing_page": "https://www.zencan.de/produkte/peace-naturals-33-1-sc-space-cake",
+        "site_end": "2025-01-11 19:53:29.000620"
     },
     {
-        "id": 11091,
-        "session_id": "4cf9c67c-0c3d-448e-933b-d9ec1a7de57a",
-        "session_status": 7,
-        "site_start": "2025-01-11 16:35:08.888146",
-        "landing_page": "https://www.zencan.de/",
-        "site_end": "2025-01-11 19:50:34.072562"
+        "id": 11123,
+        "session_id": "6ee9a029-d037-47b8-81d6-a0c22f0254e0",
+        "session_status": 1,
+        "site_start": "2025-01-11 17:53:38.021407",
+        "landing_page": "https://www.zencan.de/kultivare/ghost-train-haze",
+        "site_end": "2025-01-11 19:53:29.169848"
     },
     {
         "id": 11190,
@@ -89566,5 +89550,29 @@
         "site_start": "2025-01-11 19:43:25.677482",
         "landing_page": "https://www.zencan.de/produkte/cnbs-gelo-20-1-gelonade",
         "site_end": "2025-01-11 19:43:35.823634"
+    },
+    {
+        "id": 10601,
+        "session_id": "0f2fdbb8-830d-48ac-93c7-5629459b29dc",
+        "session_status": 1,
+        "site_start": "2025-01-11 00:05:09.394951",
+        "landing_page": "https://www.zencan.de/ratgeber/indica-oder-sativa-es-ist-verzwickt",
+        "site_end": "2025-01-11 19:53:33.029250"
+    },
+    {
+        "id": 10600,
+        "session_id": "1f6a9b92-b09d-4712-b393-01406aa4bf8c",
+        "session_status": 1,
+        "site_start": "2025-01-11 00:05:02.342643",
+        "landing_page": "https://www.zencan.de/kultivare/g13-haze",
+        "site_end": "2025-01-11 19:53:33.347435"
+    },
+    {
+        "id": 11163,
+        "session_id": "0741a8cf-e799-4f35-91ce-8dfa1a994fac",
+        "session_status": 4,
+        "site_start": "2025-01-11 18:55:51.043032",
+        "landing_page": "https://www.zencan.de/produkte/tilray-thc18-spotlight-porto-headband",
+        "site_end": "2025-01-11 19:53:33.960442"
     }
 ]
