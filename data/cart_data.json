@@ -4808,5 +4808,91 @@
         "aponame1": "cannalivery",
         "preis1": 179.85,
         "timestamp": "2025-01-11 23:14:15.258000"
+    },
+    {
+        "id": 401,
+        "session_id": "422bd889-f3fd-4082-9d03-b97e62b47ccc",
+        "produktname1": "pedanios 22/1: ghost train haze",
+        "menge1": 5,
+        "preisprogramm1": 9.9,
+        "aponame1": "santa",
+        "preis1": 49.5,
+        "aponame2": "gruenhorn",
+        "preis2": 54.95,
+        "aponame3": "cannalivery",
+        "preis3": 54.95,
+        "timestamp": "2025-01-11 23:56:26.255000"
+    },
+    {
+        "id": 402,
+        "session_id": "c1f65b56-7642-4561-b31a-669dab4f3637",
+        "produktname1": "enua 22/1 jfg ca: jet fuel gelato",
+        "menge1": 5,
+        "preisprogramm1": 6.5,
+        "aponame1": "santa",
+        "preis1": 32.5,
+        "aponame2": "gruenhorn",
+        "preis2": 39.95,
+        "timestamp": "2025-01-12 04:26:49.271000"
+    },
+    {
+        "id": 403,
+        "session_id": "a91124b4-bb2f-4ecc-a125-a2584a1896c2",
+        "produktname1": "420 evolution 30/1 ca icc: ice cream cake kush mints",
+        "menge1": 5,
+        "preisprogramm1": 12.99,
+        "aponame1": "medicalherbs",
+        "preis1": 64.95,
+        "timestamp": "2025-01-12 07:12:06.738000"
+    },
+    {
+        "id": 404,
+        "session_id": "c829217f-b7b0-4752-aee8-611cec64af90",
+        "produktname1": "cannamedical sativa forte: duke",
+        "menge1": 5,
+        "preisprogramm1": 8.9,
+        "aponame1": "cannem",
+        "preis1": 44.5,
+        "aponame2": "cannabisapo24",
+        "preis2": 47.6,
+        "timestamp": "2025-01-12 08:30:21.429000"
+    },
+    {
+        "id": 405,
+        "session_id": "63d20235-5396-4508-b01e-3f4815072ee0",
+        "produktname1": "pedanios 22/1: ghost train haze",
+        "menge1": 5,
+        "preisprogramm1": 10.99,
+        "produktname2": "curaleaf natural 22/1 pt wpt: wedding pop triangle",
+        "menge2": 5.0,
+        "preisprogramm2": 6.29,
+        "aponame1": "cannalivery",
+        "preis1": 86.4,
+        "timestamp": "2025-01-12 11:06:55.844000"
+    },
+    {
+        "id": 406,
+        "session_id": "d1f06a21-4442-430d-b047-e56693302efe",
+        "produktname1": "420 sungrown 25/1 ca zrp: zour apple",
+        "menge1": 5,
+        "preisprogramm1": 8.5,
+        "aponame1": "santa",
+        "preis1": 42.5,
+        "aponame2": "cannalivery",
+        "preis2": 52.45,
+        "timestamp": "2025-01-12 12:39:12.086000"
+    },
+    {
+        "id": 407,
+        "session_id": "d1f06a21-4442-430d-b047-e56693302efe",
+        "produktname1": "420 sungrown 25/1 ca zrp: zour apple",
+        "menge1": 5,
+        "preisprogramm1": 8.5,
+        "produktname2": "420 compound 30/1 ca gap: gastro pop",
+        "menge2": 5.0,
+        "preisprogramm2": 10.9,
+        "aponame1": "santa",
+        "preis1": 97.0,
+        "timestamp": "2025-01-12 12:40:21.738000"
     }
 ]
