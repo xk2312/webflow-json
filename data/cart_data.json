@@ -4894,5 +4894,51 @@
         "aponame1": "santa",
         "preis1": 97.0,
         "timestamp": "2025-01-12 12:40:21.738000"
+    },
+    {
+        "id": 408,
+        "session_id": "f634ee1c-54cd-4cc6-b7e1-95e2ab7b1d57",
+        "produktname1": "420 evolution 33/1 ca pch: peach chementine",
+        "menge1": 5,
+        "preisprogramm1": 13.99,
+        "aponame1": "cannem",
+        "preis1": 69.95,
+        "timestamp": "2025-01-12 17:18:41.415000"
+    },
+    {
+        "id": 409,
+        "session_id": "11c8ae2b-468e-499b-a9b1-17b415f2b313",
+        "produktname1": "huala 25/1 ca alm: alien mints",
+        "menge1": 5,
+        "preisprogramm1": 4.99,
+        "aponame1": "mycannabis",
+        "preis1": 24.95,
+        "aponame2": "santa",
+        "preis2": 30.5,
+        "aponame3": "gruenhorn",
+        "preis3": 36.25,
+        "timestamp": "2025-01-12 18:07:13.010000"
+    },
+    {
+        "id": 410,
+        "session_id": "acfdf97b-0e49-472e-b72c-971d33c98b80",
+        "produktname1": "remexian 28/1: godfather og x",
+        "menge1": 5,
+        "preisprogramm1": 6.95,
+        "aponame1": "santa",
+        "preis1": 34.75,
+        "timestamp": "2025-01-12 18:54:52.651000"
+    },
+    {
+        "id": 411,
+        "session_id": "05cedd76-e677-4add-9e50-c87383a86232",
+        "produktname1": "pedanios 27/1 bly-ca: black jelly",
+        "menge1": 5,
+        "preisprogramm1": 11.99,
+        "aponame1": "gruenhorn",
+        "preis1": 59.95,
+        "aponame2": "mycannabis",
+        "preis2": 59.95,
+        "timestamp": "2025-01-12 20:27:34.137000"
     }
 ]
