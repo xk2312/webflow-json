@@ -4940,5 +4940,62 @@
         "aponame2": "mycannabis",
         "preis2": 59.95,
         "timestamp": "2025-01-12 20:27:34.137000"
+    },
+    {
+        "id": 412,
+        "session_id": "0b14807e-1c91-4d81-b705-2bfbc926caa7",
+        "produktname1": "420 evolution 30/1 ca flm: frozen lemon mints",
+        "menge1": 5,
+        "preisprogramm1": 10.98,
+        "aponame1": "santa",
+        "preis1": 54.9,
+        "aponame2": "cannalivery",
+        "preis2": 59.95,
+        "aponame3": "mycannabis",
+        "preis3": 59.95,
+        "timestamp": "2025-01-13 01:07:05.165000"
+    },
+    {
+        "id": 413,
+        "session_id": "0b14807e-1c91-4d81-b705-2bfbc926caa7",
+        "produktname1": "420 evolution 30/1 ca flm: frozen lemon mints",
+        "menge1": 5,
+        "preisprogramm1": 10.98,
+        "produktname2": "pedanios 27/1 frg-ca: farm gas",
+        "menge2": 5.0,
+        "preisprogramm2": 9.5,
+        "aponame1": "santa",
+        "preis1": 102.4,
+        "aponame2": "cannalivery",
+        "preis2": 112.4,
+        "timestamp": "2025-01-13 01:07:23.769000"
+    },
+    {
+        "id": 414,
+        "session_id": "0b14807e-1c91-4d81-b705-2bfbc926caa7",
+        "produktname1": "420 evolution 30/1 ca flm: frozen lemon mints",
+        "menge1": 5,
+        "preisprogramm1": 10.98,
+        "produktname2": "pedanios 27/1 frg-ca: farm gas",
+        "menge2": 5.0,
+        "preisprogramm2": 9.5,
+        "produktname3": "bedrocan: afina",
+        "menge3": 5.0,
+        "preisprogramm3": 7.99,
+        "aponame1": "santa",
+        "preis1": 142.35,
+        "aponame2": "cannalivery",
+        "preis2": 162.35,
+        "timestamp": "2025-01-13 01:07:27.954000"
+    },
+    {
+        "id": 415,
+        "session_id": "4bf2ea09-56f6-4db5-8a54-a0f579936793",
+        "produktname1": "kejf. smnz 25/1: siggis minze",
+        "menge1": 5,
+        "preisprogramm1": 13.6,
+        "aponame1": "cannabisapo24",
+        "preis1": 68.0,
+        "timestamp": "2025-01-13 09:25:20.968000"
     }
 ]
