@@ -5696,5 +5696,39 @@
         "aponame1": "cannalivery",
         "preis1": 139.85,
         "timestamp": "2025-01-14 15:21:16.342000"
+    },
+    {
+        "id": 475,
+        "session_id": "8743133d-f8dc-41e4-80e8-738c5ffca5db",
+        "produktname1": "green karat pv pt: pav\u00e9 s1",
+        "menge1": 5,
+        "preisprogramm1": 8.99,
+        "aponame1": "santa",
+        "preis1": 44.95,
+        "timestamp": "2025-01-14 21:23:39.758000"
+    },
+    {
+        "id": 476,
+        "session_id": "cb7e92f9-e6e7-4f00-af1b-85e3d99864d8",
+        "produktname1": "pedanios 10/10 eqi-ca: equiposa",
+        "menge1": 5,
+        "preisprogramm1": 10.79,
+        "aponame1": "cannabisapo24",
+        "preis1": 53.95,
+        "aponame2": "cannem",
+        "preis2": 54.95,
+        "aponame3": "gruenhorn",
+        "preis3": 64.45,
+        "timestamp": "2025-01-14 21:40:08.287000"
+    },
+    {
+        "id": 477,
+        "session_id": "a4e070e0-7132-438d-9de0-0571858806cb",
+        "produktname1": "peace naturals 33/1 sc: space cake",
+        "menge1": 5,
+        "preisprogramm1": 11.29,
+        "aponame1": "cannabisapo24",
+        "preis1": 56.45,
+        "timestamp": "2025-01-14 22:51:50.614000"
     }
 ]
