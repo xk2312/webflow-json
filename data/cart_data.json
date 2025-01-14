@@ -3096,6 +3096,16 @@
         "timestamp": "2025-01-07 07:59:06.190000"
     },
     {
+        "id": 456,
+        "session_id": "2ee30d09-8f29-4612-a5d5-1813991a72a3",
+        "produktname1": "imc thc22 t02: og kush",
+        "menge1": 5,
+        "preisprogramm1": 8.99,
+        "aponame1": "cannalivery",
+        "preis1": 44.95,
+        "timestamp": "2025-01-13 22:46:46.434000"
+    },
+    {
         "id": 265,
         "session_id": "b3030f50-cd25-4098-a1e9-8caf7bd61c6c",
         "produktname1": "pedanios 22/1: ghost train haze",
@@ -5436,5 +5446,73 @@
         "aponame1": "cannalivery",
         "preis1": 31.45,
         "timestamp": "2025-01-13 17:56:44.045000"
+    },
+    {
+        "id": 453,
+        "session_id": "b0b1e821-6656-4901-ae53-a34cf6d77716",
+        "produktname1": "pedanios 27/1 bly-ca: black jelly",
+        "menge1": 5,
+        "preisprogramm1": 11.99,
+        "aponame1": "gruenhorn",
+        "preis1": 59.95,
+        "aponame2": "mycannabis",
+        "preis2": 59.95,
+        "timestamp": "2025-01-13 19:28:17.314000"
+    },
+    {
+        "id": 454,
+        "session_id": "c507cc04-edd1-4429-afb9-bf0373b375da",
+        "produktname1": "pedanios 27/1 bly-ca: black jelly",
+        "menge1": 5,
+        "preisprogramm1": 11.99,
+        "aponame1": "gruenhorn",
+        "preis1": 59.95,
+        "aponame2": "mycannabis",
+        "preis2": 59.95,
+        "timestamp": "2025-01-13 20:43:11.503000"
+    },
+    {
+        "id": 455,
+        "session_id": "462e518d-8a77-461a-8b57-f3aa67f431ab",
+        "produktname1": "420 evolution 25/1 ca bul: bucket list",
+        "menge1": 5,
+        "preisprogramm1": 10.6,
+        "aponame1": "santa",
+        "preis1": 53.0,
+        "timestamp": "2025-01-13 20:51:42.420000"
+    },
+    {
+        "id": 457,
+        "session_id": "f7015712-e371-4e7f-bc91-ac1dfac4cd7d",
+        "produktname1": "remexian 14/1: white widow",
+        "menge1": 5,
+        "preisprogramm1": 3.95,
+        "aponame1": "santa",
+        "preis1": 19.75,
+        "aponame2": "cannem",
+        "preis2": 22.5,
+        "aponame3": "gruenhorn",
+        "preis3": 24.95,
+        "timestamp": "2025-01-14 00:11:49.237000"
+    },
+    {
+        "id": 458,
+        "session_id": "51733ce9-2a4c-4557-b772-1ba081687c14",
+        "produktname1": "remexian 28/1: godfather og x",
+        "menge1": 5,
+        "preisprogramm1": 6.95,
+        "aponame1": "santa",
+        "preis1": 34.75,
+        "timestamp": "2025-01-14 00:54:16.196000"
+    },
+    {
+        "id": 459,
+        "session_id": "51733ce9-2a4c-4557-b772-1ba081687c14",
+        "produktname1": "curaleaf natural 22/1 pt wpt: wedding pop triangle",
+        "menge1": 5,
+        "preisprogramm1": 6.29,
+        "aponame1": "cannalivery",
+        "preis1": 31.45,
+        "timestamp": "2025-01-14 00:59:09.358000"
     }
 ]
