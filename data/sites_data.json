@@ -67656,14 +67656,6 @@
         "site_end": "2025-01-07 12:45:20.432937"
     },
     {
-        "id": 7626,
-        "session_id": "3622b585-ad8c-45ff-9732-4e06cbc8f5fb",
-        "session_status": 3,
-        "site_start": "2025-01-07 13:07:58.478800",
-        "landing_page": "https://www.zencan.de/apo-partner-landing",
-        "site_end": "2025-01-14 21:17:46.469365"
-    },
-    {
         "id": 7383,
         "session_id": "d052c873-9e92-4c90-b822-a3510cc0ffbf",
         "session_status": 2,
@@ -68102,6 +68094,14 @@
         "site_start": "2025-01-13 08:33:56.749523",
         "landing_page": "https://www.zencan.de/kultivare/super-haze-x-amnesia?visitor_id=03afa879-6c94-42b0-a1be-abd5294d2a24",
         "site_end": "2025-01-13 08:33:56.749523"
+    },
+    {
+        "id": 7626,
+        "session_id": "3622b585-ad8c-45ff-9732-4e06cbc8f5fb",
+        "session_status": 3,
+        "site_start": "2025-01-07 13:07:58.478800",
+        "landing_page": "https://www.zencan.de/apo-partner-landing",
+        "site_end": "2025-01-14 22:59:08.567351"
     },
     {
         "id": 9252,
@@ -89792,6 +89792,14 @@
         "site_end": "2025-01-10 22:31:46.445744"
     },
     {
+        "id": 10497,
+        "session_id": "482b2729-73f8-49ca-ab7a-cd6508dcf60c",
+        "session_status": 1,
+        "site_start": "2025-01-10 21:40:36.593315",
+        "landing_page": "https://www.zencan.de/produkte/gr-nhorn-gg-22-1-gorilla-glue",
+        "site_end": "2025-01-14 23:31:18.652310"
+    },
+    {
         "id": 10534,
         "session_id": "7e43c238-7acd-473f-8725-8bc6a2ba28ae",
         "session_status": 1,
@@ -89918,14 +89926,6 @@
         "site_start": "2025-01-13 16:43:40.621357",
         "landing_page": "https://www.zencan.de/kultivare/purple-haze",
         "site_end": "2025-01-13 16:43:40.621357"
-    },
-    {
-        "id": 10497,
-        "session_id": "482b2729-73f8-49ca-ab7a-cd6508dcf60c",
-        "session_status": 1,
-        "site_start": "2025-01-10 21:40:36.593315",
-        "landing_page": "https://www.zencan.de/produkte/gr-nhorn-gg-22-1-gorilla-glue",
-        "site_end": "2025-01-14 09:44:23.492053"
     },
     {
         "id": 10551,
@@ -94917,7 +94917,7 @@
         "session_status": 15,
         "site_start": "2025-01-11 17:33:17.349932",
         "landing_page": "https://www.zencan.de/excalibur/user-tracking",
-        "site_end": "2025-01-14 21:17:46.358128"
+        "site_end": "2025-01-14 22:59:08.682772"
     },
     {
         "id": 11120,
@@ -103816,14 +103816,6 @@
         "site_end": "2025-01-13 23:20:20.571789"
     },
     {
-        "id": 7693,
-        "session_id": "74b38058-7a90-4cea-a8b2-7c79c4e4ffdd",
-        "session_status": 1,
-        "site_start": "2025-01-07 15:06:00.067988",
-        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
-        "site_end": "2025-01-14 21:20:23.089039"
-    },
-    {
         "id": 13178,
         "session_id": "309753e0-da3a-47b0-afd3-e4ef5d5c7fd9",
         "session_status": 1,
@@ -103838,6 +103830,14 @@
         "site_start": "2025-01-13 23:21:35.785511",
         "landing_page": "https://www.zencan.de/ratgeber/cannabis-dein-ausweg-aus-schlaflosen-nachten",
         "site_end": "2025-01-13 23:21:35.785511"
+    },
+    {
+        "id": 7693,
+        "session_id": "74b38058-7a90-4cea-a8b2-7c79c4e4ffdd",
+        "session_status": 1,
+        "site_start": "2025-01-07 15:06:00.067988",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-14 21:30:23.087638"
     },
     {
         "id": 12889,
@@ -106976,14 +106976,6 @@
         "site_end": "2025-01-14 17:50:55.466705"
     },
     {
-        "id": 13383,
-        "session_id": "1b4d6e40-1e82-4f90-a763-eff2ae572299",
-        "session_status": 1,
-        "site_start": "2025-01-14 17:06:26.720412",
-        "landing_page": "https://www.zencan.de/kultivare/silver-haze",
-        "site_end": "2025-01-14 21:20:38.004891"
-    },
-    {
         "id": 13372,
         "session_id": "999bde5a-f6c2-49ac-8e50-a933dbb32f1a",
         "session_status": 1,
@@ -107094,6 +107086,14 @@
         "site_start": "2025-01-14 17:53:38.187951",
         "landing_page": "https://www.zencan.de/kultivare/frosted-lemon-angel",
         "site_end": "2025-01-14 17:53:38.187951"
+    },
+    {
+        "id": 13383,
+        "session_id": "1b4d6e40-1e82-4f90-a763-eff2ae572299",
+        "session_status": 1,
+        "site_start": "2025-01-14 17:06:26.720412",
+        "landing_page": "https://www.zencan.de/kultivare/silver-haze",
+        "site_end": "2025-01-14 23:54:44.397262"
     },
     {
         "id": 13411,
@@ -107248,6 +107248,14 @@
         "site_end": "2025-01-14 19:02:50.817208"
     },
     {
+        "id": 13596,
+        "session_id": "00ba4cb2-4811-4060-b0b1-bceef7fcf22a",
+        "session_status": 39,
+        "site_start": "2025-01-14 22:25:17.932407",
+        "landing_page": "https://www.zencan.de/ratgeber/sativa-oder-indica-18-der-cannabis-produkte-sind-falsch-etikettiert",
+        "site_end": "2025-01-14 22:31:48.014435"
+    },
+    {
         "id": 13487,
         "session_id": "977fa66b-3f1f-4841-9eda-2191ccae102b",
         "session_status": 1,
@@ -107264,6 +107272,30 @@
         "site_end": "2025-01-14 20:09:10.745484"
     },
     {
+        "id": 13544,
+        "session_id": "12946776-05f3-4613-8967-7611c8872cb6",
+        "session_status": 1,
+        "site_start": "2025-01-14 21:32:58.474596",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-14 21:33:09.479214"
+    },
+    {
+        "id": 13576,
+        "session_id": "e7a17321-bbbd-42b2-87b2-8643976cdb3e",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:11:48.378373",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-14 22:11:48.378373"
+    },
+    {
+        "id": 13577,
+        "session_id": "feba378a-99f7-469b-8918-36eb61bcdfd1",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:11:49.083868",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-14 22:11:49.083868"
+    },
+    {
         "id": 13508,
         "session_id": "d287ff50-cae6-4d62-85ec-7f3e41756df6",
         "session_status": 1,
@@ -107272,12 +107304,12 @@
         "site_end": "2025-01-14 20:36:36.530342"
     },
     {
-        "id": 13431,
-        "session_id": "85ca3d92-d619-43ec-885e-8e6e368cb63b",
-        "session_status": 1,
-        "site_start": "2025-01-14 18:40:28.028205",
-        "landing_page": "https://www.zencan.de/",
-        "site_end": "2025-01-14 20:47:01.727941"
+        "id": 13570,
+        "session_id": "7dc573c0-ca72-44d1-9f2b-741d388dcf7c",
+        "session_status": 4,
+        "site_start": "2025-01-14 22:06:14.658399",
+        "landing_page": "https://www.zencan.de/categories/cannabis-kaufen",
+        "site_end": "2025-01-14 22:12:30.356178"
     },
     {
         "id": 13518,
@@ -107296,12 +107328,84 @@
         "site_end": "2025-01-14 21:03:21.909992"
     },
     {
+        "id": 13581,
+        "session_id": "1d298d2f-ce38-4ca4-ab64-a59dcf3473e4",
+        "session_status": 2,
+        "site_start": "2025-01-14 22:18:57.377215",
+        "landing_page": "https://www.zencan.de/ratgeber",
+        "site_end": "2025-01-14 22:18:57.377215"
+    },
+    {
+        "id": 13591,
+        "session_id": "67964fbc-b46f-4958-8ae8-24020fbaa57d",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:22:19.637791",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-14 22:22:19.637791"
+    },
+    {
+        "id": 13592,
+        "session_id": "f7cc39b3-0a7a-4b32-969c-87a4c9792ec9",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:22:20.519853",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-14 22:22:20.519853"
+    },
+    {
+        "id": 13595,
+        "session_id": "00ba4cb2-4811-4060-b0b1-bceef7fcf22a",
+        "session_status": 38,
+        "site_start": "2025-01-14 22:25:14.334113",
+        "landing_page": "https://www.zencan.de/ratgeber",
+        "site_end": "2025-01-14 22:25:14.334113"
+    },
+    {
         "id": 13526,
         "session_id": "daad256e-5e16-40ac-bf35-c705efc9a2c2",
         "session_status": 3,
         "site_start": "2025-01-14 21:04:08.231900",
         "landing_page": "https://www.zencan.de/",
         "site_end": "2025-01-14 21:04:48.582634"
+    },
+    {
+        "id": 13431,
+        "session_id": "85ca3d92-d619-43ec-885e-8e6e368cb63b",
+        "session_status": 1,
+        "site_start": "2025-01-14 18:40:28.028205",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-14 23:12:16.687244"
+    },
+    {
+        "id": 13597,
+        "session_id": "a6ea3b16-86f6-4aaa-80ed-cf8b42a6ee01",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:25:26.887849",
+        "landing_page": "https://www.zencan.de/kultivare/strawberry-og",
+        "site_end": "2025-01-14 22:26:57.120541"
+    },
+    {
+        "id": 13565,
+        "session_id": "00ba4cb2-4811-4060-b0b1-bceef7fcf22a",
+        "session_status": 27,
+        "site_start": "2025-01-14 22:00:48.501801",
+        "landing_page": "https://www.zencan.de/ratgeber",
+        "site_end": "2025-01-14 22:01:28.678717"
+    },
+    {
+        "id": 13568,
+        "session_id": "7dc573c0-ca72-44d1-9f2b-741d388dcf7c",
+        "session_status": 2,
+        "site_start": "2025-01-14 22:05:27.914446",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-14 22:05:38.764391"
+    },
+    {
+        "id": 13569,
+        "session_id": "7dc573c0-ca72-44d1-9f2b-741d388dcf7c",
+        "session_status": 3,
+        "site_start": "2025-01-14 22:05:49.237236",
+        "landing_page": "https://www.zencan.de/produkte/mother-28-b8-can-beta-808",
+        "site_end": "2025-01-14 22:06:00.016474"
     },
     {
         "id": 13424,
@@ -107405,7 +107509,7 @@
         "session_status": 1,
         "site_start": "2024-12-31 11:22:24.799813",
         "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
-        "site_end": "2025-01-14 21:20:28.388768"
+        "site_end": "2025-01-15 00:03:28.453784"
     },
     {
         "id": 13484,
@@ -107864,12 +107968,12 @@
         "site_end": "2025-01-14 20:32:16.070625"
     },
     {
-        "id": 13389,
-        "session_id": "1d298d2f-ce38-4ca4-ab64-a59dcf3473e4",
+        "id": 13531,
+        "session_id": "5f331055-fffe-4f3b-8dd9-1e769c5246d1",
         "session_status": 1,
-        "site_start": "2025-01-14 17:22:13.842202",
-        "landing_page": "https://www.zencan.de/produkte/420-evolution-25-1-ca-pld-plum-driver",
-        "site_end": "2025-01-14 21:20:23.268161"
+        "site_start": "2025-01-14 21:12:41.334819",
+        "landing_page": "https://www.zencan.de/kultivare/super-citra-g",
+        "site_end": "2025-01-14 23:00:35.448418"
     },
     {
         "id": 13503,
@@ -107910,14 +108014,6 @@
         "site_start": "2025-01-14 20:32:40.145155",
         "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
         "site_end": "2025-01-14 20:32:50.288680"
-    },
-    {
-        "id": 13393,
-        "session_id": "d3844eb0-1c80-48e1-a8a7-f6b6313239a0",
-        "session_status": 3,
-        "site_start": "2025-01-14 17:30:28.058945",
-        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
-        "site_end": "2025-01-14 21:20:23.269665"
     },
     {
         "id": 13515,
@@ -107968,12 +108064,12 @@
         "site_end": "2025-01-14 20:49:02.757151"
     },
     {
-        "id": 13532,
-        "session_id": "473a7551-a78b-4689-ba8d-b812dfc74ca7",
+        "id": 13547,
+        "session_id": "aba871b3-f85a-4d4f-9912-7b43f1ac72fb",
         "session_status": 1,
-        "site_start": "2025-01-14 21:14:04.770126",
-        "landing_page": "https://www.zencan.de/ratgeber/thc-oel",
-        "site_end": "2025-01-14 21:15:44.905085"
+        "site_start": "2025-01-14 21:34:36.285083",
+        "landing_page": "https://www.zencan.de/ratgeber/cannabis-nebenwirkungen",
+        "site_end": "2025-01-14 21:39:16.471612"
     },
     {
         "id": 13535,
@@ -108024,12 +108120,12 @@
         "site_end": "2025-01-14 20:37:11.765467"
     },
     {
-        "id": 13312,
-        "session_id": "1e43b13e-ccdb-42ab-8779-0c567576d13c",
+        "id": 13541,
+        "session_id": "06b401d8-be15-466f-9f81-d5c00e85c52a",
         "session_status": 1,
-        "site_start": "2025-01-14 15:13:31.163410",
-        "landing_page": "https://www.zencan.de/produkte/demecan-craft-fcf-31-01-first-class-funk",
-        "site_end": "2025-01-14 21:20:23.273852"
+        "site_start": "2025-01-14 21:25:26.123740",
+        "landing_page": "https://www.zencan.de/kultivare/strawberry-og",
+        "site_end": "2025-01-14 21:25:37.129008"
     },
     {
         "id": 13528,
@@ -108038,6 +108134,14 @@
         "site_start": "2025-01-14 21:04:57.270306",
         "landing_page": "https://www.zencan.de/produkte/pedanios-27-1-bly-ca-black-jelly",
         "site_end": "2025-01-14 21:05:18.589889"
+    },
+    {
+        "id": 13553,
+        "session_id": "4a2e782e-9a65-4aab-8681-e00a46bbe5c8",
+        "session_status": 2,
+        "site_start": "2025-01-14 21:48:12.151635",
+        "landing_page": "https://www.zencan.de/?sort=thc",
+        "site_end": "2025-01-14 21:48:22.589021"
     },
     {
         "id": 13521,
@@ -108062,6 +108166,14 @@
         "site_start": "2025-01-14 21:03:52.027993",
         "landing_page": "https://www.zencan.de/ratgeber/marihuana-kaufen",
         "site_end": "2025-01-14 21:03:52.027993"
+    },
+    {
+        "id": 13542,
+        "session_id": "d8d5375d-0b9c-440a-a718-dfc6f0bd00d4",
+        "session_status": 1,
+        "site_start": "2025-01-14 21:26:02.442017",
+        "landing_page": "https://www.zencan.de/kultivare/strawberry-og",
+        "site_end": "2025-01-14 21:32:43.356130"
     },
     {
         "id": 13524,
@@ -108096,14 +108208,6 @@
         "site_end": "2025-01-14 20:27:30.127380"
     },
     {
-        "id": 11123,
-        "session_id": "6ee9a029-d037-47b8-81d6-a0c22f0254e0",
-        "session_status": 1,
-        "site_start": "2025-01-11 17:53:38.021407",
-        "landing_page": "https://www.zencan.de/kultivare/ghost-train-haze",
-        "site_end": "2025-01-14 21:20:35.079530"
-    },
-    {
         "id": 13514,
         "session_id": "12faf5af-aee7-4949-81dc-522851fcfed6",
         "session_status": 1,
@@ -108112,20 +108216,44 @@
         "site_end": "2025-01-14 20:47:06.633451"
     },
     {
-        "id": 13281,
-        "session_id": "dee8c2b3-32aa-4d2e-81ec-a4623a739171",
-        "session_status": 2,
-        "site_start": "2025-01-14 14:48:19.847373",
-        "landing_page": "https://www.zencan.de/ratgeber/cannabis-dein-ausweg-aus-schlaflosen-nachten",
-        "site_end": "2025-01-14 21:19:41.867025"
+        "id": 13548,
+        "session_id": "f9e5098c-46e3-4c92-a6ff-1d123aaaf557",
+        "session_status": 1,
+        "site_start": "2025-01-14 21:40:32.527673",
+        "landing_page": "https://www.zencan.de/ratgeber/thc-oel",
+        "site_end": "2025-01-14 21:40:32.527673"
     },
     {
-        "id": 13531,
-        "session_id": "5f331055-fffe-4f3b-8dd9-1e769c5246d1",
+        "id": 13537,
+        "session_id": "00ba4cb2-4811-4060-b0b1-bceef7fcf22a",
+        "session_status": 25,
+        "site_start": "2025-01-14 21:22:27.094931",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten",
+        "site_end": "2025-01-14 21:22:27.094931"
+    },
+    {
+        "id": 13539,
+        "session_id": "b8b81acf-ee1f-4086-9b40-0a5cef389c04",
         "session_status": 1,
-        "site_start": "2025-01-14 21:12:41.334819",
-        "landing_page": "https://www.zencan.de/kultivare/super-citra-g",
-        "site_end": "2025-01-14 21:14:35.922487"
+        "site_start": "2025-01-14 21:23:46.198231",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-14 21:24:16.339628"
+    },
+    {
+        "id": 13540,
+        "session_id": "2abf0d45-938f-41ef-9b64-b28fcdbab46c",
+        "session_status": 1,
+        "site_start": "2025-01-14 21:23:52.435553",
+        "landing_page": "https://www.zencan.de/ratgeber/dronabinol",
+        "site_end": "2025-01-14 21:25:12.731289"
+    },
+    {
+        "id": 13543,
+        "session_id": "6f192a0f-a6df-4dac-8888-607debe539d8",
+        "session_status": 1,
+        "site_start": "2025-01-14 21:31:33.614498",
+        "landing_page": "https://www.zencan.de/kultivare/gmo-breath",
+        "site_end": "2025-01-14 21:31:33.614498"
     },
     {
         "id": 13520,
@@ -108136,20 +108264,28 @@
         "site_end": "2025-01-14 21:00:38.122141"
     },
     {
-        "id": 13296,
-        "session_id": "57c2a3dd-ca26-4679-8608-be0201e977a1",
-        "session_status": 21,
-        "site_start": "2025-01-14 15:02:17.992079",
-        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
-        "site_end": "2025-01-14 21:20:23.151754"
+        "id": 13551,
+        "session_id": "ddc1cccc-b49a-439c-bb66-26f3cc9dcbc4",
+        "session_status": 1,
+        "site_start": "2025-01-14 21:46:06.651924",
+        "landing_page": "https://www.zencan.de/kultivare/chemdawg-91",
+        "site_end": "2025-01-14 21:47:46.756472"
     },
     {
-        "id": 13387,
-        "session_id": "82a2b4c0-174e-4f74-82ef-caa649f42884",
-        "session_status": 6,
-        "site_start": "2025-01-14 17:18:37.859368",
-        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten",
-        "site_end": "2025-01-14 21:20:23.179996"
+        "id": 13532,
+        "session_id": "473a7551-a78b-4689-ba8d-b812dfc74ca7",
+        "session_status": 1,
+        "site_start": "2025-01-14 21:14:04.770126",
+        "landing_page": "https://www.zencan.de/ratgeber/thc-oel",
+        "site_end": "2025-01-14 21:37:37.729422"
+    },
+    {
+        "id": 13536,
+        "session_id": "1172c392-c379-4d33-a2e8-2da9e41e3f07",
+        "session_status": 1,
+        "site_start": "2025-01-14 21:22:06.419811",
+        "landing_page": "https://www.zencan.de/ratgeber/haschkekse",
+        "site_end": "2025-01-14 21:22:46.631544"
     },
     {
         "id": 13311,
@@ -108157,6 +108293,1478 @@
         "session_status": 24,
         "site_start": "2025-01-14 15:13:20.946671",
         "landing_page": "https://www.zencan.de/canalytics-fuer-patienten",
-        "site_end": "2025-01-14 21:20:23.266517"
+        "site_end": "2025-01-14 21:22:22.764231"
+    },
+    {
+        "id": 13550,
+        "session_id": "6b06cc8a-a3ac-4e7e-9fb5-93efdf5aafae",
+        "session_status": 1,
+        "site_start": "2025-01-14 21:45:37.234697",
+        "landing_page": "https://www.zencan.de/produkte/22-1-md-cookies-medellin",
+        "site_end": "2025-01-14 21:46:37.400126"
+    },
+    {
+        "id": 13552,
+        "session_id": "4a2e782e-9a65-4aab-8681-e00a46bbe5c8",
+        "session_status": 1,
+        "site_start": "2025-01-14 21:47:57.954416",
+        "landing_page": "https://www.zencan.de/produkte/lot-420-ab-apples-bananas-b62e6",
+        "site_end": "2025-01-14 21:48:08.396498"
+    },
+    {
+        "id": 13546,
+        "session_id": "03b9bc2c-5df8-4da9-a470-0da2d062f437",
+        "session_status": 1,
+        "site_start": "2025-01-14 21:34:28.694643",
+        "landing_page": "https://www.zencan.de/ratgeber/cannabissorten",
+        "site_end": "2025-01-14 21:35:39.031843"
+    },
+    {
+        "id": 13545,
+        "session_id": "7b54e001-984e-443f-ba4e-2cb928e3906f",
+        "session_status": 1,
+        "site_start": "2025-01-14 21:33:19.079957",
+        "landing_page": "https://www.zencan.de/kultivare/do-si-dos",
+        "site_end": "2025-01-14 21:34:29.252169"
+    },
+    {
+        "id": 13554,
+        "session_id": "bebfb429-3912-4299-a70c-f0628e9e8196",
+        "session_status": 1,
+        "site_start": "2025-01-14 21:48:26.890233",
+        "landing_page": "https://www.zencan.de/kultivare/banana-kush",
+        "site_end": "2025-01-14 21:58:06.644879"
+    },
+    {
+        "id": 13549,
+        "session_id": "3a9212f4-a587-467a-bc36-f08e97cae964",
+        "session_status": 1,
+        "site_start": "2025-01-14 21:41:14.012625",
+        "landing_page": "https://www.zencan.de/kultivare/triangle-kush",
+        "site_end": "2025-01-14 21:41:24.303001"
+    },
+    {
+        "id": 13557,
+        "session_id": "4a2e782e-9a65-4aab-8681-e00a46bbe5c8",
+        "session_status": 5,
+        "site_start": "2025-01-14 21:48:58.119295",
+        "landing_page": "https://www.zencan.de/?sort=thc",
+        "site_end": "2025-01-14 21:48:58.733758"
+    },
+    {
+        "id": 13555,
+        "session_id": "4a2e782e-9a65-4aab-8681-e00a46bbe5c8",
+        "session_status": 3,
+        "site_start": "2025-01-14 21:48:29.668035",
+        "landing_page": "https://www.zencan.de/search?query=apples",
+        "site_end": "2025-01-14 21:48:39.862568"
+    },
+    {
+        "id": 13556,
+        "session_id": "4a2e782e-9a65-4aab-8681-e00a46bbe5c8",
+        "session_status": 4,
+        "site_start": "2025-01-14 21:48:44.243669",
+        "landing_page": "https://www.zencan.de/produkte/lot-420-ab-apples-bananas-b62e6",
+        "site_end": "2025-01-14 21:48:55.965638"
+    },
+    {
+        "id": 13558,
+        "session_id": "2018f70d-ee65-4c4f-b9a2-de49ac3af37c",
+        "session_status": 1,
+        "site_start": "2025-01-14 21:50:02.178439",
+        "landing_page": "https://www.zencan.de/kultivare/banana-og",
+        "site_end": "2025-01-14 21:50:22.504298"
+    },
+    {
+        "id": 13574,
+        "session_id": "00ba4cb2-4811-4060-b0b1-bceef7fcf22a",
+        "session_status": 30,
+        "site_start": "2025-01-14 22:11:34.396973",
+        "landing_page": "https://www.zencan.de/ratgeber/sativa-oder-indica-18-der-cannabis-produkte-sind-falsch-etikettiert",
+        "site_end": "2025-01-14 22:11:44.531629"
+    },
+    {
+        "id": 13296,
+        "session_id": "57c2a3dd-ca26-4679-8608-be0201e977a1",
+        "session_status": 21,
+        "site_start": "2025-01-14 15:02:17.992079",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-14 22:00:29.923295"
+    },
+    {
+        "id": 13559,
+        "session_id": "2018f70d-ee65-4c4f-b9a2-de49ac3af37c",
+        "session_status": 2,
+        "site_start": "2025-01-14 21:50:30.167454",
+        "landing_page": "https://www.zencan.de/kultivare/banana",
+        "site_end": "2025-01-14 21:50:39.473285"
+    },
+    {
+        "id": 13312,
+        "session_id": "1e43b13e-ccdb-42ab-8779-0c567576d13c",
+        "session_status": 1,
+        "site_start": "2025-01-14 15:13:31.163410",
+        "landing_page": "https://www.zencan.de/produkte/demecan-craft-fcf-31-01-first-class-funk",
+        "site_end": "2025-01-14 22:00:32.972976"
+    },
+    {
+        "id": 13587,
+        "session_id": "00ba4cb2-4811-4060-b0b1-bceef7fcf22a",
+        "session_status": 35,
+        "site_start": "2025-01-14 22:21:12.753324",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten#antagonist-delta",
+        "site_end": "2025-01-14 22:22:07.394605"
+    },
+    {
+        "id": 13393,
+        "session_id": "d3844eb0-1c80-48e1-a8a7-f6b6313239a0",
+        "session_status": 3,
+        "site_start": "2025-01-14 17:30:28.058945",
+        "landing_page": "https://www.zencan.de/excalibur/user-tracking",
+        "site_end": "2025-01-14 22:00:37.832289"
+    },
+    {
+        "id": 13589,
+        "session_id": "00ba4cb2-4811-4060-b0b1-bceef7fcf22a",
+        "session_status": 36,
+        "site_start": "2025-01-14 22:22:07.675315",
+        "landing_page": "https://www.zencan.de/ratgeber/sativa-oder-indica-18-der-cannabis-produkte-sind-falsch-etikettiert",
+        "site_end": "2025-01-14 22:22:07.675315"
+    },
+    {
+        "id": 13564,
+        "session_id": "7dc573c0-ca72-44d1-9f2b-741d388dcf7c",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:00:31.493147",
+        "landing_page": "https://www.zencan.de/produkte/mother-28-b8-can-beta-808",
+        "site_end": "2025-01-14 22:05:21.752120"
+    },
+    {
+        "id": 13538,
+        "session_id": "00ba4cb2-4811-4060-b0b1-bceef7fcf22a",
+        "session_status": 26,
+        "site_start": "2025-01-14 21:22:32.188449",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten",
+        "site_end": "2025-01-14 22:00:42.413814"
+    },
+    {
+        "id": 13606,
+        "session_id": "00ba4cb2-4811-4060-b0b1-bceef7fcf22a",
+        "session_status": 43,
+        "site_start": "2025-01-14 22:34:12.853928",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten#antagonist-delta-button",
+        "site_end": "2025-01-14 22:34:31.841130"
+    },
+    {
+        "id": 13604,
+        "session_id": "00ba4cb2-4811-4060-b0b1-bceef7fcf22a",
+        "session_status": 42,
+        "site_start": "2025-01-14 22:33:47.067363",
+        "landing_page": "https://www.zencan.de/ratgeber/sativa-oder-indica-18-der-cannabis-produkte-sind-falsch-etikettiert",
+        "site_end": "2025-01-14 22:34:08.170838"
+    },
+    {
+        "id": 13563,
+        "session_id": "26c7b6c3-ed97-48f4-929e-2148e2d8eb2a",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:00:31.045697",
+        "landing_page": "https://www.zencan.de/kultivare/citral",
+        "site_end": "2025-01-14 22:01:01.656196"
+    },
+    {
+        "id": 13560,
+        "session_id": "2018f70d-ee65-4c4f-b9a2-de49ac3af37c",
+        "session_status": 3,
+        "site_start": "2025-01-14 21:50:42.253830",
+        "landing_page": "https://www.zencan.de/kultivare/og-kush",
+        "site_end": "2025-01-14 21:52:02.657278"
+    },
+    {
+        "id": 13561,
+        "session_id": "530cfee6-5167-4fb0-b520-ac202b769387",
+        "session_status": 1,
+        "site_start": "2025-01-14 21:52:09.036430",
+        "landing_page": "https://www.zencan.de/produkte/sibanax-gmo-zkittlez-21-1-gmo-zkittlez",
+        "site_end": "2025-01-14 21:52:09.036430"
+    },
+    {
+        "id": 13566,
+        "session_id": "00ba4cb2-4811-4060-b0b1-bceef7fcf22a",
+        "session_status": 28,
+        "site_start": "2025-01-14 22:01:30.774343",
+        "landing_page": "https://www.zencan.de/ratgeber/sativa-oder-indica-18-der-cannabis-produkte-sind-falsch-etikettiert",
+        "site_end": "2025-01-14 22:09:31.459849"
+    },
+    {
+        "id": 13590,
+        "session_id": "00ba4cb2-4811-4060-b0b1-bceef7fcf22a",
+        "session_status": 37,
+        "site_start": "2025-01-14 22:22:10.774585",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten#antagonist-delta",
+        "site_end": "2025-01-14 22:25:10.923250"
+    },
+    {
+        "id": 13600,
+        "session_id": "11c7a646-0b5c-47c8-9cc8-7c6a37c127d5",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:28:38.333085",
+        "landing_page": "https://www.zencan.de/kultivare/nevilles-haze",
+        "site_end": "2025-01-14 22:29:58.610048"
+    },
+    {
+        "id": 13612,
+        "session_id": "cb7e92f9-e6e7-4f00-af1b-85e3d99864d8",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:36:41.640733",
+        "landing_page": "https://www.zencan.de/produkte/demecan-mc-epic-drop-hawaiian-rain-x-permanent-marker",
+        "site_end": "2025-01-14 22:37:02.223852"
+    },
+    {
+        "id": 13573,
+        "session_id": "1133525b-1cb1-414f-8191-d5958ab6cbfa",
+        "session_status": 3,
+        "site_start": "2025-01-14 22:10:40.405901",
+        "landing_page": "https://www.zencan.de/categories/cannabis-wirkung",
+        "site_end": "2025-01-14 22:12:16.344733"
+    },
+    {
+        "id": 13567,
+        "session_id": "1133525b-1cb1-414f-8191-d5958ab6cbfa",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:05:25.639318",
+        "landing_page": "https://www.zencan.de/kultivare/black-domina",
+        "site_end": "2025-01-14 22:10:15.757485"
+    },
+    {
+        "id": 13575,
+        "session_id": "458f909e-b36e-492b-bd64-e6fa8a6380e0",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:11:37.634689",
+        "landing_page": "https://www.zencan.de/kultivare/banana-og",
+        "site_end": "2025-01-14 22:12:17.856486"
+    },
+    {
+        "id": 13580,
+        "session_id": "00ba4cb2-4811-4060-b0b1-bceef7fcf22a",
+        "session_status": 32,
+        "site_start": "2025-01-14 22:17:37.177413",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten",
+        "site_end": "2025-01-14 22:21:00.184008"
+    },
+    {
+        "id": 13389,
+        "session_id": "1d298d2f-ce38-4ca4-ab64-a59dcf3473e4",
+        "session_status": 1,
+        "site_start": "2025-01-14 17:22:13.842202",
+        "landing_page": "https://www.zencan.de/produkte/420-evolution-25-1-ca-pld-plum-driver",
+        "site_end": "2025-01-14 22:18:53.999808"
+    },
+    {
+        "id": 13585,
+        "session_id": "00ba4cb2-4811-4060-b0b1-bceef7fcf22a",
+        "session_status": 33,
+        "site_start": "2025-01-14 22:21:01.878122",
+        "landing_page": "https://www.zencan.de/ratgeber/sativa-oder-indica-18-der-cannabis-produkte-sind-falsch-etikettiert",
+        "site_end": "2025-01-14 22:21:01.878122"
+    },
+    {
+        "id": 13562,
+        "session_id": "fb840a0b-42c5-49e8-b477-4997856df2ca",
+        "session_status": 1,
+        "site_start": "2025-01-14 21:56:27.157991",
+        "landing_page": "https://www.zencan.de/ratgeber/cannabis-nebenwirkungen",
+        "site_end": "2025-01-14 22:06:37.364227"
+    },
+    {
+        "id": 13586,
+        "session_id": "00ba4cb2-4811-4060-b0b1-bceef7fcf22a",
+        "session_status": 34,
+        "site_start": "2025-01-14 22:21:07.140469",
+        "landing_page": "https://www.zencan.de/ratgeber/sativa-oder-indica-18-der-cannabis-produkte-sind-falsch-etikettiert",
+        "site_end": "2025-01-14 22:21:07.140469"
+    },
+    {
+        "id": 13572,
+        "session_id": "1133525b-1cb1-414f-8191-d5958ab6cbfa",
+        "session_status": 2,
+        "site_start": "2025-01-14 22:10:17.750164",
+        "landing_page": "https://www.zencan.de/produkte/remexian-28-1-godfather-og-x",
+        "site_end": "2025-01-14 22:10:37.868730"
+    },
+    {
+        "id": 13582,
+        "session_id": "1d298d2f-ce38-4ca4-ab64-a59dcf3473e4",
+        "session_status": 3,
+        "site_start": "2025-01-14 22:19:01.156475",
+        "landing_page": "https://www.zencan.de/ratgeber/sativa-oder-indica-18-der-cannabis-produkte-sind-falsch-etikettiert",
+        "site_end": "2025-01-14 22:19:01.156475"
+    },
+    {
+        "id": 13607,
+        "session_id": "00ba4cb2-4811-4060-b0b1-bceef7fcf22a",
+        "session_status": 44,
+        "site_start": "2025-01-14 22:34:33.569825",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten#antagonist-delta-button",
+        "site_end": "2025-01-14 22:35:47.408808"
+    },
+    {
+        "id": 13609,
+        "session_id": "00ba4cb2-4811-4060-b0b1-bceef7fcf22a",
+        "session_status": 45,
+        "site_start": "2025-01-14 22:35:50.895793",
+        "landing_page": "https://www.zencan.de/ratgeber/sativa-oder-indica-18-der-cannabis-produkte-sind-falsch-etikettiert",
+        "site_end": "2025-01-14 22:35:50.895793"
+    },
+    {
+        "id": 13571,
+        "session_id": "00ba4cb2-4811-4060-b0b1-bceef7fcf22a",
+        "session_status": 29,
+        "site_start": "2025-01-14 22:09:35.890653",
+        "landing_page": "https://www.zencan.de/ratgeber/sativa-oder-indica-18-der-cannabis-produkte-sind-falsch-etikettiert",
+        "site_end": "2025-01-14 22:11:26.014443"
+    },
+    {
+        "id": 13594,
+        "session_id": "cc1fdee8-7302-4342-9220-e669b7fd1666",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:24:35.837552",
+        "landing_page": "https://www.zencan.de/produkte/cannamedical-sunshine-coast-eve",
+        "site_end": "2025-01-14 22:25:36.173276"
+    },
+    {
+        "id": 13614,
+        "session_id": "00ba4cb2-4811-4060-b0b1-bceef7fcf22a",
+        "session_status": 47,
+        "site_start": "2025-01-14 22:37:13.749032",
+        "landing_page": "https://www.zencan.de/ratgeber/sativa-oder-indica-18-der-cannabis-produkte-sind-falsch-etikettiert",
+        "site_end": "2025-01-14 22:37:24.120397"
+    },
+    {
+        "id": 13602,
+        "session_id": "00ba4cb2-4811-4060-b0b1-bceef7fcf22a",
+        "session_status": 41,
+        "site_start": "2025-01-14 22:32:03.612054",
+        "landing_page": "https://www.zencan.de/ratgeber/sativa-oder-indica-18-der-cannabis-produkte-sind-falsch-etikettiert",
+        "site_end": "2025-01-14 22:33:43.742387"
+    },
+    {
+        "id": 13579,
+        "session_id": "abac819c-da24-4192-9b39-1903e7edb8e6",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:15:12.338957",
+        "landing_page": "https://www.zencan.de/kultivare/thin-mint-girl-scout-cookies",
+        "site_end": "2025-01-14 22:17:33.216083"
+    },
+    {
+        "id": 13578,
+        "session_id": "00ba4cb2-4811-4060-b0b1-bceef7fcf22a",
+        "session_status": 31,
+        "site_start": "2025-01-14 22:11:51.362123",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten",
+        "site_end": "2025-01-14 22:17:35.004504"
+    },
+    {
+        "id": 13599,
+        "session_id": "2c1921dd-ade7-4819-aa98-460363a6fc4a",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:28:03.137545",
+        "landing_page": "https://www.zencan.de/kultivare/sensi-star",
+        "site_end": "2025-01-14 22:28:33.304461"
+    },
+    {
+        "id": 13584,
+        "session_id": "8743133d-f8dc-41e4-80e8-738c5ffca5db",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:19:19.902285",
+        "landing_page": "https://www.zencan.de/ratgeber/marihuana-kaufen",
+        "site_end": "2025-01-14 22:22:00.089869"
+    },
+    {
+        "id": 13601,
+        "session_id": "00ba4cb2-4811-4060-b0b1-bceef7fcf22a",
+        "session_status": 40,
+        "site_start": "2025-01-14 22:31:49.106928",
+        "landing_page": "https://www.zencan.de/ratgeber/sativa-oder-indica-18-der-cannabis-produkte-sind-falsch-etikettiert",
+        "site_end": "2025-01-14 22:31:59.359022"
+    },
+    {
+        "id": 13593,
+        "session_id": "23f10682-8c7b-49d7-8721-b88450863cb2",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:24:05.042867",
+        "landing_page": "https://www.zencan.de/ratgeber/cannabutter",
+        "site_end": "2025-01-14 22:26:05.249993"
+    },
+    {
+        "id": 13588,
+        "session_id": "8743133d-f8dc-41e4-80e8-738c5ffca5db",
+        "session_status": 2,
+        "site_start": "2025-01-14 22:22:02.334444",
+        "landing_page": "https://www.zencan.de/?sort=thc",
+        "site_end": "2025-01-14 22:24:53.754004"
+    },
+    {
+        "id": 13605,
+        "session_id": "ff18c77a-9fb5-40d6-b0d4-12b7e16eec50",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:33:50.517326",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten#antagonist-delta-button",
+        "site_end": "2025-01-14 22:37:06.134559"
+    },
+    {
+        "id": 13611,
+        "session_id": "308b2919-3d9b-4f17-a51a-0d2516e77c9d",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:36:03.786776",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten#antagonist-delta-button",
+        "site_end": "2025-01-14 22:37:04.136249"
+    },
+    {
+        "id": 13613,
+        "session_id": "cb7e92f9-e6e7-4f00-af1b-85e3d99864d8",
+        "session_status": 2,
+        "site_start": "2025-01-14 22:37:11.426645",
+        "landing_page": "https://www.zencan.de/?sort=thc",
+        "site_end": "2025-01-14 22:38:02.019314"
+    },
+    {
+        "id": 13617,
+        "session_id": "f9d7808f-e80c-4dcf-9d96-e9a3067ab6fa",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:37:32.654676",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten#antagonist-delta-button",
+        "site_end": "2025-01-14 22:37:43.165803"
+    },
+    {
+        "id": 13608,
+        "session_id": "372376a9-713e-4bfc-8536-fdbea4180875",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:34:39.524380",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten#antagonist-delta-button",
+        "site_end": "2025-01-14 22:37:05.807085"
+    },
+    {
+        "id": 13603,
+        "session_id": "e3297981-8eee-4d8c-aa88-6d9dea134d9d",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:32:06.458595",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten#antagonist-delta-button",
+        "site_end": "2025-01-14 22:37:06.468839"
+    },
+    {
+        "id": 13598,
+        "session_id": "1e493048-e279-4e19-8df0-4e0be9fe6c9a",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:25:31.048227",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten#antagonist-delta",
+        "site_end": "2025-01-14 22:37:06.732650"
+    },
+    {
+        "id": 13610,
+        "session_id": "00ba4cb2-4811-4060-b0b1-bceef7fcf22a",
+        "session_status": 46,
+        "site_start": "2025-01-14 22:35:53.874628",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten#antagonist-delta-button",
+        "site_end": "2025-01-14 22:37:10.990873"
+    },
+    {
+        "id": 13615,
+        "session_id": "07981c06-c815-4749-befc-7a51c8d1617a",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:37:20.435365",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten#antagonist-delta-button",
+        "site_end": "2025-01-14 22:37:41.118560"
+    },
+    {
+        "id": 13619,
+        "session_id": "d261d309-27b2-458d-bc69-0a797121c790",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:37:45.227117",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten#antagonist-delta-button",
+        "site_end": "2025-01-14 22:37:45.227117"
+    },
+    {
+        "id": 13618,
+        "session_id": "e9b22b08-3d2f-45da-a1d3-4b54e61a6914",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:37:36.983592",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten#antagonist-delta-button",
+        "site_end": "2025-01-14 22:37:48.137287"
+    },
+    {
+        "id": 13616,
+        "session_id": "00ba4cb2-4811-4060-b0b1-bceef7fcf22a",
+        "session_status": 48,
+        "site_start": "2025-01-14 22:37:30.575923",
+        "landing_page": "https://www.zencan.de/ratgeber/sativa-oder-indica-18-der-cannabis-produkte-sind-falsch-etikettiert",
+        "site_end": "2025-01-14 22:37:50.696145"
+    },
+    {
+        "id": 13387,
+        "session_id": "82a2b4c0-174e-4f74-82ef-caa649f42884",
+        "session_status": 6,
+        "site_start": "2025-01-14 17:18:37.859368",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten",
+        "site_end": "2025-01-14 23:01:52.910264"
+    },
+    {
+        "id": 13620,
+        "session_id": "00ba4cb2-4811-4060-b0b1-bceef7fcf22a",
+        "session_status": 49,
+        "site_start": "2025-01-14 22:37:51.876228",
+        "landing_page": "https://www.zencan.de/ratgeber/sativa-oder-indica-18-der-cannabis-produkte-sind-falsch-etikettiert",
+        "site_end": "2025-01-14 22:37:51.876228"
+    },
+    {
+        "id": 13634,
+        "session_id": "cb7e92f9-e6e7-4f00-af1b-85e3d99864d8",
+        "session_status": 5,
+        "site_start": "2025-01-14 22:44:31.271284",
+        "landing_page": "https://www.zencan.de/categories/cannabis-kaufen",
+        "site_end": "2025-01-14 22:44:41.861329"
+    },
+    {
+        "id": 13637,
+        "session_id": "58462358-2cc9-4c25-84a5-c7c9c4000464",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:44:51.165071",
+        "landing_page": "https://www.zencan.de/?sort=aroma",
+        "site_end": "2025-01-14 22:44:51.165071"
+    },
+    {
+        "id": 13630,
+        "session_id": "fc0b8c6e-93c3-443d-9196-d283e9336c51",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:42:03.314155",
+        "landing_page": "https://www.zencan.de/produkte/420-evolution-33-1-ca-pch-peach-chementine",
+        "site_end": "2025-01-14 22:42:43.924884"
+    },
+    {
+        "id": 13731,
+        "session_id": "b7915aba-ad30-474a-b946-96555baabb24",
+        "session_status": 3,
+        "site_start": "2025-01-14 23:59:57.014372",
+        "landing_page": "https://www.zencan.de/produkte/demecan-craft-cali-29-01-hawaiian-rain-x-permanent-marker",
+        "site_end": "2025-01-15 00:02:36.086422"
+    },
+    {
+        "id": 13698,
+        "session_id": "7fe14195-0bbd-4080-931a-6ed63728cf91",
+        "session_status": 10,
+        "site_start": "2025-01-14 23:39:12.400366",
+        "landing_page": "https://www.zencan.de/ratgeber",
+        "site_end": "2025-01-14 23:39:42.585524"
+    },
+    {
+        "id": 13669,
+        "session_id": "e9787460-7aa5-4d13-a326-388deb283154",
+        "session_status": 2,
+        "site_start": "2025-01-14 23:18:07.889203",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-14 23:19:08.163786"
+    },
+    {
+        "id": 13631,
+        "session_id": "2a94a74e-7d0f-47d2-a142-e0cfb1fe1818",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:43:20.988681",
+        "landing_page": "https://www.zencan.de/produkte/pedanios-31-1-cos-ca-cosmic-cream",
+        "site_end": "2025-01-14 22:45:31.303737"
+    },
+    {
+        "id": 13622,
+        "session_id": "0bb4314b-14e2-4168-a3b5-16d0ed86a4dd",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:37:56.484322",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten#antagonist-delta-button",
+        "site_end": "2025-01-14 22:39:18.691072"
+    },
+    {
+        "id": 13621,
+        "session_id": "00ba4cb2-4811-4060-b0b1-bceef7fcf22a",
+        "session_status": 50,
+        "site_start": "2025-01-14 22:37:54.825892",
+        "landing_page": "https://www.zencan.de/ratgeber/sativa-oder-indica-18-der-cannabis-produkte-sind-falsch-etikettiert",
+        "site_end": "2025-01-14 22:39:25.118596"
+    },
+    {
+        "id": 13625,
+        "session_id": "54726bc6-fed7-4b1e-8073-2680d29837c6",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:39:32.374376",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten#antagonist-delta-button",
+        "site_end": "2025-01-14 22:39:32.374376"
+    },
+    {
+        "id": 13627,
+        "session_id": "61e9e6b0-8272-4dc8-8eda-5ed03ac0e261",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:39:39.648101",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten#antagonist-delta-button",
+        "site_end": "2025-01-14 22:39:39.648101"
+    },
+    {
+        "id": 13624,
+        "session_id": "00ba4cb2-4811-4060-b0b1-bceef7fcf22a",
+        "session_status": 51,
+        "site_start": "2025-01-14 22:39:29.165002",
+        "landing_page": "https://www.zencan.de/ratgeber/sativa-oder-indica-18-der-cannabis-produkte-sind-falsch-etikettiert",
+        "site_end": "2025-01-15 00:02:57.957452"
+    },
+    {
+        "id": 13628,
+        "session_id": "61e9e6b0-8272-4dc8-8eda-5ed03ac0e261",
+        "session_status": 2,
+        "site_start": "2025-01-14 22:39:42.321352",
+        "landing_page": "https://www.zencan.de/ratgeber/sativa-oder-indica-18-der-cannabis-produkte-sind-falsch-etikettiert",
+        "site_end": "2025-01-15 00:02:57.996427"
+    },
+    {
+        "id": 13629,
+        "session_id": "da2236bd-88a4-4d84-a917-a04fd8b13404",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:39:46.900742",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten#antagonist-delta-button",
+        "site_end": "2025-01-15 00:02:58.031372"
+    },
+    {
+        "id": 13626,
+        "session_id": "54726bc6-fed7-4b1e-8073-2680d29837c6",
+        "session_status": 2,
+        "site_start": "2025-01-14 22:39:35.817059",
+        "landing_page": "https://www.zencan.de/ratgeber/sativa-oder-indica-18-der-cannabis-produkte-sind-falsch-etikettiert",
+        "site_end": "2025-01-15 00:02:58.040000"
+    },
+    {
+        "id": 13675,
+        "session_id": "e9787460-7aa5-4d13-a326-388deb283154",
+        "session_status": 6,
+        "site_start": "2025-01-14 23:20:46.066438",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-14 23:20:46.066438"
+    },
+    {
+        "id": 13623,
+        "session_id": "cb7e92f9-e6e7-4f00-af1b-85e3d99864d8",
+        "session_status": 3,
+        "site_start": "2025-01-14 22:38:12.505848",
+        "landing_page": "https://www.zencan.de/produkte/pedanios-29-1-srd-ca-sourdough",
+        "site_end": "2025-01-14 22:44:02.246814"
+    },
+    {
+        "id": 13633,
+        "session_id": "59069f84-d292-44db-a318-f5e193463c86",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:44:18.014326",
+        "landing_page": "https://www.zencan.de/categories/cannabis-wirkung",
+        "site_end": "2025-01-14 22:44:18.014326"
+    },
+    {
+        "id": 13632,
+        "session_id": "cb7e92f9-e6e7-4f00-af1b-85e3d99864d8",
+        "session_status": 4,
+        "site_start": "2025-01-14 22:44:13.760219",
+        "landing_page": "https://www.zencan.de/categories/cannabis-wirkung",
+        "site_end": "2025-01-14 22:44:24.146287"
+    },
+    {
+        "id": 13583,
+        "session_id": "1d298d2f-ce38-4ca4-ab64-a59dcf3473e4",
+        "session_status": 4,
+        "site_start": "2025-01-14 22:19:06.793959",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten#user-tracking-box21",
+        "site_end": "2025-01-15 00:02:58.066658"
+    },
+    {
+        "id": 13635,
+        "session_id": "2bdc4a69-e5ab-4448-8724-710953be72ca",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:44:35.528173",
+        "landing_page": "https://www.zencan.de/categories/cannabis-kaufen",
+        "site_end": "2025-01-14 22:44:35.528173"
+    },
+    {
+        "id": 13640,
+        "session_id": "7b503dab-1426-4963-8498-fd4d31fe9cc5",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:45:49.284573",
+        "landing_page": "https://www.zencan.de/kultivare/nevils-wreck",
+        "site_end": "2025-01-14 22:45:59.404848"
+    },
+    {
+        "id": 13725,
+        "session_id": "a4e070e0-7132-438d-9de0-0571858806cb",
+        "session_status": 4,
+        "site_start": "2025-01-14 23:52:10.203071",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-14 23:53:00.314302"
+    },
+    {
+        "id": 13733,
+        "session_id": "b7915aba-ad30-474a-b946-96555baabb24",
+        "session_status": 4,
+        "site_start": "2025-01-15 00:02:47.189261",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-15 00:03:37.366999"
+    },
+    {
+        "id": 13730,
+        "session_id": "b7915aba-ad30-474a-b946-96555baabb24",
+        "session_status": 2,
+        "site_start": "2025-01-14 23:59:27.725504",
+        "landing_page": "https://www.zencan.de/?sort=thc",
+        "site_end": "2025-01-14 23:59:48.004218"
+    },
+    {
+        "id": 13692,
+        "session_id": "2bec8f66-bb88-48af-ada5-435289ce8fa3",
+        "session_status": 2,
+        "site_start": "2025-01-14 23:38:13.652865",
+        "landing_page": "https://www.zencan.de/",
+        "site_end": "2025-01-14 23:38:22.367374"
+    },
+    {
+        "id": 13693,
+        "session_id": "7fe14195-0bbd-4080-931a-6ed63728cf91",
+        "session_status": 5,
+        "site_start": "2025-01-14 23:38:23.759776",
+        "landing_page": "https://www.zencan.de/search?query=Wedding+cake",
+        "site_end": "2025-01-14 23:38:23.759776"
+    },
+    {
+        "id": 13699,
+        "session_id": "7fe14195-0bbd-4080-931a-6ed63728cf91",
+        "session_status": 11,
+        "site_start": "2025-01-14 23:39:50.472502",
+        "landing_page": "https://www.zencan.de/ratgeber/indica-oder-sativa-es-ist-verzwickt",
+        "site_end": "2025-01-14 23:41:20.687913"
+    },
+    {
+        "id": 13641,
+        "session_id": "bcaf937e-b332-4b46-bd0a-4dc61bc9237e",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:46:55.225729",
+        "landing_page": "https://www.zencan.de/ratgeber/sativa-oder-indica-18-der-cannabis-produkte-sind-falsch-etikettiert",
+        "site_end": "2025-01-14 23:09:17.191903"
+    },
+    {
+        "id": 13636,
+        "session_id": "cb7e92f9-e6e7-4f00-af1b-85e3d99864d8",
+        "session_status": 6,
+        "site_start": "2025-01-14 22:44:47.769487",
+        "landing_page": "https://www.zencan.de/?sort=aroma",
+        "site_end": "2025-01-14 22:47:12.827750"
+    },
+    {
+        "id": 13643,
+        "session_id": "d59cc517-7dd3-4f5a-8932-ef26bfa5bc8e",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:47:21.717243",
+        "landing_page": "https://www.zencan.de/categories/cannabis-medizin",
+        "site_end": "2025-01-14 22:47:21.717243"
+    },
+    {
+        "id": 13642,
+        "session_id": "cb7e92f9-e6e7-4f00-af1b-85e3d99864d8",
+        "session_status": 7,
+        "site_start": "2025-01-14 22:47:17.422674",
+        "landing_page": "https://www.zencan.de/categories/cannabis-medizin",
+        "site_end": "2025-01-14 22:47:46.533598"
+    },
+    {
+        "id": 13645,
+        "session_id": "cb7e92f9-e6e7-4f00-af1b-85e3d99864d8",
+        "session_status": 8,
+        "site_start": "2025-01-14 22:47:50.853610",
+        "landing_page": "https://www.zencan.de/produkte/demecan-mc-epic-drop-hawaiian-rain-x-permanent-marker",
+        "site_end": "2025-01-14 22:47:50.853610"
+    },
+    {
+        "id": 13644,
+        "session_id": "40547fe6-bf02-4824-bc81-0b5efaf7b7f6",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:47:23.519954",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten#antagonist-delta-button",
+        "site_end": "2025-01-14 22:47:55.855011"
+    },
+    {
+        "id": 13647,
+        "session_id": "8ce34793-f9af-4140-9b5c-70c12053866e",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:50:13.567768",
+        "landing_page": "https://www.zencan.de/ratgeber/sativa-oder-indica-18-der-cannabis-produkte-sind-falsch-etikettiert",
+        "site_end": "2025-01-14 22:50:34.079529"
+    },
+    {
+        "id": 13638,
+        "session_id": "4fe454b4-4e93-4420-a22a-6712dbc493c6",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:45:12.970343",
+        "landing_page": "https://www.zencan.de/ratgeber/sativa-oder-indica-18-der-cannabis-produkte-sind-falsch-etikettiert",
+        "site_end": "2025-01-14 22:51:06.327545"
+    },
+    {
+        "id": 13648,
+        "session_id": "27d8a9f4-9e78-4654-ace5-1d86f7f5836f",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:50:35.101488",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten#antagonist-delta-button",
+        "site_end": "2025-01-14 22:51:52.955252"
+    },
+    {
+        "id": 13652,
+        "session_id": "1d324d93-bf2e-4ffa-b00e-465c7e3463ad",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:52:02.203277",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten#antagonist-delta-button",
+        "site_end": "2025-01-14 22:52:02.203277"
+    },
+    {
+        "id": 13281,
+        "session_id": "dee8c2b3-32aa-4d2e-81ec-a4623a739171",
+        "session_status": 2,
+        "site_start": "2025-01-14 14:48:19.847373",
+        "landing_page": "https://www.zencan.de/ratgeber/cannabis-dein-ausweg-aus-schlaflosen-nachten",
+        "site_end": "2025-01-15 00:03:41.765656"
+    },
+    {
+        "id": 13650,
+        "session_id": "7d13d2c0-8cce-404d-83aa-8c31dd927dd1",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:51:43.526992",
+        "landing_page": "https://www.zencan.de/kultivare/big-bud",
+        "site_end": "2025-01-14 22:52:23.750166"
+    },
+    {
+        "id": 13660,
+        "session_id": "58eded45-d8f7-4e64-b6e1-839d4002c695",
+        "session_status": 1,
+        "site_start": "2025-01-14 23:01:10.935587",
+        "landing_page": "https://www.zencan.de/ratgeber/sativa-oder-indica-18-der-cannabis-produkte-sind-falsch-etikettiert",
+        "site_end": "2025-01-14 23:03:03.529574"
+    },
+    {
+        "id": 13689,
+        "session_id": "2bec8f66-bb88-48af-ada5-435289ce8fa3",
+        "session_status": 1,
+        "site_start": "2025-01-14 23:37:16.504119",
+        "landing_page": "https://www.zencan.de/ratgeber/marihuana-kaufen",
+        "site_end": "2025-01-14 23:38:06.832503"
+    },
+    {
+        "id": 13657,
+        "session_id": "baefc7cf-566e-40aa-8176-a860eaa96ef3",
+        "session_status": 1,
+        "site_start": "2025-01-14 23:00:18.932032",
+        "landing_page": "https://www.zencan.de/produkte/gm-supernova-25-01-colour-of-space-12",
+        "site_end": "2025-01-14 23:00:49.091704"
+    },
+    {
+        "id": 13649,
+        "session_id": "b072e5a5-3b6c-4cbf-bafb-aad1a7d378de",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:51:39.207675",
+        "landing_page": "https://www.zencan.de/ratgeber/cannabutter",
+        "site_end": "2025-01-14 22:57:49.297566"
+    },
+    {
+        "id": 13667,
+        "session_id": "2bd990c4-58c5-4578-98aa-e127ec5cc0c5",
+        "session_status": 1,
+        "site_start": "2025-01-14 23:15:44.743759",
+        "landing_page": "https://www.zencan.de/kultivare/sunset-sherbet",
+        "site_end": "2025-01-14 23:15:44.743759"
+    },
+    {
+        "id": 13677,
+        "session_id": "7d370455-7436-4727-9595-f0e78b3cdb88",
+        "session_status": 1,
+        "site_start": "2025-01-14 23:22:41.254941",
+        "landing_page": "https://www.zencan.de/ratgeber/edibles",
+        "site_end": "2025-01-14 23:22:41.254941"
+    },
+    {
+        "id": 13678,
+        "session_id": "3219fab3-4af2-40f9-9fa7-06fd1ecb5939",
+        "session_status": 1,
+        "site_start": "2025-01-14 23:23:43.392538",
+        "landing_page": "https://www.zencan.de/produkte/420-evolution-33-1-ca-pch-peach-chementine",
+        "site_end": "2025-01-14 23:27:28.204557"
+    },
+    {
+        "id": 13672,
+        "session_id": "ab1d8de9-4cc9-4c14-b4eb-e4505f4a05b4",
+        "session_status": 1,
+        "site_start": "2025-01-14 23:19:48.330068",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten#antagonist-delta-button",
+        "site_end": "2025-01-14 23:19:48.330068"
+    },
+    {
+        "id": 13668,
+        "session_id": "e9787460-7aa5-4d13-a326-388deb283154",
+        "session_status": 1,
+        "site_start": "2025-01-14 23:17:28.390619",
+        "landing_page": "https://www.zencan.de/ratgeber/marihuana-kaufen",
+        "site_end": "2025-01-14 23:17:58.542856"
+    },
+    {
+        "id": 13673,
+        "session_id": "85842ffd-646c-45ce-a649-012719d33ab0",
+        "session_status": 1,
+        "site_start": "2025-01-14 23:19:52.679735",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten#antagonist-delta-button",
+        "site_end": "2025-01-14 23:19:52.679735"
+    },
+    {
+        "id": 13654,
+        "session_id": "3448e401-718c-4c0a-ae22-25a47e904f04",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:52:43.810277",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten#antagonist-delta-button",
+        "site_end": "2025-01-14 22:56:54.085170"
+    },
+    {
+        "id": 13658,
+        "session_id": "baefc7cf-566e-40aa-8176-a860eaa96ef3",
+        "session_status": 2,
+        "site_start": "2025-01-14 23:00:50.622892",
+        "landing_page": "https://www.zencan.de/ratgeber/preisfreiheit-fur-selbstzahler-finde-die-wahrheit-im-warenkorb-nur-mit-zencan",
+        "site_end": "2025-01-14 23:02:29.083213"
+    },
+    {
+        "id": 13687,
+        "session_id": "4e78f38c-8ca2-41a0-a5f1-2d9e863db3de",
+        "session_status": 1,
+        "site_start": "2025-01-14 23:37:06.450209",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten#antagonist-delta-button",
+        "site_end": "2025-01-15 00:02:58.069846"
+    },
+    {
+        "id": 13701,
+        "session_id": "7fe14195-0bbd-4080-931a-6ed63728cf91",
+        "session_status": 13,
+        "site_start": "2025-01-14 23:42:34.437099",
+        "landing_page": "https://www.zencan.de/search?query=Gorilla+Glue",
+        "site_end": "2025-01-14 23:42:54.649043"
+    },
+    {
+        "id": 13695,
+        "session_id": "7fe14195-0bbd-4080-931a-6ed63728cf91",
+        "session_status": 7,
+        "site_start": "2025-01-14 23:38:31.348997",
+        "landing_page": "https://www.zencan.de/produkte/cannabis-flos-25-1-prt-ku-strawberry-banana-83931",
+        "site_end": "2025-01-14 23:38:41.536825"
+    },
+    {
+        "id": 13664,
+        "session_id": "cf11ade3-e460-4e98-b19c-37a66219944d",
+        "session_status": 1,
+        "site_start": "2025-01-14 23:03:47.310351",
+        "landing_page": "https://www.zencan.de/kultivare/super-citra-g",
+        "site_end": "2025-01-14 23:03:58.156282"
+    },
+    {
+        "id": 13659,
+        "session_id": "7fe14195-0bbd-4080-931a-6ed63728cf91",
+        "session_status": 1,
+        "site_start": "2025-01-14 23:01:01.725286",
+        "landing_page": "https://www.zencan.de/kultivare/strawberry-banana",
+        "site_end": "2025-01-14 23:01:42.083475"
+    },
+    {
+        "id": 13656,
+        "session_id": "b424e261-5ead-449a-8ebf-01b0beac6cd5",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:59:47.533525",
+        "landing_page": "https://www.zencan.de/produkte/sibanax-gmo-zkittlez-21-1-gmo-zkittlez",
+        "site_end": "2025-01-14 22:59:47.533525"
+    },
+    {
+        "id": 13681,
+        "session_id": "3219fab3-4af2-40f9-9fa7-06fd1ecb5939",
+        "session_status": 2,
+        "site_start": "2025-01-14 23:27:31.317670",
+        "landing_page": "https://www.zencan.de/search?query=Gastro+Pop",
+        "site_end": "2025-01-14 23:27:51.435904"
+    },
+    {
+        "id": 13662,
+        "session_id": "82a2b4c0-174e-4f74-82ef-caa649f42884",
+        "session_status": 8,
+        "site_start": "2025-01-14 23:02:05.171573",
+        "landing_page": "https://www.zencan.de/ratgeber/sativa-oder-indica-18-der-cannabis-produkte-sind-falsch-etikettiert",
+        "site_end": "2025-01-14 23:36:55.864621"
+    },
+    {
+        "id": 13679,
+        "session_id": "188054b9-1ea6-4527-bdc8-3dadc79c3af6",
+        "session_status": 1,
+        "site_start": "2025-01-14 23:24:18.085073",
+        "landing_page": "https://www.zencan.de/kultivare/super-lemon-haze",
+        "site_end": "2025-01-14 23:24:18.085073"
+    },
+    {
+        "id": 11123,
+        "session_id": "6ee9a029-d037-47b8-81d6-a0c22f0254e0",
+        "session_status": 1,
+        "site_start": "2025-01-11 17:53:38.021407",
+        "landing_page": "https://www.zencan.de/kultivare/ghost-train-haze",
+        "site_end": "2025-01-14 23:29:02.344181"
+    },
+    {
+        "id": 13680,
+        "session_id": "fc4ecb1f-64e0-45fa-8b5f-f23247a23c08",
+        "session_status": 1,
+        "site_start": "2025-01-14 23:26:04.064153",
+        "landing_page": "https://www.zencan.de/produkte/420-evolution-33-1-ca-pch-peach-chementine",
+        "site_end": "2025-01-14 23:27:51.593682"
+    },
+    {
+        "id": 13646,
+        "session_id": "40547fe6-bf02-4824-bc81-0b5efaf7b7f6",
+        "session_status": 2,
+        "site_start": "2025-01-14 22:48:02.990339",
+        "landing_page": "https://www.zencan.de/ratgeber/sativa-oder-indica-18-der-cannabis-produkte-sind-falsch-etikettiert",
+        "site_end": "2025-01-14 22:56:06.333583"
+    },
+    {
+        "id": 13653,
+        "session_id": "1d324d93-bf2e-4ffa-b00e-465c7e3463ad",
+        "session_status": 2,
+        "site_start": "2025-01-14 22:52:11.256087",
+        "landing_page": "https://www.zencan.de/ratgeber/sativa-oder-indica-18-der-cannabis-produkte-sind-falsch-etikettiert",
+        "site_end": "2025-01-14 22:57:24.438071"
+    },
+    {
+        "id": 13661,
+        "session_id": "82a2b4c0-174e-4f74-82ef-caa649f42884",
+        "session_status": 7,
+        "site_start": "2025-01-14 23:02:01.327357",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten",
+        "site_end": "2025-01-14 23:02:01.327357"
+    },
+    {
+        "id": 13639,
+        "session_id": "ff909f45-0c41-4e8d-8681-49a51fac87d3",
+        "session_status": 1,
+        "site_start": "2025-01-14 22:45:13.061869",
+        "landing_page": "https://www.zencan.de/ratgeber/sativa-oder-indica-18-der-cannabis-produkte-sind-falsch-etikettiert",
+        "site_end": "2025-01-15 00:03:53.580229"
+    },
+    {
+        "id": 13651,
+        "session_id": "27d8a9f4-9e78-4654-ace5-1d86f7f5836f",
+        "session_status": 2,
+        "site_start": "2025-01-14 22:51:55.264231",
+        "landing_page": "https://www.zencan.de/ratgeber/sativa-oder-indica-18-der-cannabis-produkte-sind-falsch-etikettiert",
+        "site_end": "2025-01-14 22:57:30.475889"
+    },
+    {
+        "id": 13702,
+        "session_id": "7fe14195-0bbd-4080-931a-6ed63728cf91",
+        "session_status": 14,
+        "site_start": "2025-01-14 23:42:57.160986",
+        "landing_page": "https://www.zencan.de/search?query=Girl+Scout+Cookies",
+        "site_end": "2025-01-14 23:43:07.398140"
+    },
+    {
+        "id": 13663,
+        "session_id": "fcd05d10-4319-4b12-a9da-add5387b61c3",
+        "session_status": 1,
+        "site_start": "2025-01-14 23:02:14.573424",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten#antagonist-delta-button",
+        "site_end": "2025-01-14 23:02:55.817044"
+    },
+    {
+        "id": 13671,
+        "session_id": "e9787460-7aa5-4d13-a326-388deb283154",
+        "session_status": 4,
+        "site_start": "2025-01-14 23:19:33.162031",
+        "landing_page": "https://www.zencan.de/?sort=thc",
+        "site_end": "2025-01-14 23:20:33.599996"
+    },
+    {
+        "id": 13684,
+        "session_id": "7fe14195-0bbd-4080-931a-6ed63728cf91",
+        "session_status": 2,
+        "site_start": "2025-01-14 23:34:45.110078",
+        "landing_page": "https://www.zencan.de/produkte/cannabis-flos-25-1-prt-ku-strawberry-banana-83931",
+        "site_end": "2025-01-14 23:37:05.253112"
+    },
+    {
+        "id": 13674,
+        "session_id": "e9787460-7aa5-4d13-a326-388deb283154",
+        "session_status": 5,
+        "site_start": "2025-01-14 23:20:37.951033",
+        "landing_page": "https://www.zencan.de/produkte/enua-22-1-jfg-ca-jet-fuel-gelato",
+        "site_end": "2025-01-14 23:20:37.951033"
+    },
+    {
+        "id": 13670,
+        "session_id": "e9787460-7aa5-4d13-a326-388deb283154",
+        "session_status": 3,
+        "site_start": "2025-01-14 23:19:17.278391",
+        "landing_page": "https://www.zencan.de/produkte/420-sungrown-22-1-ca-lly-legendary-larry",
+        "site_end": "2025-01-14 23:19:17.278391"
+    },
+    {
+        "id": 13688,
+        "session_id": "7fe14195-0bbd-4080-931a-6ed63728cf91",
+        "session_status": 3,
+        "site_start": "2025-01-14 23:37:06.790841",
+        "landing_page": "https://www.zencan.de/search?query=Wedding+cake",
+        "site_end": "2025-01-14 23:37:06.790841"
+    },
+    {
+        "id": 13683,
+        "session_id": "afcea32c-f000-4caa-929c-cd615ba07d9d",
+        "session_status": 1,
+        "site_start": "2025-01-14 23:30:15.442367",
+        "landing_page": "https://www.zencan.de/ratgeber/marihuana-kaufen",
+        "site_end": "2025-01-14 23:30:45.627137"
+    },
+    {
+        "id": 13666,
+        "session_id": "a4dfb472-0466-4950-a4c0-ba55da9fb890",
+        "session_status": 1,
+        "site_start": "2025-01-14 23:15:37.099754",
+        "landing_page": "https://www.zencan.de/kultivare/sugar-cane",
+        "site_end": "2025-01-14 23:15:37.099754"
+    },
+    {
+        "id": 13676,
+        "session_id": "e9787460-7aa5-4d13-a326-388deb283154",
+        "session_status": 7,
+        "site_start": "2025-01-14 23:20:49.793649",
+        "landing_page": "https://www.zencan.de/ratgeber/marihuana-kaufen",
+        "site_end": "2025-01-14 23:20:49.793649"
+    },
+    {
+        "id": 13696,
+        "session_id": "7fe14195-0bbd-4080-931a-6ed63728cf91",
+        "session_status": 8,
+        "site_start": "2025-01-14 23:38:49.917051",
+        "landing_page": "https://www.zencan.de/search?query=Strawberry+banana",
+        "site_end": "2025-01-14 23:38:49.917051"
+    },
+    {
+        "id": 13682,
+        "session_id": "27b86971-5b31-4925-a902-cf41e7945491",
+        "session_status": 1,
+        "site_start": "2025-01-14 23:29:09.806637",
+        "landing_page": "https://www.zencan.de/produkte/remexian-14-1-white-widow",
+        "site_end": "2025-01-14 23:54:58.088208"
+    },
+    {
+        "id": 13690,
+        "session_id": "7fe14195-0bbd-4080-931a-6ed63728cf91",
+        "session_status": 4,
+        "site_start": "2025-01-14 23:37:17.022091",
+        "landing_page": "https://www.zencan.de/kultivare/wedding-cake",
+        "site_end": "2025-01-14 23:38:17.206396"
+    },
+    {
+        "id": 13685,
+        "session_id": "eb74fe5e-cae4-4f89-97bd-4fc72d2916b5",
+        "session_status": 1,
+        "site_start": "2025-01-14 23:35:47.997243",
+        "landing_page": "https://www.zencan.de/ratgeber/thc-oel",
+        "site_end": "2025-01-14 23:36:38.121065"
+    },
+    {
+        "id": 13697,
+        "session_id": "7fe14195-0bbd-4080-931a-6ed63728cf91",
+        "session_status": 9,
+        "site_start": "2025-01-14 23:38:53.620892",
+        "landing_page": "https://www.zencan.de/kultivare/strawberry-banana",
+        "site_end": "2025-01-14 23:39:03.805309"
+    },
+    {
+        "id": 13694,
+        "session_id": "7fe14195-0bbd-4080-931a-6ed63728cf91",
+        "session_status": 6,
+        "site_start": "2025-01-14 23:38:25.774989",
+        "landing_page": "https://www.zencan.de/produkte/cannabis-flos-25-1-prt-ku-strawberry-banana-83931",
+        "site_end": "2025-01-14 23:38:25.774989"
+    },
+    {
+        "id": 13665,
+        "session_id": "21edbe4d-b454-440e-ad06-3087f9443dea",
+        "session_status": 1,
+        "site_start": "2025-01-14 23:03:53.074230",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten#antagonist-delta-button",
+        "site_end": "2025-01-15 00:03:53.908387"
+    },
+    {
+        "id": 13700,
+        "session_id": "7fe14195-0bbd-4080-931a-6ed63728cf91",
+        "session_status": 12,
+        "site_start": "2025-01-14 23:41:30.593475",
+        "landing_page": "https://www.zencan.de/ratgeber/indica-oder-sativa-es-ist-verzwickt",
+        "site_end": "2025-01-14 23:42:30.995971"
+    },
+    {
+        "id": 13707,
+        "session_id": "7fe14195-0bbd-4080-931a-6ed63728cf91",
+        "session_status": 19,
+        "site_start": "2025-01-14 23:47:16.302175",
+        "landing_page": "https://www.zencan.de/search?query=Strawberry+glue",
+        "site_end": "2025-01-14 23:47:16.302175"
+    },
+    {
+        "id": 13705,
+        "session_id": "7fe14195-0bbd-4080-931a-6ed63728cf91",
+        "session_status": 17,
+        "site_start": "2025-01-14 23:45:27.649431",
+        "landing_page": "https://www.zencan.de/kultivare/strawberry-og",
+        "site_end": "2025-01-14 23:46:47.848728"
+    },
+    {
+        "id": 13655,
+        "session_id": "3448e401-718c-4c0a-ae22-25a47e904f04",
+        "session_status": 2,
+        "site_start": "2025-01-14 22:56:57.363784",
+        "landing_page": "https://www.zencan.de/ratgeber/sativa-oder-indica-18-der-cannabis-produkte-sind-falsch-etikettiert",
+        "site_end": "2025-01-14 23:49:51.419599"
+    },
+    {
+        "id": 13686,
+        "session_id": "82a2b4c0-174e-4f74-82ef-caa649f42884",
+        "session_status": 9,
+        "site_start": "2025-01-14 23:37:02.735810",
+        "landing_page": "https://www.zencan.de/ratgeber/sativa-oder-indica-18-der-cannabis-produkte-sind-falsch-etikettiert",
+        "site_end": "2025-01-15 00:02:58.083247"
+    },
+    {
+        "id": 13703,
+        "session_id": "7fe14195-0bbd-4080-931a-6ed63728cf91",
+        "session_status": 15,
+        "site_start": "2025-01-14 23:43:12.636391",
+        "landing_page": "https://www.zencan.de/kultivare/thin-mint-girl-scout-cookies",
+        "site_end": "2025-01-14 23:45:22.786833"
+    },
+    {
+        "id": 13704,
+        "session_id": "7fe14195-0bbd-4080-931a-6ed63728cf91",
+        "session_status": 16,
+        "site_start": "2025-01-14 23:45:25.639588",
+        "landing_page": "https://www.zencan.de/search?query=Strawberry+og",
+        "site_end": "2025-01-14 23:45:25.639588"
+    },
+    {
+        "id": 13706,
+        "session_id": "7fe14195-0bbd-4080-931a-6ed63728cf91",
+        "session_status": 18,
+        "site_start": "2025-01-14 23:46:50.313562",
+        "landing_page": "https://www.zencan.de/search?query=Strawberry+og",
+        "site_end": "2025-01-14 23:47:10.804282"
+    },
+    {
+        "id": 13691,
+        "session_id": "ab1e79e1-4532-4e76-b314-abf67e25c24f",
+        "session_status": 1,
+        "site_start": "2025-01-14 23:38:11.721973",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten#antagonist-delta-button",
+        "site_end": "2025-01-15 00:02:58.030377"
+    },
+    {
+        "id": 13709,
+        "session_id": "a4e070e0-7132-438d-9de0-0571858806cb",
+        "session_status": 1,
+        "site_start": "2025-01-14 23:47:34.800084",
+        "landing_page": "https://www.zencan.de/ratgeber/thc-oel",
+        "site_end": "2025-01-14 23:47:34.800084"
+    },
+    {
+        "id": 13711,
+        "session_id": "b96ebb72-fe54-45f9-86a1-2a3c528628a5",
+        "session_status": 1,
+        "site_start": "2025-01-14 23:47:43.237019",
+        "landing_page": "https://www.zencan.de/?sort=thc",
+        "site_end": "2025-01-14 23:47:43.237019"
+    },
+    {
+        "id": 13735,
+        "session_id": "1ad2947c-f9b9-4271-9e5d-b27f87cd0b06",
+        "session_status": 3,
+        "site_start": "2025-01-15 00:03:29.562793",
+        "landing_page": "https://www.zencan.de/produkte/grow-18-hf-mac-hellfire",
+        "site_end": "2025-01-15 00:03:49.713993"
+    },
+    {
+        "id": 13736,
+        "session_id": "62a99a6e-e95f-4f78-aa7e-bde8447a192c",
+        "session_status": 1,
+        "site_start": "2025-01-15 00:03:32.250855",
+        "landing_page": "https://www.zencan.de/canalytics-fuer-patienten#antagonist-delta-button",
+        "site_end": "2025-01-15 00:03:55.840920"
+    },
+    {
+        "id": 13726,
+        "session_id": "a4e070e0-7132-438d-9de0-0571858806cb",
+        "session_status": 5,
+        "site_start": "2025-01-14 23:53:11.489088",
+        "landing_page": "https://www.zencan.de/produkte/pedanios-29-1-srd-ca-sourdough",
+        "site_end": "2025-01-14 23:54:28.967149"
+    },
+    {
+        "id": 13708,
+        "session_id": "7fe14195-0bbd-4080-931a-6ed63728cf91",
+        "session_status": 20,
+        "site_start": "2025-01-14 23:47:19.778029",
+        "landing_page": "https://www.zencan.de/kultivare/strawberry-glue",
+        "site_end": "2025-01-14 23:49:21.066285"
+    },
+    {
+        "id": 13713,
+        "session_id": "7fe14195-0bbd-4080-931a-6ed63728cf91",
+        "session_status": 21,
+        "site_start": "2025-01-14 23:49:23.516202",
+        "landing_page": "https://www.zencan.de/search?query=Strawberry+glue",
+        "site_end": "2025-01-14 23:49:23.516202"
+    },
+    {
+        "id": 13714,
+        "session_id": "7fe14195-0bbd-4080-931a-6ed63728cf91",
+        "session_status": 22,
+        "site_start": "2025-01-14 23:49:24.727361",
+        "landing_page": "https://www.zencan.de/search?query=Strawberry+og",
+        "site_end": "2025-01-14 23:49:24.727361"
+    },
+    {
+        "id": 13715,
+        "session_id": "7fe14195-0bbd-4080-931a-6ed63728cf91",
+        "session_status": 23,
+        "site_start": "2025-01-14 23:49:25.304529",
+        "landing_page": "https://www.zencan.de/kultivare/thin-mint-girl-scout-cookies",
+        "site_end": "2025-01-14 23:49:25.304529"
+    },
+    {
+        "id": 13716,
+        "session_id": "7fe14195-0bbd-4080-931a-6ed63728cf91",
+        "session_status": 24,
+        "site_start": "2025-01-14 23:49:25.921163",
+        "landing_page": "https://www.zencan.de/search?query=Girl+Scout+Cookies",
+        "site_end": "2025-01-14 23:49:25.921163"
+    },
+    {
+        "id": 13717,
+        "session_id": "7fe14195-0bbd-4080-931a-6ed63728cf91",
+        "session_status": 25,
+        "site_start": "2025-01-14 23:49:26.938869",
+        "landing_page": "https://www.zencan.de/search?query=Gorilla+Glue",
+        "site_end": "2025-01-14 23:49:26.938869"
+    },
+    {
+        "id": 13718,
+        "session_id": "7fe14195-0bbd-4080-931a-6ed63728cf91",
+        "session_status": 26,
+        "site_start": "2025-01-14 23:49:27.811417",
+        "landing_page": "https://www.zencan.de/ratgeber/indica-oder-sativa-es-ist-verzwickt",
+        "site_end": "2025-01-14 23:49:27.811417"
+    },
+    {
+        "id": 13719,
+        "session_id": "7fe14195-0bbd-4080-931a-6ed63728cf91",
+        "session_status": 27,
+        "site_start": "2025-01-14 23:49:28.967366",
+        "landing_page": "https://www.zencan.de/ratgeber",
+        "site_end": "2025-01-14 23:49:28.967366"
+    },
+    {
+        "id": 13720,
+        "session_id": "7fe14195-0bbd-4080-931a-6ed63728cf91",
+        "session_status": 28,
+        "site_start": "2025-01-14 23:49:29.831184",
+        "landing_page": "https://www.zencan.de/kultivare/strawberry-banana",
+        "site_end": "2025-01-14 23:49:29.831184"
+    },
+    {
+        "id": 13721,
+        "session_id": "7fe14195-0bbd-4080-931a-6ed63728cf91",
+        "session_status": 29,
+        "site_start": "2025-01-14 23:49:30.937672",
+        "landing_page": "https://www.zencan.de/search?query=Strawberry+banana",
+        "site_end": "2025-01-14 23:49:30.937672"
+    },
+    {
+        "id": 13722,
+        "session_id": "7fe14195-0bbd-4080-931a-6ed63728cf91",
+        "session_status": 30,
+        "site_start": "2025-01-14 23:49:31.900589",
+        "landing_page": "https://www.zencan.de/produkte/cannabis-flos-25-1-prt-ku-strawberry-banana-83931",
+        "site_end": "2025-01-14 23:49:31.900589"
+    },
+    {
+        "id": 13727,
+        "session_id": "7fe14195-0bbd-4080-931a-6ed63728cf91",
+        "session_status": 31,
+        "site_start": "2025-01-14 23:54:09.962435",
+        "landing_page": "https://www.zencan.de/kultivare/strawberry-glue",
+        "site_end": "2025-01-14 23:54:50.160355"
+    },
+    {
+        "id": 13712,
+        "session_id": "5f9b8b9c-f664-4592-a0d9-b7abba394025",
+        "session_status": 1,
+        "site_start": "2025-01-14 23:49:04.551248",
+        "landing_page": "https://www.zencan.de/produkte/avaay-signature-28-1-gpm-gun-powder-milkshake",
+        "site_end": "2025-01-14 23:55:19.172159"
+    },
+    {
+        "id": 13728,
+        "session_id": "a4e070e0-7132-438d-9de0-0571858806cb",
+        "session_status": 6,
+        "site_start": "2025-01-14 23:54:31.202710",
+        "landing_page": "https://www.zencan.de/produkte/pedanios-27-1-bly-ca-black-jelly",
+        "site_end": "2025-01-14 23:55:52.905865"
+    },
+    {
+        "id": 13729,
+        "session_id": "b7915aba-ad30-474a-b946-96555baabb24",
+        "session_status": 1,
+        "site_start": "2025-01-14 23:59:20.286892",
+        "landing_page": "https://www.zencan.de/produkte/enua-22-1-jfg-ca-jet-fuel-gelato",
+        "site_end": "2025-01-14 23:59:20.286892"
+    },
+    {
+        "id": 13732,
+        "session_id": "1ad2947c-f9b9-4271-9e5d-b27f87cd0b06",
+        "session_status": 1,
+        "site_start": "2025-01-15 00:02:35.368991",
+        "landing_page": "https://www.zencan.de/kultivare/jack-herer",
+        "site_end": "2025-01-15 00:02:55.578797"
+    },
+    {
+        "id": 13723,
+        "session_id": "3f023fc1-2669-457e-8d19-1d47fe865b0b",
+        "session_status": 1,
+        "site_start": "2025-01-14 23:50:14.961339",
+        "landing_page": "https://www.zencan.de/produkte/green-karat-fs-fiji-sunset",
+        "site_end": "2025-01-14 23:50:35.081828"
+    },
+    {
+        "id": 13710,
+        "session_id": "a4e070e0-7132-438d-9de0-0571858806cb",
+        "session_status": 2,
+        "site_start": "2025-01-14 23:47:42.120362",
+        "landing_page": "https://www.zencan.de/?sort=thc",
+        "site_end": "2025-01-14 23:50:42.386624"
+    },
+    {
+        "id": 13734,
+        "session_id": "1ad2947c-f9b9-4271-9e5d-b27f87cd0b06",
+        "session_status": 2,
+        "site_start": "2025-01-15 00:03:05.520096",
+        "landing_page": "https://www.zencan.de/search?query=Hellfire+og+",
+        "site_end": "2025-01-15 00:03:25.666862"
+    },
+    {
+        "id": 13724,
+        "session_id": "a4e070e0-7132-438d-9de0-0571858806cb",
+        "session_status": 3,
+        "site_start": "2025-01-14 23:50:49.431892",
+        "landing_page": "https://www.zencan.de/produkte/peace-naturals-33-1-sc-space-cake",
+        "site_end": "2025-01-14 23:51:59.547213"
     }
 ]
