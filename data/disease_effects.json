@@ -1685,16 +1685,6 @@
         "time_of_day": "Tag"
     },
     {
-        "disease_id": 46,
-        "effect_id": 9,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 46,
-        "effect_id": 14,
-        "time_of_day": "Nacht"
-    },
-    {
         "disease_id": 26,
         "effect_id": 5,
         "time_of_day": "Tag"
@@ -2015,11 +2005,6 @@
         "time_of_day": "Nacht"
     },
     {
-        "disease_id": 46,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
         "disease_id": 52,
         "effect_id": 7,
         "time_of_day": "Tag"
@@ -2057,6 +2042,16 @@
     {
         "disease_id": 43,
         "effect_id": 1,
+        "time_of_day": "Nacht"
+    },
+    {
+        "disease_id": 46,
+        "effect_id": 5,
+        "time_of_day": "Nacht"
+    },
+    {
+        "disease_id": 46,
+        "effect_id": 6,
         "time_of_day": "Nacht"
     }
 ]
