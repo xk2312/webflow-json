@@ -36,10 +36,6 @@
         "kf_antagonist_delta": 0.02
     },
     {
-        "key_flower": "imc thc25 t04: strawberry og",
-        "kf_antagonist_delta": 0.2
-    },
-    {
         "key_flower": "420 compound 25/1 pt tgy: tigerz eye",
         "kf_antagonist_delta": -0.28
     },
@@ -50,10 +46,6 @@
     {
         "key_flower": "cannamedical indica forte nm: kerosene krash",
         "kf_antagonist_delta": 0.24
-    },
-    {
-        "key_flower": "bathera 21/1 zashimi: zkittlez x mochi gelato",
-        "kf_antagonist_delta": 0.52
     },
     {
         "key_flower": "cannabis flos 22/1 pt ku.: pink kush",
@@ -162,6 +154,14 @@
     {
         "key_flower": "cannabis flos 20/1 uy ku.: purple dog bud",
         "kf_antagonist_delta": -0.59
+    },
+    {
+        "key_flower": "imc thc25 t04: strawberry og",
+        "kf_antagonist_delta": 0.2
+    },
+    {
+        "key_flower": "bathera 21/1 zashimi: zkittlez x mochi gelato",
+        "kf_antagonist_delta": 0.52
     },
     {
         "key_flower": "cannabis 1a 16/1 flos: white widow",
@@ -396,6 +396,10 @@
         "kf_antagonist_delta": 0.08
     },
     {
+        "key_flower": "demecan 20:01 florestura: super haze x amnesia",
+        "kf_antagonist_delta": -0.16
+    },
+    {
         "key_flower": "pedanios 27/1 pnd-ca: pink diesel",
         "kf_antagonist_delta": 0.33
     },
@@ -418,10 +422,6 @@
     {
         "key_flower": "demecan craft walkie talkie 31:01: sugar cake",
         "kf_antagonist_delta": -0.19
-    },
-    {
-        "key_flower": "demecan 20:01 florestura: super haze x amnesia",
-        "kf_antagonist_delta": -0.16
     },
     {
         "key_flower": "cnbs vv 30/1: varnish vapor",
@@ -608,6 +608,10 @@
         "kf_antagonist_delta": 0.06
     },
     {
+        "key_flower": "demecan 22:01 florestura: super haze x amnesia",
+        "kf_antagonist_delta": -0.11
+    },
+    {
         "key_flower": "avaay 26/1 bcp: black cherry punch",
         "kf_antagonist_delta": -0.04
     },
@@ -630,10 +634,6 @@
     {
         "key_flower": "remexian 16/1: nordle",
         "kf_antagonist_delta": -0.35
-    },
-    {
-        "key_flower": "demecan 22:01 florestura: super haze x amnesia",
-        "kf_antagonist_delta": -0.11
     },
     {
         "key_flower": "grow 30: gelato sherbert",
