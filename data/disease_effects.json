@@ -2053,5 +2053,15 @@
         "disease_id": 46,
         "effect_id": 6,
         "time_of_day": "Nacht"
+    },
+    {
+        "disease_id": 46,
+        "effect_id": 14,
+        "time_of_day": "Nacht"
+    },
+    {
+        "disease_id": 46,
+        "effect_id": 15,
+        "time_of_day": "Nacht"
     }
 ]
