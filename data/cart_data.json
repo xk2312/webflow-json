@@ -6383,5 +6383,37 @@
         "aponame1": "medicalherbs",
         "preis1": 64.9,
         "timestamp": "2025-01-15 22:31:25.418000"
+    },
+    {
+        "id": 530,
+        "session_id": "71324c7e-67fb-4496-8fc0-6ba43c35e440",
+        "produktname1": "pedanios 26/1 ehd-ca: electric honeydew",
+        "menge1": 5,
+        "preisprogramm1": 10.28,
+        "aponame1": "mycannabis",
+        "preis1": 51.4,
+        "aponame2": "cannabisapo24",
+        "preis2": 52.35,
+        "timestamp": "2025-01-16 01:32:34.090000"
+    },
+    {
+        "id": 531,
+        "session_id": "a57901a3-2362-461d-b0fa-fea26b1bf934",
+        "produktname1": "peace naturals 33/1 sc: space cake",
+        "menge1": 5,
+        "preisprogramm1": 11.29,
+        "aponame1": "cannabisapo24",
+        "preis1": 56.45,
+        "timestamp": "2025-01-16 02:03:47.068000"
+    },
+    {
+        "id": 532,
+        "session_id": "e47ee719-3597-40a1-b732-a20e2ef98e0c",
+        "produktname1": "remexian 28/1: godfather og x",
+        "menge1": 5,
+        "preisprogramm1": 6.95,
+        "aponame1": "santa",
+        "preis1": 34.75,
+        "timestamp": "2025-01-16 08:29:26.076000"
     }
 ]
