@@ -6,7 +6,7 @@
         "doc_company_gf_vorname": "Jeppe",
         "doc_company_gf_nachname": "Eriksen",
         "doc_company_link": "https://canngo.express/",
-        "doc_company_status": 0,
+        "doc_company_status": 0.0,
         "doc_company_handling_fee": 0.0
     },
     {
@@ -16,7 +16,7 @@
         "doc_company_gf_vorname": "Richard",
         "doc_company_gf_nachname": "Wiesner",
         "doc_company_link": "https://www.quick-green.com/",
-        "doc_company_status": 0,
+        "doc_company_status": 0.0,
         "doc_company_handling_fee": 0.0
     },
     {
@@ -26,7 +26,7 @@
         "doc_company_gf_vorname": "Christoph",
         "doc_company_gf_nachname": "Neumeier",
         "doc_company_link": "https://greenmedical.health/de/cannabis",
-        "doc_company_status": 0,
+        "doc_company_status": 0.0,
         "doc_company_handling_fee": 0.0
     },
     {
@@ -36,7 +36,13 @@
         "doc_company_gf_vorname": "Cedric",
         "doc_company_gf_nachname": "Lehmann",
         "doc_company_link": "https://medcanonestop.com/",
-        "doc_company_status": 0,
+        "doc_company_status": 0.0,
         "doc_company_handling_fee": 0.0
+    },
+    {
+        "doc_company_id": 5,
+        "doc_company_name": "123can",
+        "doc_company_gf_vorname": "Max",
+        "doc_company_gf_nachname": "Haubold"
     }
 ]
