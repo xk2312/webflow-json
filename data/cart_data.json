@@ -9610,5 +9610,69 @@
         "aponame2": "cannalivery",
         "preis2": 69.95,
         "timestamp": "2025-01-24 19:26:17.828000"
+    },
+    {
+        "id": 787,
+        "session_id": "9354976a-d7a9-4136-9d56-481f9a90ba3e",
+        "produktname1": "curaleaf natural 22/1 pt wpt: wedding pop triangle",
+        "menge1": 5,
+        "preisprogramm1": 6.29,
+        "aponame1": "cannalivery",
+        "preis1": 31.45,
+        "timestamp": "2025-01-24 21:23:53.755000"
+    },
+    {
+        "id": 788,
+        "session_id": "2cc415d8-a90b-498e-bebc-a734de59d0d8",
+        "produktname1": "huala 25/1 ca alm: alien mints",
+        "menge1": 5,
+        "preisprogramm1": 5.9,
+        "aponame1": "santa",
+        "preis1": 29.5,
+        "aponame2": "gruenhorn",
+        "preis2": 36.25,
+        "timestamp": "2025-01-24 21:27:03.100000"
+    },
+    {
+        "id": 789,
+        "session_id": "2cc415d8-a90b-498e-bebc-a734de59d0d8",
+        "produktname1": "huala 25/1 ca alm: alien mints",
+        "menge1": 5,
+        "preisprogramm1": 5.9,
+        "produktname2": "remexian 14/1: white widow",
+        "menge2": 5.0,
+        "preisprogramm2": 3.95,
+        "aponame1": "santa",
+        "preis1": 49.25,
+        "aponame2": "gruenhorn",
+        "preis2": 61.2,
+        "timestamp": "2025-01-24 21:28:24.532000"
+    },
+    {
+        "id": 790,
+        "session_id": "6f393d93-e14f-4081-b6b0-a1a5b0001633",
+        "produktname1": "cannamedical sativa forte: duke",
+        "menge1": 5,
+        "preisprogramm1": 7.99,
+        "aponame1": "cannem",
+        "preis1": 39.95,
+        "aponame2": "cannalivery",
+        "preis2": 42.45,
+        "aponame3": "cannabisapo24",
+        "preis3": 47.6,
+        "timestamp": "2025-01-24 23:05:33.499000"
+    },
+    {
+        "id": 791,
+        "session_id": "6f393d93-e14f-4081-b6b0-a1a5b0001633",
+        "produktname1": "cannamedical sativa forte: duke",
+        "menge1": 5,
+        "preisprogramm1": 8.49,
+        "produktname2": "aurora 22/1: delahaze",
+        "menge2": 5.0,
+        "preisprogramm2": 10.99,
+        "aponame1": "cannalivery",
+        "preis1": 97.4,
+        "timestamp": "2025-01-24 23:06:30.785000"
     }
 ]
