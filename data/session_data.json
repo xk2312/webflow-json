@@ -89586,6 +89586,12 @@
         "org": "Kabel Deutschland Customer Services"
     },
     {
+        "id": 11538,
+        "session_id": "0986bd34-911f-4204-86f6-07372e5a3f37",
+        "referrer": "direct",
+        "source": "direct"
+    },
+    {
         "id": 11255,
         "session_id": "9c5a236d-f08e-4494-9850-7f40c91c0ad6",
         "referrer": "https://www.google.com/",
@@ -90647,6 +90653,13 @@
         "isp": "E-Plus Mobilfunk GmbH & Co KG"
     },
     {
+        "id": 11605,
+        "session_id": "91728fb6-40d1-4085-9ed9-fb51d10666dd",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "net"
+    },
+    {
         "id": 11389,
         "session_id": "0c290518-dfd7-4aab-a8cb-188bea797221",
         "referrer": "https://www.google.com/",
@@ -91539,5 +91552,3452 @@
         "referrer": "https://www.google.com/",
         "source": "direct",
         "isp": "Liberty Global Operations B.V"
+    },
+    {
+        "id": 11501,
+        "session_id": "3f853f10-a17e-4b8c-bfe2-8da9ebdbb888",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "T-Mobile Deutschland GmbH",
+        "org": "Telekom Deutschland GmbH"
+    },
+    {
+        "id": 11502,
+        "session_id": "613a28d7-c280-4448-b26d-ad795e85aefe",
+        "referrer": "https://www.google.de/",
+        "source": "direct",
+        "isp": "Telefonica Germany GmbH & Co. OHG",
+        "org": "Telefonica Germany GmbH & Co."
+    },
+    {
+        "id": 11503,
+        "session_id": "39b7d001-9855-4c9e-8bc3-44b4980cedcf",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Amazon.com",
+        "org": "AWS EC2 (us-east-1)"
+    },
+    {
+        "id": 11504,
+        "session_id": "f0c38f16-59dd-4e98-afc4-ec1c23409376",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Amazon.com",
+        "org": "AWS EC2 (us-east-1)"
+    },
+    {
+        "id": 11505,
+        "session_id": "e7aa098f-5b6f-4709-86f7-fac62e7b4976",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11506,
+        "session_id": "a169f109-a5d1-49b6-8cf9-bc0d21e4ae61",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11507,
+        "session_id": "d6c6a0a1-0935-4694-972d-0401073f98f6",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11508,
+        "session_id": "40812d94-db92-4a8a-8836-743929b4defd",
+        "referrer": "android-app://com.google.android.googlequicksearchbox/",
+        "source": "direct",
+        "isp": "Vodafone",
+        "org": "Vodafone NRW GmbH"
+    },
+    {
+        "id": 11509,
+        "session_id": "4a48f5b6-8503-4864-90be-f0d30d690b37",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11510,
+        "session_id": "dbd6fe7f-6b0b-427b-822b-580d69e71fc0",
+        "referrer": "android-app://com.google.android.googlequicksearchbox/",
+        "source": "direct",
+        "isp": "Vodafone",
+        "org": "Vodafone NRW GmbH"
+    },
+    {
+        "id": 11511,
+        "session_id": "92fb7dfd-b51f-44e0-9d86-ed08f6bab80a",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone",
+        "org": "Vodafone NRW GmbH"
+    },
+    {
+        "id": 11512,
+        "session_id": "6a593aeb-cdfd-4960-9b93-da0c88d59dd8",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Amazon Technologies Inc.",
+        "org": "AWS EC2 (us-east-1)"
+    },
+    {
+        "id": 11513,
+        "session_id": "d93075e0-65e1-4565-a60c-93b5a905a524",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Amazon Technologies Inc.",
+        "org": "AWS EC2 (us-east-1)"
+    },
+    {
+        "id": 11514,
+        "session_id": "df1ed183-b276-4585-88a5-eb1e54ae011f",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Google LLC",
+        "org": "Google LLC"
+    },
+    {
+        "id": 11515,
+        "session_id": "46e18777-0065-4b13-9fa4-44f6ad66f3e6",
+        "referrer": "https://www.google.de/",
+        "source": "direct",
+        "isp": "Telefonica Germany GmbH & Co. OHG",
+        "org": "Telefonica Germany GmbH & Co."
+    },
+    {
+        "id": 11516,
+        "session_id": "265b09f2-8d12-439e-94d2-1556313bd44e",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "RIMA (Red IP Multi Acceso)"
+    },
+    {
+        "id": 11517,
+        "session_id": "5af14d33-f7c3-45e5-9d63-b9a16812272b",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11518,
+        "session_id": "5138eb5b-669f-4bc9-a11c-c0abe50946cf",
+        "referrer": "https://www.bing.com/",
+        "source": "direct",
+        "isp": "Vodafone",
+        "org": "Vodafone NRW GmbH"
+    },
+    {
+        "id": 11519,
+        "session_id": "4ca86b30-a859-4013-9abc-f2cb3eaa93b2",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11520,
+        "session_id": "4a5fe3b2-8f6f-4846-9124-40c90441d9ae",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11521,
+        "session_id": "d69c35cf-bc3f-46a0-847d-0edf3424a461",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Sunrise GmbH",
+        "org": "Sunrise GmbH"
+    },
+    {
+        "id": 11522,
+        "session_id": "356e132e-f862-4a65-ac39-c9390e873c83",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Amazon.com",
+        "org": "AWS EC2 (us-east-1)"
+    },
+    {
+        "id": 11523,
+        "session_id": "3bc1d69e-d2b7-44ca-998b-1b1903bfd212",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Amazon.com",
+        "org": "AWS EC2 (us-east-1)"
+    },
+    {
+        "id": 11524,
+        "session_id": "e9c744b5-fc6b-4543-987b-7758035b60f6",
+        "referrer": "https://www.google.de/",
+        "source": "direct",
+        "isp": "Telefonica Germany GmbH & Co. OHG",
+        "org": "Telefonica Germany GmbH & Co."
+    },
+    {
+        "id": 11525,
+        "session_id": "6f71c302-6c1a-48f9-bfcb-7963f48a0954",
+        "referrer": "https://duckduckgo.com/",
+        "source": "direct",
+        "isp": "Telefonica Germany GmbH & Co.OHG",
+        "org": "Telefonica Germany GmbH & Co."
+    },
+    {
+        "id": 11526,
+        "session_id": "14a9b6a4-54bc-4ec3-abb0-25b1a5c704a1",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Stadtwerke Neustrelitz GmbH",
+        "org": "Stadtwerke Neustrelitz GmbH"
+    },
+    {
+        "id": 11527,
+        "session_id": "544f6856-e8f8-49f0-a9ec-bd425eb0ce91",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "M-net Telekommunikations GmbH",
+        "org": "MNET"
+    },
+    {
+        "id": 11528,
+        "session_id": "80fe2d47-e60b-4600-b5ae-3c276855c57b",
+        "referrer": "https://www.google.de/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11529,
+        "session_id": "820cacd7-5e3b-4607-99bc-568164c83e91",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11530,
+        "session_id": "1d198ec8-9542-48f1-aaa9-798b066dcdba",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11531,
+        "session_id": "a191d7fb-f0eb-4ed4-9402-8a19ccbdb9cd",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Proximus Luxembourg S.A.",
+        "org": "Proximus Luxembourg S.A."
+    },
+    {
+        "id": 11532,
+        "session_id": "288100fa-5c28-4b17-b0cc-62c0342fec83",
+        "referrer": "https://duckduckgo.com/",
+        "source": "direct",
+        "isp": "Telefonica Germany GmbH & Co.OHG",
+        "org": "Telefonica Germany GmbH & Co."
+    },
+    {
+        "id": 11533,
+        "session_id": "3dd7ab67-b6d3-4497-aa97-8ed81a3ced37",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "VT-POOL Customer West",
+        "org": "1&1 Telecom GmbH"
+    },
+    {
+        "id": 11534,
+        "session_id": "5fe0f879-a308-414a-a306-4e812b112d65",
+        "referrer": "https://www.zencan.de/ratgeber/cannabispflanze",
+        "source": "direct",
+        "isp": "M-net Telekommunikations GmbH",
+        "org": "MNET"
+    },
+    {
+        "id": 11535,
+        "session_id": "a61395db-9b02-4c79-a1a6-34904d8c29a6",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Google LLC",
+        "org": "Google LLC"
+    },
+    {
+        "id": 11536,
+        "session_id": "a758f719-6537-4941-a4b9-e8a8f0918c41",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Google LLC",
+        "org": "Google LLC"
+    },
+    {
+        "id": 11537,
+        "session_id": "6f34e296-b088-411b-ae54-f641f86de749",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Google LLC",
+        "org": "Google LLC"
+    },
+    {
+        "id": 11539,
+        "session_id": "2793131b-45b0-4e97-9b3f-acdd43367289",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "ZEAG Energie AG",
+        "org": "De Nhfnetzgesellschaft"
+    },
+    {
+        "id": 11540,
+        "session_id": "b3e2ab4a-bb81-4a69-92a5-f1cc206550f5",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "D2VODAFONE",
+        "org": "Vodafone GmbH"
+    },
+    {
+        "id": 11541,
+        "session_id": "d5326259-6e9e-43a4-ade2-6e73d2f53c14",
+        "referrer": "https://www.bing.com/",
+        "source": "direct",
+        "isp": "Philippine Long Distance Telephone Co.",
+        "org": "Philippine Long Distance Telephone Company"
+    },
+    {
+        "id": 11542,
+        "session_id": "5ebe6d40-fd47-418c-aa12-2f6c49bd3f86",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Telefonica Germany GmbH & Co.OHG",
+        "org": "Telefonica Germany GmbH & Co."
+    },
+    {
+        "id": 11543,
+        "session_id": "d1d0c4a2-8a1c-4e80-af18-0591518773fa",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone",
+        "org": "Vodafone NRW GmbH"
+    },
+    {
+        "id": 11544,
+        "session_id": "17df240b-e832-437e-a1fa-5e1310451349",
+        "referrer": "https://duckduckgo.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11545,
+        "session_id": "e0f9ce76-0919-45b6-a45a-01ee246eebca",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11546,
+        "session_id": "dac34d76-f3f4-49f0-b467-669cd2af0718",
+        "referrer": "https://www.google.de/",
+        "source": "direct",
+        "isp": "Vodafone",
+        "org": "Vodafone NRW GmbH"
+    },
+    {
+        "id": 11547,
+        "session_id": "c0634290-e557-484b-a4d9-9bb9bdb72a40",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Telefonica Germany GmbH & Co.OHG",
+        "org": "Telefonica Germany GmbH & Co."
+    },
+    {
+        "id": 11548,
+        "session_id": "ed90c027-54a8-46d4-9897-0b0ee3b6c058",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone",
+        "org": "Vodafone NRW GmbH"
+    },
+    {
+        "id": 11549,
+        "session_id": "10aaf07d-32e4-4e84-9243-a5e0b4e38281",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11550,
+        "session_id": "9fb09776-d4a4-45f0-b9d3-1b68403c7bac",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "SWU TeleNet GmbH",
+        "org": "SWU-Telenet"
+    },
+    {
+        "id": 11551,
+        "session_id": "0e98113b-589f-4ce2-837a-f6d5293193ea",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11552,
+        "session_id": "8824029e-6f53-4a8e-9705-f2e797a0222c",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11553,
+        "session_id": "09beec66-54f6-4568-8dbf-a3373410bef1",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Telefonica Germany GmbH & Co.OHG",
+        "org": "Telefonica Germany GmbH & Co."
+    },
+    {
+        "id": 11554,
+        "session_id": "b5b3d331-cb0f-4f32-a17b-5e40139e0f9f",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "T-Mobile Deutschland GmbH",
+        "org": "Telekom Deutschland GmbH"
+    },
+    {
+        "id": 11555,
+        "session_id": "026ad65a-98c1-45bc-8e17-41e7efb0b2c6",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Telefonica Germany GmbH & Co.OHG",
+        "org": "Telefonica Germany GmbH & Co."
+    },
+    {
+        "id": 11556,
+        "session_id": "8e6c15ca-0847-410c-8ff2-dc4840baa7bb",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Cloudflare, Inc.",
+        "org": "Cloudflare WARP"
+    },
+    {
+        "id": 11557,
+        "session_id": "c3ddbbab-2a5d-4ab8-88f0-9808e8838188",
+        "referrer": "https://www.google.de/",
+        "source": "direct",
+        "isp": "Telefonica Germany GmbH & Co. OHG",
+        "org": "Telefonica Germany GmbH & Co."
+    },
+    {
+        "id": 11558,
+        "session_id": "fadeca8a-5b5c-4edb-87c6-27411cbd7a79",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Swisscom (Schweiz) AG - Bluewin",
+        "org": "Swisscom (Schweiz) AG"
+    },
+    {
+        "id": 11559,
+        "session_id": "1e9bfd3e-2e78-4e48-9bc8-3928c88b9fb1",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11560,
+        "session_id": "f008d32a-707f-42ca-ba54-54ea4dda64e7",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone Kabel Deutschland",
+        "org": "Kabel Deutschland Customer Services"
+    },
+    {
+        "id": 11561,
+        "session_id": "ae3e218d-692b-46ef-a515-376f5c6d4b31",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Google LLC",
+        "org": "Google LLC"
+    },
+    {
+        "id": 11562,
+        "session_id": "2a80b157-3b15-4645-8550-cc95ed0b4bec",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone Kabel Deutschland",
+        "org": "Vodafone Kabel Deutschland GmbH"
+    },
+    {
+        "id": 11563,
+        "session_id": "6dc00e6d-63f4-41cf-90bc-943c2b416535",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11564,
+        "session_id": "36fdd491-5823-416f-99b1-6d2405f26a0c",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11565,
+        "session_id": "cdaf9560-c35e-48e6-9445-b5cec9102e74",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "ARCOR-IP",
+        "org": "Arcor AG"
+    },
+    {
+        "id": 11566,
+        "session_id": "5b3edf81-b5e8-42f1-a192-b850827f4748",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "1&1 Versatel Deutschland GmbH",
+        "org": "1&1 Versatel Deutschland GmbH"
+    },
+    {
+        "id": 11567,
+        "session_id": "6a8ba064-bfe7-47be-9876-e1aa1981f5c5",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11568,
+        "session_id": "04933a82-89c0-4e46-bc24-40293f041047",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "D2VODAFONE",
+        "org": "Vodafone GmbH"
+    },
+    {
+        "id": 11569,
+        "session_id": "a41ea0c7-e4aa-4410-b406-84f1fd8740e8",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "FHT-MANNHEIM"
+    },
+    {
+        "id": 11570,
+        "session_id": "bba9ad2e-bfe5-45c0-8a80-f0f191335840",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "D2VODAFONE",
+        "org": "Vodafone GmbH"
+    },
+    {
+        "id": 11571,
+        "session_id": "0fed2753-ac7b-4c65-b647-a3cc05e93ecd",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone Kabel Deutschland",
+        "org": "Kabel Deutschland Customer Services"
+    },
+    {
+        "id": 11572,
+        "session_id": "9da511bd-33b6-47f3-b8e8-712623fec420",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "wilhelm.tel GmbH",
+        "org": "WT Pppoe Private"
+    },
+    {
+        "id": 11573,
+        "session_id": "44e068f6-c1ea-42e3-9b79-b8530b1089ca",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "T-Mobile Deutschland GmbH",
+        "org": "Telekom Deutschland GmbH"
+    },
+    {
+        "id": 11574,
+        "session_id": "bd163b95-ba44-4b03-9d30-3affb7985d24",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "T-Mobile Deutschland GmbH",
+        "org": "Telekom Deutschland GmbH"
+    },
+    {
+        "id": 11575,
+        "session_id": "ae92ce36-0b1b-4cf0-a5d9-a5b30d501ecc",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "T-Mobile Deutschland GmbH",
+        "org": "Telekom Deutschland GmbH"
+    },
+    {
+        "id": 11576,
+        "session_id": "64c92299-1761-470d-aae0-c1ed45435c1f",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "D2VODAFONE",
+        "org": "Vodafone GmbH"
+    },
+    {
+        "id": 11577,
+        "session_id": "1a14ef64-32cd-4eb9-a562-110587481534",
+        "referrer": "https://de.search.yahoo.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11578,
+        "session_id": "039fa2f1-c803-4124-9cae-e6fe4c589445",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11579,
+        "session_id": "8ac59f66-6605-4145-b498-815e41b25b49",
+        "referrer": "https://www.google.de/",
+        "source": "direct",
+        "isp": "Vodafone",
+        "org": "Vodafone NRW GmbH"
+    },
+    {
+        "id": 11580,
+        "session_id": "5d22956f-21d0-4ce5-ae44-30fac59368a0",
+        "referrer": "https://www.linkedin.com/",
+        "source": "direct",
+        "isp": "Vodafone Kabel Deutschland",
+        "org": "Vodafone Kabel Deutschland GmbH"
+    },
+    {
+        "id": 11581,
+        "session_id": "4a59dc82-7b72-4e58-b79f-8323989c27af",
+        "referrer": "https://www.linkedin.com/",
+        "source": "direct",
+        "isp": "Vodafone Kabel Deutschland",
+        "org": "Vodafone Kabel Deutschland GmbH"
+    },
+    {
+        "id": 11582,
+        "session_id": "e25e309e-0cc1-4747-811e-7884e4d59746",
+        "referrer": "https://www.google.de/",
+        "source": "direct",
+        "isp": "Vodafone Kabel Deutschland",
+        "org": "Vodafone Kabel Deutschland GmbH"
+    },
+    {
+        "id": 11583,
+        "session_id": "1438c284-4e4e-4fe3-a75c-09b164e217de",
+        "referrer": "https://www.zencan.de/ratgeber/cannabis-wirkung",
+        "source": "direct",
+        "isp": "Lycatel Distribution UK Limited",
+        "org": "Lycatel Distribution UK Limited"
+    },
+    {
+        "id": 11584,
+        "session_id": "bbff2800-2dda-49d9-979b-9a8481dbb7a2",
+        "referrer": "https://statics.teams.cdn.office.net/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11585,
+        "session_id": "158950f3-ad44-425c-86b6-6ca211ce9c10",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Vodafone Kabel Deutschland",
+        "org": "Vodafone Kabel Deutschland GmbH"
+    },
+    {
+        "id": 11586,
+        "session_id": "d48092d3-a310-4fbc-a43a-2becf704c8a2",
+        "referrer": "https://statics.teams.cdn.office.net/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11587,
+        "session_id": "d81cf4dc-6de0-486f-8cfe-6c39c61a3551",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Microsoft Corporation",
+        "org": "Microsoft Azure Cloud (germanywestcentral)"
+    },
+    {
+        "id": 11588,
+        "session_id": "94e9a233-62dd-4e09-9a13-767dba508ad9",
+        "referrer": "https://www.google.de/",
+        "source": "direct",
+        "isp": "1&1 Versatel Deutschland GmbH"
+    },
+    {
+        "id": 11589,
+        "session_id": "ad47f063-4ad0-40ed-9116-e57da3bb6a5f",
+        "referrer": "https://www.zencan.de/ratgeber/marihuana-kaufen",
+        "source": "direct",
+        "isp": "D2VODAFONE",
+        "org": "Vodafone GmbH"
+    },
+    {
+        "id": 11590,
+        "session_id": "31f6e83e-a443-4950-9b7b-ab3865ef6256",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11591,
+        "session_id": "d7303372-140a-4f26-9c46-93ca092b37ce",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "1&1 Versatel Deutschland GmbH",
+        "org": "VT-DYNAMICPOOL West"
+    },
+    {
+        "id": 11592,
+        "session_id": "ad08cccf-7c54-479f-889e-0511fb6b0c3a",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11593,
+        "session_id": "2789dc1a-b42a-4d3a-8d36-903a1354c255",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone Kabel Deutschland",
+        "org": "Vodafone Kabel Deutschland GmbH"
+    },
+    {
+        "id": 11594,
+        "session_id": "8bf0b835-0991-4d0c-9865-8e54d4eb2a31",
+        "referrer": "https://duckduckgo.com/",
+        "source": "direct",
+        "isp": "PacketHub S.A.",
+        "org": "Packethub S.A"
+    },
+    {
+        "id": 11595,
+        "session_id": "7dbf4b32-750e-4840-8734-f35d5352940b",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "1&1 Versatel Deutschland GmbH"
+    },
+    {
+        "id": 11596,
+        "session_id": "62731c45-b204-4382-b789-ce5aa95a1826",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "D2VODAFONE",
+        "org": "Vodafone GmbH"
+    },
+    {
+        "id": 11597,
+        "session_id": "02d8d86a-e7f7-4f42-b25a-f84944dc2f03",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "D2VODAFONE",
+        "org": "Vodafone GmbH"
+    },
+    {
+        "id": 11598,
+        "session_id": "e16e4289-3807-4fd6-95c0-1d29c753f8d5",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Vodafone Kabel Deutschland",
+        "org": "Vodafone Kabel Deutschland GmbH"
+    },
+    {
+        "id": 11599,
+        "session_id": "0e22fec5-4aae-4609-a595-29f7637839f2",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "1&1 Versatel Deutschland GmbH",
+        "org": "VT-DYNAMICPOOL West"
+    },
+    {
+        "id": 11600,
+        "session_id": "95ed21c0-6f9b-428c-88f3-0f61f845b1c1",
+        "referrer": "https://www.google.de/",
+        "source": "direct",
+        "isp": "Vodafone D2 GmbH",
+        "org": "Vodafone GmbH"
+    },
+    {
+        "id": 11601,
+        "session_id": "787858c9-4971-4905-8069-824ce3a54dad",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11602,
+        "session_id": "e5c9fb90-e5ed-4fbe-aeed-04270453dfbc",
+        "referrer": "https://www.bing.com/",
+        "source": "direct",
+        "isp": "Philippine Long Distance Telephone Co.",
+        "org": "Philippine Long Distance Telephone Company"
+    },
+    {
+        "id": 11603,
+        "session_id": "926b83f5-2380-46b6-80c0-9444ce156423",
+        "referrer": "https://www.ecosia.org/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11604,
+        "session_id": "52417c3b-dc86-48d4-860e-e4c20da06313",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Cloudflare, Inc.",
+        "org": "Cloudflare WARP"
+    },
+    {
+        "id": 11606,
+        "session_id": "81875acc-e062-4b63-a302-5d795a78ae9a",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11607,
+        "session_id": "5b5b2e93-454c-4d15-8415-45928645cd4b",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "ARCOR-IP",
+        "org": "Arcor AG"
+    },
+    {
+        "id": 11608,
+        "session_id": "9cadafc5-2b73-414d-8ae7-f02396fca49b",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "RIMA (Red IP Multi Acceso)"
+    },
+    {
+        "id": 11609,
+        "session_id": "6ea83c2b-fba4-4d8c-90fb-1ec04f193b5a",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Telefonica Germany GmbH & Co.OHG",
+        "org": "Telefonica Germany GmbH & Co."
+    },
+    {
+        "id": 11610,
+        "session_id": "78324744-7787-40de-be31-5d47b9505ca9",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11611,
+        "session_id": "e8b1aeb5-4b98-48f1-8189-de800496a86a",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Telefonica Germany GmbH & Co.OHG",
+        "org": "Telefonica Germany GmbH & Co."
+    },
+    {
+        "id": 11612,
+        "session_id": "5bce72d5-56bd-476f-adc6-03251bb0315b",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Philippine Long Distance Telephone Co.",
+        "org": "Philippine Long Distance Telephone Company"
+    },
+    {
+        "id": 11613,
+        "session_id": "d50b1eb4-9aed-4b6d-8ad1-39649269fd54",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11614,
+        "session_id": "4383eb37-6924-444f-aa9d-f8534ba52fcf",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11615,
+        "session_id": "3453fb69-7e10-4cd8-b897-fab08e8b7d0b",
+        "referrer": "https://www.zencan.de/kultivare",
+        "source": "direct",
+        "isp": "Telefonica Germany GmbH & Co.OHG",
+        "org": "Telefonica Germany GmbH & Co."
+    },
+    {
+        "id": 11616,
+        "session_id": "342510cf-b307-429e-b630-f5ee660b3a77",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11617,
+        "session_id": "caadf727-1850-4407-b4bc-6c26bfcb0d1f",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Philippine Long Distance Telephone Co.",
+        "org": "Philippine Long Distance Telephone Company"
+    },
+    {
+        "id": 11618,
+        "session_id": "d5a126c0-5854-43c2-981d-c278edf32351",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "1&1 Versatel Deutschland GmbH",
+        "org": "Versatel Deutschland"
+    },
+    {
+        "id": 11619,
+        "session_id": "9f59d516-9451-4961-992e-c7cd11156519",
+        "referrer": "https://www.zencan.de/produkte/demecan-craft-cali-29-01-hawaiian-rain-x-permanent-marker",
+        "source": "direct",
+        "isp": "Telefonica Germany GmbH & Co.OHG",
+        "org": "Telefonica Germany GmbH & Co."
+    },
+    {
+        "id": 11620,
+        "session_id": "509cc3dd-1e0b-46a2-ba0b-03407b45d004",
+        "referrer": "https://search.brave.com/",
+        "source": "direct",
+        "isp": "ARCOR-IP",
+        "org": "Arcor AG"
+    },
+    {
+        "id": 11621,
+        "session_id": "9e568090-dfad-46a7-a3eb-4415443f1037",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "ARCOR-IP",
+        "org": "Arcor AG"
+    },
+    {
+        "id": 11622,
+        "session_id": "cb30cbda-78d3-4d9d-b269-f42bc94a2f7c",
+        "referrer": "android-app://com.google.android.googlequicksearchbox/",
+        "source": "direct",
+        "isp": "ARCOR-IP",
+        "org": "Arcor AG"
+    },
+    {
+        "id": 11623,
+        "session_id": "6b3fbdc9-13fc-44f9-a530-d66a8ea3223d",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone Kabel Deutschland",
+        "org": "Vodafone Kabel Deutschland GmbH"
+    },
+    {
+        "id": 11624,
+        "session_id": "ad6f4317-d77d-446e-bd9a-fc94b57e7762",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Telefonica Deutschland GmbH",
+        "org": "Telefonica O2 Germany GmbH & Co."
+    },
+    {
+        "id": 11625,
+        "session_id": "dfe53975-7bdc-40e4-bd09-b29e32371b39",
+        "referrer": "https://duckduckgo.com/",
+        "source": "direct",
+        "isp": "D2VODAFONE",
+        "org": "Vodafone GmbH"
+    },
+    {
+        "id": 11626,
+        "session_id": "cc238194-22fd-462d-b378-43ab67db4dcb",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Tele Columbus Betriebs GmbH",
+        "org": "PRIMACOM"
+    },
+    {
+        "id": 11627,
+        "session_id": "287d2832-c34a-4d05-bf52-da873f6f04d1",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "ARCOR-IP",
+        "org": "Arcor AG"
+    },
+    {
+        "id": 11628,
+        "session_id": "df0bada3-1eaf-4103-b329-8040f200b144",
+        "referrer": "https://duckduckgo.com/",
+        "source": "direct",
+        "isp": "Vodafone Kabel Deutschland",
+        "org": "Kabel Deutschland Customer Services"
+    },
+    {
+        "id": 11629,
+        "session_id": "d0b50146-0986-4de1-91af-c9e540d5e775",
+        "referrer": "https://www.bing.com/",
+        "source": "direct",
+        "isp": "Musarubra Germany GmbH",
+        "org": "Isecg ENG"
+    },
+    {
+        "id": 11630,
+        "session_id": "8c5574cb-c6ff-4d52-a950-ed2432268044",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11631,
+        "session_id": "bb161fda-d3a5-4703-9626-fcdff018c2ae",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11632,
+        "session_id": "5945edf4-9404-4efb-b11b-61b21ec48ed5",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Telefonica Germany GmbH & Co.OHG",
+        "org": "Telefonica Germany GmbH & Co."
+    },
+    {
+        "id": 11633,
+        "session_id": "722c5972-9a56-410a-9d98-3ec152d67cca",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "1&1 Versatel Deutschland GmbH",
+        "org": "Versatel Deutschland"
+    },
+    {
+        "id": 11634,
+        "session_id": "5bce65ce-73cb-4e9e-bf77-74202eb9e6e0",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Johannes Gutenberg-Universitaet Mainz"
+    },
+    {
+        "id": 11635,
+        "session_id": "3ec9a2d9-c2af-47ff-86f0-de4f54c1ba19",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Google LLC",
+        "org": "Google LLC"
+    },
+    {
+        "id": 11636,
+        "session_id": "9806b995-6b4a-4f17-90a4-a807a0e4f89a",
+        "referrer": "https://www.bing.com/",
+        "source": "direct",
+        "isp": "Musarubra Germany GmbH",
+        "org": "Isecg ENG"
+    },
+    {
+        "id": 11637,
+        "session_id": "8fb27f9e-a3d6-4d86-8b21-945905934f49",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11638,
+        "session_id": "9f2c449e-322b-404d-9649-e745282957ba",
+        "referrer": "https://statics.teams.cdn.office.net/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11639,
+        "session_id": "08a5f5d7-e434-4832-9a14-236603b4e36f",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Amazon.com, Inc.",
+        "org": "AWS EC2 (us-east-1)"
+    },
+    {
+        "id": 11640,
+        "session_id": "8506a03e-9110-4ca7-bfe0-da503effe41c",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Amazon.com, Inc.",
+        "org": "AWS EC2 (us-east-1)"
+    },
+    {
+        "id": 11641,
+        "session_id": "8b627b2b-13f5-4c52-8125-a9e40bab2acb",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "1&1 Versatel Deutschland GmbH",
+        "org": "1&1 Versatel Deutschland GmbH"
+    },
+    {
+        "id": 11642,
+        "session_id": "690a0139-219e-4764-885e-9a3ff55224a7",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "org": "Bauhaus-Universitaet Weimar"
+    },
+    {
+        "id": 11643,
+        "session_id": "634c1133-86cf-466f-9f5a-8dee2432a97e",
+        "referrer": "https://www.google.de/",
+        "source": "direct",
+        "isp": "1&1 Versatel Deutschland GmbH"
+    },
+    {
+        "id": 11644,
+        "session_id": "20b5d26f-a906-4fb4-9b00-ba838ac202b9",
+        "referrer": "https://www.google.de/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11645,
+        "session_id": "b46618bf-85fe-4bc6-bc89-80a35d657e83",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "R-KOM GmbH & Co. KG",
+        "org": "REWAG Regensburger Energie- und Wasserversorgung AG & Co"
+    },
+    {
+        "id": 11646,
+        "session_id": "3657a727-d6fb-4e36-960c-15304f635211",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "NetCologne Gesellschaft fur Telekommunikation mbH",
+        "org": "NetCologne Gesellschaft fuer Telekommunikation mbH"
+    },
+    {
+        "id": 11647,
+        "session_id": "4d70da20-df2c-4896-b5ba-03db72a2c3a2",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Amazon Technologies Inc.",
+        "org": "AWS EC2 (us-east-1)"
+    },
+    {
+        "id": 11648,
+        "session_id": "f12d4b0c-ceed-44f6-8078-686879f24887",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Amazon Technologies Inc.",
+        "org": "AWS EC2 (us-east-1)"
+    },
+    {
+        "id": 11649,
+        "session_id": "b04b7876-fd55-4605-bfa3-c7625b277ea8",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Johannes Gutenberg-Universitaet Mainz"
+    },
+    {
+        "id": 11650,
+        "session_id": "93f78bae-d0c4-4b57-87da-083d9b068809",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11651,
+        "session_id": "43a17928-a2ba-4837-94ee-4a12bf7eb14e",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Google LLC",
+        "org": "Google LLC"
+    },
+    {
+        "id": 11652,
+        "session_id": "3ff01fc7-9120-4760-a56f-9d3d8acd1bd2",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11653,
+        "session_id": "7a1e3617-c341-4b78-97d4-2c00737d1662",
+        "referrer": "https://duckduckgo.com/",
+        "source": "direct",
+        "isp": "wilhelm.tel GmbH",
+        "org": "WT Pppoe Private"
+    },
+    {
+        "id": 11654,
+        "session_id": "9f3f8fbb-6b83-4966-bfab-2ac34f27c42a",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11655,
+        "session_id": "38e45053-6d86-451b-ab68-fec6015e072c",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone",
+        "org": "Vodafone NRW GmbH"
+    },
+    {
+        "id": 11656,
+        "session_id": "eeca71fb-cc6c-446f-b5a3-14676cfff59b",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone Kabel Deutschland",
+        "org": "Vodafone Kabel Deutschland GmbH"
+    },
+    {
+        "id": 11657,
+        "session_id": "20d93361-826f-4fdf-b092-65dc365a7f21",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "D2VODAFONE",
+        "org": "Vodafone GmbH"
+    },
+    {
+        "id": 11658,
+        "session_id": "5d5aac08-0dbc-41fd-9237-d8730e7f5e37",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "1&1 Versatel Deutschland GmbH"
+    },
+    {
+        "id": 11659,
+        "session_id": "53f7f662-0eea-4633-84c6-7ab5488a9cf5",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone Kabel Deutschland",
+        "org": "Vodafone Kabel Deutschland GmbH"
+    },
+    {
+        "id": 11660,
+        "session_id": "ba25b15c-65fc-41ea-90b1-1d39bebc1bcb",
+        "referrer": "https://www.ecosia.org/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11661,
+        "session_id": "7e992341-3048-4b91-b863-431d7412d860",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "D2VODAFONE",
+        "org": "Vodafone GmbH"
+    },
+    {
+        "id": 11662,
+        "session_id": "b6efd395-a34d-4ef9-bd0c-da247c0fef21",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Amazon Technologies Inc.",
+        "org": "AWS EC2 (us-east-1)"
+    },
+    {
+        "id": 11663,
+        "session_id": "aba20964-100c-487f-90cf-3d890d9665ab",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Amazon Technologies Inc.",
+        "org": "AWS EC2 (us-east-1)"
+    },
+    {
+        "id": 11664,
+        "session_id": "86bb3d36-5201-46ee-ad12-c15eaec59d26",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Telefonica Germany GmbH & Co.OHG",
+        "org": "Telefonica Germany GmbH & Co."
+    },
+    {
+        "id": 11665,
+        "session_id": "c427a175-a5c8-480b-9a3b-1596f305e860",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "1&1 Versatel Deutschland GmbH",
+        "org": "VT-POOL8- wup1101aihr001"
+    },
+    {
+        "id": 11666,
+        "session_id": "1a4488a9-d224-46d3-b5f0-119fe942aba7",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "VT-DYNAMICPOOL East",
+        "org": "1&1 Telecom GmbH"
+    },
+    {
+        "id": 11667,
+        "session_id": "be8f963d-4482-4b49-a2fd-1d9f99dd131b",
+        "referrer": "https://duckduckgo.com/",
+        "source": "direct",
+        "isp": "ecotel communication ag",
+        "org": "ECO"
+    },
+    {
+        "id": 11668,
+        "session_id": "6cd49ec9-1f5a-4df9-9c60-1dedee37b589",
+        "referrer": "https://duckduckgo.com/",
+        "source": "direct",
+        "isp": "Cloudflare, Inc.",
+        "org": "Cloudflare WARP"
+    },
+    {
+        "id": 11669,
+        "session_id": "38142201-f3ac-48e7-b299-8e759745f6a1",
+        "referrer": "https://duckduckgo.com/",
+        "source": "direct",
+        "isp": "DigitalOcean, LLC",
+        "org": "DigitalOcean, LLC"
+    },
+    {
+        "id": 11670,
+        "session_id": "2e149231-05aa-454a-a24d-2c9c77e8b575",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Google LLC",
+        "org": "Google LLC"
+    },
+    {
+        "id": 11671,
+        "session_id": "1e456871-ce10-4260-a194-d20030c6c343",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Google LLC",
+        "org": "Google LLC"
+    },
+    {
+        "id": 11672,
+        "session_id": "22c3a0d5-8627-4671-9f82-7dba937902a0",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Google LLC",
+        "org": "Google LLC"
+    },
+    {
+        "id": 11673,
+        "session_id": "d1bf2f46-9cc8-404a-814f-44fad0b4c2db",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Vodafone Kabel Deutschland",
+        "org": "Vodafone Kabel Deutschland GmbH"
+    },
+    {
+        "id": 11674,
+        "session_id": "a61fddeb-8e1f-45de-a58b-fd5870d513ab",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11675,
+        "session_id": "cec53f5b-462e-493a-a2a4-2a8d3fa55666",
+        "referrer": "https://www.bing.com/",
+        "source": "direct",
+        "isp": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "org": "Universitaet zu Luebeck"
+    },
+    {
+        "id": 11676,
+        "session_id": "07fad60f-e13f-4cd3-8427-deefeb755c78",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Akamai Technologies, Inc.",
+        "org": "iCloud Private Relay"
+    },
+    {
+        "id": 11677,
+        "session_id": "8340e8a8-7e2f-4a01-a682-0127a847de8f",
+        "referrer": "https://duckduckgo.com/",
+        "source": "direct",
+        "isp": "Telefonica Deutschland GmbH",
+        "org": "Telefonica O2 Germany GmbH & Co."
+    },
+    {
+        "id": 11678,
+        "session_id": "fc65dfa3-e0c2-492e-af57-5ea1b7168df4",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "E-Plus Mobilfunk GmbH & Co KG"
+    },
+    {
+        "id": 11679,
+        "session_id": "de8cea21-8ce0-4a48-b8ec-6d3396bb81e0",
+        "referrer": "https://www.google.de/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11680,
+        "session_id": "5f55934f-d08e-4a8d-b683-e8269c12f744",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11681,
+        "session_id": "2691c988-6b2a-4873-bca8-e42b04c36f64",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Akamai Technologies, Inc.",
+        "org": "iCloud Private Relay"
+    },
+    {
+        "id": 11682,
+        "session_id": "436fc8cf-244e-4eb9-97a0-8348de775628",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "D2VODAFONE",
+        "org": "Vodafone GmbH"
+    },
+    {
+        "id": 11683,
+        "session_id": "c240ff34-dffe-40a1-aebe-a126bd91319e",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "1&1 Versatel Deutschland GmbH",
+        "org": "Versatel Deutschland"
+    },
+    {
+        "id": 11684,
+        "session_id": "fcf6c1ab-e98b-4ff9-a0e8-c41e69642a5e",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone",
+        "org": "Vodafone NRW GmbH"
+    },
+    {
+        "id": 11685,
+        "session_id": "bc21b9d5-172b-4152-a595-3cfdc8204e7a",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11686,
+        "session_id": "1e54f9d6-4f14-4fe8-894a-4d103e5f9fb7",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Network of Hutchison Drei Austria GmbH => NAT"
+    },
+    {
+        "id": 11687,
+        "session_id": "2541149f-6c79-493a-b6b5-d41d130ed3de",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone",
+        "org": "Vodafone NRW GmbH"
+    },
+    {
+        "id": 11688,
+        "session_id": "5f064454-a98d-41f6-a5a0-801502c9c482",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11689,
+        "session_id": "9abd7c5b-e28e-4f53-ae12-1326f819acf1",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11690,
+        "session_id": "25b5f259-2781-485d-92d2-73bf4328b719",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "1&1 Versatel Deutschland GmbH",
+        "org": "Versatel Deutschland"
+    },
+    {
+        "id": 11691,
+        "session_id": "318f2414-c143-43ff-861d-9b07af9f9761",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone",
+        "org": "Vodafone NRW GmbH"
+    },
+    {
+        "id": 11692,
+        "session_id": "b3a891bd-fb0a-447f-8284-107c5bf5cea0",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "D2VODAFONE",
+        "org": "Vodafone GmbH"
+    },
+    {
+        "id": 11693,
+        "session_id": "d63fac8b-69c2-4ff3-8e1b-c289ecc48491",
+        "referrer": "https://www.bing.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11694,
+        "session_id": "f2e50205-a20b-475a-8786-eda490952a81",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Akamai Technologies, Inc.",
+        "org": "iCloud Private Relay"
+    },
+    {
+        "id": 11695,
+        "session_id": "bf2af1a9-38c6-4dad-b7e8-e609f299ebc7",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "M-net Telekommunikations GmbH",
+        "org": "MNET"
+    },
+    {
+        "id": 11696,
+        "session_id": "a448d93b-574a-4ed0-b99a-359ca1258e32",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11697,
+        "session_id": "5416d290-552b-4f22-bc4d-ace96cdf61d8",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Colombia MAS TV S.A.S",
+        "org": "Colombia MAS TV"
+    },
+    {
+        "id": 11698,
+        "session_id": "5c1c5294-888e-4255-83a0-8f4e39ca08f9",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11699,
+        "session_id": "6cece5f0-80df-4fe7-9f0d-f5e42d0604c7",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Amazon.com, Inc.",
+        "org": "AWS EC2 (us-east-1)"
+    },
+    {
+        "id": 11700,
+        "session_id": "a19fef97-dba7-415a-a8ef-af600a2a970c",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Amazon.com, Inc.",
+        "org": "AWS EC2 (us-east-1)"
+    },
+    {
+        "id": 11701,
+        "session_id": "07bab3d9-255d-466d-9cb3-9590f71ec55a",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11702,
+        "session_id": "3a31a5fa-1dcb-42c6-8d82-39db41f4f644",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11703,
+        "session_id": "b30f68d0-34cb-41ca-8e1d-d4699938233e",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "M-net Telekommunikations GmbH",
+        "org": "MNET"
+    },
+    {
+        "id": 11704,
+        "session_id": "99c2e1e1-0bde-44a1-b79f-7ad19537ca57",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "PURtel.com GmbH",
+        "org": "CU Networks GmbH"
+    },
+    {
+        "id": 11705,
+        "session_id": "d5179ad3-e270-45a3-a27d-37423d0531b0",
+        "referrer": "https://www.google.de/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11706,
+        "session_id": "9b182e71-499f-4528-9322-baf54d78a008",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "1&1 Versatel Deutschland GmbH",
+        "org": "VT-POOL Customer Nord"
+    },
+    {
+        "id": 11707,
+        "session_id": "ac4d7596-1e4f-4f91-b16a-c721e30204d2",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "HL komm Telekommunikations GmbH",
+        "org": "HL Gemeinde EFK"
+    },
+    {
+        "id": 11708,
+        "session_id": "29809dad-26f4-4d5b-bc8a-11b3c0884bcc",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+        "org": "Bauhaus-Universitaet Weimar"
+    },
+    {
+        "id": 11709,
+        "session_id": "8f06a969-8287-41f0-9c82-1d19d9e79176",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone Kabel Deutschland",
+        "org": "Kabel Deutschland Customer Services"
+    },
+    {
+        "id": 11710,
+        "session_id": "fcdc1fdc-d2c5-40f2-bef3-e575f92405d1",
+        "referrer": "https://www.bing.com/",
+        "source": "direct",
+        "isp": "Plusnet GmbH",
+        "org": "Plusnet GmbH"
+    },
+    {
+        "id": 11711,
+        "session_id": "e8f07d3c-f3c6-4c14-a5c5-1583c5e501df",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11712,
+        "session_id": "61a3c13d-8f61-4cd0-b833-57387e8303ed",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Amazon.com, Inc.",
+        "org": "AWS EC2 (us-east-1)"
+    },
+    {
+        "id": 11713,
+        "session_id": "8e6ef522-e416-4123-9c96-dfa3266a5e51",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Amazon.com, Inc.",
+        "org": "AWS EC2 (us-east-1)"
+    },
+    {
+        "id": 11714,
+        "session_id": "2eb0da0e-452b-4370-b3b3-6dea68555ff6",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "E-Plus Mobilfunk GmbH & Co KG"
+    },
+    {
+        "id": 11715,
+        "session_id": "e53bff34-47c0-47f9-a424-2c129288ca15",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Glasfaser Wholesale GmbH",
+        "org": "geo"
+    },
+    {
+        "id": 11716,
+        "session_id": "6c832901-e03b-4267-8a25-01d93dea9db7",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Cloudflare, Inc.",
+        "org": "Cloudflare WARP"
+    },
+    {
+        "id": 11717,
+        "session_id": "90ab9912-cb51-4ccc-a092-53dd43b9a2f9",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Netcom Kassel Gesellschaft fuer Telekommunikation mbH",
+        "org": "NCK"
+    },
+    {
+        "id": 11718,
+        "session_id": "98ff8525-5961-461f-8d36-81c8f89edfff",
+        "referrer": "https://www.ecosia.org/",
+        "source": "direct",
+        "isp": "Telefonica Germany GmbH & Co.OHG",
+        "org": "Telefonica Germany GmbH & Co."
+    },
+    {
+        "id": 11719,
+        "session_id": "bd2c2bda-0e76-43d4-8eff-49661c76c89c",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Akamai Technologies, Inc.",
+        "org": "iCloud Private Relay"
+    },
+    {
+        "id": 11720,
+        "session_id": "fb299ea5-d782-40d2-9e3e-311dcb35522b",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone",
+        "org": "Vodafone BW GmbH"
+    },
+    {
+        "id": 11721,
+        "session_id": "ecdd6afe-fb77-44e2-980e-8d774611575b",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Envia Tel GmbH",
+        "org": "Erznet CPE"
+    },
+    {
+        "id": 11722,
+        "session_id": "34b5f43a-8e86-4f6b-a0c4-fe3f01d9aaa2",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "T-Mobile Deutschland GmbH",
+        "org": "Telekom Deutschland GmbH"
+    },
+    {
+        "id": 11723,
+        "session_id": "ef199a84-362b-4f04-977c-b88071d5af0a",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Telefonica Deutschland GmbH",
+        "org": "Telefonica O2 Germany GmbH & Co."
+    },
+    {
+        "id": 11724,
+        "session_id": "c1e22b7f-e61f-4c73-8d72-5af1f0e08eb4",
+        "referrer": "https://www.ecosia.org/",
+        "source": "direct",
+        "isp": "ARCOR-IP",
+        "org": "Arcor AG"
+    },
+    {
+        "id": 11725,
+        "session_id": "b5ca707c-f802-417b-afdd-048f0ffa6871",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone Kabel Deutschland",
+        "org": "Vodafone Kabel Deutschland GmbH"
+    },
+    {
+        "id": 11726,
+        "session_id": "5ebb92a8-1293-4fe9-a55b-cdd6aa658bac",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Telefonica Germany GmbH & Co.OHG",
+        "org": "Telefonica Germany GmbH & Co."
+    },
+    {
+        "id": 11727,
+        "session_id": "ec73907d-5a9d-4b34-92ef-da28ec246cbc",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Cloudflare, Inc.",
+        "org": "Cloudflare WARP"
+    },
+    {
+        "id": 11728,
+        "session_id": "9a053a3c-2e24-43e4-bc7e-4844671a2a33",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Amazon.com",
+        "org": "AWS EC2 (us-east-1)"
+    },
+    {
+        "id": 11729,
+        "session_id": "e6b6b5a5-fac0-4c5c-9903-de8fee75fe00",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Amazon.com",
+        "org": "AWS EC2 (us-east-1)"
+    },
+    {
+        "id": 11730,
+        "session_id": "e4cdd965-08c1-45a2-a77a-4cdd418160f7",
+        "referrer": "https://www.google.de/",
+        "source": "direct",
+        "isp": "Amazon Technologies Inc.",
+        "org": "AWS EC2 (eu-central-1)"
+    },
+    {
+        "id": 11731,
+        "session_id": "120dcf7c-9adc-459b-8af0-50f16666db77",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11732,
+        "session_id": "9235f808-61ce-4124-b575-bab467789c0a",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone D2 GmbH",
+        "org": "Vodafone D2 GmbH"
+    },
+    {
+        "id": 11733,
+        "session_id": "b4bede56-73da-49c0-a8a8-d98d08bd9ab9",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone D2 GmbH",
+        "org": "Vodafone GmbH"
+    },
+    {
+        "id": 11734,
+        "session_id": "b0d442d6-6370-48ae-b6b6-3b04cb024eac",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Network of Hutchison Drei Austria GmbH => NAT"
+    },
+    {
+        "id": 11735,
+        "session_id": "45fac52f-30a6-4616-ab57-6c0e9ff1bc4f",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Akamai Technologies, Inc.",
+        "org": "iCloud Private Relay"
+    },
+    {
+        "id": 11736,
+        "session_id": "8ed2e537-2c61-42ec-a6a5-82f3eabf6fce",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone",
+        "org": "Vodafone NRW GmbH"
+    },
+    {
+        "id": 11737,
+        "session_id": "9dc79dea-052f-41e0-b471-7676d2cc14f5",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11738,
+        "session_id": "816e413d-790c-4b95-9d27-9af35276a3bd",
+        "referrer": "https://www.bing.com/",
+        "source": "direct",
+        "isp": "Vodafone Kabel Deutschland",
+        "org": "Kabel Deutschland Customer Services"
+    },
+    {
+        "id": 11739,
+        "session_id": "7eeeea68-e1ef-497d-8a91-0398b93deba4",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "T-Mobile Deutschland GmbH",
+        "org": "Telekom Deutschland GmbH"
+    },
+    {
+        "id": 11740,
+        "session_id": "8645f0c3-798a-4146-a6d2-8b05ed3f71b6",
+        "referrer": "https://www.google.de/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11741,
+        "session_id": "9756bc34-03a1-4673-8e64-c5105dcaeec7",
+        "referrer": "https://www.bing.com/",
+        "source": "direct",
+        "isp": "Zscaler Switzerland GmbH",
+        "org": "Zscaler Muc1"
+    },
+    {
+        "id": 11742,
+        "session_id": "52ba010a-b59f-4688-94f4-e23ffab7c769",
+        "referrer": "https://www.google.de/",
+        "source": "direct",
+        "isp": "D2VODAFONE",
+        "org": "Vodafone GmbH"
+    },
+    {
+        "id": 11743,
+        "session_id": "69650a60-33c6-4deb-882d-bb52ab084af7",
+        "referrer": "https://www.google.de/",
+        "source": "direct",
+        "isp": "T-Mobile Deutschland GmbH",
+        "org": "Telekom Deutschland GmbH"
+    },
+    {
+        "id": 11744,
+        "session_id": "86a80ecc-d0e6-44f1-8b65-a688f72c99cb",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11745,
+        "session_id": "28325a37-5952-4f87-a2e7-0b7c319f54c3",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11746,
+        "session_id": "6b3d4ca3-16b4-4c0f-982f-be18ba052b9e",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11747,
+        "session_id": "f3f4ab23-afcc-421d-8fb9-b991f0fda860",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11748,
+        "session_id": "e88ecdc2-ee3c-4f44-a495-bd6f74ab409f",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Hotel Reiss GmbH"
+    },
+    {
+        "id": 11749,
+        "session_id": "ec7796ab-1cf2-42b5-837e-3095dcf4d862",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone",
+        "org": "Vodafone NRW GmbH"
+    },
+    {
+        "id": 11750,
+        "session_id": "1c9bafea-7f4a-4d92-9f3b-7880021cf6dd",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "wilhelm.tel GmbH",
+        "org": "wilhelm.tel GmbH"
+    },
+    {
+        "id": 11751,
+        "session_id": "d548efbc-1db4-47f6-afb5-5b9bf6ba9877",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11752,
+        "session_id": "23658662-3cb9-4ebb-aea7-9b52702960ae",
+        "referrer": "https://de.search.yahoo.com/",
+        "source": "direct",
+        "isp": "Vitroconnect GmbH",
+        "org": "vitroconnect GmbH"
+    },
+    {
+        "id": 11753,
+        "session_id": "09bc5304-5742-4a46-955a-90ee24f9fdcb",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11754,
+        "session_id": "aa423757-ffbc-4bdf-9157-3ffde4df1478",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11755,
+        "session_id": "5030ee48-2a58-4b55-a9e0-299486f6ddb1",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11756,
+        "session_id": "22d8eecd-9892-43df-8132-5e76f4cbf68b",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "D2VODAFONE",
+        "org": "Vodafone GmbH"
+    },
+    {
+        "id": 11757,
+        "session_id": "96ff66c6-45d1-48c0-91d3-37346c6f1fcb",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone Kabel Deutschland",
+        "org": "Vodafone Kabel Deutschland GmbH"
+    },
+    {
+        "id": 11758,
+        "session_id": "92877436-d1c4-4dc1-a395-4a5521f98cb6",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone Kabel Deutschland",
+        "org": "Kabel Deutschland Customer Services"
+    },
+    {
+        "id": 11759,
+        "session_id": "11f741e0-5ecc-4088-a2c9-5c54986a962a",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone Kabel Deutschland",
+        "org": "Vodafone Kabel Deutschland GmbH"
+    },
+    {
+        "id": 11760,
+        "session_id": "0fe4d555-7fee-450e-adf7-1128cb36d75a",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone Kabel Deutschland",
+        "org": "Kabel Deutschland Customer Services"
+    },
+    {
+        "id": 11761,
+        "session_id": "f2f985ce-7f2a-4ba5-aafa-08ca6db9ec01",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "E-Plus Mobilfunk GmbH & Co KG"
+    },
+    {
+        "id": 11762,
+        "session_id": "74d13dac-4162-4f8c-a1ea-27588b732a04",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Amazon.com, Inc.",
+        "org": "AWS EC2 (us-east-1)"
+    },
+    {
+        "id": 11763,
+        "session_id": "41fd5e9a-b480-4b93-8d11-a2e2105a5aeb",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Amazon.com, Inc.",
+        "org": "AWS EC2 (us-east-1)"
+    },
+    {
+        "id": 11764,
+        "session_id": "5f2760ae-b367-49e4-b1ae-6fc865e9d9d9",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11765,
+        "session_id": "7b1822a2-b9f2-4bb6-9008-bab7d7b8ea6b",
+        "referrer": "https://duckduckgo.com/",
+        "source": "direct",
+        "isp": "GGew net GmbH",
+        "org": "GGew net GmbH"
+    },
+    {
+        "id": 11766,
+        "session_id": "4da0c3d4-2c63-48e7-8459-0419857820a1",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Telefonica Germany GmbH & Co. OHG",
+        "org": "Telefonica Germany GmbH & Co."
+    },
+    {
+        "id": 11767,
+        "session_id": "7d39c4c1-76c6-481a-bcb6-c3467eb2a500",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "geo"
+    },
+    {
+        "id": 11768,
+        "session_id": "19a28410-7a45-4ab5-83dc-98657826304f",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Telefonica Germany GmbH & Co.OHG",
+        "org": "Telefonica Germany GmbH & Co."
+    },
+    {
+        "id": 11769,
+        "session_id": "94f86511-f23d-4fde-965c-b22e2a7ed943",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "1&1 Versatel Deutschland GmbH",
+        "org": "1&1 Versatel Deutschland GmbH"
+    },
+    {
+        "id": 11770,
+        "session_id": "3554a280-a743-45dd-b9ee-8ee30c89f1d4",
+        "referrer": "https://www.bing.com/",
+        "source": "direct",
+        "isp": "SeWiKom GmbH",
+        "org": "sewikom GmbH"
+    },
+    {
+        "id": 11771,
+        "session_id": "05efcdd8-c958-49c9-bcfd-2cf827a8bcaa",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Bisping & GmbH & Co KG",
+        "org": "Bisping & GmbH & Co KG"
+    },
+    {
+        "id": 11772,
+        "session_id": "73c2c359-b17c-4446-affe-25b8a52f8886",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Telefonica Germany GmbH & Co. OHG",
+        "org": "Telefonica Germany GmbH & Co."
+    },
+    {
+        "id": 11773,
+        "session_id": "e523dbdd-cf52-4c60-8d50-945b8ef32eaa",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone Kabel Deutschland",
+        "org": "Vodafone Kabel Deutschland GmbH"
+    },
+    {
+        "id": 11774,
+        "session_id": "981c0acd-1b6b-4e02-be83-c5a64d87a6bb",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Telefonica Germany GmbH & Co. OHG",
+        "org": "Telefonica Germany GmbH & Co."
+    },
+    {
+        "id": 11775,
+        "session_id": "ca236754-1ef9-4f26-b1bf-bed9cbe164b5",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Amazon.com, Inc.",
+        "org": "AWS EC2 (us-east-1)"
+    },
+    {
+        "id": 11776,
+        "session_id": "46da88f4-de92-4965-b867-d505d3266c77",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Amazon.com, Inc.",
+        "org": "AWS EC2 (us-east-1)"
+    },
+    {
+        "id": 11777,
+        "session_id": "e8c09def-5f00-489e-bd34-3ef2281c7ab7",
+        "referrer": "https://duckduckgo.com/",
+        "source": "direct",
+        "isp": "Telefonica Deutschland GmbH",
+        "org": "Telefonica O2 Germany GmbH & Co."
+    },
+    {
+        "id": 11778,
+        "session_id": "b7adb9aa-b834-4db8-a9ae-4f095ed3f9e9",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11779,
+        "session_id": "8d136a17-337a-4a3c-8204-3c20a930bab3",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "SpaceX Starlink"
+    },
+    {
+        "id": 11780,
+        "session_id": "bf3781d7-e46f-4e74-bd51-afde87311b44",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Network of Hutchison Drei Austria GmbH => NAT"
+    },
+    {
+        "id": 11781,
+        "session_id": "8f0267e2-7e4f-4c2e-ba8a-1b4d869a7bbf",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone",
+        "org": "Vodafone NRW GmbH"
+    },
+    {
+        "id": 11782,
+        "session_id": "a7912705-7ccc-4419-b0e4-dc88e8ee36bc",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11783,
+        "session_id": "e4370111-1240-481c-a53f-eecebe3c12ab",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11784,
+        "session_id": "77a57a46-912b-4ebf-bbc9-82c24045ece9",
+        "referrer": "https://duckduckgo.com/",
+        "source": "direct",
+        "isp": "SpaceX Starlink"
+    },
+    {
+        "id": 11785,
+        "session_id": "035d5a84-811a-4406-8fb6-b40736be4417",
+        "referrer": "https://www.google.de/",
+        "source": "direct",
+        "isp": "1&1 Versatel Deutschland GmbH",
+        "org": "VT-POOL Customer Nord"
+    },
+    {
+        "id": 11786,
+        "session_id": "703d9bf4-f5be-4cff-83d8-0bb3db35ab94",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone",
+        "org": "Vodafone NRW GmbH"
+    },
+    {
+        "id": 11787,
+        "session_id": "099aaa39-2957-4368-9665-437a9ddd256b",
+        "referrer": "https://www.bing.com/",
+        "source": "direct",
+        "isp": "Vodafone Kabel Deutschland",
+        "org": "Kabel Deutschland Customer Services"
+    },
+    {
+        "id": 11788,
+        "session_id": "68c1155a-a76e-4f7f-b91b-ac378ad218f9",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "1&1 Versatel Deutschland GmbH"
+    },
+    {
+        "id": 11789,
+        "session_id": "637869ed-a2e1-47ec-8174-4df21784727e",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "T-Mobile Deutschland GmbH",
+        "org": "Telekom Deutschland GmbH"
+    },
+    {
+        "id": 11790,
+        "session_id": "13627a03-c0aa-4f29-bf3c-06e271c252fd",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "ARCOR-IP",
+        "org": "Arcor AG"
+    },
+    {
+        "id": 11791,
+        "session_id": "6489b83b-1edc-47d8-a55e-759555c17166",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Tele Columbus AG",
+        "org": "Tele Columbus AG"
+    },
+    {
+        "id": 11792,
+        "session_id": "2305c1b6-34e1-445b-a6b1-9aefb3c33535",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Telefonica O2 Germany",
+        "org": "Telefonica Germany GmbH & Co."
+    },
+    {
+        "id": 11793,
+        "session_id": "ba7ef626-1e45-421d-9dd4-6141d1270f67",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone Kabel Deutschland",
+        "org": "Vodafone Kabel Deutschland GmbH"
+    },
+    {
+        "id": 11794,
+        "session_id": "a630d2e9-40ce-433c-bf84-df143f60c76d",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Stadtwerke Goerlitz AG",
+        "org": "Stadtwerke Goerlitz AG"
+    },
+    {
+        "id": 11795,
+        "session_id": "219f9948-b1e3-47b4-b0de-1c39d96ddc1e",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone Kabel Deutschland",
+        "org": "Kabel Deutschland Customer Services"
+    },
+    {
+        "id": 11796,
+        "session_id": "d09532a5-4216-4378-8cee-3228fb2c4c90",
+        "referrer": "https://www.google.de/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11797,
+        "session_id": "fa6bb889-63ac-4b30-af29-62d10ba74482",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "T-Mobile Deutschland GmbH",
+        "org": "Telekom Deutschland GmbH"
+    },
+    {
+        "id": 11798,
+        "session_id": "a87cd94e-e880-45d8-a11f-5f9256a7a1d3",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Liberty Global Operations B.V"
+    },
+    {
+        "id": 11799,
+        "session_id": "42145771-729d-42f7-bfd9-722cc77f55b7",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "VT-DYNAMICPOOL West",
+        "org": "1&1 Telecom GmbH"
+    },
+    {
+        "id": 11800,
+        "session_id": "386d7941-e4cf-4973-b5af-86b2387efc8a",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Liberty Global Operations B.V"
+    },
+    {
+        "id": 11801,
+        "session_id": "05775e81-d7d1-4aee-91ac-bd0916f2784c",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Cloudflare, Inc.",
+        "org": "Cloudflare WARP"
+    },
+    {
+        "id": 11802,
+        "session_id": "910678a3-64e2-4d25-8b31-7f23dae13fdd",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11803,
+        "session_id": "66600109-96b7-45b3-a6dd-7de40caf3c01",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Akamai Technologies, Inc.",
+        "org": "iCloud Private Relay"
+    },
+    {
+        "id": 11804,
+        "session_id": "f60e8c71-7efa-49bf-ab90-56305950d48c",
+        "referrer": "https://www.ecosia.org/",
+        "source": "direct",
+        "isp": "Telefonica Germany GmbH & Co.OHG",
+        "org": "Telefonica Germany GmbH & Co."
+    },
+    {
+        "id": 11805,
+        "session_id": "c57ac287-e3cd-4781-8433-4841a252abc4",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Tele Columbus AG",
+        "org": "Tele Columbus AG"
+    },
+    {
+        "id": 11806,
+        "session_id": "9b6b2dce-dab1-46a0-bce6-c6824e88b9ba",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Google LLC",
+        "org": "Google LLC"
+    },
+    {
+        "id": 11807,
+        "session_id": "20f60440-4351-4722-8cf2-5b99a33bac73",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "T-Mobile Deutschland GmbH",
+        "org": "Telekom Deutschland GmbH"
+    },
+    {
+        "id": 11808,
+        "session_id": "67268776-0229-4e52-a1d3-da29771f4125",
+        "referrer": "https://duckduckgo.com/",
+        "source": "direct",
+        "isp": "Vodafone D2 GmbH",
+        "org": "ARCOR-IP"
+    },
+    {
+        "id": 11809,
+        "session_id": "ddd2ab5f-02c3-41a8-a51e-fee33137a0eb",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Network of Hutchison Drei Austria GmbH => NAT",
+        "org": "Hutchison Drei Austria GmbH"
+    },
+    {
+        "id": 11810,
+        "session_id": "02ea24c3-f7f9-4008-ad51-1def8210a853",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11811,
+        "session_id": "04e561b6-dab9-4bcd-9372-0a0d4b60e085",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "VT-POOL1- dor002ibr009",
+        "org": "Versatel West GmbH"
+    },
+    {
+        "id": 11812,
+        "session_id": "12fe1161-a150-4ff6-9599-c5250d0c8cd8",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Cloudflare, Inc.",
+        "org": "Cloudflare WARP"
+    },
+    {
+        "id": 11813,
+        "session_id": "b4f94d1f-b4e7-49ed-9177-0c0544fbbe44",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11814,
+        "session_id": "549379d3-bc3b-41d0-bf4f-b3cae785d19b",
+        "referrer": "https://www.google.de/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11815,
+        "session_id": "28311c55-2b8d-42bc-b9b9-969c86ded6b6",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "1&1 Versatel Deutschland GmbH",
+        "org": "Versatel Deutschland"
+    },
+    {
+        "id": 11816,
+        "session_id": "581de0c6-2b97-44a2-a68d-b75ca54a93e2",
+        "referrer": "https://www.google.de/",
+        "source": "direct",
+        "isp": "Vodafone",
+        "org": "Vodafone NRW GmbH"
+    },
+    {
+        "id": 11817,
+        "session_id": "7b71ad5b-db90-425b-b85c-c1f81d404eed",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "1&1 Versatel Deutschland GmbH",
+        "org": "1&1 Versatel Deutschland GmbH"
+    },
+    {
+        "id": 11818,
+        "session_id": "eda3fe16-84fc-46a1-b6c0-df75c81a790a",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "EWE TEL GmbH",
+        "org": "EWE TEL GmbH"
+    },
+    {
+        "id": 11819,
+        "session_id": "6e1e8286-4915-40a3-b955-6ea99a0bb93a",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "D2VODAFONE",
+        "org": "Vodafone GmbH"
+    },
+    {
+        "id": 11820,
+        "session_id": "320b8211-3c54-4fe2-93e9-180113c4a2c5",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "ARCOR-IP",
+        "org": "Arcor AG"
+    },
+    {
+        "id": 11821,
+        "session_id": "f4d43781-d034-41d5-a424-fef2bee4f19c",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone",
+        "org": "Vodafone NRW GmbH"
+    },
+    {
+        "id": 11822,
+        "session_id": "c89d8823-4539-43d8-9d90-9b15777c6a90",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "VSE NET GmbH",
+        "org": "Fttx EGO"
+    },
+    {
+        "id": 11823,
+        "session_id": "24af39e4-3e40-4f13-a3b1-a5328240d27c",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone",
+        "org": "Vodafone NRW GmbH"
+    },
+    {
+        "id": 11824,
+        "session_id": "6fd41fc2-cce2-41e1-8012-9c67f11c3b33",
+        "referrer": "https://www.zencan.de/search?query=Shiskaberry",
+        "source": "direct",
+        "isp": "Vodafone Kabel Deutschland",
+        "org": "Kabel Deutschland Customer Services"
+    },
+    {
+        "id": 11825,
+        "session_id": "41d8be5f-bebd-4ca0-a9af-6ad9e8e21a69",
+        "referrer": "https://duckduckgo.com/",
+        "source": "direct",
+        "isp": "1&1 Versatel Deutschland GmbH",
+        "org": "VT-POOL Customer Nord"
+    },
+    {
+        "id": 11826,
+        "session_id": "bf7cfe3e-1ca7-47c4-ab06-d93c287810ae",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Sunrise GmbH",
+        "org": "Sunrise Communications AG"
+    },
+    {
+        "id": 11827,
+        "session_id": "bfe1c4b4-39f7-48dc-bde5-a81dc5f7ec93",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Akamai Technologies, Inc.",
+        "org": "iCloud Private Relay"
+    },
+    {
+        "id": 11828,
+        "session_id": "d5be0490-daed-4ef3-b5a3-b9d37f562cee",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11829,
+        "session_id": "a5f0c43c-a3ed-4f45-9a95-6f7184227e46",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Salt Mobile SA",
+        "org": "SALT"
+    },
+    {
+        "id": 11830,
+        "session_id": "2b694c59-15c6-48b6-9762-95504decc0f1",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "1&1 Versatel Deutschland GmbH",
+        "org": "VT Dynamicpool"
+    },
+    {
+        "id": 11831,
+        "session_id": "29626b8c-ad38-4c03-bfb7-ab3e0d04655d",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "T-Mobile Austria GmbH",
+        "org": "Magenta Telekom"
+    },
+    {
+        "id": 11832,
+        "session_id": "f7fc2089-37e8-407b-8059-92ec4bcea740",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Telefonica Deutschland GmbH",
+        "org": "Telefonica O2 Germany GmbH & Co."
+    },
+    {
+        "id": 11833,
+        "session_id": "95fd95f9-0888-4767-9da2-140001c9a418",
+        "referrer": "https://de.search.yahoo.com/",
+        "source": "direct",
+        "isp": "Vitroconnect GmbH",
+        "org": "vitroconnect GmbH"
+    },
+    {
+        "id": 11834,
+        "session_id": "f4a78247-6f52-4bcd-859c-59044a062bc6",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11835,
+        "session_id": "0096b867-e145-4b8f-a9f3-fdd63f31c1f4",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone D2 GmbH",
+        "org": "Vodafone GmbH"
+    },
+    {
+        "id": 11836,
+        "session_id": "2bf4525d-3c5d-4c61-a96c-2eec1add7e12",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Swisscom (Schweiz) AG - Bluewin",
+        "org": "Swisscom (Schweiz) AG"
+    },
+    {
+        "id": 11837,
+        "session_id": "0f7c3a36-0bc6-419d-895d-c807fa4fa531",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11838,
+        "session_id": "f389d411-bc40-424d-9db6-fb9231fa2ce2",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "M-net Telekommunikations GmbH",
+        "org": "MNET"
+    },
+    {
+        "id": 11839,
+        "session_id": "22474f45-6bf4-4cd5-9d89-48a2d224c649",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "T-Mobile Deutschland GmbH",
+        "org": "Telekom Deutschland GmbH"
+    },
+    {
+        "id": 11840,
+        "session_id": "ace2a360-33eb-4db6-a304-eb8e06c517a3",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone",
+        "org": "Vodafone NRW GmbH"
+    },
+    {
+        "id": 11841,
+        "session_id": "5a084699-0b37-4856-b468-8801a5588077",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone",
+        "org": "Vodafone NRW GmbH"
+    },
+    {
+        "id": 11842,
+        "session_id": "4bb786b3-299c-42f8-ad44-5364544d5249",
+        "referrer": "https://duckduckgo.com/",
+        "source": "direct",
+        "isp": "Telefonica O2 Germany",
+        "org": "Telefonica Germany GmbH & Co."
+    },
+    {
+        "id": 11843,
+        "session_id": "0fda4221-fabc-4c1c-b3dc-db9fd1952186",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "T-Mobile Deutschland GmbH",
+        "org": "Telekom Deutschland GmbH"
+    },
+    {
+        "id": 11844,
+        "session_id": "a22d3582-aceb-4852-951e-2a0a92ec8627",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone",
+        "org": "Vodafone NRW GmbH"
+    },
+    {
+        "id": 11845,
+        "session_id": "6e74d45c-1914-4514-8448-8991f71e0d28",
+        "referrer": "https://duckduckgo.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11846,
+        "session_id": "bba316c9-2445-4cdc-83dc-ccb1dcfd4b2b",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11847,
+        "session_id": "caaf076e-a1bd-4cd1-80b3-c5038d25bf8f",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "1&1 Versatel Deutschland GmbH",
+        "org": "VT-DYNAMICPOOL 5G"
+    },
+    {
+        "id": 11848,
+        "session_id": "3076610f-5978-4605-89bb-3bc3f73bf6e1",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone Kabel Deutschland",
+        "org": "Vodafone Kabel Deutschland GmbH"
+    },
+    {
+        "id": 11849,
+        "session_id": "ed894a25-0700-41c1-aef5-a35044d77b5c",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11850,
+        "session_id": "fd0b63d0-bb12-4ecc-9962-bfa7f5d10be1",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "M-net Telekommunikations GmbH",
+        "org": "MNET"
+    },
+    {
+        "id": 11851,
+        "session_id": "54a92a2b-a8db-4dbb-8018-ae771f6a9236",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "T-Mobile Deutschland GmbH",
+        "org": "Telekom Deutschland GmbH"
+    },
+    {
+        "id": 11852,
+        "session_id": "34979b42-99fd-4699-bb19-e1dc5d5c745d",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Telefonica de Espana SAU",
+        "org": "RIMA (Red IP Multi Acceso)"
+    },
+    {
+        "id": 11853,
+        "session_id": "a8e657ff-417c-4436-bdbb-6ba80df47d88",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Telefonica Germany GmbH & Co.OHG",
+        "org": "Telefonica Germany GmbH & Co."
+    },
+    {
+        "id": 11854,
+        "session_id": "50b263e4-62b2-4603-8e0b-f2816871afa5",
+        "referrer": "https://www.google.de/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11855,
+        "session_id": "9b8eef3e-4628-4e14-be35-cd1de3d76fd3",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "DNS:NET Internet Service GmbH",
+        "org": "1STCOM"
+    },
+    {
+        "id": 11856,
+        "session_id": "3eaf2cab-002b-49ba-885d-36f0d8ab5272",
+        "referrer": "https://www.google.de/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11857,
+        "session_id": "edeaad99-9fdc-4b1d-849b-d44baf7701c5",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11858,
+        "session_id": "da2be777-6048-46c3-9f5e-350c63348d95",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11859,
+        "session_id": "b7ec8666-6b6d-4be7-89d5-98d8063d3621",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11860,
+        "session_id": "73d89e41-54c2-467c-b860-bdb11624c4e6",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "SOCO Network Solutions GmbH",
+        "org": "SOCO Network Solutions GmbH"
+    },
+    {
+        "id": 11861,
+        "session_id": "f7a6970f-5d6f-4cb4-a654-13612aae97b5",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "1&1 Versatel Deutschland GmbH",
+        "org": "VT-POOL Customer West"
+    },
+    {
+        "id": 11862,
+        "session_id": "fa7dee82-0ba6-4805-bc93-58a28900e571",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone Kabel Deutschland",
+        "org": "Vodafone Kabel Deutschland GmbH"
+    },
+    {
+        "id": 11863,
+        "session_id": "324b42de-4f86-437c-aee6-1095db5ad09e",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Network of Hutchison Drei Austria GmbH => NAT",
+        "org": "Hutchison Drei Austria GmbH"
+    },
+    {
+        "id": 11864,
+        "session_id": "51e0c94b-eaf8-446b-a944-cbbd8386d7c2",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "M-net Telekommunikations GmbH",
+        "org": "MNET"
+    },
+    {
+        "id": 11865,
+        "session_id": "3e5a411d-c8dd-4bf5-ab0b-fa53bf5fa49a",
+        "referrer": "https://duckduckgo.com/",
+        "source": "direct",
+        "isp": "VT-POOL 5 BRAS ber1001aihr001",
+        "org": "Versatel West GmbH"
+    },
+    {
+        "id": 11866,
+        "session_id": "cf296598-29f7-4d89-88ce-7d2353e8ea52",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "D2VODAFONE",
+        "org": "Vodafone GmbH"
+    },
+    {
+        "id": 11867,
+        "session_id": "8bb2f70b-4987-4427-a3d8-564bed613995",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone",
+        "org": "Vodafone NRW GmbH"
+    },
+    {
+        "id": 11868,
+        "session_id": "d749866c-e21b-41c3-b24f-e33e43c0682b",
+        "referrer": "https://www.bing.com/",
+        "source": "direct",
+        "isp": "Vodafone Kabel Deutschland",
+        "org": "Vodafone Kabel Deutschland GmbH"
+    },
+    {
+        "id": 11869,
+        "session_id": "8403292e-9910-4b20-baa2-63060c8b57fb",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "pop-interactive GmbH",
+        "org": "Star Finanz - Software Entwicklung und Vertriebs GmbH"
+    },
+    {
+        "id": 11870,
+        "session_id": "496ee739-0945-4faa-a703-3cb1dfc87866",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "kabelplus GmbH",
+        "org": "Kabelsignal"
+    },
+    {
+        "id": 11871,
+        "session_id": "4bb516bc-f94d-4fb2-bf20-bbf0d7a0e06d",
+        "referrer": "https://www.bing.com/",
+        "source": "direct",
+        "isp": "Vodafone Kabel Deutschland",
+        "org": "Vodafone Kabel Deutschland GmbH"
+    },
+    {
+        "id": 11872,
+        "session_id": "177fc771-39b6-4600-87ff-fccbaf146720",
+        "referrer": "https://duckduckgo.com/",
+        "source": "direct",
+        "isp": "Vodafone",
+        "org": "Vodafone NRW GmbH"
+    },
+    {
+        "id": 11873,
+        "session_id": "a7e2125b-b5e3-4f42-9543-7e37e891d1b8",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11874,
+        "session_id": "80a647bd-71b3-4d34-9891-38eebcef9d57",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Network of Hutchison Drei Austria GmbH => NAT",
+        "org": "Hutchison Drei Austria GmbH"
+    },
+    {
+        "id": 11875,
+        "session_id": "c3131a9d-6049-4fa8-a468-11cde599c12c",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "M-net Telekommunikations GmbH",
+        "org": "MNET"
+    },
+    {
+        "id": 11876,
+        "session_id": "863baf1b-2ac8-423c-a7d6-0ee2a5c8793a",
+        "referrer": "https://www.bing.com/",
+        "source": "direct",
+        "isp": "Vodafone Kabel Deutschland",
+        "org": "Vodafone Kabel Deutschland GmbH"
+    },
+    {
+        "id": 11877,
+        "session_id": "2fbfd52a-3aaa-4706-9ca2-5eef007544e2",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11878,
+        "session_id": "8fd158bd-9f79-49b3-aeac-f5196e4da7c2",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Glasfaser Wholesale GmbH",
+        "org": "DGW Ftth Dynamic Fra1"
+    },
+    {
+        "id": 11879,
+        "session_id": "8c464d37-26a0-4788-ac04-62069072e59e",
+        "referrer": "https://www.google.de/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11880,
+        "session_id": "2680397c-6d37-494a-9bc0-68d9b3b4c056",
+        "referrer": "https://www.google.de/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11881,
+        "session_id": "2eb03858-fe46-4bfd-874e-f1c2491c0739",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "ENTEGA Medianet GmbH",
+        "org": "ENTEGA Medianet GmbH"
+    },
+    {
+        "id": 11882,
+        "session_id": "886c101e-d2e9-4d9e-b3e4-ae5d055be707",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11883,
+        "session_id": "8abf9685-c835-4af1-9f40-8469c3ae5e36",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "1&1 Versatel Deutschland GmbH"
+    },
+    {
+        "id": 11884,
+        "session_id": "ba0973e4-f841-4fc1-9f59-861246446a6a",
+        "referrer": "https://www.google.de/",
+        "source": "direct",
+        "isp": "Vodafone",
+        "org": "Vodafone NRW GmbH"
+    },
+    {
+        "id": 11885,
+        "session_id": "8c97cbf4-2930-4f9b-9647-2c38ea77fb81",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "T-Mobile Austria GmbH",
+        "org": "Magenta Telekom"
+    },
+    {
+        "id": 11886,
+        "session_id": "d6ea8cc2-87e2-4238-b693-5241cbfbb6cd",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Tele Columbus AG",
+        "org": "Tele Columbus AG"
+    },
+    {
+        "id": 11887,
+        "session_id": "62b7a4a7-5fad-484d-992a-729579b0261a",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Telefonica Germany GmbH & Co. OHG",
+        "org": "Telefonica Germany GmbH & Co."
+    },
+    {
+        "id": 11888,
+        "session_id": "e9eb5428-fc37-4513-8ed6-a8104d933d4a",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "TWL-Kom GmbH Ludwigshafen / Germany",
+        "org": "TWLKOM GmbH"
+    },
+    {
+        "id": 11889,
+        "session_id": "e145ad75-31ad-4eac-b821-8999636d1fb5",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "EWE TEL GmbH",
+        "org": "EWE TEL GmbH"
+    },
+    {
+        "id": 11890,
+        "session_id": "e1acc5c0-82bc-4943-b0ea-31ef48db0a41",
+        "referrer": "https://duckduckgo.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11891,
+        "session_id": "449fcb2b-1ac1-4794-95be-ad53bbd6b8fd",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "T-Mobile Austria GmbH",
+        "org": "Magenta Telekom"
+    },
+    {
+        "id": 11892,
+        "session_id": "4cc3295c-1585-4a9b-a8a9-f3bd36dc2ad1",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Telefonica Germany GmbH & Co.OHG",
+        "org": "Telefonica Germany GmbH & Co."
+    },
+    {
+        "id": 11893,
+        "session_id": "a3b28abe-9717-49e8-a1d4-89d79d43fd18",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "OSNATEL",
+        "org": "osnatel GmbH"
+    },
+    {
+        "id": 11894,
+        "session_id": "b546d9c1-3e30-40fa-a8b3-4f1b91e0e46c",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone Kabel Deutschland",
+        "org": "Vodafone Kabel Deutschland GmbH"
+    },
+    {
+        "id": 11895,
+        "session_id": "aa10e4f8-7a3d-406c-a6fc-b9b51293878e",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Fastly, Inc.",
+        "org": "iCloud Private Relay"
+    },
+    {
+        "id": 11896,
+        "session_id": "991c9285-a6cd-431f-ba8c-312a095f9a5a",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone GmbH",
+        "org": "Disquom1"
+    },
+    {
+        "id": 11897,
+        "session_id": "a88dcb8f-e97b-4a8d-9672-0392d533cab9",
+        "referrer": "https://de.search.yahoo.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11898,
+        "session_id": "4ad01676-7395-4748-8e27-e40219c6a1b9",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Hrvatski Telekom d.d"
+    },
+    {
+        "id": 11899,
+        "session_id": "2d24a0be-813a-4810-afab-f1fb04bfcc23",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11900,
+        "session_id": "99670f45-18c6-4eaa-bf81-e3a357e6dc15",
+        "referrer": "https://duckduckgo.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11901,
+        "session_id": "0e173cb6-b781-4abd-ab34-ed46bb53596d",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Telefonica Germany GmbH & Co.OHG",
+        "org": "Telefonica Germany GmbH & Co."
+    },
+    {
+        "id": 11902,
+        "session_id": "b5094843-8d95-4409-a28c-d928e7d6b51a",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "M-net Telekommunikations GmbH",
+        "org": "MNET"
+    },
+    {
+        "id": 11903,
+        "session_id": "d589ce7f-4416-47cf-b7f9-5577bd954f7f",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Hetzner Online GmbH",
+        "org": "Hetzner"
+    },
+    {
+        "id": 11904,
+        "session_id": "79d7102e-d598-4d68-aef1-a2f7e70af4e4",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Salt Mobile SA",
+        "org": "Salt Mobile SA"
+    },
+    {
+        "id": 11905,
+        "session_id": "3772c045-521d-4ae9-95e0-1239ed142939",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone",
+        "org": "Vodafone NRW GmbH"
+    },
+    {
+        "id": 11906,
+        "session_id": "24736d07-81ba-4f69-bae3-a5c3e760b5b6",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11907,
+        "session_id": "7ac186e8-ddc1-4b0a-b7fb-495cd9312fd4",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "1&1 Versatel Deutschland GmbH",
+        "org": "1&1 Versatel Deutschland GmbH"
+    },
+    {
+        "id": 11908,
+        "session_id": "6b538138-1fca-4aa7-a7f6-ccfc096280aa",
+        "referrer": "https://www.google.de/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11909,
+        "session_id": "725ff677-fff3-4d04-9233-5ba195303cbc",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Clouvider Limited",
+        "org": "Packethub S.A"
+    },
+    {
+        "id": 11910,
+        "session_id": "374af6e5-c0b2-4af9-ad92-fbfb22a629ce",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "PRIMACOM",
+        "org": "Primacom Berlin GmbH"
+    },
+    {
+        "id": 11911,
+        "session_id": "eb755049-8ce6-4442-b5ff-874c3fa49d32",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Vodafone",
+        "org": "Vodafone NRW GmbH"
+    },
+    {
+        "id": 11912,
+        "session_id": "b92a83cf-b1a3-4249-91cf-5aa10a721845",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Swisscom (Schweiz) AG - Bluewin",
+        "org": "Swisscom (Schweiz) AG"
+    },
+    {
+        "id": 11913,
+        "session_id": "7779348a-35c6-47c2-bdbb-92fbd952a98b",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Akamai Technologies, Inc.",
+        "org": "iCloud Private Relay"
+    },
+    {
+        "id": 11914,
+        "session_id": "756ffcfc-611c-46a0-ae14-1252d7ecffb6",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "PfalzKom Gesellschaft fuer Telekommunikation mbH",
+        "org": "KurpfalzTEL Gesellschaft f\u00fcr Telekommunikation mbH"
+    },
+    {
+        "id": 11915,
+        "session_id": "e46abf8d-40bd-49bf-8d57-b25a949feffb",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Cloudflare, Inc.",
+        "org": "Cloudflare WARP"
+    },
+    {
+        "id": 11916,
+        "session_id": "03ca217f-1ad0-4652-b254-611330703299",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone Kabel Deutschland",
+        "org": "Vodafone Kabel Deutschland GmbH"
+    },
+    {
+        "id": 11917,
+        "session_id": "738876c4-86e7-471e-9668-e84cd543d55e",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11918,
+        "session_id": "adeb2990-4e47-4862-b61e-ee11f032ecd6",
+        "referrer": "https://duckduckgo.com/",
+        "source": "direct",
+        "isp": "31173 Services AB",
+        "org": "31173 Services Denmark"
+    },
+    {
+        "id": 11919,
+        "session_id": "77228e27-f76d-40f9-bbbf-1beba8b37323",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone Kabel Deutschland",
+        "org": "Vodafone Kabel Deutschland GmbH"
+    },
+    {
+        "id": 11920,
+        "session_id": "3631544d-7451-4991-822e-a541903eed50",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "D2VODAFONE",
+        "org": "Vodafone GmbH"
+    },
+    {
+        "id": 11921,
+        "session_id": "3c7f4e8b-cefe-4d19-8a48-bddc85e95293",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "OVH Hosting",
+        "org": "Dataprovider B.V."
+    },
+    {
+        "id": 11922,
+        "session_id": "88720dea-0f47-484a-9fac-7c4eb36de723",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11923,
+        "session_id": "c34283d9-b242-4cb3-b771-75afb299c8f2",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "D2VODAFONE",
+        "org": "Vodafone GmbH"
+    },
+    {
+        "id": 11924,
+        "session_id": "311122aa-1303-4acd-880e-bc9863a4073d",
+        "referrer": "https://www.google.de/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11925,
+        "session_id": "8c1a9c54-d149-497e-9a84-f8825572c3fd",
+        "referrer": "https://www.google.ch/",
+        "source": "direct",
+        "isp": "Swisscom (Schweiz) AG - Bluewin",
+        "org": "Swisscom (Schweiz) AG"
+    },
+    {
+        "id": 11926,
+        "session_id": "976e7a46-cf97-4999-a529-68d02cac81e7",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone",
+        "org": "Vodafone NRW GmbH"
+    },
+    {
+        "id": 11927,
+        "session_id": "2a99cd1f-2cd9-4bb8-ba04-80c26973ac3d",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "1&1 Versatel Deutschland GmbH"
+    },
+    {
+        "id": 11928,
+        "session_id": "d13d3e14-432a-46da-9ace-1b6c4ec660f6",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "1&1 Versatel Deutschland GmbH"
+    },
+    {
+        "id": 11929,
+        "session_id": "32630163-e06f-4a9d-be6b-db75778c0f30",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Google LLC",
+        "org": "Google LLC"
+    },
+    {
+        "id": 11930,
+        "session_id": "dd4c53c6-f183-4736-b03f-2181cf971126",
+        "referrer": "https://duckduckgo.com/",
+        "source": "direct",
+        "isp": "Telefonica O2 Germany",
+        "org": "Telefonica Germany GmbH & Co."
+    },
+    {
+        "id": 11931,
+        "session_id": "40830a40-a984-4752-9f76-f98ec08fa141",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Amazon.com",
+        "org": "AWS EC2 (us-east-1)"
+    },
+    {
+        "id": 11932,
+        "session_id": "6b87934c-b53b-45bd-a7e3-cd107cc2b1df",
+        "referrer": "direct",
+        "source": "direct",
+        "isp": "Amazon.com",
+        "org": "AWS EC2 (us-east-1)"
+    },
+    {
+        "id": 11933,
+        "session_id": "1ab6f9aa-86e4-4326-9505-a8f84f1edb7e",
+        "referrer": "https://duckduckgo.com/",
+        "source": "direct",
+        "isp": "Deutsche Glasfaser Wholesale GmbH",
+        "org": "DGW Ftth Dynamic Fra1"
+    },
+    {
+        "id": 11934,
+        "session_id": "31dcb636-4e04-4c32-adc6-5b83c50d808d",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Deutsche Telekom AG",
+        "org": "Deutsche Telekom AG"
+    },
+    {
+        "id": 11935,
+        "session_id": "e076fc27-4a94-48e7-9fa4-69dc249ba397",
+        "referrer": "https://www.bing.com/",
+        "source": "direct",
+        "isp": "Vodafone",
+        "org": "Vodafone NRW GmbH"
+    },
+    {
+        "id": 11936,
+        "session_id": "0e326b5e-aae9-4718-b0ad-5c3698f3442f",
+        "referrer": "https://www.google.com/",
+        "source": "direct",
+        "isp": "Vodafone",
+        "org": "Vodafone NRW GmbH"
     }
 ]
