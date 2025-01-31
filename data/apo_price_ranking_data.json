@@ -1,89 +1,5 @@
 [
     {
-        "key_flower": "cannamedical indica forte: el jefe",
-        "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 10.98,
-        "name_apo_rank2": "cannalivery",
-        "price_apo_rank2": 10.99,
-        "name_apo_rank3": "medicalherbs",
-        "price_apo_rank3": 11.59
-    },
-    {
-        "key_flower": "pedanios 22/1: ghost train haze",
-        "name_apo_rank1": "mycannabis",
-        "price_apo_rank1": 10.99,
-        "name_apo_rank2": "gruenhorn",
-        "price_apo_rank2": 10.99,
-        "name_apo_rank3": "cannalivery",
-        "price_apo_rank3": 10.99
-    },
-    {
-        "key_flower": "tilray thc18 spotlight porto: jean guy",
-        "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 7.74
-    },
-    {
-        "key_flower": "avaay signature 23/1 mc: mandarin cookies",
-        "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 10.22
-    },
-    {
-        "key_flower": "tilray thc 22 spotlight porto: gorilla glue 4",
-        "name_apo_rank1": "mycannabis",
-        "price_apo_rank1": 7.99
-    },
-    {
-        "key_flower": "bediol: elida",
-        "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 10.12
-    },
-    {
-        "key_flower": "cannamedical sativa forte: tangie chem",
-        "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 10.77
-    },
-    {
-        "key_flower": "aurora 22/1: delahaze",
-        "name_apo_rank1": "gruenhorn",
-        "price_apo_rank1": 9.99,
-        "name_apo_rank2": "cannalivery",
-        "price_apo_rank2": 10.99,
-        "name_apo_rank3": "medicalherbs",
-        "price_apo_rank3": 10.99
-    },
-    {
-        "key_flower": "cannamedical sativa light: strawberry ice",
-        "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 7.14,
-        "name_apo_rank2": "cannalivery",
-        "price_apo_rank2": 8.49
-    },
-    {
-        "key_flower": "imc thc22 t06: black russian",
-        "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 7.98
-    },
-    {
-        "key_flower": "tilray thc18 spotlight porto: mango",
-        "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 7.14
-    },
-    {
-        "key_flower": "all nations sh-001: stolo haze",
-        "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 8.21
-    },
-    {
-        "key_flower": "pedanios 20/1 dnk: la confidential",
-        "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 7.97
-    },
-    {
-        "key_flower": "gr\u00fcnhorn gg 22/1: gorilla glue",
-        "name_apo_rank1": "gruenhorn",
-        "price_apo_rank1": 9.8
-    },
-    {
         "key_flower": "22/1 md cookies: medellin",
         "name_apo_rank1": "mycannabis",
         "price_apo_rank1": 7.99
@@ -92,6 +8,11 @@
         "key_flower": "tilray thc 9 : cbd 9: warlock",
         "name_apo_rank1": "gruenhorn",
         "price_apo_rank1": 13.99
+    },
+    {
+        "key_flower": "bediol: elida",
+        "name_apo_rank1": "cannabisapo24",
+        "price_apo_rank1": 10.12
     },
     {
         "key_flower": "cm 20/1 crm: creamy kee\u2018s",
@@ -126,6 +47,269 @@
         "price_apo_rank2": 9.37
     },
     {
+        "key_flower": "green karat sd pt: supreme diesel",
+        "name_apo_rank1": "cannabisapo24",
+        "price_apo_rank1": 10.71,
+        "name_apo_rank2": "mycannabis",
+        "price_apo_rank2": 11.99
+    },
+    {
+        "key_flower": "typ 2 aphria: great bear",
+        "name_apo_rank1": "cannabisapo24",
+        "price_apo_rank1": 9.88
+    },
+    {
+        "key_flower": "tilray thc9:cbd9 no.2: warlock cbd",
+        "name_apo_rank1": "cannabisapo24",
+        "price_apo_rank1": 10.91
+    },
+    {
+        "key_flower": "tilray thc18 spotlight porto: master kush",
+        "name_apo_rank1": "gruenhorn",
+        "price_apo_rank1": 7.99
+    },
+    {
+        "key_flower": "cannamedical sativa light: strawberry ice",
+        "name_apo_rank1": "cannabisapo24",
+        "price_apo_rank1": 7.14,
+        "name_apo_rank2": "cannalivery",
+        "price_apo_rank2": 8.49
+    },
+    {
+        "key_flower": "cannamedical sativa ultra nm: polar cookies",
+        "name_apo_rank1": "cannabisapo24",
+        "price_apo_rank1": 11.98
+    },
+    {
+        "key_flower": "29/1 amici wc: wedding cake",
+        "name_apo_rank1": "cannabisapo24",
+        "price_apo_rank1": 11.29
+    },
+    {
+        "key_flower": "amp classic 18/1 primary: white widow",
+        "name_apo_rank1": "cannabisapo24",
+        "price_apo_rank1": 7.5
+    },
+    {
+        "key_flower": "imc balanced 7/8 b01: blue dream",
+        "name_apo_rank1": "cannabisapo24",
+        "price_apo_rank1": 7.14
+    },
+    {
+        "key_flower": "cannamedical indica forte ma: crazy rntz",
+        "name_apo_rank1": "cannabisapo24",
+        "price_apo_rank1": 10.48
+    },
+    {
+        "key_flower": "enua 25/1 mb ca: mega breath",
+        "name_apo_rank1": "cannabisapo24",
+        "price_apo_rank1": 8.73,
+        "name_apo_rank2": "mycannabis",
+        "price_apo_rank2": 9.96
+    },
+    {
+        "key_flower": "vasco wr: white runtz",
+        "name_apo_rank1": "cannabisapo24",
+        "price_apo_rank1": 8.81
+    },
+    {
+        "key_flower": "green karat cg: cool grapes",
+        "name_apo_rank1": "cannabisapo24",
+        "price_apo_rank1": 9.4
+    },
+    {
+        "key_flower": "oht ckz 1: rntz",
+        "name_apo_rank1": "cannabisapo24",
+        "price_apo_rank1": 7.49
+    },
+    {
+        "key_flower": "pedanios 27/1 frg-ca: farm gas",
+        "name_apo_rank1": "cannabisapo24",
+        "price_apo_rank1": 10.35
+    },
+    {
+        "key_flower": "pedanios 20/1 dnk: la confidential",
+        "name_apo_rank1": "cannabisapo24",
+        "price_apo_rank1": 7.97
+    },
+    {
+        "key_flower": "navcora thc18 spotlight porto: master kush",
+        "name_apo_rank1": "cannalivery",
+        "price_apo_rank1": 5.99
+    },
+    {
+        "key_flower": "cm 30/1 gc: ginger cookies",
+        "name_apo_rank1": "cannalivery",
+        "price_apo_rank1": 11.99
+    },
+    {
+        "key_flower": "canopy hsk 8/7: cbd skunk haze",
+        "name_apo_rank1": "cannabisapo24",
+        "price_apo_rank1": 9.98
+    },
+    {
+        "key_flower": "remexian 14/1: white widow",
+        "name_apo_rank1": "gruenhorn",
+        "price_apo_rank1": 4.99,
+        "name_apo_rank2": "cannabisapo24",
+        "price_apo_rank2": 4.99
+    },
+    {
+        "key_flower": "enua 21/1 sc ca: strawberry cake",
+        "name_apo_rank1": "cannem",
+        "price_apo_rank1": 7.99
+    },
+    {
+        "key_flower": "420 natural 17/1 ca trp: tropicana cookies",
+        "name_apo_rank1": "cannem",
+        "price_apo_rank1": 9.99
+    },
+    {
+        "key_flower": "imc thc17 t01: hindu kush",
+        "name_apo_rank1": "cannalivery",
+        "price_apo_rank1": 8.49
+    },
+    {
+        "key_flower": "cannamedical hybrid forte dk: ghost train haze",
+        "name_apo_rank1": "cannalivery",
+        "price_apo_rank1": 9.99,
+        "name_apo_rank2": "cannem",
+        "price_apo_rank2": 9.99
+    },
+    {
+        "key_flower": "botanics tonic fuel 22/1: gary payton",
+        "name_apo_rank1": "mycannabis",
+        "price_apo_rank1": 8.48,
+        "name_apo_rank2": "cannem",
+        "price_apo_rank2": 9.75
+    },
+    {
+        "key_flower": "cannamedical indica classic ury: cheddar skunk",
+        "name_apo_rank1": "cannalivery",
+        "price_apo_rank1": 5.39,
+        "name_apo_rank2": "mycannabis",
+        "price_apo_rank2": 6.19,
+        "name_apo_rank3": "cannem",
+        "price_apo_rank3": 6.99
+    },
+    {
+        "key_flower": "imc cbd 14 c01: god bud",
+        "name_apo_rank1": "cannem",
+        "price_apo_rank1": 7.99,
+        "name_apo_rank2": "gruenhorn",
+        "price_apo_rank2": 8.49
+    },
+    {
+        "key_flower": "cannamedical sativa forte: duke",
+        "name_apo_rank1": "cannem",
+        "price_apo_rank1": 7.99,
+        "name_apo_rank2": "cannabisapo24",
+        "price_apo_rank2": 9.52,
+        "name_apo_rank3": "cannalivery",
+        "price_apo_rank3": 9.99
+    },
+    {
+        "key_flower": "drapalin 20/1: pop",
+        "name_apo_rank1": "cannem",
+        "price_apo_rank1": 9.99
+    },
+    {
+        "key_flower": "cannabis flos 18/1 ls ku. durban sky: durban sky",
+        "name_apo_rank1": "cannem",
+        "price_apo_rank1": 6.99
+    },
+    {
+        "key_flower": "cannamedical sativa classic nm: candyland",
+        "name_apo_rank1": "cannalivery",
+        "price_apo_rank1": 9.99
+    },
+    {
+        "key_flower": "cannamedical sativa classic: strawberry ice",
+        "name_apo_rank1": "cannabisapo24",
+        "price_apo_rank1": 10.92,
+        "name_apo_rank2": "cannalivery",
+        "price_apo_rank2": 11.99
+    },
+    {
+        "key_flower": "enua 21/1 sg ca: sherbert glue",
+        "name_apo_rank1": "cannabisapo24",
+        "price_apo_rank1": 7.69
+    },
+    {
+        "key_flower": "cm 30/1 koko: koko\u00b4s cookies",
+        "name_apo_rank1": "medicalherbs",
+        "price_apo_rank1": 10.69,
+        "name_apo_rank2": "cannem",
+        "price_apo_rank2": 10.99
+    },
+    {
+        "key_flower": "demecan craft dosidos 24:01: dosidos",
+        "name_apo_rank1": "medicalherbs",
+        "price_apo_rank1": 12.98
+    },
+    {
+        "key_flower": "420 natural 22/1 ca gg: gorilla glue 4",
+        "name_apo_rank1": "cannem",
+        "price_apo_rank1": 9.99,
+        "name_apo_rank2": "gruenhorn",
+        "price_apo_rank2": 10.99
+    },
+    {
+        "key_flower": "pedanios 24/1 lac-ca: la confidential",
+        "name_apo_rank1": "cannabisapo24",
+        "price_apo_rank1": 10.23
+    },
+    {
+        "key_flower": "avaay 26/1 sk: sour og kush",
+        "name_apo_rank1": "cannalivery",
+        "price_apo_rank1": 9.99
+    },
+    {
+        "key_flower": "420 evolution 30/1 ca pch: peach chementine",
+        "name_apo_rank1": "gruenhorn",
+        "price_apo_rank1": 10.89
+    },
+    {
+        "key_flower": "cannamedical sativa forte nm: wedding tree",
+        "name_apo_rank1": "cannabisapo24",
+        "price_apo_rank1": 11.31
+    },
+    {
+        "key_flower": "420 evolution 27/1 ca mmi: miracle mints",
+        "name_apo_rank1": "cannem",
+        "price_apo_rank1": 12.25,
+        "name_apo_rank2": "gruenhorn",
+        "price_apo_rank2": 12.49
+    },
+    {
+        "key_flower": "demecan craft t4n-g 25:01: banjo",
+        "name_apo_rank1": "cannabisapo24",
+        "price_apo_rank1": 10.71,
+        "name_apo_rank2": "cannalivery",
+        "price_apo_rank2": 10.99,
+        "name_apo_rank3": "medicalherbs",
+        "price_apo_rank3": 12.39
+    },
+    {
+        "key_flower": "pedanios 26/1 ehd-ca: electric honeydew",
+        "name_apo_rank1": "mycannabis",
+        "price_apo_rank1": 10.28,
+        "name_apo_rank2": "cannabisapo24",
+        "price_apo_rank2": 10.47
+    },
+    {
+        "key_flower": "cannamedical hybrid ultra dk: ghost train haze",
+        "name_apo_rank1": "cannalivery",
+        "price_apo_rank1": 10.49,
+        "name_apo_rank2": "medicalherbs",
+        "price_apo_rank2": 10.69
+    },
+    {
+        "key_flower": "cm 28/1 crm: creamy kee's",
+        "name_apo_rank1": "medicalherbs",
+        "price_apo_rank1": 11.99
+    },
+    {
         "key_flower": "tilray thc18 spotlight porto: sour diesel",
         "name_apo_rank1": "cannabisapo24",
         "price_apo_rank1": 7.74
@@ -138,7 +322,7 @@
     {
         "key_flower": "huala 25/1 ca alm: alien mints",
         "name_apo_rank1": "mycannabis",
-        "price_apo_rank1": 5.78,
+        "price_apo_rank1": 6.99,
         "name_apo_rank2": "gruenhorn",
         "price_apo_rank2": 7.25
     },
@@ -163,18 +347,6 @@
         "price_apo_rank1": 12.35
     },
     {
-        "key_flower": "green karat sd pt: supreme diesel",
-        "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 10.71,
-        "name_apo_rank2": "mycannabis",
-        "price_apo_rank2": 11.62
-    },
-    {
-        "key_flower": "typ 2 aphria: great bear",
-        "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 9.88
-    },
-    {
         "key_flower": "enua 25/1 cck ca: cold creek kush",
         "name_apo_rank1": "mycannabis",
         "price_apo_rank1": 6.99
@@ -187,16 +359,16 @@
         "price_apo_rank2": 10.49
     },
     {
-        "key_flower": "tilray thc22 spotlight porto: pink kush",
-        "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 7.74
-    },
-    {
         "key_flower": "supreme 18/1: white widow",
         "name_apo_rank1": "cannabisapo24",
         "price_apo_rank1": 6.19,
         "name_apo_rank2": "mycannabis",
         "price_apo_rank2": 6.29
+    },
+    {
+        "key_flower": "gm supernova 25:01: colour of space 12",
+        "name_apo_rank1": "cannabisapo24",
+        "price_apo_rank1": 8.98
     },
     {
         "key_flower": "barongo 24/1 banjo: banjo",
@@ -209,9 +381,49 @@
         "price_apo_rank1": 8.29
     },
     {
-        "key_flower": "tilray thc9:cbd9 no.2: warlock cbd",
+        "key_flower": "tilray thc18 spotlight porto: jean guy",
         "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 10.91
+        "price_apo_rank1": 7.74
+    },
+    {
+        "key_flower": "avaay signature 23/1 mc: mandarin cookies",
+        "name_apo_rank1": "cannabisapo24",
+        "price_apo_rank1": 10.22
+    },
+    {
+        "key_flower": "tilray thc 22 spotlight porto: gorilla glue 4",
+        "name_apo_rank1": "mycannabis",
+        "price_apo_rank1": 7.99
+    },
+    {
+        "key_flower": "cannamedical sativa forte: tangie chem",
+        "name_apo_rank1": "cannabisapo24",
+        "price_apo_rank1": 10.77
+    },
+    {
+        "key_flower": "remexian 24/1 myw: mystic wonder",
+        "name_apo_rank1": "cannabisapo24",
+        "price_apo_rank1": 7.26
+    },
+    {
+        "key_flower": "imc thc22 t06: black russian",
+        "name_apo_rank1": "cannabisapo24",
+        "price_apo_rank1": 7.98
+    },
+    {
+        "key_flower": "tilray thc18 spotlight porto: mango",
+        "name_apo_rank1": "cannabisapo24",
+        "price_apo_rank1": 7.14
+    },
+    {
+        "key_flower": "all nations gm-104: mac doughnut",
+        "name_apo_rank1": "cannabisapo24",
+        "price_apo_rank1": 9.4
+    },
+    {
+        "key_flower": "all nations sh-001: stolo haze",
+        "name_apo_rank1": "cannabisapo24",
+        "price_apo_rank1": 8.21
     },
     {
         "key_flower": "tilray thc18 spotlight porto: rockstar",
@@ -222,20 +434,6 @@
         "key_flower": "beacon gc t30: garlic cookies",
         "name_apo_rank1": "cannalivery",
         "price_apo_rank1": 9.99
-    },
-    {
-        "key_flower": "cannamedical sativa forte nm: gelato dream",
-        "name_apo_rank1": "gruenhorn",
-        "price_apo_rank1": 9.99,
-        "name_apo_rank2": "cannalivery",
-        "price_apo_rank2": 10.49,
-        "name_apo_rank3": "cannabisapo24",
-        "price_apo_rank3": 10.71
-    },
-    {
-        "key_flower": "cannamedical sativa ultra nm: polar cookies",
-        "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 11.98
     },
     {
         "key_flower": "420 natural 22/1 ca gg4: gorilla glue 4",
@@ -264,14 +462,19 @@
         "price_apo_rank1": 8.45
     },
     {
-        "key_flower": "amp classic 25/1: frosted lemon angel",
+        "key_flower": "canopy ogd 25: og deluxe",
         "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 7.97
+        "price_apo_rank1": 6.99
     },
     {
         "key_flower": "curaleaf natural 22/1 pt wpt: wedding pop triangle",
         "name_apo_rank1": "cannalivery",
         "price_apo_rank1": 6.29
+    },
+    {
+        "key_flower": "amp classic 25/1: frosted lemon angel",
+        "name_apo_rank1": "cannabisapo24",
+        "price_apo_rank1": 7.97
     },
     {
         "key_flower": "tilray thc18 spotlight porto: blueberry",
@@ -284,16 +487,6 @@
         "price_apo_rank1": 9.52
     },
     {
-        "key_flower": "29/1 amici wc: wedding cake",
-        "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 11.29
-    },
-    {
-        "key_flower": "amp classic 18/1 primary: white widow",
-        "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 7.5
-    },
-    {
         "key_flower": "bathera 24/1 permanent marker: biscotti x jealousy x sherb bx",
         "name_apo_rank1": "cannalivery",
         "price_apo_rank1": 8.49
@@ -302,13 +495,6 @@
         "key_flower": "ceres no.3: space dust",
         "name_apo_rank1": "cannabisapo24",
         "price_apo_rank1": 9.76
-    },
-    {
-        "key_flower": "cannamedical hybrid classic nm: critical bilbo",
-        "name_apo_rank1": "mycannabis",
-        "price_apo_rank1": 9.99,
-        "name_apo_rank2": "cannalivery",
-        "price_apo_rank2": 9.99
     },
     {
         "key_flower": "bedrocan: afina",
@@ -320,21 +506,16 @@
         "price_apo_rank3": 9.99
     },
     {
+        "key_flower": "cannamedical hybrid classic nm: critical bilbo",
+        "name_apo_rank1": "mycannabis",
+        "price_apo_rank1": 9.99,
+        "name_apo_rank2": "cannalivery",
+        "price_apo_rank2": 9.99
+    },
+    {
         "key_flower": "peace naturals 33/1 gc: gmo cookies",
         "name_apo_rank1": "cannalivery",
         "price_apo_rank1": 11.49
-    },
-    {
-        "key_flower": "imc balanced 7/8 b01: blue dream",
-        "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 7.14
-    },
-    {
-        "key_flower": "enua 25/1 mb ca: mega breath",
-        "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 8.73,
-        "name_apo_rank2": "mycannabis",
-        "price_apo_rank2": 9.96
     },
     {
         "key_flower": "pedanios 27/1 bly-ca: black jelly",
@@ -344,29 +525,14 @@
         "price_apo_rank2": 11.99
     },
     {
-        "key_flower": "420 evolution 27/1 ca wes: wedding singer",
-        "name_apo_rank1": "mycannabis",
-        "price_apo_rank1": 9.49
-    },
-    {
         "key_flower": "roxton air bs01: banana sorbet",
         "name_apo_rank1": "cannabisapo24",
         "price_apo_rank1": 9.98
     },
     {
-        "key_flower": "cookies hawaiian rain 22/1: hawaiian rain",
+        "key_flower": "420 evolution 27/1 ca wes: wedding singer",
         "name_apo_rank1": "mycannabis",
-        "price_apo_rank1": 7.99
-    },
-    {
-        "key_flower": "vasco wr: white runtz",
-        "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 8.81
-    },
-    {
-        "key_flower": "green karat cg: cool grapes",
-        "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 9.4
+        "price_apo_rank1": 9.49
     },
     {
         "key_flower": "peace naturals 31/1 sc: space cake",
@@ -405,16 +571,6 @@
         "price_apo_rank1": 10.49
     },
     {
-        "key_flower": "oht ckz 1: rntz",
-        "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 7.49
-    },
-    {
-        "key_flower": "pedanios 27/1 frg-ca: farm gas",
-        "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 10.35
-    },
-    {
         "key_flower": "canopy akh 22: afghan kush",
         "name_apo_rank1": "cannabisapo24",
         "price_apo_rank1": 8.32
@@ -432,24 +588,18 @@
         "price_apo_rank1": 10.49
     },
     {
-        "key_flower": "navcora thc18 spotlight porto: master kush",
-        "name_apo_rank1": "cannalivery",
-        "price_apo_rank1": 5.99
+        "key_flower": "cookies hawaiian rain 22/1: hawaiian rain",
+        "name_apo_rank1": "mycannabis",
+        "price_apo_rank1": 7.99
     },
     {
-        "key_flower": "cm 30/1 gc: ginger cookies",
-        "name_apo_rank1": "cannalivery",
-        "price_apo_rank1": 11.99
-    },
-    {
-        "key_flower": "canopy hsk 8/7: cbd skunk haze",
-        "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 9.98
-    },
-    {
-        "key_flower": "canopy bakerstreet 20: hindu kush",
-        "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 7.94
+        "key_flower": "cannamedical sativa forte nm: gelato dream",
+        "name_apo_rank1": "gruenhorn",
+        "price_apo_rank1": 9.99,
+        "name_apo_rank2": "cannalivery",
+        "price_apo_rank2": 10.49,
+        "name_apo_rank3": "cannabisapo24",
+        "price_apo_rank3": 10.71
     },
     {
         "key_flower": "tilray thc22 spotlight porto: purps",
@@ -459,85 +609,11 @@
         "price_apo_rank2": 8.49
     },
     {
-        "key_flower": "enua 21/1 sc ca: strawberry cake",
-        "name_apo_rank1": "cannem",
-        "price_apo_rank1": 7.99
-    },
-    {
-        "key_flower": "420 natural 17/1 ca trp: tropicana cookies",
-        "name_apo_rank1": "cannem",
-        "price_apo_rank1": 9.99
-    },
-    {
-        "key_flower": "imc thc17 t01: hindu kush",
-        "name_apo_rank1": "cannalivery",
-        "price_apo_rank1": 8.49
-    },
-    {
-        "key_flower": "cannamedical hybrid forte dk: ghost train haze",
-        "name_apo_rank1": "cannalivery",
-        "price_apo_rank1": 9.99,
-        "name_apo_rank2": "cannem",
-        "price_apo_rank2": 9.99
-    },
-    {
-        "key_flower": "botanics tonic fuel 22/1: gary payton",
-        "name_apo_rank1": "mycannabis",
-        "price_apo_rank1": 8.48,
-        "name_apo_rank2": "cannem",
-        "price_apo_rank2": 9.75
-    },
-    {
-        "key_flower": "imc cbd 14 c01: god bud",
-        "name_apo_rank1": "cannem",
-        "price_apo_rank1": 7.99,
-        "name_apo_rank2": "gruenhorn",
-        "price_apo_rank2": 8.49
-    },
-    {
-        "key_flower": "cannamedical indica classic ury: cheddar skunk",
-        "name_apo_rank1": "cannalivery",
-        "price_apo_rank1": 5.39,
-        "name_apo_rank2": "mycannabis",
-        "price_apo_rank2": 6.19,
-        "name_apo_rank3": "cannem",
-        "price_apo_rank3": 6.99
-    },
-    {
-        "key_flower": "cannamedical sativa forte: duke",
-        "name_apo_rank1": "cannem",
-        "price_apo_rank1": 7.99,
-        "name_apo_rank2": "cannalivery",
-        "price_apo_rank2": 8.49,
-        "name_apo_rank3": "cannabisapo24",
-        "price_apo_rank3": 9.52
-    },
-    {
-        "key_flower": "drapalin 20/1: pop",
-        "name_apo_rank1": "cannem",
-        "price_apo_rank1": 9.99
-    },
-    {
-        "key_flower": "cannabis flos 18/1 ls ku. durban sky: durban sky",
-        "name_apo_rank1": "cannem",
-        "price_apo_rank1": 6.99
-    },
-    {
-        "key_flower": "cannamedical sativa classic nm: candyland",
-        "name_apo_rank1": "cannalivery",
-        "price_apo_rank1": 9.99
-    },
-    {
         "key_flower": "cannamedical hybrid classic nm: blueberry headband",
         "name_apo_rank1": "cannem",
         "price_apo_rank1": 8.79,
         "name_apo_rank2": "mycannabis",
         "price_apo_rank2": 10.99
-    },
-    {
-        "key_flower": "cannabis flos weeco 23/1: frosted lemon angel",
-        "name_apo_rank1": "mycannabis",
-        "price_apo_rank1": 6.38
     },
     {
         "key_flower": "enua 27/1 dsh ca: dark shadow haze",
@@ -547,23 +623,14 @@
         "price_apo_rank2": 9.99
     },
     {
-        "key_flower": "remexian 14/1: white widow",
-        "name_apo_rank1": "gruenhorn",
-        "price_apo_rank1": 4.99,
-        "name_apo_rank2": "cannabisapo24",
-        "price_apo_rank2": 4.99
-    },
-    {
-        "key_flower": "420 evolution 27/1 ca mmi: miracle mints",
-        "name_apo_rank1": "cannem",
-        "price_apo_rank1": 12.25,
-        "name_apo_rank2": "gruenhorn",
-        "price_apo_rank2": 12.49
-    },
-    {
-        "key_flower": "cannamedical sativa forte nm: wedding tree",
+        "key_flower": "tilray thc18 spotlight porto: headband",
         "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 11.31
+        "price_apo_rank1": 7.74
+    },
+    {
+        "key_flower": "weeco duke 24/1: purple rain by the gram",
+        "name_apo_rank1": "medicalherbs",
+        "price_apo_rank1": 9.99
     },
     {
         "key_flower": "cannabis 1a 18/1 flos: white widow",
@@ -582,22 +649,12 @@
     },
     {
         "key_flower": "avaay signature 28/1 wb: waffle bites",
-        "name_apo_rank1": "mycannabis",
-        "price_apo_rank1": 11.99,
-        "name_apo_rank2": "cannalivery",
+        "name_apo_rank1": "cannalivery",
+        "price_apo_rank1": 10.95,
+        "name_apo_rank2": "mycannabis",
         "price_apo_rank2": 11.99,
         "name_apo_rank3": "cannabisapo24",
         "price_apo_rank3": 12.33
-    },
-    {
-        "key_flower": "tilray thc18 spotlight porto: headband",
-        "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 7.74
-    },
-    {
-        "key_flower": "weeco duke 24/1: purple rain by the gram",
-        "name_apo_rank1": "medicalherbs",
-        "price_apo_rank1": 9.99
     },
     {
         "key_flower": "typ 1 demecan: bubba kush",
@@ -605,6 +662,15 @@
         "price_apo_rank1": 8.21,
         "name_apo_rank2": "cannalivery",
         "price_apo_rank2": 10.23
+    },
+    {
+        "key_flower": "bathera 24/1: permanent marker",
+        "name_apo_rank1": "cannabisapo24",
+        "price_apo_rank1": 8.98,
+        "name_apo_rank2": "gruenhorn",
+        "price_apo_rank2": 9.99,
+        "name_apo_rank3": "medicalherbs",
+        "price_apo_rank3": 9.99
     },
     {
         "key_flower": "enua 22/1 mac f ca: mac f",
@@ -631,22 +697,6 @@
         "price_apo_rank2": 8.99
     },
     {
-        "key_flower": "cannamedical indica classic zaf: dank wafers",
-        "name_apo_rank1": "cannalivery",
-        "price_apo_rank1": 8.49,
-        "name_apo_rank2": "medicalherbs",
-        "price_apo_rank2": 9.79
-    },
-    {
-        "key_flower": "bathera 24/1: permanent marker",
-        "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 8.98,
-        "name_apo_rank2": "gruenhorn",
-        "price_apo_rank2": 9.99,
-        "name_apo_rank3": "medicalherbs",
-        "price_apo_rank3": 9.99
-    },
-    {
         "key_flower": "nimbus easy 26/1: french cookies",
         "name_apo_rank1": "mycannabis",
         "price_apo_rank1": 7.99
@@ -659,6 +709,13 @@
         "price_apo_rank2": 9.99,
         "name_apo_rank3": "medicalherbs",
         "price_apo_rank3": 10.39
+    },
+    {
+        "key_flower": "cannamedical indica classic zaf: dank wafers",
+        "name_apo_rank1": "cannalivery",
+        "price_apo_rank1": 8.49,
+        "name_apo_rank2": "medicalherbs",
+        "price_apo_rank2": 9.79
     },
     {
         "key_flower": "avaay 23/1 rg: royal gorilla",
@@ -675,6 +732,13 @@
         "price_apo_rank2": 10.99,
         "name_apo_rank3": "gruenhorn",
         "price_apo_rank3": 12.89
+    },
+    {
+        "key_flower": "imc thc20 t01: hindu kush",
+        "name_apo_rank1": "cannabisapo24",
+        "price_apo_rank1": 7.24,
+        "name_apo_rank2": "cannem",
+        "price_apo_rank2": 7.99
     },
     {
         "key_flower": "botanics golden ace 20/1: orange panties",
@@ -712,8 +776,10 @@
         "key_flower": "cannamedical indica forte ma: carmelita",
         "name_apo_rank1": "cannalivery",
         "price_apo_rank1": 8.49,
-        "name_apo_rank2": "medicalherbs",
-        "price_apo_rank2": 10.99
+        "name_apo_rank2": "cannabisapo24",
+        "price_apo_rank2": 9.98,
+        "name_apo_rank3": "medicalherbs",
+        "price_apo_rank3": 10.99
     },
     {
         "key_flower": "demecan craft cali 29:01: hawaiian rain x permanent marker",
@@ -722,51 +788,37 @@
     },
     {
         "key_flower": "pedanios 31/1 cos-ca: cosmic cream",
-        "name_apo_rank1": "mycannabis",
-        "price_apo_rank1": 11.99,
-        "name_apo_rank2": "gruenhorn",
+        "name_apo_rank1": "cannabisapo24",
+        "price_apo_rank1": 10.98,
+        "name_apo_rank2": "mycannabis",
         "price_apo_rank2": 11.99,
-        "name_apo_rank3": "medicalherbs",
-        "price_apo_rank3": 12.49
+        "name_apo_rank3": "gruenhorn",
+        "price_apo_rank3": 11.99
     },
     {
         "key_flower": "pedanios 10/13 mbe-ca: moon berry",
         "name_apo_rank1": "gruenhorn",
         "price_apo_rank1": 6.99,
-        "name_apo_rank2": "cannabisapo24",
-        "price_apo_rank2": 10.12,
-        "name_apo_rank3": "cannem",
-        "price_apo_rank3": 10.99
+        "name_apo_rank2": "cannem",
+        "price_apo_rank2": 10.99
     },
     {
-        "key_flower": "demecan craft t4n-g 25:01: banjo",
+        "key_flower": "cannamedical indica forte: el jefe",
         "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 10.71,
+        "price_apo_rank1": 10.98,
         "name_apo_rank2": "cannalivery",
         "price_apo_rank2": 10.99,
         "name_apo_rank3": "medicalherbs",
-        "price_apo_rank3": 12.39
+        "price_apo_rank3": 11.59
     },
     {
-        "key_flower": "pedanios 26/1 ehd-ca: electric honeydew",
+        "key_flower": "pedanios 22/1: ghost train haze",
         "name_apo_rank1": "mycannabis",
-        "price_apo_rank1": 10.28,
-        "name_apo_rank2": "cannabisapo24",
-        "price_apo_rank2": 10.47
-    },
-    {
-        "key_flower": "cannamedical hybrid ultra dk: ghost train haze",
-        "name_apo_rank1": "cannalivery",
-        "price_apo_rank1": 10.49,
-        "name_apo_rank2": "medicalherbs",
-        "price_apo_rank2": 10.69
-    },
-    {
-        "key_flower": "imc thc20 t01: hindu kush",
-        "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 7.24,
-        "name_apo_rank2": "cannem",
-        "price_apo_rank2": 7.99
+        "price_apo_rank1": 10.99,
+        "name_apo_rank2": "gruenhorn",
+        "price_apo_rank2": 10.99,
+        "name_apo_rank3": "cannalivery",
+        "price_apo_rank3": 10.99
     },
     {
         "key_flower": "cannamedical indica forte dk: gelat skyfloater",
@@ -809,10 +861,8 @@
     },
     {
         "key_flower": "demecan craft walkie talkie 31:01: sugar cake",
-        "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 12.61,
-        "name_apo_rank2": "medicalherbs",
-        "price_apo_rank2": 12.99
+        "name_apo_rank1": "medicalherbs",
+        "price_apo_rank1": 12.99
     },
     {
         "key_flower": "imc thc22 t01: hindu kush",
@@ -822,7 +872,9 @@
     {
         "key_flower": "botanics purple cream 22/1: purple ice water",
         "name_apo_rank1": "cannem",
-        "price_apo_rank1": 9.75
+        "price_apo_rank1": 9.75,
+        "name_apo_rank2": "cannabisapo24",
+        "price_apo_rank2": 9.98
     },
     {
         "key_flower": "avaay 23/1 bkr: black krush",
@@ -835,54 +887,12 @@
         "price_apo_rank1": 10.49
     },
     {
-        "key_flower": "cannamedical sativa classic: strawberry ice",
-        "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 10.92,
-        "name_apo_rank2": "cannalivery",
-        "price_apo_rank2": 11.99
-    },
-    {
-        "key_flower": "enua 21/1 sg ca: sherbert glue",
-        "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 7.69
-    },
-    {
-        "key_flower": "cm 30/1 koko: koko\u00b4s cookies",
-        "name_apo_rank1": "medicalherbs",
-        "price_apo_rank1": 10.69,
-        "name_apo_rank2": "cannem",
-        "price_apo_rank2": 10.99
-    },
-    {
-        "key_flower": "demecan craft dosidos 24:01: dosidos",
-        "name_apo_rank1": "medicalherbs",
-        "price_apo_rank1": 12.98
-    },
-    {
-        "key_flower": "420 natural 22/1 ca gg: gorilla glue 4",
-        "name_apo_rank1": "cannem",
-        "price_apo_rank1": 9.99,
-        "name_apo_rank2": "gruenhorn",
-        "price_apo_rank2": 10.99
-    },
-    {
-        "key_flower": "420 compound 30/1 ca gap: gastro pop",
+        "key_flower": "aurora 22/1: delahaze",
         "name_apo_rank1": "gruenhorn",
-        "price_apo_rank1": 11.29
-    },
-    {
-        "key_flower": "pedanios 24/1 lac-ca: la confidential",
-        "name_apo_rank1": "cannabisapo24",
-        "price_apo_rank1": 10.23
-    },
-    {
-        "key_flower": "avaay 26/1 sk: sour og kush",
-        "name_apo_rank1": "cannalivery",
-        "price_apo_rank1": 9.99
-    },
-    {
-        "key_flower": "cm 28/1 crm: creamy kee's",
-        "name_apo_rank1": "medicalherbs",
-        "price_apo_rank1": 11.99
+        "price_apo_rank1": 9.99,
+        "name_apo_rank2": "cannalivery",
+        "price_apo_rank2": 10.99,
+        "name_apo_rank3": "medicalherbs",
+        "price_apo_rank3": 10.99
     }
 ]
