@@ -16254,5 +16254,60 @@
         "aponame3": "medicalherbs",
         "preis3": 54.95,
         "timestamp": "2025-02-12 20:23:00.865000"
+    },
+    {
+        "id": 1308,
+        "session_id": "864c23a1-17ea-4be7-86a1-65202685de43",
+        "produktname1": "cannamedical sativa forte nm: gelato dream",
+        "menge1": 5.0,
+        "preisprogramm1": 9.99,
+        "aponame1": "gruenhorn",
+        "preis1": 49.95,
+        "aponame2": "cannalivery",
+        "preis2": 52.45,
+        "timestamp": "2025-02-13 14:55:56.149000"
+    },
+    {
+        "id": 1309,
+        "session_id": "864c23a1-17ea-4be7-86a1-65202685de43",
+        "produktname1": "pedanios 22/1: ghost train haze",
+        "menge1": 5.0,
+        "preisprogramm1": 10.99,
+        "aponame1": "gruenhorn",
+        "preis1": 54.95,
+        "aponame2": "cannalivery",
+        "preis2": 54.95,
+        "timestamp": "2025-02-13 14:57:39.923000"
+    },
+    {
+        "id": 1310,
+        "session_id": "864c23a1-17ea-4be7-86a1-65202685de43",
+        "produktname1": "pedanios 29/1 srd-ca: sourdough",
+        "menge1": 5.0,
+        "preisprogramm1": 9.99,
+        "aponame1": "medicalherbs",
+        "preis1": 49.95,
+        "aponame2": "cannabisapo24",
+        "preis2": 54.9,
+        "aponame3": "gruenhorn",
+        "preis3": 54.95,
+        "timestamp": "2025-02-13 14:57:57.811000"
+    },
+    {
+        "id": 1311,
+        "session_id": "864c23a1-17ea-4be7-86a1-65202685de43",
+        "produktname1": "pedanios 29/1 srd-ca: sourdough",
+        "menge1": 5.0,
+        "preisprogramm1": 9.99,
+        "produktname2": "cannamedical indica forte: el jefe",
+        "menge2": 5.0,
+        "preisprogramm2": 11.59,
+        "aponame1": "medicalherbs",
+        "preis1": 107.9,
+        "aponame2": "cannabisapo24",
+        "preis2": 109.8,
+        "aponame3": "cannalivery",
+        "preis3": 114.9,
+        "timestamp": "2025-02-13 14:58:30.260000"
     }
 ]
