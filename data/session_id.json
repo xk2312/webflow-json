@@ -96835,11 +96835,6 @@
         "session_status": 6
     },
     {
-        "id": 23967,
-        "session_id": "c9a20d87-0af7-43b9-b089-84e338778f6b",
-        "session_status": 11
-    },
-    {
         "id": 23988,
         "session_id": "3154484c-7354-4c38-9628-0e194fd56f0d",
         "session_status": 1
@@ -96938,6 +96933,11 @@
         "id": 24068,
         "session_id": "0f33e6eb-fbc4-4c27-af8a-ee49ec7f34af",
         "session_status": 1
+    },
+    {
+        "id": 23967,
+        "session_id": "c9a20d87-0af7-43b9-b089-84e338778f6b",
+        "session_status": 12
     },
     {
         "id": 24049,
@@ -121452,6 +121452,16 @@
     {
         "id": 24297,
         "session_id": "4c1832e7-ba62-45c8-bc62-4ad44a9355e9",
+        "session_status": 1
+    },
+    {
+        "id": 24298,
+        "session_id": "6c71919e-3e36-46e3-884a-dc655436ba4b",
+        "session_status": 1
+    },
+    {
+        "id": 24299,
+        "session_id": "f4324adc-9139-4e40-bc2e-7a8e375b773f",
         "session_status": 1
     }
 ]
