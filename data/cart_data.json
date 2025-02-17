@@ -16687,5 +16687,58 @@
         "aponame2": "mycannabis",
         "preis2": 59.95,
         "timestamp": "2025-02-16 20:53:37.114000"
+    },
+    {
+        "id": 1343,
+        "session_id": "db8a4c8c-f55b-41ff-b5e8-84ccb3544b0c",
+        "produktname1": "420 evolution 22/1 ca mac: mac 1",
+        "menge1": 5.0,
+        "preisprogramm1": 8.93,
+        "aponame1": "cannabisapo24",
+        "preis1": 44.65,
+        "aponame2": "gruenhorn",
+        "preis2": 54.95,
+        "timestamp": "2025-02-17 03:11:38.075000"
+    },
+    {
+        "id": 1344,
+        "session_id": "db8a4c8c-f55b-41ff-b5e8-84ccb3544b0c",
+        "produktname1": "420 evolution 22/1 ca mac: mac 1",
+        "menge1": 5.0,
+        "preisprogramm1": 8.93,
+        "produktname2": "bathera 24/1: permanent marker",
+        "menge2": 5.0,
+        "preisprogramm2": 8.98,
+        "aponame1": "cannabisapo24",
+        "preis1": 89.55,
+        "aponame2": "gruenhorn",
+        "preis2": 104.9,
+        "timestamp": "2025-02-17 03:17:57.654000"
+    },
+    {
+        "id": 1345,
+        "session_id": "db8a4c8c-f55b-41ff-b5e8-84ccb3544b0c",
+        "produktname1": "420 evolution 22/1 ca mac: mac 1",
+        "menge1": 5.0,
+        "preisprogramm1": 8.93,
+        "produktname2": "bathera 24/1: permanent marker",
+        "menge2": 5.0,
+        "preisprogramm2": 8.98,
+        "produktname3": "cannamedical indica forte ma: crazy rntz",
+        "menge3": 5.0,
+        "preisprogramm3": 10.48,
+        "aponame1": "cannabisapo24",
+        "preis1": 141.95,
+        "timestamp": "2025-02-17 03:18:36.879000"
+    },
+    {
+        "id": 1346,
+        "session_id": "2eb6a8b2-dec4-4cc8-89ec-b0eec8cf4e3f",
+        "produktname1": "curaleaf natural 22/1 pt wpt: wedding pop triangle",
+        "menge1": 5.0,
+        "preisprogramm1": 6.29,
+        "aponame1": "cannalivery",
+        "preis1": 31.45,
+        "timestamp": "2025-02-17 05:31:14.240000"
     }
 ]
