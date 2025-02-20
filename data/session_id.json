@@ -133370,11 +133370,6 @@
         "session_status": 1
     },
     {
-        "id": 26673,
-        "session_id": "fd106400-fbac-45df-ab56-8a7ded98965f",
-        "session_status": 15
-    },
-    {
         "id": 26675,
         "session_id": "74f710ed-2a43-4ba3-86c1-6c78eac73588",
         "session_status": 3
@@ -133388,5 +133383,10 @@
         "id": 26684,
         "session_id": "25349f02-282a-4aaf-ad1d-146be7ff24dc",
         "session_status": 1
+    },
+    {
+        "id": 26673,
+        "session_id": "fd106400-fbac-45df-ab56-8a7ded98965f",
+        "session_status": 19
     }
 ]
