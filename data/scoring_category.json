@@ -128,5 +128,35 @@
         "id": 25,
         "name": "tabak-fokus",
         "comment": "User, die Joints rauchen"
+    },
+    {
+        "id": 27,
+        "name": "hybrid-delta",
+        "comment": "User die Bl\u00fcten mit neutralem Delta -0.2 bis 0.2 ansehen"
+    },
+    {
+        "id": 28,
+        "name": "hybrid-sativa-dominant-delta",
+        "comment": "User die Bl\u00fcten mit leicht aktivierendem  Delta 0.2 bis 0.5 angesehen"
+    },
+    {
+        "id": 29,
+        "name": "sativa-delta",
+        "comment": "User die Bl\u00fcten mit sativa Delta > 0.5 ansehen"
+    },
+    {
+        "id": 30,
+        "name": "hybrid-indica-dominant-delta",
+        "comment": "User die Bl\u00fcten mit indika-dominantem Delta -0.2 bis -0.5 ansehen"
+    },
+    {
+        "id": 31,
+        "name": "indica-delta",
+        "comment": "User die Bl\u00fcten mit inkica Delta < -0.5 bis ansehen"
+    },
+    {
+        "id": 32,
+        "name": "stakeholder-apotheke",
+        "comment": "User die Objekte anklicken, die direkt auf Apotheken ausgerichtet sind."
     }
 ]
