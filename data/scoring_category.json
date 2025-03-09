@@ -158,5 +158,15 @@
         "id": 32,
         "name": "stakeholder-apotheke",
         "comment": "User die Objekte anklicken, die direkt auf Apotheken ausgerichtet sind."
+    },
+    {
+        "id": 33,
+        "name": "stakeholder-doc",
+        "comment": "User, die Toolsl nutzen, welche prim\u00e4r von \u00c4rzten genutzt werden."
+    },
+    {
+        "id": 34,
+        "name": "stakeholder-producer",
+        "comment": "User die Cananbis kultivieren oder handeln"
     }
 ]
