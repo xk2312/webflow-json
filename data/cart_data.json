@@ -22858,5 +22858,86 @@
         "aponame2": "medicalherbs",
         "preis2": 54.95,
         "timestamp": "2025-03-14 02:52:39.407000"
+    },
+    {
+        "id": 1828,
+        "session_id": "40ef4359-350a-45b2-809c-cd1b6b3eadfc",
+        "produktname1": "pedanios 10/13 mbe-ca: moon berry",
+        "menge1": 5.0,
+        "preisprogramm1": 9.98,
+        "aponame1": "cannabisapo24",
+        "preis1": 49.9,
+        "aponame2": "gruenhorn",
+        "preis2": 54.95,
+        "aponame3": "medicalherbs",
+        "preis3": 54.95,
+        "timestamp": "2025-03-14 15:53:40.542000"
+    },
+    {
+        "id": 1829,
+        "session_id": "a1d3d125-687c-4278-b6f1-cce380c45103",
+        "produktname1": "420 evolution 30/1 ca flm: frozen lemon mints",
+        "menge1": 5.0,
+        "preisprogramm1": 9.99,
+        "aponame1": "mycannabis",
+        "preis1": 49.95,
+        "aponame2": "cannalivery",
+        "preis2": 52.45,
+        "aponame3": "gruenhorn",
+        "preis3": 57.45,
+        "timestamp": "2025-03-14 17:42:16.813000"
+    },
+    {
+        "id": 1830,
+        "session_id": "79c7a4f5-276d-4344-bf64-851be446b8b7",
+        "produktname1": "avaay 23/1 ck: critical kush",
+        "menge1": 5.0,
+        "preisprogramm1": 8.52,
+        "aponame1": "cannabisapo24",
+        "preis1": 42.6,
+        "timestamp": "2025-03-14 20:06:15.995000"
+    },
+    {
+        "id": 1831,
+        "session_id": "d0773754-b44f-4831-a819-a39677382ccb",
+        "produktname1": "420 evolution 30/1 ca icc: ice cream cake kush mints",
+        "menge1": 5.0,
+        "preisprogramm1": 12.49,
+        "aponame1": "gruenhorn",
+        "preis1": 62.45,
+        "timestamp": "2025-03-14 20:19:37.300000"
+    },
+    {
+        "id": 1832,
+        "session_id": "d0773754-b44f-4831-a819-a39677382ccb",
+        "produktname1": "420 evolution 30/1 ca icc: ice cream cake kush mints",
+        "menge1": 5.0,
+        "preisprogramm1": 12.49,
+        "produktname2": "420 evolution 30/1 ca mmi: miracle mints",
+        "menge2": 5.0,
+        "preisprogramm2": 12.49,
+        "aponame1": "gruenhorn",
+        "preis1": 124.9,
+        "timestamp": "2025-03-14 20:20:16.932000"
+    },
+    {
+        "id": 1833,
+        "session_id": "1ca7c726-0b10-420c-bdb1-4f4bb9b41f7c",
+        "produktname1": "pedanios 27/1 bly-ca: black jelly",
+        "menge1": 5.0,
+        "preisprogramm1": 11.99,
+        "aponame1": "gruenhorn",
+        "preis1": 59.95,
+        "timestamp": "2025-03-14 22:35:02.635000"
+    },
+    {
+        "id": 1834,
+        "session_id": "c396dd69-409f-4bb3-b03e-57b3c8a32fec",
+        "produktname1": "pedanios 27/1 bly-ca: black jelly",
+        "menge1": 5.0,
+        "preisprogramm1": 11.99,
+        "aponame1": "gruenhorn",
+        "preis1": 59.95,
+        "timestamp": "2025-03-14 23:04:46.750000"
     }
 ]
