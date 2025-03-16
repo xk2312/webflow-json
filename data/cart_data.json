@@ -22939,5 +22939,57 @@
         "aponame1": "gruenhorn",
         "preis1": 59.95,
         "timestamp": "2025-03-14 23:04:46.750000"
+    },
+    {
+        "id": 1835,
+        "session_id": "66d3a55c-9c9c-445e-a7d9-f59886d8fc39",
+        "produktname1": "cannabis flos 25/1 prt ku.: strawberry banana",
+        "menge1": 5.0,
+        "preisprogramm1": 6.79,
+        "aponame1": "cannabisapo24",
+        "preis1": 33.95,
+        "timestamp": "2025-03-15 08:02:28.080000"
+    },
+    {
+        "id": 1836,
+        "session_id": "70545b17-079b-4b71-80d1-48ed87226ee4",
+        "produktname1": "enua 22/1 jfg ca: jet fuel gelato",
+        "menge1": 5.0,
+        "preisprogramm1": 5.69,
+        "aponame1": "cannabisapo24",
+        "preis1": 28.45,
+        "aponame2": "mycannabis",
+        "preis2": 29.95,
+        "aponame3": "gruenhorn",
+        "preis3": 39.95,
+        "timestamp": "2025-03-15 14:14:18.914000"
+    },
+    {
+        "id": 1837,
+        "session_id": "20f4956f-4b73-42c8-9818-155654d2688d",
+        "produktname1": "peace naturals 31/1 gc: gmo cookies",
+        "menge1": 5.0,
+        "preisprogramm1": 9.73,
+        "aponame1": "cannabisapo24",
+        "preis1": 48.65,
+        "aponame2": "gruenhorn",
+        "preis2": 62.45,
+        "aponame3": "mycannabis",
+        "preis3": 69.95,
+        "timestamp": "2025-03-15 14:49:56.084000"
+    },
+    {
+        "id": 1838,
+        "session_id": "830f96d3-3870-4c35-8cfa-3bda885fef2a",
+        "produktname1": "peace naturals 31/1 gc: gmo cookies",
+        "menge1": 5.0,
+        "preisprogramm1": 9.73,
+        "aponame1": "cannabisapo24",
+        "preis1": 48.65,
+        "aponame2": "gruenhorn",
+        "preis2": 62.45,
+        "aponame3": "mycannabis",
+        "preis3": 69.95,
+        "timestamp": "2025-03-15 15:53:10.988000"
     }
 ]
