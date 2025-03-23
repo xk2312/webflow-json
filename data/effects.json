@@ -1,33 +1,126 @@
 [
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+        "effect_id": 1,
+        "effect_name": "entz\u00fcndungshemmend"
+    },
+    {
+        "effect_id": 2,
+        "effect_name": "schmerzlindernd"
+    },
+    {
+        "effect_id": 3,
+        "effect_name": "appetitanregend"
+    },
+    {
+        "effect_id": 4,
+        "effect_name": "appetithemmend"
+    },
+    {
+        "effect_id": 5,
+        "effect_name": "beruhigend"
+    },
+    {
+        "effect_id": 6,
+        "effect_name": "schlaff\u00f6rdernd"
+    },
+    {
+        "effect_id": 7,
+        "effect_name": "stimmungsaufhellend"
+    },
+    {
+        "effect_id": 8,
+        "effect_name": "antibakteriell"
+    },
+    {
+        "effect_id": 9,
+        "effect_name": "antioxidativ"
+    },
+    {
+        "effect_id": 10,
+        "effect_name": "antifungal"
+    },
+    {
+        "effect_id": 11,
+        "effect_name": "antiviral"
+    },
+    {
+        "effect_id": 12,
+        "effect_name": "antikrebserregend"
+    },
+    {
+        "effect_id": 13,
+        "effect_name": "antidepressiv"
+    },
+    {
+        "effect_id": 14,
+        "effect_name": "angstl\u00f6send"
+    },
+    {
+        "effect_id": 15,
+        "effect_name": "krampfl\u00f6send"
+    },
+    {
+        "effect_id": 16,
+        "effect_name": "immunmodulierend"
+    },
+    {
+        "effect_id": 17,
+        "effect_name": "neuroprotektiv"
+    },
+    {
+        "effect_id": 18,
+        "effect_name": "durchblutungsf\u00f6rdernd"
+    },
+    {
+        "effect_id": 19,
+        "effect_name": "bronchienerweiternd"
+    },
+    {
+        "effect_id": 20,
+        "effect_name": "gastroprotektiv"
+    },
+    {
+        "effect_id": 21,
+        "effect_name": "hautpflegend"
+    },
+    {
+        "effect_id": 22,
+        "effect_name": "antiparasit\u00e4r"
+    },
+    {
+        "effect_id": 23,
+        "effect_name": "harntreibend"
+    },
+    {
+        "effect_id": 24,
+        "effect_name": "antiseptisch"
+    },
+    {
+        "effect_id": 25,
+        "effect_name": "lindernd bei \u00dcbelkeit"
+    },
+    {
+        "effect_id": 26,
+        "effect_name": "schmerzlindernd bei Migr\u00e4ne"
+    },
+    {
+        "effect_id": 27,
+        "effect_name": "verdauungsf\u00f6rdernd"
+    },
+    {
+        "effect_id": 28,
+        "effect_name": "wundheilungsf\u00f6rdernd"
+    },
+    {
+        "effect_id": 29,
+        "effect_name": "kollagenf\u00f6rdernd"
+    },
+    {
+        "effect_id": 30,
+        "effect_name": "hypnotisch"
+    },
+    {
+        "effect_id": 31,
+        "effect_name": "sedierend"
+    }
 ]
