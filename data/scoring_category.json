@@ -1,172 +1,36 @@
 [
-    {
-        "id": 1,
-        "name": "price-sensitive",
-        "comment": "User, die auf g\u00fcnstige Angebote reagieren."
-    },
-    {
-        "id": 2,
-        "name": "high-thc",
-        "comment": "User, die auf starke THC-Bl\u00fcten reagieren."
-    },
-    {
-        "id": 3,
-        "name": "best-deal",
-        "comment": "User, die ein gutes Preis-Leistungs-Verh\u00e4ltnis suchen."
-    },
-    {
-        "id": 4,
-        "name": "aroma-fokus",
-        "comment": "User, die auf den Geruch der Bl\u00fcten fokussiert sind."
-    },
-    {
-        "id": 5,
-        "name": "terpen-fokus",
-        "comment": "User, die sich intensiv mit Terpenen besch\u00e4ftigen."
-    },
-    {
-        "id": 6,
-        "name": "kassenpatient",
-        "comment": "Patienten, die ihre Therapie \u00fcber die Krankenkasse abrechnen."
-    },
-    {
-        "id": 7,
-        "name": "selbstzahler",
-        "comment": "Patienten, die ihre Cannabis-Therapie selbst bezahlen."
-    },
-    {
-        "id": 8,
-        "name": "bio-fokus",
-        "comment": "User, die biologische oder organische Produkte bevorzugen."
-    },
-    {
-        "id": 9,
-        "name": "cbd-fokus",
-        "comment": "User, die auf CBD-reiche Produkte reagieren."
-    },
-    {
-        "id": 10,
-        "name": "anbau-fokus",
-        "comment": "User, die stark auf Themen zum Cannabis-Anbau reagieren."
-    },
-    {
-        "id": 11,
-        "name": "schmerzen-fokus",
-        "comment": "User, die nach schmerzlinderndem Content suchen."
-    },
-    {
-        "id": 12,
-        "name": "schlaf-fokus",
-        "comment": "User, die nach Content suchen, der ihren Schlaf f\u00f6rdert."
-    },
-    {
-        "id": 13,
-        "name": "stressabbau-fokus",
-        "comment": "User, die nach Entspannung suchen."
-    },
-    {
-        "id": 14,
-        "name": "konzentration-fokus",
-        "comment": "User, die nach Mitteln zur besseren Konzentration suchen."
-    },
-    {
-        "id": 15,
-        "name": "indica-fokus",
-        "comment": "User, die nach Indika Wirkung suchen."
-    },
-    {
-        "id": 16,
-        "name": "sativa-fokus",
-        "comment": "User, die nach Sativa Wirkung suchen."
-    },
-    {
-        "id": 17,
-        "name": "basicinfo-fokus",
-        "comment": "User die Grundwissen sammeln."
-    },
-    {
-        "id": 21,
-        "name": "medical-user",
-        "comment": "User, die den medizinischen Einsatz suchen"
-    },
-    {
-        "id": 18,
-        "name": "konzentrate-fokus",
-        "comment": "User, die eine bessere Konzentration suchen."
-    },
-    {
-        "id": 19,
-        "name": "blueten-fokus",
-        "comment": "User, die Bl\u00fcten suchen"
-    },
-    {
-        "id": 20,
-        "name": "rec-user",
-        "comment": "User, die den Freiteiteinsatz suchen"
-    },
-    {
-        "id": 22,
-        "name": "buy-fokus",
-        "comment": "User, die Cananbis kaufen m\u00f6chten."
-    },
-    {
-        "id": 23,
-        "name": "sell-fokus",
-        "comment": "User, die Cannabis verkaufen m\u00f6chten."
-    },
-    {
-        "id": 24,
-        "name": "edible-fokus",
-        "comment": "User, die an edibles interessiert sind."
-    },
-    {
-        "id": 26,
-        "name": "vape-fokus",
-        "comment": "User, die einen Vaporizer nutzen"
-    },
-    {
-        "id": 25,
-        "name": "tabak-fokus",
-        "comment": "User, die Joints rauchen"
-    },
-    {
-        "id": 27,
-        "name": "hybrid-delta",
-        "comment": "User die Bl\u00fcten mit neutralem Delta -0.2 bis 0.2 ansehen"
-    },
-    {
-        "id": 28,
-        "name": "hybrid-sativa-dominant-delta",
-        "comment": "User die Bl\u00fcten mit leicht aktivierendem  Delta 0.2 bis 0.5 angesehen"
-    },
-    {
-        "id": 29,
-        "name": "sativa-delta",
-        "comment": "User die Bl\u00fcten mit sativa Delta > 0.5 ansehen"
-    },
-    {
-        "id": 30,
-        "name": "hybrid-indica-dominant-delta",
-        "comment": "User die Bl\u00fcten mit indika-dominantem Delta -0.2 bis -0.5 ansehen"
-    },
-    {
-        "id": 31,
-        "name": "indica-delta",
-        "comment": "User die Bl\u00fcten mit inkica Delta < -0.5 bis ansehen"
-    },
-    {
-        "id": 32,
-        "name": "stakeholder-apotheke",
-        "comment": "User die Objekte anklicken, die direkt auf Apotheken ausgerichtet sind."
-    },
-    {
-        "id": 33,
-        "name": "stakeholder-doc",
-        "comment": "User, die Toolsl nutzen, welche prim\u00e4r von \u00c4rzten genutzt werden."
-    },
-    {
-        "id": 34,
-        "name": "stakeholder-producer",
-        "comment": "User die Cananbis kultivieren oder handeln"
-    }
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
 ]
