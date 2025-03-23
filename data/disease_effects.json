@@ -1,2067 +1,415 @@
 [
-    {
-        "disease_id": 5,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 21,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 4,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 5,
-        "effect_id": 5,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 17,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 21,
-        "effect_id": 9,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 1,
-        "effect_id": 31,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 5,
-        "effect_id": 31,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 17,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 1,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 8,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 1,
-        "effect_id": 14,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 8,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 8,
-        "effect_id": 7,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 11,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 6,
-        "effect_id": 31,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 6,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 3,
-        "effect_id": 31,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 6,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 11,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 7,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 21,
-        "effect_id": 14,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 7,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 7,
-        "effect_id": 31,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 7,
-        "effect_id": 5,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 7,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 3,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 17,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 7,
-        "effect_id": 5,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 3,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 21,
-        "effect_id": 31,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 11,
-        "effect_id": 7,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 17,
-        "effect_id": 31,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 17,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 17,
-        "effect_id": 31,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 8,
-        "effect_id": 5,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 12,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 17,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 9,
-        "effect_id": 31,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 9,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 17,
-        "effect_id": 7,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 4,
-        "effect_id": 31,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 21,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 9,
-        "effect_id": 5,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 12,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 21,
-        "effect_id": 9,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 40,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 9,
-        "effect_id": 14,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 12,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 12,
-        "effect_id": 5,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 12,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 5,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 5,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 8,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 8,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 11,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 1,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 1,
-        "effect_id": 5,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 3,
-        "effect_id": 5,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 2,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 2,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 3,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 13,
-        "effect_id": 31,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 4,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 4,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 13,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 4,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 5,
-        "effect_id": 5,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 5,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 11,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 6,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 6,
-        "effect_id": 14,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 13,
-        "effect_id": 5,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 7,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 13,
-        "effect_id": 5,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 12,
-        "effect_id": 7,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 13,
-        "effect_id": 14,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 10,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 9,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 14,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 14,
-        "effect_id": 31,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 10,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 10,
-        "effect_id": 31,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 1,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 15,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 4,
-        "effect_id": 5,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 4,
-        "effect_id": 5,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 14,
-        "effect_id": 5,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 14,
-        "effect_id": 5,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 9,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 10,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 18,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 15,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 10,
-        "effect_id": 5,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 18,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 18,
-        "effect_id": 5,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 5,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 13,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 13,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 10,
-        "effect_id": 5,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 14,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 8,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 14,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 18,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 15,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 15,
-        "effect_id": 5,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 10,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 8,
-        "effect_id": 5,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 16,
-        "effect_id": 5,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 16,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 18,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 11,
-        "effect_id": 5,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 18,
-        "effect_id": 7,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 15,
-        "effect_id": 5,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 15,
-        "effect_id": 7,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 2,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 12,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 6,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 12,
-        "effect_id": 5,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 18,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 19,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 19,
-        "effect_id": 5,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 18,
-        "effect_id": 5,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 1,
-        "effect_id": 5,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 19,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 1,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 2,
-        "effect_id": 6,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 2,
-        "effect_id": 15,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 2,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 2,
-        "effect_id": 7,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 19,
-        "effect_id": 5,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 20,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 19,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 3,
-        "effect_id": 5,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 20,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 11,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 4,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 22,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 9,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 6,
-        "effect_id": 14,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 6,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 7,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 9,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 11,
-        "effect_id": 5,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 21,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 13,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 14,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 14,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 20,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 20,
-        "effect_id": 5,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 20,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 20,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 20,
-        "effect_id": 5,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 20,
-        "effect_id": 7,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 21,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 22,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 10,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 22,
-        "effect_id": 5,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 38,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 16,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 22,
-        "effect_id": 5,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 38,
-        "effect_id": 5,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 38,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 38,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 47,
-        "effect_id": 5,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 24,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 24,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 40,
-        "effect_id": 5,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 24,
-        "effect_id": 14,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 40,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 24,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 24,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 24,
-        "effect_id": 14,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 50,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 42,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 26,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 26,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 26,
-        "effect_id": 14,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 26,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 26,
-        "effect_id": 14,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 42,
-        "effect_id": 5,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 16,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 16,
-        "effect_id": 5,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 28,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 28,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 28,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 28,
-        "effect_id": 5,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 29,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 29,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 29,
-        "effect_id": 17,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 29,
-        "effect_id": 14,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 29,
-        "effect_id": 6,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 29,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 29,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 29,
-        "effect_id": 14,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 30,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 30,
-        "effect_id": 26,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 30,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 30,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 30,
-        "effect_id": 6,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 30,
-        "effect_id": 26,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 30,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 30,
-        "effect_id": 14,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 31,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 31,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 31,
-        "effect_id": 17,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 31,
-        "effect_id": 14,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 31,
-        "effect_id": 6,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 31,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 31,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 31,
-        "effect_id": 14,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 32,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 32,
-        "effect_id": 5,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 16,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 33,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 33,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 33,
-        "effect_id": 14,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 33,
-        "effect_id": 6,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 33,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 33,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 33,
-        "effect_id": 14,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 34,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 34,
-        "effect_id": 14,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 34,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 34,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 34,
-        "effect_id": 14,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 23,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 35,
-        "effect_id": 17,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 35,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 35,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 35,
-        "effect_id": 14,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 35,
-        "effect_id": 6,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 35,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 35,
-        "effect_id": 17,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 35,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 36,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 36,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 36,
-        "effect_id": 17,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 36,
-        "effect_id": 14,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 36,
-        "effect_id": 6,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 36,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 36,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 36,
-        "effect_id": 14,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 23,
-        "effect_id": 5,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 37,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 37,
-        "effect_id": 14,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 37,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 23,
-        "effect_id": 5,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 23,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 37,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 37,
-        "effect_id": 14,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 43,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 43,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 16,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 43,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 43,
-        "effect_id": 5,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 45,
-        "effect_id": 5,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 45,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 39,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 39,
-        "effect_id": 14,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 39,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 45,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 45,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 39,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 39,
-        "effect_id": 14,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 44,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 47,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 48,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 44,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 24,
-        "effect_id": 31,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 24,
-        "effect_id": 5,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 44,
-        "effect_id": 9,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 44,
-        "effect_id": 31,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 41,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 48,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 23,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 41,
-        "effect_id": 14,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 48,
-        "effect_id": 5,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 48,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 15,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 23,
-        "effect_id": 7,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 15,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 22,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 22,
-        "effect_id": 7,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 49,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 49,
-        "effect_id": 5,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 23,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 23,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 49,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 49,
-        "effect_id": 31,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 27,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 47,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 47,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 25,
-        "effect_id": 31,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 25,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 25,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 25,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 25,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 25,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 25,
-        "effect_id": 31,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 25,
-        "effect_id": 7,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 50,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 22,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 27,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 27,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 27,
-        "effect_id": 5,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 27,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 50,
-        "effect_id": 5,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 27,
-        "effect_id": 5,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 27,
-        "effect_id": 7,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 28,
-        "effect_id": 5,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 34,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 34,
-        "effect_id": 31,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 34,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 39,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 39,
-        "effect_id": 31,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 39,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 32,
-        "effect_id": 5,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 41,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 41,
-        "effect_id": 5,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 32,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 38,
-        "effect_id": 5,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 38,
-        "effect_id": 7,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 41,
-        "effect_id": 14,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 41,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 16,
-        "effect_id": 31,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 19,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 19,
-        "effect_id": 7,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 51,
-        "effect_id": 9,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 51,
-        "effect_id": 14,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 52,
-        "effect_id": 9,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 52,
-        "effect_id": 14,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 32,
-        "effect_id": 7,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 53,
-        "effect_id": 9,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 53,
-        "effect_id": 14,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 53,
-        "effect_id": 31,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 54,
-        "effect_id": 9,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 26,
-        "effect_id": 5,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 40,
-        "effect_id": 5,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 40,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 40,
-        "effect_id": 7,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 46,
-        "effect_id": 31,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 54,
-        "effect_id": 14,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 54,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 54,
-        "effect_id": 31,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 45,
-        "effect_id": 31,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 42,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 42,
-        "effect_id": 5,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 42,
-        "effect_id": 7,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 45,
-        "effect_id": 5,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 26,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 45,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 26,
-        "effect_id": 31,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 45,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 37,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 37,
-        "effect_id": 31,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 37,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 41,
-        "effect_id": 31,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 44,
-        "effect_id": 31,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 44,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 41,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 44,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 44,
-        "effect_id": 7,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 50,
-        "effect_id": 5,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 47,
-        "effect_id": 31,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 47,
-        "effect_id": 5,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 47,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 47,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 50,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 50,
-        "effect_id": 31,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 48,
-        "effect_id": 31,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 51,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 48,
-        "effect_id": 5,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 48,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 48,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 33,
-        "effect_id": 3,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 51,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 22,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 19,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 27,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 49,
-        "effect_id": 31,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 28,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 49,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 49,
-        "effect_id": 5,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 49,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 50,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 28,
-        "effect_id": 9,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 28,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 32,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 50,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 32,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 32,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 38,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 2,
-        "effect_id": 31,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 3,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 38,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 40,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 40,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 42,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 42,
-        "effect_id": 2,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 42,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 52,
-        "effect_id": 7,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 3,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 52,
-        "effect_id": 1,
-        "time_of_day": "Tag"
-    },
-    {
-        "disease_id": 53,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 43,
-        "effect_id": 31,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 43,
-        "effect_id": 5,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 43,
-        "effect_id": 2,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 43,
-        "effect_id": 1,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 46,
-        "effect_id": 5,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 46,
-        "effect_id": 6,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 46,
-        "effect_id": 14,
-        "time_of_day": "Nacht"
-    },
-    {
-        "disease_id": 46,
-        "effect_id": 15,
-        "time_of_day": "Nacht"
-    }
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
 ]
