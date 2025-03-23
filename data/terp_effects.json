@@ -1,296 +1,51 @@
 [
-    {
-        "effect_entry_id": 1,
-        "terp_id": 1,
-        "effect_id": 1,
-        "evidence": 7
-    },
-    {
-        "effect_entry_id": 2,
-        "terp_id": 1,
-        "effect_id": 2,
-        "evidence": 6
-    },
-    {
-        "effect_entry_id": 5,
-        "terp_id": 2,
-        "effect_id": 1,
-        "evidence": 7
-    },
-    {
-        "effect_entry_id": 6,
-        "terp_id": 2,
-        "effect_id": 2,
-        "evidence": 6
-    },
-    {
-        "effect_entry_id": 8,
-        "terp_id": 3,
-        "effect_id": 1,
-        "evidence": 7
-    },
-    {
-        "effect_entry_id": 9,
-        "terp_id": 3,
-        "effect_id": 2,
-        "evidence": 6
-    },
-    {
-        "effect_entry_id": 11,
-        "terp_id": 4,
-        "effect_id": 1,
-        "evidence": 7
-    },
-    {
-        "effect_entry_id": 12,
-        "terp_id": 4,
-        "effect_id": 2,
-        "evidence": 7
-    },
-    {
-        "effect_entry_id": 16,
-        "terp_id": 5,
-        "effect_id": 1,
-        "evidence": 8
-    },
-    {
-        "effect_entry_id": 18,
-        "terp_id": 6,
-        "effect_id": 1,
-        "evidence": 8
-    },
-    {
-        "effect_entry_id": 13,
-        "terp_id": 4,
-        "effect_id": 6,
-        "evidence": 6
-    },
-    {
-        "effect_entry_id": 22,
-        "terp_id": 7,
-        "effect_id": 1,
-        "evidence": 8
-    },
-    {
-        "effect_entry_id": 23,
-        "terp_id": 7,
-        "effect_id": 2,
-        "evidence": 7
-    },
-    {
-        "effect_entry_id": 24,
-        "terp_id": 7,
-        "effect_id": 14,
-        "evidence": 6
-    },
-    {
-        "effect_entry_id": 25,
-        "terp_id": 7,
-        "effect_id": 9,
-        "evidence": 7
-    },
-    {
-        "effect_entry_id": 26,
-        "terp_id": 8,
-        "effect_id": 9,
-        "evidence": 7
-    },
-    {
-        "effect_entry_id": 27,
-        "terp_id": 8,
-        "effect_id": 8,
-        "evidence": 6
-    },
-    {
-        "effect_entry_id": 29,
-        "terp_id": 8,
-        "effect_id": 14,
-        "evidence": 6
-    },
-    {
-        "effect_entry_id": 30,
-        "terp_id": 8,
-        "effect_id": 7,
-        "evidence": 6
-    },
-    {
-        "effect_entry_id": 31,
-        "terp_id": 9,
-        "effect_id": 1,
-        "evidence": 7
-    },
-    {
-        "effect_entry_id": 32,
-        "terp_id": 9,
-        "effect_id": 19,
-        "evidence": 7
-    },
-    {
-        "effect_entry_id": 33,
-        "terp_id": 9,
-        "effect_id": 8,
-        "evidence": 6
-    },
-    {
-        "effect_entry_id": 35,
-        "terp_id": 9,
-        "effect_id": 14,
-        "evidence": 6
-    },
-    {
-        "effect_entry_id": 36,
-        "terp_id": 10,
-        "effect_id": 9,
-        "evidence": 6
-    },
-    {
-        "effect_entry_id": 38,
-        "terp_id": 11,
-        "effect_id": 1,
-        "evidence": 7
-    },
-    {
-        "effect_entry_id": 39,
-        "terp_id": 11,
-        "effect_id": 8,
-        "evidence": 6
-    },
-    {
-        "effect_entry_id": 40,
-        "terp_id": 11,
-        "effect_id": 21,
-        "evidence": 7
-    },
-    {
-        "effect_entry_id": 41,
-        "terp_id": 11,
-        "effect_id": 28,
-        "evidence": 6
-    },
-    {
-        "effect_entry_id": 44,
-        "terp_id": 12,
-        "effect_id": 8,
-        "evidence": 7
-    },
-    {
-        "effect_entry_id": 45,
-        "terp_id": 12,
-        "effect_id": 9,
-        "evidence": 6
-    },
-    {
-        "effect_entry_id": 46,
-        "terp_id": 12,
-        "effect_id": 5,
-        "evidence": 7
-    },
-    {
-        "effect_entry_id": 47,
-        "terp_id": 12,
-        "effect_id": 14,
-        "evidence": 6
-    },
-    {
-        "effect_entry_id": 48,
-        "terp_id": 13,
-        "effect_id": 1,
-        "evidence": 7
-    },
-    {
-        "effect_entry_id": 49,
-        "terp_id": 13,
-        "effect_id": 9,
-        "evidence": 6
-    },
-    {
-        "effect_entry_id": 50,
-        "terp_id": 13,
-        "effect_id": 5,
-        "evidence": 6
-    },
-    {
-        "effect_entry_id": 51,
-        "terp_id": 13,
-        "effect_id": 22,
-        "evidence": 6
-    },
-    {
-        "effect_entry_id": 52,
-        "terp_id": 13,
-        "effect_id": 8,
-        "evidence": 6
-    },
-    {
-        "effect_entry_id": 3,
-        "terp_id": 1,
-        "effect_id": 9,
-        "evidence": 6
-    },
-    {
-        "effect_entry_id": 7,
-        "terp_id": 2,
-        "effect_id": 14,
-        "evidence": 6
-    },
-    {
-        "effect_entry_id": 10,
-        "terp_id": 3,
-        "effect_id": 19,
-        "evidence": 6
-    },
-    {
-        "effect_entry_id": 15,
-        "terp_id": 4,
-        "effect_id": 9,
-        "evidence": 6
-    },
-    {
-        "effect_entry_id": 17,
-        "terp_id": 5,
-        "effect_id": 8,
-        "evidence": 6
-    },
-    {
-        "effect_entry_id": 19,
-        "terp_id": 6,
-        "effect_id": 7,
-        "evidence": 7
-    },
-    {
-        "effect_entry_id": 20,
-        "terp_id": 6,
-        "effect_id": 14,
-        "evidence": 6
-    },
-    {
-        "effect_entry_id": 34,
-        "terp_id": 9,
-        "effect_id": 9,
-        "evidence": 6
-    },
-    {
-        "effect_entry_id": 37,
-        "terp_id": 10,
-        "effect_id": 1,
-        "evidence": 6
-    },
-    {
-        "effect_entry_id": 53,
-        "terp_id": 4,
-        "effect_id": 31,
-        "evidence": 6
-    },
-    {
-        "effect_entry_id": 54,
-        "terp_id": 2,
-        "effect_id": 31,
-        "evidence": 6
-    },
-    {
-        "effect_entry_id": 55,
-        "terp_id": 12,
-        "effect_id": 31,
-        "evidence": 6
-    }
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
 ]
