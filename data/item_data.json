@@ -13345,5 +13345,95 @@
         "item_class": "link-7",
         "item_id": "cannaabis-kaufen-link-navi",
         "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 1505,
+        "session_id": "d908519b-0727-4783-8583-3a430c11db29",
+        "source_url": "https://www.zencan.de/#",
+        "timestamp": "2025-03-23 16:27:46.767102",
+        "item_class": "canalytics-links nomobile",
+        "item_id": "canalytics-link-doctors",
+        "target_url": "https://www.zencan.de/canalytics-mediziner"
+    },
+    {
+        "id": 1506,
+        "session_id": "d908519b-0727-4783-8583-3a430c11db29",
+        "source_url": "https://www.zencan.de/canalytics-mediziner#",
+        "timestamp": "2025-03-23 16:27:54.265033",
+        "item_class": "canalytics-links",
+        "item_id": "canalytics-link-patienten",
+        "target_url": "https://www.zencan.de/canalytics-fuer-patienten"
+    },
+    {
+        "id": 1507,
+        "session_id": "d908519b-0727-4783-8583-3a430c11db29",
+        "source_url": "https://www.zencan.de/canalytics-fuer-patienten#",
+        "timestamp": "2025-03-23 16:28:07.038961",
+        "item_class": "canalytics-links",
+        "item_id": "canalytics-link-producer",
+        "target_url": "https://www.zencan.de/canalytics-for-producer"
+    },
+    {
+        "id": 1508,
+        "session_id": "97b627ff-f894-4086-8e1f-e5be88350f59",
+        "source_url": "https://www.zencan.de/ratgeber/marihuana-kaufen",
+        "timestamp": "2025-03-23 16:43:34.148557",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 1509,
+        "session_id": "52190730-60c1-40a2-9a23-b40cee2c7c60",
+        "source_url": "https://www.zencan.de/categories/cannabis-kaufen",
+        "timestamp": "2025-03-23 17:08:03.605675",
+        "item_class": "w-inline-block",
+        "item_id": "slide-aroma-category",
+        "target_url": "https://www.zencan.de/?sort=aroma"
+    },
+    {
+        "id": 1510,
+        "session_id": "9c3386eb-7d26-4730-87e4-190abc599dc8",
+        "source_url": "https://www.zencan.de/ratgeber/marihuana-kaufen",
+        "timestamp": "2025-03-23 17:08:54.352630",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 1511,
+        "session_id": "9c3386eb-7d26-4730-87e4-190abc599dc8",
+        "source_url": "https://www.zencan.de/search?query=Lemon+haze",
+        "timestamp": "2025-03-23 17:10:56.510274",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 1512,
+        "session_id": "8f5f0e1c-bb8c-4545-8f93-bfaf90c1e0e7",
+        "source_url": "https://www.zencan.de/categories/cannabis-medizin",
+        "timestamp": "2025-03-23 17:34:54.329096",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 1513,
+        "session_id": "c28bc06a-4879-4f75-86ae-623ea4c152d6",
+        "source_url": "https://www.zencan.de/produkte/cnbs-frf-21-1-fire-fruit",
+        "timestamp": "2025-03-23 17:59:15.613953",
+        "item_class": "nav-brand-v1 w-nav-brand",
+        "item_id": "logo-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 1514,
+        "session_id": "b518dce1-9034-4c83-ad84-9f537168bb88",
+        "source_url": "https://www.zencan.de/ratgeber/edibles",
+        "timestamp": "2025-03-23 18:15:37.608067",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
     }
 ]
