@@ -1,32 +1,3 @@
 [
-    {
-        "min_thc": 0.7,
-        "max_thc": 36.4,
-        "min_cbd": 0.05,
-        "max_cbd": 17.0,
-        "min_price": 4.49,
-        "max_price": 22.25,
-        "min_terps": 0.44,
-        "max_terps": 3.56,
-        "min_limonen": 0.04,
-        "max_limonen": 0.75,
-        "min_beta_myrcen": 0.03,
-        "max_beta_myrcen": 0.81,
-        "min_beta_caryophyllen": 0.04,
-        "max_beta_caryophyllen": 0.92,
-        "min_linalool": 0.05,
-        "max_linalool": 0.54,
-        "min_alpha_pinen": 0.02,
-        "max_alpha_pinen": 0.44,
-        "min_alpha_humulen": 0.05,
-        "max_alpha_humulen": 0.36,
-        "min_fenchol": 0.03,
-        "max_fenchol": 0.22,
-        "min_ocimen": 0.06,
-        "max_ocimen": 0.55,
-        "min_beta_pinen": 0.01,
-        "max_beta_pinen": 0.38,
-        "min_alpha_bisabolol": 0.06,
-        "max_alpha_bisabolol": 0.12
-    }
+    null
 ]
