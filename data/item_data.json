@@ -13093,5 +13093,23 @@
         "item_class": "canalytics-links nomobile",
         "item_id": "canalytics-link-doctors",
         "target_url": "https://www.zencan.de/canalytics-mediziner"
+    },
+    {
+        "id": 1477,
+        "session_id": "d908519b-0727-4783-8583-3a430c11db29",
+        "source_url": "https://www.zencan.de/#",
+        "timestamp": "2025-03-23 07:22:39.486138",
+        "item_class": "canalytics-links",
+        "item_id": "canalytics-link-producer",
+        "target_url": "https://www.zencan.de/canalytics-for-producer"
+    },
+    {
+        "id": 1478,
+        "session_id": "49fc2668-7b3c-4f19-802d-43ba3864539d",
+        "source_url": "https://www.zencan.de/search?query=Aleph+air+",
+        "timestamp": "2025-03-23 08:16:39.331816",
+        "item_class": "nav-brand-v1 w-nav-brand",
+        "item_id": "logo-link-navi",
+        "target_url": "https://www.zencan.de/"
     }
 ]
