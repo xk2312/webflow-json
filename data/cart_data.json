@@ -24671,5 +24671,70 @@
         "aponame2": "mycannabis",
         "preis2": 69.95,
         "timestamp": "2025-03-23 23:04:00.349000"
+    },
+    {
+        "id": 1970,
+        "session_id": "8ea331de-98bc-4864-aff8-0557bcb928aa",
+        "produktname1": "420 evolution 27/1 ca bul: bucket list",
+        "menge1": 5.0,
+        "preisprogramm1": 12.49,
+        "aponame1": "cannem",
+        "preis1": 62.45,
+        "aponame2": "mycannabis",
+        "preis2": 69.95,
+        "timestamp": "2025-03-24 06:24:51.221000"
+    },
+    {
+        "id": 1971,
+        "session_id": "4aaf77eb-e3f5-4dc9-99c1-1ce3f82e3940",
+        "produktname1": "pedanios 31/1 pnd-ca: pink diesel",
+        "menge1": 5.0,
+        "preisprogramm1": 10.99,
+        "aponame1": "gruenhorn",
+        "preis1": 54.95,
+        "aponame2": "cannalivery",
+        "preis2": 69.95,
+        "timestamp": "2025-03-24 12:02:36.469000"
+    },
+    {
+        "id": 1972,
+        "session_id": "4aaf77eb-e3f5-4dc9-99c1-1ce3f82e3940",
+        "produktname1": "pedanios 31/1 pnd-ca: pink diesel",
+        "menge1": 5.0,
+        "preisprogramm1": 10.99,
+        "produktname2": "420 evolution 30/1 ca flm: frozen lemon mints",
+        "menge2": 5.0,
+        "preisprogramm2": 11.49,
+        "aponame1": "gruenhorn",
+        "preis1": 112.4,
+        "aponame2": "cannalivery",
+        "preis2": 122.4,
+        "timestamp": "2025-03-24 12:10:19.825000"
+    },
+    {
+        "id": 1973,
+        "session_id": "4aaf77eb-e3f5-4dc9-99c1-1ce3f82e3940",
+        "produktname1": "pedanios 31/1 pnd-ca: pink diesel",
+        "menge1": 5.0,
+        "preisprogramm1": 10.99,
+        "produktname2": "420 evolution 30/1 ca flm: frozen lemon mints",
+        "menge2": 5.0,
+        "preisprogramm2": 11.49,
+        "produktname3": "remexian 30/1 gjy flv: flawless victory",
+        "menge3": 5.0,
+        "preisprogramm3": 9.99,
+        "aponame1": "gruenhorn",
+        "preis1": 162.35,
+        "timestamp": "2025-03-24 12:10:21.420000"
+    },
+    {
+        "id": 1974,
+        "session_id": "c50fb3e3-1bde-4ea1-a463-6ee57fe2bb48",
+        "produktname1": "420 sungrown 25/1 ca zrp: zour apple",
+        "menge1": 5.0,
+        "preisprogramm1": 10.49,
+        "aponame1": "gruenhorn",
+        "preis1": 52.45,
+        "timestamp": "2025-03-24 18:23:29.578000"
     }
 ]
