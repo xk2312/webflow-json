@@ -15145,5 +15145,41 @@
         "item_class": "link-to-top-thc-selection w-inline-block",
         "item_id": "link-to-top-thc-selection",
         "target_url": "https://www.zencan.de/?sort=thc"
+    },
+    {
+        "id": 1705,
+        "session_id": "97ddd1f3-52da-48f9-8e99-ce3a21749370",
+        "source_url": "https://www.zencan.de/produkte/bathera-30-1-polar-pop-polar-pop",
+        "timestamp": "2025-03-27 02:07:58.523847",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 1706,
+        "session_id": "e63b83d0-59f7-4525-9f73-423468abd89b",
+        "source_url": "https://www.zencan.de/ratgeber/edibles",
+        "timestamp": "2025-03-27 05:28:24.222756",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 1707,
+        "session_id": "e63b83d0-59f7-4525-9f73-423468abd89b",
+        "source_url": "https://www.zencan.de/",
+        "timestamp": "2025-03-27 05:28:37.693494",
+        "item_class": "link-7 w--current",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 1708,
+        "session_id": "ae6449e3-f873-4342-a9ba-99978e357fc4",
+        "source_url": "https://www.zencan.de/ratgeber/die-zukunft-der-cannabis-medikation-blendmaster-gibt-dir-die-volle-kontrolle",
+        "timestamp": "2025-03-27 05:29:52.705091",
+        "item_class": "link-block w-inline-block",
+        "item_id": "slide-price-category",
+        "target_url": "https://www.zencan.de/?sort=price"
     }
 ]
