@@ -17886,5 +17886,21 @@
         "source_url": "https://www.zencan.de/",
         "item_class": "w-layout-blockcontainer filter-icon w-container",
         "item_id": "filter-icon"
+    },
+    {
+        "id": 2315,
+        "session_id": "f8b1663d-4aee-4a6e-b53f-48771d45490b",
+        "timestamp": "2025-03-27 01:20:16.330842",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer sort_icon w-container",
+        "item_id": "sort_icon"
+    },
+    {
+        "id": 2316,
+        "session_id": "f8b1663d-4aee-4a6e-b53f-48771d45490b",
+        "timestamp": "2025-03-27 01:20:18.263895",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer sort_price w-container",
+        "item_id": "sort_price"
     }
 ]
