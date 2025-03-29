@@ -25304,5 +25304,90 @@
         "aponame3": "gruenhorn",
         "preis3": 59.95,
         "timestamp": "2025-03-27 21:19:22.595000"
+    },
+    {
+        "id": 2019,
+        "session_id": "a0015ea4-5e7d-416e-a261-ff09842d21ee",
+        "produktname1": "420 compound 25/1 ca rgr: rose gold runtz",
+        "menge1": 5.0,
+        "preisprogramm1": 9.99,
+        "aponame1": "cannalivery",
+        "preis1": 49.95,
+        "aponame2": "jiroo",
+        "preis2": 54.75,
+        "aponame3": "gruenhorn",
+        "preis3": 54.95,
+        "timestamp": "2025-03-28 08:27:31.823000"
+    },
+    {
+        "id": 2020,
+        "session_id": "0e86fe8a-f2b8-407d-8d61-548d459df49e",
+        "produktname1": "demecan craft sky 25:01: sky pie",
+        "menge1": 5.0,
+        "preisprogramm1": 10.23,
+        "aponame1": "cannabisapo24",
+        "preis1": 51.15,
+        "aponame2": "cannalivery",
+        "preis2": 59.95,
+        "timestamp": "2025-03-28 18:49:03.311000"
+    },
+    {
+        "id": 2021,
+        "session_id": "424a2870-4665-4b38-969b-f71dc930e76c",
+        "produktname1": "pedanios 29/1 srd-ca: sourdough",
+        "menge1": 5.0,
+        "preisprogramm1": 9.76,
+        "aponame1": "cannabisapo24",
+        "preis1": 48.8,
+        "aponame2": "jiroo",
+        "preis2": 49.75,
+        "aponame3": "gruenhorn",
+        "preis3": 54.95,
+        "timestamp": "2025-03-28 20:08:53.258000"
+    },
+    {
+        "id": 2022,
+        "session_id": "c7824d47-c403-43b3-a2ba-29b6d2dca38e",
+        "produktname1": "cannamedical sativa forte nm: wedding tree",
+        "menge1": 5.0,
+        "preisprogramm1": 10.39,
+        "aponame1": "cannabisapo24",
+        "preis1": 51.95,
+        "timestamp": "2025-03-28 23:23:28.358000"
+    },
+    {
+        "id": 2023,
+        "session_id": "0587bfa3-6ca5-4e36-811e-e15f447756ed",
+        "produktname1": "bathera 24/1: permanent marker",
+        "menge1": 5.0,
+        "preisprogramm1": 9.79,
+        "aponame1": "medicalherbs",
+        "preis1": 48.95,
+        "aponame2": "gruenhorn",
+        "preis2": 49.95,
+        "timestamp": "2025-03-29 07:24:51.953000"
+    },
+    {
+        "id": 2024,
+        "session_id": "0587bfa3-6ca5-4e36-811e-e15f447756ed",
+        "produktname1": "bathera 24/1: permanent marker",
+        "menge1": 5.0,
+        "preisprogramm1": 9.99,
+        "produktname2": "remexian 30/1 stg: strawberry grail",
+        "menge2": 5.0,
+        "preisprogramm2": 9.99,
+        "aponame1": "gruenhorn",
+        "preis1": 99.9,
+        "timestamp": "2025-03-29 07:24:53.917000"
+    },
+    {
+        "id": 2025,
+        "session_id": "2625dcde-9bff-4aa7-a674-aeb6d1234b4a",
+        "produktname1": "avaay 32/1 ahc: amnesia haze cake",
+        "menge1": 5.0,
+        "preisprogramm1": 12.49,
+        "aponame1": "gruenhorn",
+        "preis1": 62.45,
+        "timestamp": "2025-03-29 09:39:58.704000"
     }
 ]
