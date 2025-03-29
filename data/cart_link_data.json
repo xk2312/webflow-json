@@ -5730,5 +5730,39 @@
         "price1_per_g": 9.79,
         "av_price_per_g": 9.79,
         "total_price": 48.949999999999996
+    },
+    {
+        "id": 355,
+        "cart_status": 1,
+        "timestamp": "2025-03-29 15:17:15.177970",
+        "session_id": "1dbbeeb7-fe12-4906-b362-bc927853f76a",
+        "link_source": "apo-link-1",
+        "link_name": "cannem",
+        "link_url": "https://shop.apo-alte-seilerei.de/cart/?add-many-to-cart=7627*5",
+        "name_apo_1": "cannem",
+        "name_apo_2": "mycannabis",
+        "name_apo_3": "placeholder",
+        "produktname1": "420 evolution 27/1 ca bul: bucket list",
+        "quantity1": 5.0,
+        "price1_per_g": 12.49,
+        "av_price_per_g": 12.49,
+        "total_price": 62.45
+    },
+    {
+        "id": 356,
+        "cart_status": 1,
+        "timestamp": "2025-03-29 15:17:16.158001",
+        "session_id": "1dbbeeb7-fe12-4906-b362-bc927853f76a",
+        "link_source": "apo-link-1",
+        "link_name": "cannem",
+        "link_url": "https://shop.apo-alte-seilerei.de/cart/?add-many-to-cart=7627*5",
+        "name_apo_1": "cannem",
+        "name_apo_2": "mycannabis",
+        "name_apo_3": "placeholder",
+        "produktname1": "420 evolution 27/1 ca bul: bucket list",
+        "quantity1": 5.0,
+        "price1_per_g": 12.49,
+        "av_price_per_g": 12.49,
+        "total_price": 62.45
     }
 ]
