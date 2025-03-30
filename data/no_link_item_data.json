@@ -19726,5 +19726,37 @@
         "source_url": "https://www.zencan.de/?sort=thc",
         "item_class": "w-layout-blockcontainer sort_price w-container",
         "item_id": "sort_price"
+    },
+    {
+        "id": 2545,
+        "session_id": "7ef82403-813c-4a61-a7e3-a2d51f368e47",
+        "timestamp": "2025-03-29 22:00:40.214838",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer ad-container-head w-container",
+        "item_id": "ad-container-head"
+    },
+    {
+        "id": 2546,
+        "session_id": "e3159d47-e6d3-48b1-8618-12f88ad919df",
+        "timestamp": "2025-03-29 22:05:58.093784",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "warenkorb_icon_image",
+        "item_id": "warenkorb_icon_image"
+    },
+    {
+        "id": 2547,
+        "session_id": "e3159d47-e6d3-48b1-8618-12f88ad919df",
+        "timestamp": "2025-03-29 22:06:00.576912",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "warenkorb-x",
+        "item_id": "warenkorb-x"
+    },
+    {
+        "id": 2548,
+        "session_id": "d761431d-2928-4acd-820c-860904b542d6",
+        "timestamp": "2025-03-29 22:06:19.816164",
+        "source_url": "https://www.zencan.de/search?query=Crafty%2B+Vaporize",
+        "item_class": "warenkorb_icon_image",
+        "item_id": "warenkorb_icon_image"
     }
 ]
