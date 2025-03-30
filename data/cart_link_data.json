@@ -5764,5 +5764,17 @@
         "price1_per_g": 12.49,
         "av_price_per_g": 12.49,
         "total_price": 62.45
+    },
+    {
+        "id": 357,
+        "cart_status": 0,
+        "timestamp": "2025-03-29 22:06:29.298934",
+        "session_id": "d761431d-2928-4acd-820c-860904b542d6",
+        "link_source": "doc-link-2",
+        "link_name": "123Can",
+        "link_url": "https://123can.de/",
+        "name_apo_1": "placeholder",
+        "name_apo_2": "placeholder",
+        "name_apo_3": "placeholder"
     }
 ]
