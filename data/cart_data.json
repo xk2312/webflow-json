@@ -26443,5 +26443,93 @@
         "aponame3": "gruenhorn",
         "preis3": 59.95,
         "timestamp": "2025-04-03 04:18:22.522000"
+    },
+    {
+        "id": 2104,
+        "session_id": "af7cef76-1a34-4cac-b552-7c65905e4c3e",
+        "produktname1": "avaay signature 26/1 gpm: gun powder milkshake",
+        "menge1": 5.0,
+        "preisprogramm1": 12.49,
+        "aponame1": "mycannabis",
+        "preis1": 62.45,
+        "aponame2": "gruenhorn",
+        "preis2": 64.95,
+        "timestamp": "2025-04-03 09:02:28.217000"
+    },
+    {
+        "id": 2105,
+        "session_id": "438faf19-03d4-446c-a713-73bbdef19bd0",
+        "produktname1": "pedanios 22/1: ghost train haze",
+        "menge1": 5.0,
+        "preisprogramm1": 7.95,
+        "aponame1": "jiroo",
+        "preis1": 39.75,
+        "aponame2": "mycannabis",
+        "preis2": 44.95,
+        "aponame3": "cannabisapo24",
+        "preis3": 48.95,
+        "timestamp": "2025-04-03 10:57:16.625000"
+    },
+    {
+        "id": 2106,
+        "session_id": "f311e394-55b0-4d52-80bc-1e18d686ae1c",
+        "produktname1": "remexian 28/1: godfather og x",
+        "menge1": 5.0,
+        "preisprogramm1": 6.7,
+        "aponame1": "cannabisapo24",
+        "preis1": 33.5,
+        "aponame2": "mycannabis",
+        "preis2": 44.95,
+        "timestamp": "2025-04-03 13:51:54.130000"
+    },
+    {
+        "id": 2107,
+        "session_id": "6af17841-f4ee-40b9-98f6-f85bb2749750",
+        "produktname1": "cannamedical indica classic zaf: black cherry punch",
+        "menge1": 5.0,
+        "preisprogramm1": 7.57,
+        "aponame1": "cannabisapo24",
+        "preis1": 37.85,
+        "timestamp": "2025-04-03 16:20:44.392000"
+    },
+    {
+        "id": 2108,
+        "session_id": "825107c5-e879-4d0a-a6bb-7997dad4613b",
+        "produktname1": "eufloria 30/1 kum: kush mints",
+        "menge1": 5.0,
+        "preisprogramm1": 8.95,
+        "aponame1": "jiroo",
+        "preis1": 44.75,
+        "aponame2": "medicalherbs",
+        "preis2": 48.45,
+        "aponame3": "lux99",
+        "preis3": 61.3,
+        "timestamp": "2025-04-03 21:21:23.129000"
+    },
+    {
+        "id": 2109,
+        "session_id": "3fcea042-4d16-4a1d-99c5-3e9ebecde17e",
+        "produktname1": "cannabis flos weeco 23/1: frosted lemon angel",
+        "menge1": 5.0,
+        "preisprogramm1": 6.54,
+        "aponame1": "mycannabis",
+        "preis1": 32.7,
+        "aponame2": "gruenhorn",
+        "preis2": 41.45,
+        "timestamp": "2025-04-03 21:51:31.095000"
+    },
+    {
+        "id": 2110,
+        "session_id": "bdc79e3c-0997-4582-bf31-82a63746ecb8",
+        "produktname1": "enua 22/1 jfg ca: jet fuel gelato",
+        "menge1": 5.0,
+        "preisprogramm1": 5.69,
+        "aponame1": "cannabisapo24",
+        "preis1": 28.45,
+        "aponame2": "gruenhorn",
+        "preis2": 39.95,
+        "aponame3": "cannem",
+        "preis3": 39.95,
+        "timestamp": "2025-04-04 00:29:42.414000"
     }
 ]
