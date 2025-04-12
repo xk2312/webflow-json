@@ -7339,5 +7339,22 @@
         "price1_per_g": 7.99,
         "av_price_per_g": 7.99,
         "total_price": 39.95
+    },
+    {
+        "id": 448,
+        "cart_status": 1,
+        "timestamp": "2025-04-11 16:52:39.133855",
+        "session_id": "1e023b03-8c9c-4f04-8903-f8ae5aee4ac0",
+        "link_source": "apo-link-2",
+        "link_name": "mycannabis",
+        "link_url": "https://www.mycannabis.de/",
+        "name_apo_1": "gruenhorn",
+        "name_apo_2": "mycannabis",
+        "name_apo_3": "placeholder",
+        "produktname1": "bathera 28/1: facetz",
+        "quantity1": 5.0,
+        "price1_per_g": 9.99,
+        "av_price_per_g": 9.99,
+        "total_price": 49.95
     }
 ]
