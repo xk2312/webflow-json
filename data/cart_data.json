@@ -27531,5 +27531,71 @@
         "aponame1": "gruenhorn",
         "preis1": 104.9,
         "timestamp": "2025-04-11 14:52:27.804000"
+    },
+    {
+        "id": 2188,
+        "session_id": "6643578f-437c-48fe-8de9-a9c1e90dde8e",
+        "produktname1": "avaay 29/1 scp: sour cherry punch",
+        "menge1": 5.0,
+        "preisprogramm1": 8.5,
+        "aponame1": "jiroo",
+        "preis1": 42.5,
+        "aponame2": "mycannabis",
+        "preis2": 49.95,
+        "aponame3": "gruenhorn",
+        "preis3": 54.95,
+        "timestamp": "2025-04-12 10:01:02.710000"
+    },
+    {
+        "id": 2189,
+        "session_id": "ca867f5a-b680-48e2-b24b-ff9fde880043",
+        "produktname1": "420 evolution 27/1 ca bul: bucket list",
+        "menge1": 5.0,
+        "preisprogramm1": 8.59,
+        "aponame1": "cannem",
+        "preis1": 42.95,
+        "aponame2": "mycannabis",
+        "preis2": 47.2,
+        "timestamp": "2025-04-12 10:05:39.808000"
+    },
+    {
+        "id": 2190,
+        "session_id": "2efcee6e-9c08-47b6-acd9-448e47221b35",
+        "produktname1": "420 evolution 27/1 ca bul: bucket list",
+        "menge1": 5.0,
+        "preisprogramm1": 8.59,
+        "aponame1": "cannem",
+        "preis1": 42.95,
+        "aponame2": "mycannabis",
+        "preis2": 47.2,
+        "timestamp": "2025-04-12 19:21:48.847000"
+    },
+    {
+        "id": 2191,
+        "session_id": "398f25a2-d1fd-492c-8b6f-af5791044590",
+        "produktname1": "420 evolution 33/1 ca pch: peach chementine",
+        "menge1": 5.0,
+        "preisprogramm1": 11.9,
+        "aponame1": "jiroo",
+        "preis1": 59.5,
+        "aponame2": "gruenhorn",
+        "preis2": 59.95,
+        "aponame3": "cannem",
+        "preis3": 62.45,
+        "timestamp": "2025-04-12 20:06:32.783000"
+    },
+    {
+        "id": 2192,
+        "session_id": "398f25a2-d1fd-492c-8b6f-af5791044590",
+        "produktname1": "pedanios 31/1 cos-ca: cosmic cream",
+        "menge1": 5.0,
+        "preisprogramm1": 10.95,
+        "aponame1": "jiroo",
+        "preis1": 54.75,
+        "aponame2": "gruenhorn",
+        "preis2": 59.95,
+        "aponame3": "cannalivery",
+        "preis3": 59.95,
+        "timestamp": "2025-04-12 20:16:36.541000"
     }
 ]
