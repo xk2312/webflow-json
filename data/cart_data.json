@@ -27931,5 +27931,77 @@
         "aponame1": "gruenhorn",
         "preis1": 72.4,
         "timestamp": "2025-04-14 13:10:37.305000"
+    },
+    {
+        "id": 2219,
+        "session_id": "7a373f51-7d59-4cc7-b4e4-2974dbea5ea5",
+        "produktname1": "huala 20/1 ca grf: grape face",
+        "menge1": 5.0,
+        "preisprogramm1": 6.49,
+        "aponame1": "mycannabis",
+        "preis1": 32.45,
+        "timestamp": "2025-04-14 15:22:38.475000"
+    },
+    {
+        "id": 2220,
+        "session_id": "a16f5087-db2d-4ec6-b2a4-66a61ba7f991",
+        "produktname1": "420 evolution 30/1 ca mmi: miracle mints",
+        "menge1": 5.0,
+        "preisprogramm1": 8.49,
+        "aponame1": "cannalivery",
+        "preis1": 42.45,
+        "aponame2": "jiroo",
+        "preis2": 54.75,
+        "aponame3": "gruenhorn",
+        "preis3": 62.45,
+        "timestamp": "2025-04-14 19:48:25.225000"
+    },
+    {
+        "id": 2221,
+        "session_id": "e856b3d4-7347-4d6d-b8f2-97fb17e2905c",
+        "produktname1": "cannabis flos weeco 23/1: frosted lemon angel",
+        "menge1": 5.0,
+        "preisprogramm1": 6.54,
+        "aponame1": "mycannabis",
+        "preis1": 32.7,
+        "aponame2": "gruenhorn",
+        "preis2": 41.45,
+        "timestamp": "2025-04-14 22:19:55.779000"
+    },
+    {
+        "id": 2222,
+        "session_id": "e856b3d4-7347-4d6d-b8f2-97fb17e2905c",
+        "produktname1": "cannabis 1a 16/1 flos: white widow",
+        "menge1": 5.0,
+        "preisprogramm1": 4.99,
+        "aponame1": "cannalivery",
+        "preis1": 24.95,
+        "aponame2": "gruenhorn",
+        "preis2": 34.95,
+        "timestamp": "2025-04-14 22:24:19.599000"
+    },
+    {
+        "id": 2223,
+        "session_id": "8e200dcb-488b-4815-bf3e-e762fc76ea93",
+        "produktname1": "420 evolution 33/1 ca pch: peach chementine",
+        "menge1": 5.0,
+        "preisprogramm1": 11.9,
+        "aponame1": "jiroo",
+        "preis1": 59.5,
+        "aponame2": "gruenhorn",
+        "preis2": 59.95,
+        "aponame3": "cannem",
+        "preis3": 62.45,
+        "timestamp": "2025-04-14 23:21:46.469000"
+    },
+    {
+        "id": 2224,
+        "session_id": "dfe2da9d-dbfa-418f-a66d-2b87189d5a01",
+        "produktname1": "420 evolution 36/1 ca pch: peach chementine",
+        "menge1": 5.0,
+        "preisprogramm1": 12.9,
+        "aponame1": "medicalherbs",
+        "preis1": 64.5,
+        "timestamp": "2025-04-15 04:50:50.283000"
     }
 ]
