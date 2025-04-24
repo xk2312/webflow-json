@@ -18404,6 +18404,16 @@
         "timestamp": "2025-02-22 04:49:41.766000"
     },
     {
+        "id": 2355,
+        "session_id": "907c57f6-a3da-4698-8cf3-1b36a9d2d59b",
+        "produktname1": "gr\u00fcnhorn bc 33/1 tck: tiger cake",
+        "menge1": 5.0,
+        "preisprogramm1": 11.8,
+        "aponame1": "gruenhorn",
+        "preis1": 59.0,
+        "timestamp": "2025-04-23 08:47:08.378000"
+    },
+    {
         "id": 1475,
         "session_id": "051d50b8-20c5-4992-ba50-f739e7045fac",
         "produktname1": "bedrocan: afina",
@@ -19006,6 +19016,16 @@
         "aponame3": "cannalivery",
         "preis3": 59.95,
         "timestamp": "2025-02-24 18:21:49.364000"
+    },
+    {
+        "id": 2356,
+        "session_id": "2b88d1f5-ca86-44a5-a0ff-fee2b5d5e15c",
+        "produktname1": "420 evolution 25/1 ca pld: plum driver",
+        "menge1": 5.0,
+        "preisprogramm1": 9.95,
+        "aponame1": "jiroo",
+        "preis1": 49.75,
+        "timestamp": "2025-04-23 13:54:53.869000"
     },
     {
         "id": 1524,
@@ -20219,6 +20239,16 @@
         "aponame3": "mycannabis",
         "preis3": 49.95,
         "timestamp": "2025-02-28 17:46:03.514000"
+    },
+    {
+        "id": 2362,
+        "session_id": "1126a3ec-c5cf-4f0d-8c01-4e2f811791a2",
+        "produktname1": "420 evolution 25/1 ca pld: plum driver",
+        "menge1": 5.0,
+        "preisprogramm1": 9.95,
+        "aponame1": "jiroo",
+        "preis1": 49.75,
+        "timestamp": "2025-04-23 17:18:43.619000"
     },
     {
         "id": 1617,
@@ -29628,5 +29658,157 @@
         "aponame2": "gruenhorn",
         "preis2": 124.9,
         "timestamp": "2025-04-23 05:28:28.853000"
+    },
+    {
+        "id": 2353,
+        "session_id": "b54bc8a4-198e-4ca7-8bf7-f6f7b09a213b",
+        "produktname1": "420 evolution 33/1 ca pch: peach chementine",
+        "menge1": 5.0,
+        "preisprogramm1": 11.9,
+        "aponame1": "jiroo",
+        "preis1": 59.5,
+        "aponame2": "gruenhorn",
+        "preis2": 59.95,
+        "aponame3": "cannem",
+        "preis3": 62.45,
+        "timestamp": "2025-04-23 07:46:52.279000"
+    },
+    {
+        "id": 2354,
+        "session_id": "b54bc8a4-198e-4ca7-8bf7-f6f7b09a213b",
+        "produktname1": "420 evolution 33/1 ca pch: peach chementine",
+        "menge1": 5.0,
+        "preisprogramm1": 11.99,
+        "produktname2": "bathera 28/1: facetz",
+        "menge2": 5.0,
+        "preisprogramm2": 9.99,
+        "aponame1": "gruenhorn",
+        "preis1": 109.9,
+        "aponame2": "mycannabis",
+        "preis2": 114.9,
+        "timestamp": "2025-04-23 07:50:03.800000"
+    },
+    {
+        "id": 2357,
+        "session_id": "2b88d1f5-ca86-44a5-a0ff-fee2b5d5e15c",
+        "produktname1": "420 evolution 25/1 ca pld: plum driver",
+        "menge1": 5.0,
+        "preisprogramm1": 9.95,
+        "produktname2": "420 evolution 33/1 ca pch: peach chementine",
+        "menge2": 5.0,
+        "preisprogramm2": 11.9,
+        "aponame1": "jiroo",
+        "preis1": 109.25,
+        "timestamp": "2025-04-23 13:54:58.475000"
+    },
+    {
+        "id": 2358,
+        "session_id": "2b88d1f5-ca86-44a5-a0ff-fee2b5d5e15c",
+        "produktname1": "420 evolution 25/1 ca pld: plum driver",
+        "menge1": 5.0,
+        "preisprogramm1": 9.95,
+        "produktname2": "420 evolution 33/1 ca pch: peach chementine",
+        "menge2": 5.0,
+        "preisprogramm2": 11.9,
+        "produktname3": "avaay 29/1 scp: sour cherry punch",
+        "menge3": 5.0,
+        "preisprogramm3": 9.95,
+        "aponame1": "jiroo",
+        "preis1": 159.0,
+        "timestamp": "2025-04-23 13:55:00.295000"
+    },
+    {
+        "id": 2359,
+        "session_id": "8412278a-63f5-447c-a4d7-25b0ae98d5b5",
+        "produktname1": "cannamedical indica light bc: purple punch",
+        "menge1": 5.0,
+        "preisprogramm1": 4.99,
+        "aponame1": "cannalivery",
+        "preis1": 24.95,
+        "aponame2": "lux99",
+        "preis2": 41.65,
+        "timestamp": "2025-04-23 14:38:30.425000"
+    },
+    {
+        "id": 2360,
+        "session_id": "520f4869-f45b-4d8a-b017-61e492aea89b",
+        "produktname1": "avaay 23/1 ck: critical kush",
+        "menge1": 5.0,
+        "preisprogramm1": 7.99,
+        "aponame1": "cannalivery",
+        "preis1": 39.95,
+        "aponame2": "jiroo",
+        "preis2": 44.75,
+        "timestamp": "2025-04-23 16:56:45.516000"
+    },
+    {
+        "id": 2361,
+        "session_id": "520f4869-f45b-4d8a-b017-61e492aea89b",
+        "produktname1": "avaay 23/1 ck: critical kush",
+        "menge1": 5.0,
+        "preisprogramm1": 8.95,
+        "produktname2": "pedanios 31/1 cos-ca: cosmic cream",
+        "menge2": 5.0,
+        "preisprogramm2": 10.95,
+        "aponame1": "jiroo",
+        "preis1": 99.5,
+        "aponame2": "cannalivery",
+        "preis2": 99.9,
+        "timestamp": "2025-04-23 16:57:13.276000"
+    },
+    {
+        "id": 2363,
+        "session_id": "725bda8b-ba29-4156-8820-fdfbd1e27e5e",
+        "produktname1": "420 compound 25/1 ca rgr: rose gold runtz",
+        "menge1": 5.0,
+        "preisprogramm1": 8.99,
+        "aponame1": "cannem",
+        "preis1": 44.95,
+        "aponame2": "gruenhorn",
+        "preis2": 54.95,
+        "aponame3": "medicalherbs",
+        "preis3": 59.45,
+        "timestamp": "2025-04-23 19:54:14.067000"
+    },
+    {
+        "id": 2364,
+        "session_id": "725bda8b-ba29-4156-8820-fdfbd1e27e5e",
+        "produktname1": "420 compound 25/1 ca rgr: rose gold runtz",
+        "menge1": 5.0,
+        "preisprogramm1": 11.89,
+        "produktname2": "pedanios 27/1 frg-ca: farm gas",
+        "menge2": 5.0,
+        "preisprogramm2": 11.79,
+        "aponame1": "medicalherbs",
+        "preis1": 118.4,
+        "timestamp": "2025-04-23 20:22:51.796000"
+    },
+    {
+        "id": 2365,
+        "session_id": "579bb197-d35e-45c9-b510-5538e2b178db",
+        "produktname1": "pedanios 29/1 srd-ca: sourdough",
+        "menge1": 5.0,
+        "preisprogramm1": 8.95,
+        "aponame1": "jiroo",
+        "preis1": 44.75,
+        "aponame2": "gruenhorn",
+        "preis2": 54.95,
+        "aponame3": "cannalivery",
+        "preis3": 59.95,
+        "timestamp": "2025-04-24 00:04:46.007000"
+    },
+    {
+        "id": 2366,
+        "session_id": "68162ff5-d2d4-4333-bb82-a042ec5b529a",
+        "produktname1": "420 evolution 22/1 ca mac: mac 1",
+        "menge1": 5.0,
+        "preisprogramm1": 8.95,
+        "aponame1": "jiroo",
+        "preis1": 44.75,
+        "aponame2": "cannem",
+        "preis2": 47.45,
+        "aponame3": "gruenhorn",
+        "preis3": 54.95,
+        "timestamp": "2025-04-24 06:52:03.200000"
     }
 ]
