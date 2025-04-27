@@ -27576,6 +27576,11 @@
         "timestamp": "2025-04-10 09:08:01.161000"
     },
     {
+        "id": 2403,
+        "session_id": "8ffab3c7-efcb-4f8a-9f8a-7f3ac6389a8a",
+        "timestamp": "2025-04-26 08:02:56.062000"
+    },
+    {
         "id": 2177,
         "session_id": "e818bf65-858c-4dc2-8478-6349068f31ce",
         "produktname1": "avaay 29/1 scp: sour cherry punch",
@@ -28204,6 +28209,11 @@
         "aponame1": "mycannabis",
         "preis1": 54.95,
         "timestamp": "2025-04-15 08:27:59.116000"
+    },
+    {
+        "id": 2404,
+        "session_id": "8ffab3c7-efcb-4f8a-9f8a-7f3ac6389a8a",
+        "timestamp": "2025-04-26 08:03:17.471000"
     },
     {
         "id": 2227,
@@ -30038,6 +30048,11 @@
         "timestamp": "2025-04-24 16:51:01.387000"
     },
     {
+        "id": 2407,
+        "session_id": "4aa6e484-bd94-4c67-b6a4-e907c563ddcf",
+        "timestamp": "2025-04-26 14:58:04.042000"
+    },
+    {
         "id": 2389,
         "session_id": "a38b4b79-eee9-456b-84f2-d4bcca450729",
         "produktname1": "pedanios 31/1 pnd-ca: pink diesel",
@@ -30146,5 +30161,206 @@
         "aponame3": "mycannabis",
         "preis3": 49.1,
         "timestamp": "2025-04-25 18:57:01.470000"
+    },
+    {
+        "id": 2405,
+        "session_id": "12b5c81e-776b-429e-b255-ac969a254009",
+        "produktname1": "420 evolution 25/1 ca bul: bucket list",
+        "menge1": 5.0,
+        "preisprogramm1": 9.5,
+        "aponame1": "jiroo",
+        "preis1": 47.5,
+        "aponame2": "cannalivery",
+        "preis2": 49.95,
+        "aponame3": "medicalherbs",
+        "preis3": 53.95,
+        "timestamp": "2025-04-26 09:41:35.966000"
+    },
+    {
+        "id": 2406,
+        "session_id": "12b5c81e-776b-429e-b255-ac969a254009",
+        "produktname1": "420 evolution 25/1 ca bul: bucket list",
+        "menge1": 10.0,
+        "preisprogramm1": 9.5,
+        "timestamp": "2025-04-26 09:45:19.490000"
+    },
+    {
+        "id": 2408,
+        "session_id": "4aa6e484-bd94-4c67-b6a4-e907c563ddcf",
+        "produktname1": "420 evolution 27/1 ca bul: bucket list",
+        "menge1": 5.0,
+        "preisprogramm1": 9.44,
+        "aponame1": "mycannabis",
+        "preis1": 47.2,
+        "timestamp": "2025-04-26 15:00:43.687000"
+    },
+    {
+        "id": 2409,
+        "session_id": "8ffab3c7-efcb-4f8a-9f8a-7f3ac6389a8a",
+        "produktname1": "420 compound 30/1 ca gap: gastro pop",
+        "menge1": 5.0,
+        "preisprogramm1": 10.95,
+        "aponame1": "jiroo",
+        "preis1": 54.75,
+        "timestamp": "2025-04-26 16:03:21.435000"
+    },
+    {
+        "id": 2410,
+        "session_id": "6da026dc-eeb0-4011-a45d-2dcd60392b92",
+        "produktname1": "avaay 29/1 scp: sour cherry punch",
+        "menge1": 5.0,
+        "preisprogramm1": 9.95,
+        "aponame1": "jiroo",
+        "preis1": 49.75,
+        "aponame2": "mycannabis",
+        "preis2": 49.95,
+        "timestamp": "2025-04-27 02:48:25.425000"
+    },
+    {
+        "id": 2411,
+        "session_id": "d165a431-da8d-497d-892f-8b049c405b66",
+        "produktname1": "peace naturals 31/1 gc: gmo cookies",
+        "menge1": 5.0,
+        "preisprogramm1": 10.49,
+        "aponame1": "cannalivery",
+        "preis1": 52.45,
+        "timestamp": "2025-04-27 06:08:14.796000"
+    },
+    {
+        "id": 2412,
+        "session_id": "a635a939-d7ea-4088-8d46-97dfafa93d99",
+        "produktname1": "420 evolution 30/1 ca gmo: gmo",
+        "menge1": 5.0,
+        "preisprogramm1": 10.99,
+        "aponame1": "mycannabis",
+        "preis1": 54.95,
+        "timestamp": "2025-04-27 11:42:06.264000"
+    },
+    {
+        "id": 2413,
+        "session_id": "644268ab-403d-4119-b2df-1bd3b8637482",
+        "produktname1": "huala 20/1 ca alm: alien mints",
+        "menge1": 5.0,
+        "preisprogramm1": 5.76,
+        "aponame1": "jiroo",
+        "preis1": 28.8,
+        "timestamp": "2025-04-27 11:56:15.469000"
+    },
+    {
+        "id": 2414,
+        "session_id": "1fc99667-754c-4e4f-aaec-c9a37ea472b1",
+        "produktname1": "huala 20/1 ca alm: alien mints",
+        "menge1": 5.0,
+        "preisprogramm1": 5.76,
+        "produktname2": "huala 22/1 ca btr: black triangle",
+        "menge2": 5.0,
+        "preisprogramm2": 5.95,
+        "aponame1": "jiroo",
+        "preis1": 58.55,
+        "timestamp": "2025-04-27 12:00:21.652000"
+    },
+    {
+        "id": 2415,
+        "session_id": "1fc99667-754c-4e4f-aaec-c9a37ea472b1",
+        "produktname1": "huala 20/1 ca alm: alien mints",
+        "menge1": 5.0,
+        "preisprogramm1": 5.76,
+        "aponame1": "jiroo",
+        "preis1": 28.8,
+        "timestamp": "2025-04-27 12:01:09.858000"
+    },
+    {
+        "id": 2416,
+        "session_id": "1fc99667-754c-4e4f-aaec-c9a37ea472b1",
+        "produktname1": "huala 20/1 ca alm: alien mints",
+        "menge1": 5.0,
+        "preisprogramm1": 5.76,
+        "produktname2": "curaleaf natural 25/1 pt wpt: wedding pop triangle",
+        "menge2": 5.0,
+        "preisprogramm2": 6.95,
+        "aponame1": "jiroo",
+        "preis1": 63.55,
+        "timestamp": "2025-04-27 12:01:30.385000"
+    },
+    {
+        "id": 2417,
+        "session_id": "9f0402db-9b02-4008-bfa5-28b9f61927e7",
+        "produktname1": "huala 20/1 ca alm: alien mints",
+        "menge1": 10.0,
+        "preisprogramm1": 5.76,
+        "produktname2": "curaleaf natural 25/1 pt wpt: wedding pop triangle",
+        "menge2": 10.0,
+        "preisprogramm2": 6.95,
+        "produktname3": "huala 20/1 ca alm: alien mints",
+        "menge3": 5.0,
+        "preisprogramm3": 5.76,
+        "aponame1": "jiroo",
+        "preis1": 155.9,
+        "timestamp": "2025-04-27 12:03:08.398000"
+    },
+    {
+        "id": 2418,
+        "session_id": "a0a4ff94-fd0a-4a01-aa3c-65486ad51048",
+        "produktname1": "huala 20/1 ca alm: alien mints",
+        "menge1": 10.0,
+        "preisprogramm1": 5.76,
+        "produktname2": "curaleaf natural 25/1 pt wpt: wedding pop triangle",
+        "menge2": 10.0,
+        "preisprogramm2": 6.95,
+        "produktname3": "huala 20/1 ca alm: alien mints",
+        "menge3": 5.0,
+        "preisprogramm3": 5.76,
+        "aponame1": "jiroo",
+        "preis1": 155.9,
+        "timestamp": "2025-04-27 12:09:03.387000"
+    },
+    {
+        "id": 2419,
+        "session_id": "4a89c875-d02e-4a0d-83ff-80d6e6f1cf69",
+        "produktname1": "420 evolution 25/1 ca pld: plum driver",
+        "menge1": 5.0,
+        "preisprogramm1": 9.95,
+        "aponame1": "jiroo",
+        "preis1": 49.75,
+        "timestamp": "2025-04-27 14:20:38.069000"
+    },
+    {
+        "id": 2420,
+        "session_id": "4a89c875-d02e-4a0d-83ff-80d6e6f1cf69",
+        "produktname1": "420 evolution 25/1 ca pld: plum driver",
+        "menge1": 5.0,
+        "preisprogramm1": 9.95,
+        "produktname2": "bathera 24/1: permanent marker",
+        "menge2": 5.0,
+        "preisprogramm2": 8.95,
+        "aponame1": "jiroo",
+        "preis1": 94.5,
+        "timestamp": "2025-04-27 14:20:57.060000"
+    },
+    {
+        "id": 2421,
+        "session_id": "4a89c875-d02e-4a0d-83ff-80d6e6f1cf69",
+        "produktname1": "420 evolution 25/1 ca pld: plum driver",
+        "menge1": 5.0,
+        "preisprogramm1": 9.95,
+        "produktname2": "bathera 24/1: permanent marker",
+        "menge2": 5.0,
+        "preisprogramm2": 8.95,
+        "produktname3": "avaay 29/1 scp: sour cherry punch",
+        "menge3": 5.0,
+        "preisprogramm3": 9.95,
+        "aponame1": "jiroo",
+        "preis1": 144.25,
+        "timestamp": "2025-04-27 14:21:07.926000"
+    },
+    {
+        "id": 2422,
+        "session_id": "be01476d-5fe5-4b16-ae6c-f50b3a5c2a5e",
+        "produktname1": "420 evolution 25/1 ca pld: plum driver",
+        "menge1": 5.0,
+        "preisprogramm1": 9.95,
+        "aponame1": "jiroo",
+        "preis1": 49.75,
+        "timestamp": "2025-04-27 17:43:19.368000"
     }
 ]
