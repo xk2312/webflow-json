@@ -30362,5 +30362,49 @@
         "aponame1": "jiroo",
         "preis1": 49.75,
         "timestamp": "2025-04-27 17:43:19.368000"
+    },
+    {
+        "id": 2423,
+        "session_id": "5929a4dd-3a1f-4e85-92d5-4be8dbe7581a",
+        "produktname1": "cannamedical sativa forte nm: gelato dream",
+        "menge1": 5.0,
+        "preisprogramm1": 9.79,
+        "aponame1": "cannalivery",
+        "preis1": 48.95,
+        "timestamp": "2025-04-27 21:36:44.259000"
+    },
+    {
+        "id": 2424,
+        "session_id": "48e2c590-ad5c-4528-b142-db9b93c22f25",
+        "produktname1": "pedanios 29/1 srd-ca: sourdough",
+        "menge1": 5.0,
+        "preisprogramm1": 8.95,
+        "aponame1": "jiroo",
+        "preis1": 44.75,
+        "aponame2": "cannalivery",
+        "preis2": 59.95,
+        "timestamp": "2025-04-27 23:09:28.195000"
+    },
+    {
+        "id": 2425,
+        "session_id": "537cb72a-02bc-4efe-a264-2cb205c27043",
+        "produktname1": "huala 22/1 ca btr: black triangle",
+        "menge1": 5.0,
+        "preisprogramm1": 5.95,
+        "aponame1": "jiroo",
+        "preis1": 29.75,
+        "aponame2": "medicalherbs",
+        "preis2": 38.45,
+        "timestamp": "2025-04-27 23:26:35.989000"
+    },
+    {
+        "id": 2426,
+        "session_id": "6cb2eafb-149d-4a8d-bb9e-f1aa2c4b2736",
+        "produktname1": "avaay signature 26/1 gpm: gun powder milkshake",
+        "menge1": 5.0,
+        "preisprogramm1": 12.49,
+        "aponame1": "mycannabis",
+        "preis1": 62.45,
+        "timestamp": "2025-04-28 06:47:16.181000"
     }
 ]
