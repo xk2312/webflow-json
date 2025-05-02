@@ -30680,6 +30680,11 @@
         "timestamp": "2025-04-29 14:41:46.646000"
     },
     {
+        "id": 2471,
+        "session_id": "d906ebb8-d4ce-4366-8ae5-59ce484927c9",
+        "timestamp": "2025-05-01 13:42:11.969000"
+    },
+    {
         "id": 2449,
         "session_id": "eaf239b7-9910-467e-86d3-6a4741eb9662",
         "produktname1": "avaay 32/1 ahc: amnesia haze cake",
@@ -30902,5 +30907,165 @@
         "menge1": 5.0,
         "preisprogramm1": 11.89,
         "timestamp": "2025-05-01 06:03:44.381000"
+    },
+    {
+        "id": 2468,
+        "session_id": "ddeebab5-2a26-47f6-8c08-5ed8fd97abbb",
+        "produktname1": "avaay 32/1 ahc: amnesia haze cake",
+        "menge1": 5.0,
+        "preisprogramm1": 10.95,
+        "aponame1": "jiroo",
+        "preis1": 54.75,
+        "timestamp": "2025-05-01 10:42:16.013000"
+    },
+    {
+        "id": 2469,
+        "session_id": "5659d413-edd5-4947-a07e-36e82e7a7159",
+        "produktname1": "420 evolution 25/1 ca pld: plum driver",
+        "menge1": 5.0,
+        "preisprogramm1": 9.95,
+        "aponame1": "jiroo",
+        "preis1": 49.75,
+        "timestamp": "2025-05-01 12:54:44.794000"
+    },
+    {
+        "id": 2470,
+        "session_id": "60c8321c-c9f0-48de-885d-456e56abed17",
+        "produktname1": "avaay 32/1 ahc: amnesia haze cake",
+        "menge1": 5.0,
+        "preisprogramm1": 10.95,
+        "aponame1": "jiroo",
+        "preis1": 54.75,
+        "timestamp": "2025-05-01 13:27:08.418000"
+    },
+    {
+        "id": 2472,
+        "session_id": "20df06f3-7be7-456b-9d70-9abfba3a435f",
+        "produktname1": "avaay 35/1 scg: super citra g.",
+        "menge1": 5.0,
+        "preisprogramm1": 9.99,
+        "aponame1": "cannalivery",
+        "preis1": 49.95,
+        "timestamp": "2025-05-01 19:43:59.145000"
+    },
+    {
+        "id": 2473,
+        "session_id": "17975859-af3a-4f96-8ffe-f196754a010c",
+        "produktname1": "bathera 24/1: permanent marker",
+        "menge1": 5.0,
+        "preisprogramm1": 8.95,
+        "aponame1": "jiroo",
+        "preis1": 44.75,
+        "timestamp": "2025-05-01 20:12:21.203000"
+    },
+    {
+        "id": 2474,
+        "session_id": "17975859-af3a-4f96-8ffe-f196754a010c",
+        "produktname1": "bathera 24/1: permanent marker",
+        "menge1": 5.0,
+        "preisprogramm1": 8.95,
+        "produktname2": "420 evolution 25/1 ca pld: plum driver",
+        "menge2": 5.0,
+        "preisprogramm2": 9.95,
+        "aponame1": "jiroo",
+        "preis1": 94.5,
+        "timestamp": "2025-05-01 20:12:43.945000"
+    },
+    {
+        "id": 2475,
+        "session_id": "17975859-af3a-4f96-8ffe-f196754a010c",
+        "produktname1": "bathera 24/1: permanent marker",
+        "menge1": 5.0,
+        "preisprogramm1": 8.95,
+        "produktname2": "420 evolution 25/1 ca pld: plum driver",
+        "menge2": 5.0,
+        "preisprogramm2": 9.95,
+        "produktname3": "remexian 30/1 crn: garlic breath",
+        "menge3": 5.0,
+        "preisprogramm3": 9.95,
+        "aponame1": "jiroo",
+        "preis1": 144.25,
+        "timestamp": "2025-05-01 20:14:16.044000"
+    },
+    {
+        "id": 2476,
+        "session_id": "223912d5-d587-4fd5-8e55-a5d6dd32f561",
+        "produktname1": "bathera 24/1: permanent marker",
+        "menge1": 5.0,
+        "preisprogramm1": 8.95,
+        "aponame1": "jiroo",
+        "preis1": 44.75,
+        "timestamp": "2025-05-01 21:55:29.189000"
+    },
+    {
+        "id": 2477,
+        "session_id": "d0f64bb4-c88f-4211-ad17-15d2cc79b70e",
+        "produktname1": "420 evolution 33/1 ca pch: peach chementine",
+        "menge1": 5.0,
+        "preisprogramm1": 11.9,
+        "aponame1": "jiroo",
+        "preis1": 59.5,
+        "aponame2": "cannalivery",
+        "preis2": 64.95,
+        "timestamp": "2025-05-02 03:41:29.456000"
+    },
+    {
+        "id": 2478,
+        "session_id": "d0f64bb4-c88f-4211-ad17-15d2cc79b70e",
+        "produktname1": "420 evolution 33/1 ca pch: peach chementine",
+        "menge1": 5.0,
+        "preisprogramm1": 11.9,
+        "produktname2": "pedanios 29/1 srd-ca: sourdough",
+        "menge2": 5.0,
+        "preisprogramm2": 8.95,
+        "aponame1": "jiroo",
+        "preis1": 104.25,
+        "aponame2": "cannalivery",
+        "preis2": 124.9,
+        "timestamp": "2025-05-02 03:41:42.198000"
+    },
+    {
+        "id": 2479,
+        "session_id": "d0f64bb4-c88f-4211-ad17-15d2cc79b70e",
+        "produktname1": "420 evolution 33/1 ca pch: peach chementine",
+        "menge1": 5.0,
+        "preisprogramm1": 12.99,
+        "produktname2": "pedanios 29/1 srd-ca: sourdough",
+        "menge2": 5.0,
+        "preisprogramm2": 11.99,
+        "produktname3": "avaay 35/1 scg: super citra g.",
+        "menge3": 5.0,
+        "preisprogramm3": 9.99,
+        "aponame1": "cannalivery",
+        "preis1": 174.85,
+        "timestamp": "2025-05-02 03:42:34.012000"
+    },
+    {
+        "id": 2480,
+        "session_id": "d0f64bb4-c88f-4211-ad17-15d2cc79b70e",
+        "produktname1": "420 evolution 33/1 ca pch: peach chementine",
+        "menge1": 5.0,
+        "preisprogramm1": 12.99,
+        "produktname2": "pedanios 29/1 srd-ca: sourdough",
+        "menge2": 5.0,
+        "preisprogramm2": 11.99,
+        "produktname3": "avaay 35/1 scg: super citra g.",
+        "menge3": 5.0,
+        "preisprogramm3": 9.99,
+        "aponame1": "cannalivery",
+        "preis1": 174.85,
+        "timestamp": "2025-05-02 03:43:10.396000"
+    },
+    {
+        "id": 2481,
+        "session_id": "6a965bbe-24cd-4c97-9584-46c94b26e100",
+        "produktname1": "pedanios 29/1 srd-ca: sourdough",
+        "menge1": 5.0,
+        "preisprogramm1": 8.95,
+        "aponame1": "jiroo",
+        "preis1": 44.75,
+        "aponame2": "cannalivery",
+        "preis2": 59.95,
+        "timestamp": "2025-05-02 07:42:06.946000"
     }
 ]
