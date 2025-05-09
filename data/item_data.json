@@ -33730,5 +33730,437 @@
         "item_class": "link-8",
         "item_id": "kultivare-link-navi",
         "target_url": "https://www.zencan.de/kultivare"
+    },
+    {
+        "id": 3770,
+        "session_id": "0898dc73-527a-4bfe-8dcc-070055c069d1",
+        "source_url": "https://www.zencan.de/ratgeber/cannabis-auf-rezept",
+        "timestamp": "2025-05-08 10:27:41.495702",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3771,
+        "session_id": "0898dc73-527a-4bfe-8dcc-070055c069d1",
+        "source_url": "https://www.zencan.de/ratgeber/cannabis-auf-rezept",
+        "timestamp": "2025-05-08 10:27:42.555001",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3772,
+        "session_id": "1aef9274-63ba-4c75-991b-d22929f061ff",
+        "source_url": "https://www.zencan.de/ratgeber/cannabis-auf-rezept",
+        "timestamp": "2025-05-08 10:41:03.395766",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3773,
+        "session_id": "26ec57f8-d635-47c7-ac95-c380e42d76e2",
+        "source_url": "https://www.zencan.de/produkte/bathera-24-1-permanent-marker",
+        "timestamp": "2025-05-08 12:37:09.345018",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3774,
+        "session_id": "26ec57f8-d635-47c7-ac95-c380e42d76e2",
+        "source_url": "https://www.zencan.de/produkte/bathera-24-1-permanent-marker",
+        "timestamp": "2025-05-08 12:38:15.128318",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3775,
+        "session_id": "fc640d71-f689-4daf-a7de-d13e950aa353",
+        "source_url": "https://www.zencan.de/ratgeber/thc-oel",
+        "timestamp": "2025-05-08 14:02:22.051057",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3776,
+        "session_id": "fc640d71-f689-4daf-a7de-d13e950aa353",
+        "source_url": "https://www.zencan.de/",
+        "timestamp": "2025-05-08 14:02:38.951053",
+        "item_class": "link-7 w--current",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3777,
+        "session_id": "fde57336-f3f4-4d72-80c1-6bcc120903cb",
+        "source_url": "https://www.zencan.de/produkte/avaay-signature-31-1-ogc-ocean-grown-cookies",
+        "timestamp": "2025-05-08 14:15:47.449782",
+        "item_class": "nav-brand-v1 w-nav-brand",
+        "item_id": "logo-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3778,
+        "session_id": "fde57336-f3f4-4d72-80c1-6bcc120903cb",
+        "source_url": "https://www.zencan.de/",
+        "timestamp": "2025-05-08 14:16:38.949698",
+        "item_class": "nav-brand-v1 w-nav-brand w--current",
+        "item_id": "logo-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3779,
+        "session_id": "fde57336-f3f4-4d72-80c1-6bcc120903cb",
+        "source_url": "https://www.zencan.de/produkte/avaay-signature-31-1-ogc-ocean-grown-cookies",
+        "timestamp": "2025-05-08 14:17:12.749608",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3780,
+        "session_id": "fde57336-f3f4-4d72-80c1-6bcc120903cb",
+        "source_url": "https://www.zencan.de/",
+        "timestamp": "2025-05-08 14:17:18.650349",
+        "item_class": "link-11",
+        "item_id": "ratgeber-link-navi",
+        "target_url": "https://www.zencan.de/ratgeber"
+    },
+    {
+        "id": 3781,
+        "session_id": "fde57336-f3f4-4d72-80c1-6bcc120903cb",
+        "source_url": "https://www.zencan.de/ratgeber",
+        "timestamp": "2025-05-08 14:17:28.982397",
+        "item_class": "link-8",
+        "item_id": "kultivare-link-navi",
+        "target_url": "https://www.zencan.de/kultivare"
+    },
+    {
+        "id": 3782,
+        "session_id": "fde57336-f3f4-4d72-80c1-6bcc120903cb",
+        "source_url": "https://www.zencan.de/kultivare/amnesia",
+        "timestamp": "2025-05-08 14:17:48.596520",
+        "item_class": "link-9",
+        "item_id": "terpene-link-navi",
+        "target_url": "https://www.zencan.de/terpene"
+    },
+    {
+        "id": 3783,
+        "session_id": "2b81d624-e5c8-4dd6-b53b-fa6c1ea23d23",
+        "source_url": "https://www.zencan.de/ratgeber/haschkekse",
+        "timestamp": "2025-05-08 14:19:00.997174",
+        "item_class": "w-inline-block",
+        "item_id": "slide-thc-category",
+        "target_url": "https://www.zencan.de/?sort=thc"
+    },
+    {
+        "id": 3784,
+        "session_id": "2b81d624-e5c8-4dd6-b53b-fa6c1ea23d23",
+        "source_url": "https://www.zencan.de/ratgeber/haschkekse",
+        "timestamp": "2025-05-08 14:19:01.407899",
+        "item_class": "w-inline-block",
+        "item_id": "slide-thc-category",
+        "target_url": "https://www.zencan.de/?sort=thc"
+    },
+    {
+        "id": 3785,
+        "session_id": "e955544f-c8f2-493f-832c-92f002ba9cf3",
+        "source_url": "https://www.zencan.de/impressum",
+        "timestamp": "2025-05-08 16:02:38.841394",
+        "item_class": "nav-brand-v1 w-nav-brand",
+        "item_id": "logo-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3786,
+        "session_id": "e955544f-c8f2-493f-832c-92f002ba9cf3",
+        "source_url": "https://www.zencan.de/#",
+        "timestamp": "2025-05-08 16:04:19.678433",
+        "item_class": "canalytics-links",
+        "item_id": "canalytics-link-patienten",
+        "target_url": "https://www.zencan.de/canalytics-fuer-patienten"
+    },
+    {
+        "id": 3787,
+        "session_id": "e955544f-c8f2-493f-832c-92f002ba9cf3",
+        "source_url": "https://www.zencan.de/#",
+        "timestamp": "2025-05-08 16:04:20.285009",
+        "item_class": "canalytics-links",
+        "item_id": "canalytics-link-patienten",
+        "target_url": "https://www.zencan.de/canalytics-fuer-patienten"
+    },
+    {
+        "id": 3788,
+        "session_id": "e955544f-c8f2-493f-832c-92f002ba9cf3",
+        "source_url": "https://www.zencan.de/canalytics-fuer-patienten",
+        "timestamp": "2025-05-08 16:11:44.964331",
+        "item_class": "nav-brand-v1 w-nav-brand",
+        "item_id": "logo-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3789,
+        "session_id": "b3933ac7-5fe8-45d7-a691-c9531993955d",
+        "source_url": "https://www.zencan.de/#",
+        "timestamp": "2025-05-08 16:12:19.247704",
+        "item_class": "canalytics-links",
+        "item_id": "canalytics-link-patienten",
+        "target_url": "https://www.zencan.de/canalytics-fuer-patienten"
+    },
+    {
+        "id": 3790,
+        "session_id": "4ac9f6e7-cc06-44fe-a9d3-cd1b020ee4ab",
+        "source_url": "https://www.zencan.de/produkte/cannabis-flos-weeco-23-1-frosted-lemon-angel",
+        "timestamp": "2025-05-08 17:31:27.388258",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3791,
+        "session_id": "4ac9f6e7-cc06-44fe-a9d3-cd1b020ee4ab",
+        "source_url": "https://www.zencan.de/produkte/cannabis-flos-weeco-23-1-frosted-lemon-angel",
+        "timestamp": "2025-05-08 17:31:29.130105",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3792,
+        "session_id": "b8fa0b07-c90b-46c8-99e0-f5929db11a44",
+        "source_url": "https://www.zencan.de/produkte/remexian-16-1-amnesia-lemon",
+        "timestamp": "2025-05-08 17:41:11.787318",
+        "item_class": "link-to-top-thc-selection w-inline-block",
+        "item_id": "link-to-top-thc-selection",
+        "target_url": "https://www.zencan.de/?sort=thc"
+    },
+    {
+        "id": 3793,
+        "session_id": "2ad3c04b-90ce-45ac-b376-80643a7ea574",
+        "source_url": "https://www.zencan.de/produkte/pedanios-31-1-cmk-ca-chemango-kush",
+        "timestamp": "2025-05-08 18:30:13.345660",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3794,
+        "session_id": "2ad3c04b-90ce-45ac-b376-80643a7ea574",
+        "source_url": "https://www.zencan.de/produkte/420-compound-30-1-ca-rpv-rose-gold-pav",
+        "timestamp": "2025-05-08 18:32:28.249922",
+        "item_class": "link-to-top-thc-selection w-inline-block",
+        "item_id": "link-to-top-thc-selection",
+        "target_url": "https://www.zencan.de/?sort=thc"
+    },
+    {
+        "id": 3795,
+        "session_id": "b49795f2-f2e3-443c-9020-e60a8c009ca8",
+        "source_url": "https://www.zencan.de/kultivare/guava",
+        "timestamp": "2025-05-08 18:57:22.000742",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3796,
+        "session_id": "3a65ce49-a8ec-4bee-b2e2-fc4e0ba8b056",
+        "source_url": "https://www.zencan.de/ratgeber/marihuana-kaufen",
+        "timestamp": "2025-05-08 18:57:59.427882",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3797,
+        "session_id": "9a352191-01a9-4e4c-ac50-678d1a8bd47a",
+        "source_url": "https://www.zencan.de/produkte/cannamedical-sativa-forte-nm-wedding-tree",
+        "timestamp": "2025-05-08 19:20:25.315808",
+        "item_class": "link-to-top-terps-selection w-inline-block",
+        "item_id": "link-to-top-terps-selection",
+        "target_url": "https://www.zencan.de/?sort=terps"
+    },
+    {
+        "id": 3798,
+        "session_id": "2b81d624-e5c8-4dd6-b53b-fa6c1ea23d23",
+        "source_url": "https://www.zencan.de/?sort=thc",
+        "timestamp": "2025-05-08 19:42:04.057067",
+        "item_class": "link-11",
+        "item_id": "ratgeber-link-navi",
+        "target_url": "https://www.zencan.de/ratgeber"
+    },
+    {
+        "id": 3799,
+        "session_id": "2b81d624-e5c8-4dd6-b53b-fa6c1ea23d23",
+        "source_url": "https://www.zencan.de/ratgeber",
+        "timestamp": "2025-05-08 19:42:23.805722",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3800,
+        "session_id": "22e6e8c9-61d1-44f9-9451-14ae0d35c8ee",
+        "source_url": "https://www.zencan.de/kultivare/god-bud",
+        "timestamp": "2025-05-08 21:03:27.462507",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3801,
+        "session_id": "1716e10b-3668-4dfc-b72f-960bc4eb1fb9",
+        "source_url": "https://www.zencan.de/ratgeber/marihuana-kaufen",
+        "timestamp": "2025-05-08 21:07:01.682258",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3802,
+        "session_id": "1c06275b-2ae3-4662-86d6-f6e1e0290240",
+        "source_url": "https://www.zencan.de/kultivare/sour-tangie",
+        "timestamp": "2025-05-08 22:40:06.095442",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3803,
+        "session_id": "1c06275b-2ae3-4662-86d6-f6e1e0290240",
+        "source_url": "https://www.zencan.de/produkte/pedanios-18-1-sour-tangie",
+        "timestamp": "2025-05-08 22:41:06.972570",
+        "item_class": "link-to-top-thc-selection w-inline-block",
+        "item_id": "link-to-top-thc-selection",
+        "target_url": "https://www.zencan.de/?sort=thc"
+    },
+    {
+        "id": 3804,
+        "session_id": "34fcdebb-a7a1-4b01-88f9-e0af43cfeb9b",
+        "source_url": "https://www.zencan.de/produkte/vasco-gg-grape-gasoline-1d83c",
+        "timestamp": "2025-05-08 22:51:40.233897",
+        "item_class": "link-to-top-thc-selection w-inline-block",
+        "item_id": "link-to-top-thc-selection",
+        "target_url": "https://www.zencan.de/?sort=thc"
+    },
+    {
+        "id": 3805,
+        "session_id": "3c41ec91-d00c-4442-833e-ef5a450be3c7",
+        "source_url": "https://www.zencan.de/kultivare/garlic-breath",
+        "timestamp": "2025-05-08 23:26:49.297770",
+        "item_class": "w-inline-block",
+        "item_id": "slide-thc-category",
+        "target_url": "https://www.zencan.de/?sort=thc"
+    },
+    {
+        "id": 3806,
+        "session_id": "c40bf0fa-9396-467f-87e7-e2c3691f867a",
+        "source_url": "https://www.zencan.de/ratgeber/cannabissorten",
+        "timestamp": "2025-05-09 01:20:08.449927",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3807,
+        "session_id": "9ef6c3fc-facb-4454-8eba-d57508a5c85d",
+        "source_url": "https://www.zencan.de/ratgeber/edibles",
+        "timestamp": "2025-05-09 02:29:14.747820",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3808,
+        "session_id": "e1a8ce69-4c2b-4fb8-a9eb-787ae2ab7e0b",
+        "source_url": "https://www.zencan.de/produkte/pedanios-29-1-srd-ca-sourdough",
+        "timestamp": "2025-05-09 03:47:16.900376",
+        "item_class": "link-to-top-thc-selection w-inline-block",
+        "item_id": "link-to-top-thc-selection",
+        "target_url": "https://www.zencan.de/?sort=thc"
+    },
+    {
+        "id": 3809,
+        "session_id": "bcac080c-b5fd-4ffc-afc9-171ad2696b66",
+        "source_url": "https://www.zencan.de/produkte/huala-22-1-ca-alm-alien-mints",
+        "timestamp": "2025-05-09 06:28:42.415176",
+        "item_class": "link-to-top-thc-selection w-inline-block",
+        "item_id": "link-to-top-thc-selection",
+        "target_url": "https://www.zencan.de/?sort=thc"
+    },
+    {
+        "id": 3810,
+        "session_id": "9691a9e5-bbbd-4378-bb1e-858119f95dbc",
+        "source_url": "https://www.zencan.de/produkte/nice-25-1-ram-rainbow-amnesia",
+        "timestamp": "2025-05-09 07:19:08.161962",
+        "item_class": "link-to-top-thc-selection w-inline-block",
+        "item_id": "link-to-top-thc-selection",
+        "target_url": "https://www.zencan.de/?sort=thc"
+    },
+    {
+        "id": 3811,
+        "session_id": "4becff7e-4091-4902-a72a-76371e812d2a",
+        "source_url": "https://www.zencan.de/ratgeber/cannabis-auf-rezept",
+        "timestamp": "2025-05-09 09:07:21.853564",
+        "item_class": "nav-brand-v1 w-nav-brand",
+        "item_id": "logo-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3812,
+        "session_id": "4becff7e-4091-4902-a72a-76371e812d2a",
+        "source_url": "https://www.zencan.de/produkte/demecan-craft-walkie-talkie-31-01-sugar-cake",
+        "timestamp": "2025-05-09 09:09:36.365132",
+        "item_class": "nav-brand-v1 w-nav-brand",
+        "item_id": "logo-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3813,
+        "session_id": "0dfd8bba-8810-4262-b5f0-e0f7d27f8d75",
+        "source_url": "https://www.zencan.de/",
+        "timestamp": "2025-05-09 09:35:34.660648",
+        "item_class": "nav-brand-v1 w-nav-brand w--current",
+        "item_id": "logo-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3814,
+        "session_id": "0dfd8bba-8810-4262-b5f0-e0f7d27f8d75",
+        "source_url": "https://www.zencan.de/",
+        "timestamp": "2025-05-09 09:35:46.433935",
+        "item_class": "nav-brand-v1 w-nav-brand w--current",
+        "item_id": "logo-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3815,
+        "session_id": "0dfd8bba-8810-4262-b5f0-e0f7d27f8d75",
+        "source_url": "https://www.zencan.de/",
+        "timestamp": "2025-05-09 09:35:52.979881",
+        "item_class": "nav-brand-v1 w-nav-brand w--current",
+        "item_id": "logo-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3816,
+        "session_id": "1e925ba6-a405-4945-9e2b-7456ecb1bbd6",
+        "source_url": "https://www.zencan.de/produkte/demecan-craft-t4n-g-25-01-banjo",
+        "timestamp": "2025-05-09 10:01:45.675713",
+        "item_class": "link-11",
+        "item_id": "ratgeber-link-navi",
+        "target_url": "https://www.zencan.de/ratgeber"
+    },
+    {
+        "id": 3817,
+        "session_id": "00df9e95-11c0-45c7-978b-8ced207b1f00",
+        "source_url": "https://www.zencan.de/canalytics-fuer-patienten#",
+        "timestamp": "2025-05-09 10:50:59.630080",
+        "item_class": "canalytics-links w--current",
+        "item_id": "canalytics-link-patienten",
+        "target_url": "https://www.zencan.de/canalytics-fuer-patienten"
     }
 ]
