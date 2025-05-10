@@ -34162,5 +34162,203 @@
         "item_class": "canalytics-links w--current",
         "item_id": "canalytics-link-patienten",
         "target_url": "https://www.zencan.de/canalytics-fuer-patienten"
+    },
+    {
+        "id": 3818,
+        "session_id": "659d976a-53c9-4893-9148-2b2aa3e2a2f0",
+        "source_url": "https://www.zencan.de/kultivare/delahaze",
+        "timestamp": "2025-05-09 11:35:42.209485",
+        "item_class": "nav-brand-v1 w-nav-brand",
+        "item_id": "logo-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3819,
+        "session_id": "2a5baac8-bb3d-4cd1-92c0-1349f37fbe46",
+        "source_url": "https://www.zencan.de/kultivare/afghan-kush",
+        "timestamp": "2025-05-09 13:31:00.790375",
+        "item_class": "link-9",
+        "item_id": "terpene-link-navi",
+        "target_url": "https://www.zencan.de/terpene"
+    },
+    {
+        "id": 3820,
+        "session_id": "44b1f11b-17fc-441e-8bc7-99603817b822",
+        "source_url": "https://www.zencan.de/produkte/demecan-craft-cali-29-01-hawaiian-rain-x-permanent-marker#",
+        "timestamp": "2025-05-09 13:52:50.353398",
+        "item_class": "nav-brand-v1 w-nav-brand",
+        "item_id": "logo-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3821,
+        "session_id": "2a9e9de5-201d-43b2-a9b1-f00f0cbda81d",
+        "source_url": "https://www.zencan.de/produkte/remexian-14-1-white-widow",
+        "timestamp": "2025-05-09 14:07:56.665923",
+        "item_class": "link-to-top-thc-selection w-inline-block",
+        "item_id": "link-to-top-thc-selection",
+        "target_url": "https://www.zencan.de/?sort=thc"
+    },
+    {
+        "id": 3822,
+        "session_id": "a7cdcb7c-41df-48ad-a63e-8f38bae00684",
+        "source_url": "https://www.zencan.de/kultivare/super-citra-g",
+        "timestamp": "2025-05-09 14:12:50.912045",
+        "item_class": "nav-brand-v1 w-nav-brand",
+        "item_id": "logo-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3823,
+        "session_id": "49660789-a532-4def-bc4d-5fff413a8c4e",
+        "source_url": "https://www.zencan.de/produkte/huala-25-1-ca-alm-alien-mints",
+        "timestamp": "2025-05-09 14:41:38.552525",
+        "item_class": "link-to-top-thc-selection w-inline-block",
+        "item_id": "link-to-top-thc-selection",
+        "target_url": "https://www.zencan.de/?sort=thc"
+    },
+    {
+        "id": 3824,
+        "session_id": "49660789-a532-4def-bc4d-5fff413a8c4e",
+        "source_url": "https://www.zencan.de/produkte/huala-25-1-ca-alm-alien-mints",
+        "timestamp": "2025-05-09 14:43:10.085429",
+        "item_class": "link-to-top-terps-selection w-inline-block",
+        "item_id": "link-to-top-terps-selection",
+        "target_url": "https://www.zencan.de/?sort=terps"
+    },
+    {
+        "id": 3825,
+        "session_id": "49660789-a532-4def-bc4d-5fff413a8c4e",
+        "source_url": "https://www.zencan.de/produkte/huala-25-1-ca-alm-alien-mints",
+        "timestamp": "2025-05-09 14:44:59.912305",
+        "item_class": "link-to-top-thc-selection w-inline-block",
+        "item_id": "link-to-top-thc-selection",
+        "target_url": "https://www.zencan.de/?sort=thc"
+    },
+    {
+        "id": 3826,
+        "session_id": "1c1f9c6d-5f2c-4047-a399-5d40724deaa4",
+        "source_url": "https://www.zencan.de/produkte/botanics-golden-ace-20-1-orange-panties",
+        "timestamp": "2025-05-09 16:08:15.834797",
+        "item_class": "link-to-top-thc-selection w-inline-block",
+        "item_id": "link-to-top-thc-selection",
+        "target_url": "https://www.zencan.de/?sort=thc"
+    },
+    {
+        "id": 3827,
+        "session_id": "45594bbd-a88f-4937-b445-315d1af9a3a5",
+        "source_url": "https://www.zencan.de/ratgeber/thc-oel",
+        "timestamp": "2025-05-09 16:41:40.394313",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3828,
+        "session_id": "5b2e6be6-10d3-4f1a-b43a-61f66b72621f",
+        "source_url": "https://www.zencan.de/ratgeber/cannabis-auf-rezept",
+        "timestamp": "2025-05-09 16:49:01.019430",
+        "item_class": "w-inline-block",
+        "item_id": "slide-aroma-category",
+        "target_url": "https://www.zencan.de/?sort=aroma"
+    },
+    {
+        "id": 3829,
+        "session_id": "5b2e6be6-10d3-4f1a-b43a-61f66b72621f",
+        "source_url": "https://www.zencan.de/ratgeber/cannabis-auf-rezept",
+        "timestamp": "2025-05-09 16:49:01.915992",
+        "item_class": "w-inline-block",
+        "item_id": "slide-aroma-category",
+        "target_url": "https://www.zencan.de/?sort=aroma"
+    },
+    {
+        "id": 3830,
+        "session_id": "5b2e6be6-10d3-4f1a-b43a-61f66b72621f",
+        "source_url": "https://www.zencan.de/ratgeber/cannabis-auf-rezept",
+        "timestamp": "2025-05-09 16:49:02.118319",
+        "item_class": "w-inline-block",
+        "item_id": "slide-aroma-category",
+        "target_url": "https://www.zencan.de/?sort=aroma"
+    },
+    {
+        "id": 3831,
+        "session_id": "b3d636f7-2e39-4efa-b1a9-7c9bc7aa237c",
+        "source_url": "https://www.zencan.de/search?query=Sour+sunday",
+        "timestamp": "2025-05-09 17:35:28.487637",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3832,
+        "session_id": "54c7e055-e75e-425f-b757-fd68ae347a28",
+        "source_url": "https://www.zencan.de/kultivare/tangie-chem",
+        "timestamp": "2025-05-09 17:37:52.523720",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3833,
+        "session_id": "54c7e055-e75e-425f-b757-fd68ae347a28",
+        "source_url": "https://www.zencan.de/kultivare/tangie-chem",
+        "timestamp": "2025-05-09 17:38:36.968651",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3834,
+        "session_id": "494c4be6-f6d1-4eab-a29a-fede039f0253",
+        "source_url": "https://www.zencan.de/produkte/avaay-20-1-ck-critical-kush",
+        "timestamp": "2025-05-09 19:42:12.839917",
+        "item_class": "link-to-top-thc-selection w-inline-block",
+        "item_id": "link-to-top-thc-selection",
+        "target_url": "https://www.zencan.de/?sort=thc"
+    },
+    {
+        "id": 3835,
+        "session_id": "b441ebb4-2401-491b-9766-976ba0c17c23",
+        "source_url": "https://www.zencan.de/ratgeber/cannabis-auf-rezept",
+        "timestamp": "2025-05-09 22:39:58.785303",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3836,
+        "session_id": "70da97c3-cd51-4f71-b659-9b6527bab160",
+        "source_url": "https://www.zencan.de/kultivare/banana-kush",
+        "timestamp": "2025-05-10 02:50:54.016564",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3837,
+        "session_id": "2870ff8b-3af0-4e01-bc7c-7b6884a896af",
+        "source_url": "https://www.zencan.de/produkte/green-karat-pv-pt-pav-s1",
+        "timestamp": "2025-05-10 03:27:02.148857",
+        "item_class": "link-to-top-thc-selection w-inline-block",
+        "item_id": "link-to-top-thc-selection",
+        "target_url": "https://www.zencan.de/?sort=thc"
+    },
+    {
+        "id": 3838,
+        "session_id": "07366d25-ccc0-4be7-9ba3-ef7f1249b5aa",
+        "source_url": "https://www.zencan.de/ratgeber/cannabis-kaufen",
+        "timestamp": "2025-05-10 06:04:36.298731",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 3839,
+        "session_id": "e46508e4-c80d-490e-9f9f-8d1d83e9b47e",
+        "source_url": "https://www.zencan.de/kultivare/master-kush",
+        "timestamp": "2025-05-10 10:14:39.176832",
+        "item_class": "link-9",
+        "item_id": "terpene-link-navi",
+        "target_url": "https://www.zencan.de/terpene"
     }
 ]
