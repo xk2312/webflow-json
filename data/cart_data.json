@@ -31286,6 +31286,11 @@
         "timestamp": "2025-05-03 18:56:29.064000"
     },
     {
+        "id": 2579,
+        "session_id": "a137c18c-1ed2-4375-b05a-a786a6a207cf",
+        "timestamp": "2025-05-09 16:39:36.657000"
+    },
+    {
         "id": 2499,
         "session_id": "db4592a7-8611-4263-af74-f5f291557d06",
         "produktname1": "420 evolution 25/1 ca pld: plum driver",
@@ -32242,5 +32247,15 @@
         "aponame1": "jiroo",
         "preis1": 49.75,
         "timestamp": "2025-05-09 07:35:17.452000"
+    },
+    {
+        "id": 2580,
+        "session_id": "70da97c3-cd51-4f71-b659-9b6527bab160",
+        "produktname1": "avaay 26/1 sk: sour og kush",
+        "menge1": 5.0,
+        "preisprogramm1": 9.99,
+        "aponame1": "cannalivery",
+        "preis1": 49.95,
+        "timestamp": "2025-05-10 00:54:17.474000"
     }
 ]
