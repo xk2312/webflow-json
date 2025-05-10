@@ -11076,5 +11076,29 @@
         "price1_per_g": 11.9,
         "av_price_per_g": 11.9,
         "total_price": 59.5
+    },
+    {
+        "id": 655,
+        "cart_status": 0,
+        "timestamp": "2025-05-09 17:35:08.046961",
+        "session_id": "b3d636f7-2e39-4efa-b1a9-7c9bc7aa237c",
+        "link_source": "apo-link-1",
+        "link_name": "placeholder",
+        "link_url": "https://example.com",
+        "name_apo_1": "placeholder",
+        "name_apo_2": "placeholder",
+        "name_apo_3": "placeholder"
+    },
+    {
+        "id": 656,
+        "cart_status": 0,
+        "timestamp": "2025-05-09 17:35:10.306094",
+        "session_id": "b3d636f7-2e39-4efa-b1a9-7c9bc7aa237c",
+        "link_source": "doc-link-1",
+        "link_name": "DoktorABC",
+        "link_url": "https://go.nicetracking.com/click?pid=308&offer_id=84&sub1=hp&l=1740661425",
+        "name_apo_1": "placeholder",
+        "name_apo_2": "placeholder",
+        "name_apo_3": "placeholder"
     }
 ]
