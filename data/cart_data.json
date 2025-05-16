@@ -32932,5 +32932,116 @@
         "aponame1": "cannalivery",
         "preis1": 39.95,
         "timestamp": "2025-05-14 21:41:24.094000"
+    },
+    {
+        "id": 2637,
+        "session_id": "6ffdaeda-7b9b-4020-88c2-ce33ee80807f",
+        "produktname1": "avaay 32/1 ahc: amnesia haze cake",
+        "menge1": 5.0,
+        "preisprogramm1": 10.95,
+        "aponame1": "jiroo",
+        "preis1": 54.75,
+        "timestamp": "2025-05-15 11:16:36.445000"
+    },
+    {
+        "id": 2638,
+        "session_id": "24523ce4-c078-4b6c-8223-5cc49a4c19fc",
+        "produktname1": "avaay signature 23/1 mc: mandarin cookies",
+        "menge1": 5.0,
+        "preisprogramm1": 9.95,
+        "aponame1": "jiroo",
+        "preis1": 49.75,
+        "timestamp": "2025-05-15 12:39:45.695000"
+    },
+    {
+        "id": 2639,
+        "session_id": "24523ce4-c078-4b6c-8223-5cc49a4c19fc",
+        "produktname1": "avaay signature 23/1 mc: mandarin cookies",
+        "menge1": 5.0,
+        "preisprogramm1": 9.95,
+        "produktname2": "420 evolution 22/1 ca mac: mac 1",
+        "menge2": 5.0,
+        "preisprogramm2": 8.95,
+        "aponame1": "jiroo",
+        "preis1": 94.5,
+        "timestamp": "2025-05-15 12:41:57.122000"
+    },
+    {
+        "id": 2640,
+        "session_id": "10af2544-aecc-41e7-8de0-a8a2969de904",
+        "produktname1": "aurora 22/1: delahaze",
+        "menge1": 5.0,
+        "preisprogramm1": 10.99,
+        "aponame1": "cannalivery",
+        "preis1": 54.95,
+        "timestamp": "2025-05-15 17:12:57.799000"
+    },
+    {
+        "id": 2641,
+        "session_id": "10af2544-aecc-41e7-8de0-a8a2969de904",
+        "produktname1": "avaay 23/1 ck: critical kush",
+        "menge1": 5.0,
+        "preisprogramm1": 7.29,
+        "aponame1": "cannalivery",
+        "preis1": 36.45,
+        "aponame2": "jiroo",
+        "preis2": 44.75,
+        "timestamp": "2025-05-15 17:13:52.391000"
+    },
+    {
+        "id": 2642,
+        "session_id": "26b10edb-25b5-4dad-b833-4ab279ff4b3c",
+        "produktname1": "avaay signature 34/1 ogc: ocean grown cookies",
+        "menge1": 5.0,
+        "preisprogramm1": 11.9,
+        "aponame1": "jiroo",
+        "preis1": 59.5,
+        "timestamp": "2025-05-15 18:19:58.424000"
+    },
+    {
+        "id": 2643,
+        "session_id": "26b10edb-25b5-4dad-b833-4ab279ff4b3c",
+        "produktname1": "avaay signature 34/1 ogc: ocean grown cookies",
+        "menge1": 5.0,
+        "preisprogramm1": 11.9,
+        "produktname2": "avaay 32/1 ahc: amnesia haze cake",
+        "menge2": 5.0,
+        "preisprogramm2": 10.95,
+        "aponame1": "jiroo",
+        "preis1": 114.25,
+        "timestamp": "2025-05-15 18:20:22.736000"
+    },
+    {
+        "id": 2644,
+        "session_id": "f3014835-b7f7-490b-9a49-098318e3924b",
+        "produktname1": "avaay signature 34/1 ogc: ocean grown cookies",
+        "menge1": 5.0,
+        "preisprogramm1": 11.9,
+        "aponame1": "jiroo",
+        "preis1": 59.5,
+        "timestamp": "2025-05-15 21:13:32.418000"
+    },
+    {
+        "id": 2645,
+        "session_id": "d1efe8f5-ee0c-4a6e-8658-7446a29f7658",
+        "produktname1": "avaay 29/1 scp: sour cherry punch",
+        "menge1": 5.0,
+        "preisprogramm1": 9.95,
+        "aponame1": "jiroo",
+        "preis1": 49.75,
+        "timestamp": "2025-05-16 00:11:09.859000"
+    },
+    {
+        "id": 2646,
+        "session_id": "d1efe8f5-ee0c-4a6e-8658-7446a29f7658",
+        "produktname1": "avaay 29/1 scp: sour cherry punch",
+        "menge1": 5.0,
+        "preisprogramm1": 9.95,
+        "produktname2": "remexian 30/1 crn: garlic breath",
+        "menge2": 5.0,
+        "preisprogramm2": 9.95,
+        "aponame1": "jiroo",
+        "preis1": 99.5,
+        "timestamp": "2025-05-16 00:12:33.420000"
     }
 ]
