@@ -5,22 +5,22 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "green karat fs pt: fuji sunset",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "420 natural 20/1 ca gg: gorilla glue",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
         "key_flower": "30/1 therismos qsg: queen sangria",
         "vix": 0,
         "low_offer": 0.0
     },
     {
         "key_flower": "remexian 30/1 sck: strawberry cookies",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "green karat fs pt: fuji sunset",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "420 natural 20/1 ca gg: gorilla glue",
         "vix": 0,
         "low_offer": 0.0
     },
@@ -203,6 +203,36 @@
         "low_offer": 0.0
     },
     {
+        "key_flower": "pedanios 20/1 la-ca: la confidential",
+        "gruenhorn": 0.0,
+        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "imc cannabisbl\u00fcten thc 22 t02: og kush",
+        "gruenhorn": 0.0,
+        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "imc cannabisbl\u00fcten cbd 12 c01: god bud",
+        "gruenhorn": 0.0,
+        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cannamedical indica classic nm: sugar bomb punch",
+        "gruenhorn": 0.0,
+        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "grbl": 0.0,
+        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
         "key_flower": "gr\u00fcnhorn gg 22/1: gorilla glue",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
@@ -210,7 +240,7 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "huala 20/1 ca dog: chemdog",
+        "key_flower": "madrecan 21/1: mac driver",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -226,23 +256,7 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "gr\u00fcnhorn sck 25/1: scotti\u00b4s cake",
-        "gruenhorn": 0.0,
-        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
-        "santa": 0.0,
-        "verfuegbarkeit_santa": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "imc cannabisbl\u00fcten thc 22 t02: og kush",
-        "gruenhorn": 0.0,
-        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "medizinal cannabisbl\u00fcten typ 1 aurora: island sweet skunk",
+        "key_flower": "demecan mc lean drop: banana marker",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -256,28 +270,14 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "madrecan 21/1: mac driver",
+        "key_flower": "cannabistada ved 27: ventura dawg",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
         "vix": 0,
         "low_offer": 0.0
     },
     {
-        "key_flower": "pedanios 20/1 la-ca: la confidential",
-        "gruenhorn": 0.0,
-        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "imc cannabisbl\u00fcten cbd 12 c01: god bud",
-        "gruenhorn": 0.0,
-        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "tilray thc 18 spotlight porto: master kush",
+        "key_flower": "bathera 25/1: velvet glove",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -291,9 +291,32 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "tilray thc 22 spotlight porto: island sweet skunk",
+        "key_flower": "tilray thc 18 spotlight porto: master kush",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "huala 20/1 ca dog: chemdog",
+        "gruenhorn": 0.0,
+        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "medizinal cannabisbl\u00fcten typ 1 aurora: island sweet skunk",
+        "gruenhorn": 0.0,
+        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "gr\u00fcnhorn sck 25/1: scotti\u00b4s cake",
+        "gruenhorn": 0.0,
+        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "santa": 0.0,
+        "verfuegbarkeit_santa": "nicht verf\u00fcgbar",
         "vix": 0,
         "low_offer": 0.0
     },
@@ -318,36 +341,6 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "cannabistada ved 27: ventura dawg",
-        "gruenhorn": 0.0,
-        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "bathera 25/1: velvet glove",
-        "gruenhorn": 0.0,
-        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "cannamedical indica classic nm: sugar bomb punch",
-        "gruenhorn": 0.0,
-        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
-        "grbl": 0.0,
-        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "demecan mc lean drop: banana marker",
-        "gruenhorn": 0.0,
-        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
         "key_flower": "remexian 30/1 prt: think fast",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
@@ -355,21 +348,7 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "imc cannabisbl\u00fcten thc 22 t01: hindu kush",
-        "gruenhorn": 0.0,
-        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "remexian 24/1 let: lemon thrill",
-        "gruenhorn": 0.0,
-        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "remexian 24/1 vli: vanilla ice",
+        "key_flower": "cnbs gelo 25/1: gelonade",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -383,7 +362,21 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "cnbs gelo 25/1: gelonade",
+        "key_flower": "remexian 24/1 let: lemon thrill",
+        "gruenhorn": 0.0,
+        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "imc cannabisbl\u00fcten thc 22 t01: hindu kush",
+        "gruenhorn": 0.0,
+        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "remexian 24/1 vli: vanilla ice",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -413,7 +406,7 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "remexian 20/1: frosted lemon cake",
+        "key_flower": "tilray thc 22 spotlight porto: island sweet skunk",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -427,7 +420,7 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "zoiks 26/1 lk: og lime kush",
+        "key_flower": "remexian 20/1: frosted lemon cake",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -473,9 +466,25 @@
         "low_offer": 0.0
     },
     {
+        "key_flower": "zoiks 26/1 lk: og lime kush",
+        "gruenhorn": 0.0,
+        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
         "key_flower": "remexian 30/1 mtl wck: wes\u00b4 coast kush",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "grow 30: gelato sherbert",
+        "gruenhorn": 0.0,
+        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "santa": 0.0,
+        "verfuegbarkeit_santa": "nicht verf\u00fcgbar",
         "vix": 0,
         "low_offer": 0.0
     },
@@ -492,15 +501,6 @@
         "key_flower": "madrecan 18/1: granddaddy og",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "grow 30: gelato sherbert",
-        "gruenhorn": 0.0,
-        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
-        "santa": 0.0,
-        "verfuegbarkeit_santa": "nicht verf\u00fcgbar",
         "vix": 0,
         "low_offer": 0.0
     },
@@ -523,11 +523,27 @@
         "low_offer": 0.0
     },
     {
+        "key_flower": "cm 28/1 za: zour apple",
+        "gruenhorn": 0.0,
+        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
         "key_flower": "tilray thc18 spotlight porto: master kush",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
         "mycannabis": 0.0,
         "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "gr\u00fcnhorn bc 24/1 a&g: apples and gas",
+        "gruenhorn": 0.0,
+        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
         "vix": 0,
         "low_offer": 0.0
     },
@@ -539,16 +555,7 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "cm 28/1 za: zour apple",
-        "gruenhorn": 0.0,
-        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "gr\u00fcnhorn bc 24/1 a&g: apples and gas",
+        "key_flower": "remexian 27/1 eco: munyunz",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -571,13 +578,6 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "remexian 27/1 eco: munyunz",
-        "gruenhorn": 0.0,
-        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
         "key_flower": "gr\u00fcnhorn cp 22/1: cherry pie",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
@@ -596,13 +596,6 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "avaay 20/1 bbh: blueberry haze",
-        "gruenhorn": 0.0,
-        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
         "key_flower": "22/1 hr cookies: hawaiian rain",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
@@ -611,6 +604,20 @@
     },
     {
         "key_flower": "remexian 27/1 snm: strawberry n minz",
+        "gruenhorn": 0.0,
+        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "nimbus easy 22/1: la sage",
+        "gruenhorn": 0.0,
+        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "avaay 20/1 bbh: blueberry haze",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -640,7 +647,7 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "nimbus easy 22/1: la sage",
+        "key_flower": "cannabis flos 23/1 cnd: pink kush",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -670,14 +677,14 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "cannabis flos 23/1 cnd: pink kush",
+        "key_flower": "tilray thc 18 spotlight porto:  island sweet skunk",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
         "vix": 0,
         "low_offer": 0.0
     },
     {
-        "key_flower": "tilray thc 18 spotlight porto:  island sweet skunk",
+        "key_flower": "remexian 27/1 trs: tropical sour",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -698,14 +705,7 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "remexian 27/1 trs: tropical sour",
-        "gruenhorn": 0.0,
-        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "madrecan 18/1: shark attack",
+        "key_flower": "avaay 27/1 did: do-si-dos",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -733,7 +733,7 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "cnbs frf 21/1: fire fruit",
+        "key_flower": "cnbs gelo 22/1: gelonade",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -747,28 +747,7 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "cnbs gelo 22/1: gelonade",
-        "gruenhorn": 0.0,
-        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "pedanios 16/1 tng-ca: tangerine dream",
-        "gruenhorn": 0.0,
-        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "avaay 27/1 did: do-si-dos",
-        "gruenhorn": 0.0,
-        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "huala 22/1 ca dog: chemdog",
+        "key_flower": "cm 29/1 spc: space cake",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -782,9 +761,32 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "avaay khalifa 32/1 kk: khalifa kush",
+        "key_flower": "420 natural 22/1 ca trp: tropicana cookies",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "avaay khalifa 28/1 km: khalifa mints",
+        "gruenhorn": 0.0,
+        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "enua 27/1 gmo ca: koko\u00b4s cookies",
+        "gruenhorn": 0.0,
+        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "avaay 28/1 gnc: grapes and cream",
+        "gruenhorn": 0.0,
+        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
         "vix": 0,
         "low_offer": 0.0
     },
@@ -796,14 +798,7 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "420 natural 22/1 ca trp: tropicana cookies",
-        "gruenhorn": 0.0,
-        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "cm 29/1 spc: space cake",
+        "key_flower": "avaay khalifa 32/1 kk: khalifa kush",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -833,25 +828,18 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "avaay 28/1 gnc: grapes and cream",
-        "gruenhorn": 0.0,
-        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "key_flower": "24/1 therismos sdk: sensi double kush",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
         "vix": 0,
         "low_offer": 0.0
     },
     {
-        "key_flower": "avaay khalifa 28/1 km: khalifa mints",
+        "key_flower": "cm 27/1 po: platinum oranges",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "enua 27/1 gmo ca: koko\u00b4s cookies",
-        "gruenhorn": 0.0,
-        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
         "vix": 0,
         "low_offer": 0.0
     },
@@ -866,22 +854,6 @@
     },
     {
         "key_flower": "c&c cannabis 23/1: frosted lemon angel",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "24/1 therismos sdk: sensi double kush",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "cm 27/1 po: platinum oranges",
-        "gruenhorn": 0.0,
-        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
         "cannabisapo24": 0.0,
         "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -988,7 +960,7 @@
     {
         "key_flower": "pedanios 16/1 tng-dk: tangerine dream",
         "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "vorr\u00e4tig",
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
         "vix": 0,
         "low_offer": 0.0
     },
@@ -1015,7 +987,7 @@
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
         "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "vorr\u00e4tig",
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
         "vix": 0,
         "low_offer": 0.0
     },
@@ -1036,6 +1008,15 @@
         "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
         "cannabisapo24": 0.0,
         "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "medicann oz 26/1: oreoz",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
         "low_offer": 0.0
     },
@@ -1293,7 +1274,7 @@
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
         "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "vorr\u00e4tig",
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
         "cannalivery": 10.99,
         "verfuegbarkeit_cannalivery": "Auf Lager",
         "mycannabis": 0.0,
@@ -1514,7 +1495,7 @@
         "grbl": 0.0,
         "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
         "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "vorr\u00e4tig",
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
         "cannalivery": 9.64,
         "verfuegbarkeit_cannalivery": "Auf Lager",
         "vix": 1,
@@ -1622,15 +1603,6 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "drapalin 27/1: pink gas",
-        "cannalivery": 0.0,
-        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0,
-        "cannem": 0.0,
-        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar"
-    },
-    {
         "key_flower": "bathera 28/1: blue z",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
@@ -1689,6 +1661,17 @@
         "low_offer": 10.49
     },
     {
+        "key_flower": "cannamedical indica forte ma: tire fire",
+        "gruenhorn": 0.0,
+        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "cannalivery": 8.49,
+        "verfuegbarkeit_cannalivery": "Auf Lager",
+        "vix": 1,
+        "low_offer": 8.49
+    },
+    {
         "key_flower": "cannamedical hybrid classic nm: gorilla zkittlez",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
@@ -1700,17 +1683,6 @@
         "verfuegbarkeit_cannalivery": "Auf Lager",
         "vix": 1,
         "low_offer": 9.18
-    },
-    {
-        "key_flower": "cannamedical indica forte ma: tire fire",
-        "gruenhorn": 0.0,
-        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "cannalivery": 8.49,
-        "verfuegbarkeit_cannalivery": "Auf Lager",
-        "vix": 1,
-        "low_offer": 8.49
     },
     {
         "key_flower": "420 evolution 27/1 ca icc: ice cream cake kush mints",
@@ -1749,15 +1721,6 @@
         "vix": 1,
         "low_offer": 12.39,
         "medicalherbs": 12.39,
-        "verfuegbarkeit_medicalherbs": "verf\u00fcgbar"
-    },
-    {
-        "key_flower": "bathera 23/1 pm: permanent marker",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 1,
-        "low_offer": 9.59,
-        "medicalherbs": 9.59,
         "verfuegbarkeit_medicalherbs": "verf\u00fcgbar"
     },
     {
@@ -1868,10 +1831,10 @@
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
         "cannalivery": 9.99,
         "verfuegbarkeit_cannalivery": "Auf Lager",
-        "vix": 2,
+        "vix": 1,
         "low_offer": 9.99,
-        "medicalherbs": 9.99,
-        "verfuegbarkeit_medicalherbs": "verf\u00fcgbar"
+        "medicalherbs": 0.0,
+        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
     },
     {
         "key_flower": "cannabis flos weeco 25/1: frosted lemon angel",
@@ -1914,10 +1877,10 @@
         "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
         "cannalivery": 0.0,
         "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
-        "vix": 1,
-        "low_offer": 9.39,
-        "medicalherbs": 9.39,
-        "verfuegbarkeit_medicalherbs": "verf\u00fcgbar"
+        "vix": 0,
+        "low_offer": 0.0,
+        "medicalherbs": 0.0,
+        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
     },
     {
         "key_flower": "demecan craft marker 25:01: magic marker #2",
@@ -1925,10 +1888,10 @@
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
         "cannalivery": 11.19,
         "verfuegbarkeit_cannalivery": "Auf Lager",
-        "vix": 2,
+        "vix": 1,
         "low_offer": 11.19,
-        "medicalherbs": 11.79,
-        "verfuegbarkeit_medicalherbs": "verf\u00fcgbar"
+        "medicalherbs": 0.0,
+        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
     },
     {
         "key_flower": "aurora 24/1 pnk-ca: pink kush",
@@ -2067,15 +2030,6 @@
         "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
     },
     {
-        "key_flower": "re:cannis 1/17 cbd: g40",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0,
-        "medicalherbs": 0.0,
-        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
-    },
-    {
         "key_flower": "demecan 22:01 florestura: super haze x amnesia",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
@@ -2201,6 +2155,21 @@
         "verfuegbarkeit_cannem": "nicht verf\u00fcgbar"
     },
     {
+        "key_flower": "avaay 26/1 sk: sour og kush",
+        "gruenhorn": 0.0,
+        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "cannalivery": 9.99,
+        "verfuegbarkeit_cannalivery": "Auf Lager",
+        "vix": 1,
+        "low_offer": 9.99,
+        "cannem": 0.0,
+        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
+        "medicalherbs": 0.0,
+        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
+    },
+    {
         "key_flower": "420 natural 20/1 ca gg: gorilla glue 4",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
@@ -2228,12 +2197,12 @@
         "key_flower": "420 evolution 30/1 ca icc: ice cream cake kush mints",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
-        "vix": 2,
+        "vix": 1,
         "low_offer": 11.99,
         "cannem": 11.99,
         "verfuegbarkeit_cannem": "verf\u00fcgbar",
-        "medicalherbs": 12.39,
-        "verfuegbarkeit_medicalherbs": "verf\u00fcgbar"
+        "medicalherbs": 0.0,
+        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
     },
     {
         "key_flower": "avaay signature 30/1 cbx: chatterbox",
@@ -2361,41 +2330,11 @@
         "verfuegbarkeit_cannem": "nicht verf\u00fcgbar"
     },
     {
-        "key_flower": "avaay 26/1 sk: sour og kush",
-        "gruenhorn": 0.0,
-        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "cannalivery": 9.99,
-        "verfuegbarkeit_cannalivery": "Auf Lager",
-        "vix": 1,
-        "low_offer": 9.99,
-        "cannem": 0.0,
-        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
-        "medicalherbs": 0.0,
-        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
-    },
-    {
         "key_flower": "botanics purple cream 22/1: purple ice water",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
         "cannabisapo24": 0.0,
         "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "santa": 0.0,
-        "verfuegbarkeit_santa": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0,
-        "cannem": 0.0,
-        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
-        "medicalherbs": 0.0,
-        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
-    },
-    {
-        "key_flower": "420 evolution 25/1 ca icc: ice cream cake kush mints",
-        "gruenhorn": 0.0,
-        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
-        "cannalivery": 0.0,
-        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
         "santa": 0.0,
         "verfuegbarkeit_santa": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -2469,19 +2408,6 @@
         "verfuegbarkeit_cannem": "nicht verf\u00fcgbar"
     },
     {
-        "key_flower": "420 natural 22/1 ca gg: gorilla glue 4",
-        "gruenhorn": 0.0,
-        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
-        "santa": 0.0,
-        "verfuegbarkeit_santa": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0,
-        "cannem": 0.0,
-        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
-        "medicalherbs": 0.0,
-        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
-    },
-    {
         "key_flower": "cannabis flos 20/1 uy ku.: gorilla glue",
         "vix": 0,
         "low_offer": 0.0,
@@ -2536,6 +2462,19 @@
         "low_offer": 0.0,
         "cannem": 0.0,
         "verfuegbarkeit_cannem": "nicht verf\u00fcgbar"
+    },
+    {
+        "key_flower": "420 natural 22/1 ca gg: gorilla glue 4",
+        "gruenhorn": 0.0,
+        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "santa": 0.0,
+        "verfuegbarkeit_santa": "nicht verf\u00fcgbar",
+        "vix": 1,
+        "low_offer": 9.89,
+        "cannem": 9.89,
+        "verfuegbarkeit_cannem": "verf\u00fcgbar",
+        "medicalherbs": 0.0,
+        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
     },
     {
         "key_flower": "cannamedical indica ultra au: el jefe",
@@ -2605,25 +2544,6 @@
         "low_offer": 0.0,
         "cannem": 0.0,
         "verfuegbarkeit_cannem": "nicht verf\u00fcgbar"
-    },
-    {
-        "key_flower": "avaay 20/1 ck: critical kush",
-        "gruenhorn": 0.0,
-        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
-        "grbl": 0.0,
-        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "santa": 0.0,
-        "verfuegbarkeit_santa": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0,
-        "cannem": 0.0,
-        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
-        "medicalherbs": 0.0,
-        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
     },
     {
         "key_flower": "gr\u00fcnhorn bc 33/1 tck: tiger cake",
@@ -2702,17 +2622,51 @@
         "verfuegbarkeit_cannem": "verf\u00fcgbar"
     },
     {
-        "key_flower": "cannamedical sativa classic nm: wedding tree",
+        "key_flower": "avaay 20/1 ck: critical kush",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
-        "cannalivery": 0.0,
-        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
+        "grbl": 0.0,
+        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "santa": 0.0,
+        "verfuegbarkeit_santa": "nicht verf\u00fcgbar",
         "vix": 0,
         "low_offer": 0.0,
         "cannem": 0.0,
         "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
         "medicalherbs": 0.0,
         "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
+    },
+    {
+        "key_flower": "demecan craft sky 25:01: sky pie",
+        "gruenhorn": 0.0,
+        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "grbl": 0.0,
+        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "cannalivery": 8.99,
+        "verfuegbarkeit_cannalivery": "Auf Lager",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "vix": 1,
+        "low_offer": 8.99,
+        "cannem": 0.0,
+        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
+        "medicalherbs": 0.0,
+        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
+    },
+    {
+        "key_flower": "drapalin 27/1: pink gas",
+        "cannalivery": 0.0,
+        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0,
+        "cannem": 0.0,
+        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar"
     },
     {
         "key_flower": "cannabis flos 18/1 uy ku.: gorilla glue",
@@ -2774,21 +2728,6 @@
         "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
     },
     {
-        "key_flower": "imc thc20 t01: hindu kush",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "santa": 0.0,
-        "verfuegbarkeit_santa": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0,
-        "cannem": 0.0,
-        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
-        "medicalherbs": 0.0,
-        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
-    },
-    {
         "key_flower": "cm 30/1 koko: koko\u00b4s cookies",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
@@ -2836,22 +2775,9 @@
         "verfuegbarkeit_cannem": "nicht verf\u00fcgbar"
     },
     {
-        "key_flower": "demecan mc regular drop: glitter pop bomb",
-        "gruenhorn": 0.0,
-        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
-        "cannalivery": 0.0,
-        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0,
-        "cannem": 0.0,
-        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
-        "medicalherbs": 0.0,
-        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
-    },
-    {
-        "key_flower": "420 evolution 20/1 ca pld: plum driver",
-        "gruenhorn": 0.0,
-        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "key_flower": "imc thc20 t01: hindu kush",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
         "mycannabis": 0.0,
         "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
         "santa": 0.0,
@@ -2938,12 +2864,40 @@
         "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
         "santa": 0.0,
         "verfuegbarkeit_santa": "nicht verf\u00fcgbar",
-        "vix": 2,
+        "vix": 1,
         "low_offer": 8.29,
         "cannem": 8.29,
         "verfuegbarkeit_cannem": "verf\u00fcgbar",
-        "medicalherbs": 8.29,
-        "verfuegbarkeit_medicalherbs": "verf\u00fcgbar"
+        "medicalherbs": 0.0,
+        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
+    },
+    {
+        "key_flower": "demecan mc regular drop: glitter pop bomb",
+        "gruenhorn": 0.0,
+        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "cannalivery": 0.0,
+        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0,
+        "cannem": 0.0,
+        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
+        "medicalherbs": 0.0,
+        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
+    },
+    {
+        "key_flower": "420 evolution 20/1 ca pld: plum driver",
+        "gruenhorn": 0.0,
+        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "santa": 0.0,
+        "verfuegbarkeit_santa": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0,
+        "cannem": 0.0,
+        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
+        "medicalherbs": 0.0,
+        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
     },
     {
         "key_flower": "tilray thc18 spotlight vancouver: jack herer",
@@ -2960,22 +2914,6 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "medicann oz 26/1: oreoz",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "alephsana matterhorn 25/1: banjo",
-        "lux99": 15.95,
-        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
-        "vix": 1,
-        "low_offer": 15.95
-    },
-    {
         "key_flower": "costa canna dynamics - mezzo forte: hell monkey",
         "cannabisapo24": 0.0,
         "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
@@ -2985,7 +2923,37 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "tilray thc 22 spotlight vancouver: purps",
+        "key_flower": "cannabistada 18/1: delahaze",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "breezy malaga green 25/1 n: lemon skunk",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cumulus hybrid: lemon berry candy",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "tilray thc18 spotlight porto: sirius",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "mac 2+: black garlic",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -2999,9 +2967,11 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "imc cbd12 c01: god bud",
-        "grbl": 0.0,
-        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
+        "key_flower": "cannamedical sunshine coast: eve",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -3012,9 +2982,25 @@
         "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
     },
     {
-        "key_flower": "green karat fs: fiji sunset",
-        "grbl": 0.0,
-        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
+        "key_flower": "peace naturals 29/1 gc: gmo cookies",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "khiron gk 24/1: green knight",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "demecan 22:01 calama: sour kush",
         "cannabisapo24": 0.0,
         "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
         "mycannabis": 0.0,
@@ -3025,64 +3011,36 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "re:cannis 16/1 sativa: alaska",
+        "key_flower": "khiron pa 20/1: purple amnesia",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "imc tb thc24: tropicana banana",
+        "santa": 0.0,
+        "verfuegbarkeit_santa": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "adrex 30/1 8bk can: 8-ball kush",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "29/1 amici wc: wedding cake",
         "cannabisapo24": 0.0,
         "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
         "cannalivery": 0.0,
         "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0,
-        "medicalherbs": 0.0,
-        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
-    },
-    {
-        "key_flower": "drapalin 18/1 cheesotho: cheesotho",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "tilray thc25 sativa no.1: headband",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "cannabis flos 22/1 pt ku. headband: headband",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "adrex 22/1 can: gorilla glue 4",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "barongo 27/1 mac3: mac 3",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "VORR\u00c4TIG                                                            (50 Gramm)",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "tweed glitter bomb 20/1: glitter bomb",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "420 natural 22/1 ca dbb: dj blueberry",
         "mycannabis": 0.0,
         "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
         "lux99": 0.0,
@@ -3091,11 +3049,75 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "demecan craft fcf 28:01: first class funk",
-        "lux99": 18.09,
-        "verfuegbarkeit_lux99": "VORR\u00c4TIG                                                            (20 Gramm)",
-        "vix": 1,
-        "low_offer": 18.09
+        "key_flower": "drapalin 1/17 maluti cbd: otto kush x acdc",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "apocan natural gg 20/1: gorilla glue 4",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "canpharma flos 20/1: hindu kush",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cannabistada 17/1: shishkaberry",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cannamedical hybrid forte: headband",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "tilray thc25 spotlight porto: pink kush",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cannamedical sativa forte ma: strawberry ice",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "kejf.spz 31/1: spritzer",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "tilray thc21: mango",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
     },
     {
         "key_flower": "cannamedical indica forte ma: carmelita",
@@ -3122,77 +3144,11 @@
         "verfuegbarkeit_cannem": "verf\u00fcgbar"
     },
     {
-        "key_flower": "420 natural 15/1 ca trp: tropicana cookies",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 13.09,
-        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
-        "vix": 2,
-        "low_offer": 9.99,
-        "medicalherbs": 9.99,
-        "verfuegbarkeit_medicalherbs": "verf\u00fcgbar"
-    },
-    {
-        "key_flower": "imc thc25 t04: strawberry og",
-        "grbl": 0.0,
-        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "santa": 0.0,
-        "verfuegbarkeit_santa": "nicht verf\u00fcgbar",
-        "lux99": 10.0,
+        "key_flower": "weeco 20/1: frosted lemon angel",
+        "lux99": 8.45,
         "verfuegbarkeit_lux99": "VORR\u00c4TIG",
         "vix": 1,
-        "low_offer": 10.0,
-        "cannem": 0.0,
-        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
-        "medicalherbs": 0.0,
-        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
-    },
-    {
-        "key_flower": "tilray thc15 spotlight porto: blueberry",
-        "grbl": 0.0,
-        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0,
-        "medicalherbs": 0.0,
-        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
-    },
-    {
-        "key_flower": "420 balanced basic pt slg: super lemon g",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "mac 3+: ice & sugar",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "drapalin 27/1 pink gas: pink gas",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "adrex 28 koko can: koko\u00b4s cookies",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
+        "low_offer": 8.45
     },
     {
         "key_flower": "cannabistada 22/1 wap: wappa",
@@ -3209,31 +3165,50 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "avaay signature 23/1 cr: crescendo",
-        "cannalivery": 0.0,
-        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0,
-        "cannem": 0.0,
-        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
-        "medicalherbs": 0.0,
-        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
-    },
-    {
-        "key_flower": "25/1 amici cp: cherry pie",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "green karat mg 31/1: modified gas",
+        "key_flower": "enua 27/1 cck ca: cold creek kush",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
         "mycannabis": 0.0,
         "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 11.42,
+        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
+        "vix": 1,
+        "low_offer": 11.42
+    },
+    {
+        "key_flower": "weeco king louis: cali sunset",
+        "lux99": 10.95,
+        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
+        "vix": 1,
+        "low_offer": 10.95
+    },
+    {
+        "key_flower": "enua 25/1 ssv ca: sweet san valley",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 12.85,
+        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
+        "vix": 1,
+        "low_offer": 12.85
+    },
+    {
+        "key_flower": "enua 25/1 udc ca: upside down cake",
+        "lux99": 12.85,
+        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
+        "vix": 1,
+        "low_offer": 12.85
+    },
+    {
+        "key_flower": "cannabistada 24/1 pik: pink kush",
+        "lux99": 14.26,
+        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
+        "vix": 1,
+        "low_offer": 14.26
+    },
+    {
+        "key_flower": "mediprocan african ruby 20/1: mimosa",
         "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
         "vix": 0,
         "low_offer": 0.0
     },
@@ -3270,21 +3245,22 @@
         "low_offer": 10.0
     },
     {
-        "key_flower": "nimbus easy 24/1: la sage",
-        "grbl": 0.0,
-        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
+        "key_flower": "supreme 24/1: frosted lemon cake",
         "cannabisapo24": 0.0,
         "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "santa": 0.0,
-        "verfuegbarkeit_santa": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0,
-        "cannem": 0.0,
-        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
-        "medicalherbs": 0.0,
-        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 12.38,
+        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
+        "vix": 1,
+        "low_offer": 12.38
+    },
+    {
+        "key_flower": "tilray thc22 spotlight porto: wappa",
+        "lux99": 11.66,
+        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
+        "vix": 1,
+        "low_offer": 11.66
     },
     {
         "key_flower": "eufloria 30/1 mcd: mac deluxe",
@@ -3315,7 +3291,7 @@
         "grbl": 0.0,
         "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
         "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "vorr\u00e4tig",
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
         "vix": 1,
         "low_offer": 9.95,
         "jiroo": 9.95,
@@ -3360,49 +3336,50 @@
         "verfuegbarkeit_jiroo": "nicht verf\u00fcgbar"
     },
     {
-        "key_flower": "iqanna no. 10: wappa",
+        "key_flower": "madrecan 21/1 mac: mac 2.0",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
         "low_offer": 0.0
     },
     {
-        "key_flower": "tilray thc21: mango",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "tilray thc18 spotlight vancouver: rockstar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "enua 30/1 slc: slurricane",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0,
-        "jiroo": 0.0,
-        "verfuegbarkeit_jiroo": "nicht verf\u00fcgbar"
-    },
-    {
-        "key_flower": "demecan craft sky 25:01: sky pie",
+        "key_flower": "pedanios 16/1 tng-ca: tangerine dream",
         "gruenhorn": 0.0,
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
-        "grbl": 0.0,
-        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "cannalivery": 8.99,
-        "verfuegbarkeit_cannalivery": "Auf Lager",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "vix": 1,
-        "low_offer": 8.99,
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cnbs frf 21/1: fire fruit",
+        "gruenhorn": 0.0,
+        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "madrecan 18/1: shark attack",
+        "gruenhorn": 0.0,
+        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "huala 22/1 ca dog: chemdog",
+        "gruenhorn": 0.0,
+        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "420 evolution 25/1 ca icc: ice cream cake kush mints",
+        "gruenhorn": 0.0,
+        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "cannalivery": 0.0,
+        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
+        "santa": 0.0,
+        "verfuegbarkeit_santa": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0,
         "cannem": 0.0,
         "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
         "medicalherbs": 0.0,
@@ -3422,18 +3399,17 @@
         "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
     },
     {
-        "key_flower": "cannabistada 18/1: delahaze",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "key_flower": "cannamedical sativa classic nm: wedding tree",
+        "gruenhorn": 0.0,
+        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "cannalivery": 0.0,
+        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
         "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "breezy malaga green 25/1 n: lemon skunk",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
+        "low_offer": 0.0,
+        "cannem": 0.0,
+        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
+        "medicalherbs": 0.0,
+        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
     },
     {
         "key_flower": "cannabis flos 22/1 pt ku.master kush dab canify: master kush",
@@ -3446,13 +3422,6 @@
         "key_flower": "imc thc20 t03: gorilla glue",
         "mycannabis": 0.0,
         "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "tilray thc18 spotlight porto: sirius",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -3475,6 +3444,13 @@
         "low_offer": 0.0
     },
     {
+        "key_flower": "cannabistada wem 25: wedding mints",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
         "key_flower": "cannamedical hybrid classic: headband",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
@@ -3485,13 +3461,6 @@
         "key_flower": "avaay 21/1 sk: sour kush",
         "mycannabis": 0.0,
         "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "madrecan 21/1 mac: mac 2.0",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -3516,6 +3485,13 @@
         "low_offer": 0.0
     },
     {
+        "key_flower": "tilray thc 22 spotlight vancouver: purps",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
         "key_flower": "tilray thc18 spotlight vancouver: island sweet skunk",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
@@ -3523,9 +3499,9 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "mac 2+: black garlic",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "key_flower": "ostara eclipse: life hack",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -3546,6 +3522,38 @@
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
         "low_offer": 0.0
+    },
+    {
+        "key_flower": "pedanios 24/1 lac-ca: la confidential",
+        "grbl": 0.0,
+        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "santa": 0.0,
+        "verfuegbarkeit_santa": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0,
+        "medicalherbs": 0.0,
+        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
+    },
+    {
+        "key_flower": "enua 22/1 cro ca: crescendo cookies",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0,
+        "cannem": 0.0,
+        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
+        "medicalherbs": 0.0,
+        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
     },
     {
         "key_flower": "rua kia kaha 29/1: og kush x wedding cake",
@@ -3579,23 +3587,6 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "pedanios 24/1 lac-ca: la confidential",
-        "grbl": 0.0,
-        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "santa": 0.0,
-        "verfuegbarkeit_santa": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0,
-        "medicalherbs": 0.0,
-        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
-    },
-    {
         "key_flower": "avaay simple 23/1 lsb: lemon sherbet",
         "cannabisapo24": 0.0,
         "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
@@ -3603,21 +3594,6 @@
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
         "low_offer": 0.0
-    },
-    {
-        "key_flower": "enua 22/1 cro ca: crescendo cookies",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0,
-        "cannem": 0.0,
-        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
-        "medicalherbs": 0.0,
-        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
     },
     {
         "key_flower": "khiron slh 24/1: super lemon haze",
@@ -3688,6 +3664,20 @@
     },
     {
         "key_flower": "cannamedical hybrid light: jean guy",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "tilray thc18 spotlight porto: jack herer",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "tilray thc22 spotlight vancouver: pink kush",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -3779,6 +3769,53 @@
         "low_offer": 0.0
     },
     {
+        "key_flower": "gm colour of space 28:01: sour apple x animal cookies",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "bavaria weed pt dab 18/1: mango",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "tilray thc25 spotlight porto: island sweet skunk",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "peace naturals 33/1 gc: gmo cookies",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "cannalivery": 9.99,
+        "verfuegbarkeit_cannalivery": "Auf Lager",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 1,
+        "low_offer": 9.99
+    },
+    {
+        "key_flower": "cannamedical hybrid forte: mac 1",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
         "key_flower": "aphria forte 9: bienville (jean guy)",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
@@ -3860,7 +3897,7 @@
         "grbl": 0.0,
         "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
         "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "vorr\u00e4tig",
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -3877,6 +3914,22 @@
         "key_flower": "420 evolution 25/1 ca tgp: tiger paw",
         "cannabisapo24": 0.0,
         "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "tilray thc15 spotlight porto: pink kush",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "tilray thc25 sativa no.2: headband",
+        "grbl": 0.0,
+        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -3984,24 +4037,47 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "cannamedical sunshine coast: eve",
+        "key_flower": "canopy akh 22: afghan kush",
+        "grbl": 0.0,
+        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
         "cannabisapo24": 0.0,
         "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
         "mycannabis": 0.0,
         "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
         "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "verfuegbarkeit_lux99": "VORR\u00c4TIG                                                            (65 Gramm)",
         "vix": 0,
-        "low_offer": 0.0,
-        "cannem": 0.0,
-        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
-        "medicalherbs": 0.0,
-        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
+        "low_offer": 0.0
     },
     {
-        "key_flower": "peace naturals 29/1 gc: gmo cookies",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "key_flower": "tilray thc25 spotlight montevideo: purple dog bud",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cannabis flos 22/1 pt ku.pink kush dab canify: pink kush",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cannamedical sativa classic nm: snowflake",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "cannalivery": 7.99,
+        "verfuegbarkeit_cannalivery": "Auf Lager",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "VORR\u00c4TIG                                                            (150 Gramm)",
+        "vix": 1,
+        "low_offer": 7.99
+    },
+    {
+        "key_flower": "canify 18/1 pt pink kush: pink kush",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -4011,6 +4087,13 @@
         "key_flower": "27/1 amici as: atomic sour grapefruit",
         "cannabisapo24": 0.0,
         "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cannamedical hybrid forte ph: thc bomb",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -4100,21 +4183,53 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "tilray thc18 spotlight porto: jack herer",
+        "key_flower": "imc cbd12 c01: god bud",
+        "grbl": 0.0,
+        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0,
+        "cannem": 0.0,
+        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
+        "medicalherbs": 0.0,
+        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
+    },
+    {
+        "key_flower": "green karat fs: fiji sunset",
+        "grbl": 0.0,
+        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
         "low_offer": 0.0
     },
     {
-        "key_flower": "cannamedical hybrid forte ph: thc bomb",
+        "key_flower": "re:cannis 16/1 sativa: alaska",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "cannalivery": 0.0,
+        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0,
+        "medicalherbs": 0.0,
+        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
+    },
+    {
+        "key_flower": "drapalin 18/1 cheesotho: cheesotho",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
         "low_offer": 0.0
     },
     {
-        "key_flower": "gm colour of space 28:01: sour apple x animal cookies",
+        "key_flower": "tilray thc25 sativa no.1: headband",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -4149,63 +4264,7 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "bavaria weed pt dab 18/1: mango",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "tilray thc25 spotlight porto: island sweet skunk",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "peace naturals 33/1 gc: gmo cookies",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "cannalivery": 9.99,
-        "verfuegbarkeit_cannalivery": "Auf Lager",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 1,
-        "low_offer": 9.99
-    },
-    {
-        "key_flower": "cannamedical hybrid forte: mac 1",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "tilray thc15 spotlight porto: pink kush",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "tilray thc25 sativa no.2: headband",
-        "grbl": 0.0,
-        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "tilray thc 15: white widow",
+        "key_flower": "tilray thc 21: skywalker",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -4213,6 +4272,13 @@
     },
     {
         "key_flower": "mediprocan lunaris 19/1: motorbreath",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "tilray thc 15: white widow",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -4267,79 +4333,7 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "canopy akh 22: afghan kush",
-        "grbl": 0.0,
-        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "VORR\u00c4TIG                                                            (65 Gramm)",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
         "key_flower": "aphria strong 8: henik",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "tilray thc25 spotlight montevideo: purple dog bud",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "tilray thc 21: skywalker",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "cannabis flos 22/1 pt ku.pink kush dab canify: pink kush",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "cannamedical sativa classic nm: snowflake",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "cannalivery": 7.99,
-        "verfuegbarkeit_cannalivery": "Auf Lager",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "VORR\u00c4TIG                                                            (150 Gramm)",
-        "vix": 1,
-        "low_offer": 7.99
-    },
-    {
-        "key_flower": "canify 18/1 pt pink kush: pink kush",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "demecan 24:01 gasolime: karel's haze",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "pharmcann silver thc22: la sage",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -4376,6 +4370,24 @@
     },
     {
         "key_flower": "drapalin 20/1 bafokeng choice: white lemon x marakabei local",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "demecan 24:01 gasolime: karel's haze",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "pharmcann silver thc22: la sage",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -4436,7 +4448,11 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "enua 25/1 qsg ca: queen san-g",
+        "key_flower": "typ 2 demecan: orange velvet",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -4520,76 +4536,6 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "imc thc27 t03: gorilla glue",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "pedanios 14/1 tng-ca: tangerine dream",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "420 natural 25/1 ca srk: sour kush",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "medmen bcp t25: black cherry punch",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "cannalivery": 0.0,
-        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "cookies 22/1 a&b: apples & bananas",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "cm 20/1: dave's kush",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "typ 2 demecan: orange velvet",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "adrex 24/1 can gorilla glue 4: gorilla glue",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
         "key_flower": "enua 22/1 wck ca: la kush cake",
         "mycannabis": 0.0,
         "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
@@ -4628,6 +4574,13 @@
         "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
         "mycannabis": 0.0,
         "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cannabis flos 22/1 pt ku. headband: headband",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -4688,48 +4641,6 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "peace naturals 27/1 cb: cocoa bomba",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "cannalivery": 0.0,
-        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "cannamedical hybrid classic ury: white gorilla",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0,
-        "cannem": 0.0,
-        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
-        "medicalherbs": 0.0,
-        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
-    },
-    {
-        "key_flower": "iqanna no. 7: red dragon og",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "imc go thc23: selected jokerz #53",
-        "santa": 0.0,
-        "verfuegbarkeit_santa": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
         "key_flower": "canpharma flos 1/14: god bud",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
@@ -4760,100 +4671,21 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "khiron gk 24/1: green knight",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "key_flower": "enua 25/1 qsg ca: queen san-g",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
         "low_offer": 0.0
     },
     {
-        "key_flower": "demecan 22:01 calama: sour kush",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "key_flower": "imc thc27 t03: gorilla glue",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
         "low_offer": 0.0
     },
     {
-        "key_flower": "khiron pa 20/1: purple amnesia",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "imc tb thc24: tropicana banana",
-        "santa": 0.0,
-        "verfuegbarkeit_santa": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "dascoli gg4 19/1: gorilla glue 4",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "adrex 22/1 wm col: octagon kush",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "cannamedical sativa classic: ghost train haze",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "cannamedical indica light nm: og punch",
-        "grbl": 0.0,
-        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "cannalivery": 0.0,
-        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "drapalin 20/1 pop: lemon freeze pop",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "tilray indica thc strong: mango",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "blkmkt cm thc 22 blk mlk: cereal milk",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "VORR\u00c4TIG                                                            (50 Gramm)",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "cannamedical indica forte ng: legendary larry",
+        "key_flower": "pedanios 14/1 tng-ca: tangerine dream",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -4935,75 +4767,7 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "cannovum natura 25/1 vivid: strawberry og",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "22/1 n!ce js: jack skunkset",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "enua 22/1 db ca: pink kush",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "cannamedical hybrid light ury: white gorilla",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0,
-        "cannem": 0.0,
-        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar"
-    },
-    {
-        "key_flower": "cannabistada 19/1: gorilla glue 4",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "cannabistada 25/1 gg: gorilla glue 4",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "enua 25/1 mb ca: mega breath",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "santa": 0.0,
-        "verfuegbarkeit_santa": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "aleph amber 20/1: kl003",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "typ 2 aphria: great bear",
+        "key_flower": "remexian 22/1 huw: humble warrior",
         "cannabisapo24": 0.0,
         "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
         "lux99": 0.0,
@@ -5029,15 +4793,6 @@
         "key_flower": "cookies hawaiian rain 22/1: hawaiian rain",
         "mycannabis": 0.0,
         "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "remexian 22/1 huw: humble warrior",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -5085,91 +4840,6 @@
     },
     {
         "key_flower": "cannabistada tro 17: tropicana cookies",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "cm 24/1 og kush: og kush",
-        "cannalivery": 6.99,
-        "verfuegbarkeit_cannalivery": "Auf Lager",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 1,
-        "low_offer": 6.99
-    },
-    {
-        "key_flower": "tilray thc25 spotlight porto: galaxy walker og",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "alpinolin 20/1: french cookies",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "demecan craft dosidos 24:01: dosidos",
-        "cannalivery": 0.0,
-        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 1,
-        "low_offer": 12.98,
-        "cannem": 0.0,
-        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
-        "medicalherbs": 12.98,
-        "verfuegbarkeit_medicalherbs": "verf\u00fcgbar"
-    },
-    {
-        "key_flower": "27/1 amici cp: cherry pie",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "aleph amber 22/1: kl003",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "420 evolution 27/1 ca str: star struck",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "demecan 25:01 calama: sour kush",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "navcora thc22 spotlight porto: master kush",
         "cannabisapo24": 0.0,
         "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
         "lux99": 0.0,
@@ -5233,7 +4903,1173 @@
         "low_offer": 0.0
     },
     {
+        "key_flower": "barongo 27/1 mac3: mac 3",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "VORR\u00c4TIG                                                            (50 Gramm)",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "iqanna no. 10: wappa",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
         "key_flower": "wellford aquaponic 23/1 pik: pink kush",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "together pharma cassiopeia: ninja",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "avaay 26/1 glx: galaxy",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "kejf. skr 23/1: siggis kirsche",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "enua 30/1 dsh ca: dark shadow haze",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0,
+        "cannem": 0.0,
+        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar"
+    },
+    {
+        "key_flower": "adrex 25/1 wm col: octagon kush",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "aleph amber 24/1: kl003",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "enua 21/1 sg ca: sherbert glue",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0,
+        "cannem": 0.0,
+        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
+        "medicalherbs": 0.0,
+        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
+    },
+    {
+        "key_flower": "navcora thc22 spotlight porto: island sweet skunk",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "lot 420 ab: apples & bananas",
+        "grbl": 0.0,
+        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cannabixir medium: cannabixir medium",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "enua 25/1 sj ca: splitter jelato",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0,
+        "cannem": 0.0,
+        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
+        "medicalherbs": 0.0,
+        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
+    },
+    {
+        "key_flower": "the bc green sck 25/1: scotti's cake",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "420 evolution 30/1 ca tgp: tiger paw",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "green karat pv: pav\u00e9 s1",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0,
+        "medicalherbs": 0.0,
+        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
+    },
+    {
+        "key_flower": "bg mi: god bud",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "relecan indica strong: peyote critical",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "hapa pharm thc17:cbd1: amnesia kush",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "mccn no. 5: lemon sour diesel",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "mediprocan smaragd 22/1: la sage",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "navcora thc22 spotlight porto: sirius",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "navcora thc18 spotlight porto: sour diesel",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "alephsana amber 26/1: kl003",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cannamedical indica forte dk: gelat skyfloater",
+        "cannalivery": 0.0,
+        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0,
+        "medicalherbs": 0.0,
+        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
+    },
+    {
+        "key_flower": "craft black triangle 27:01: black triangle",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "canpharma flos sk 24/1: sour kush",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cannamedical indica classic nm: kerosene krash",
+        "cannalivery": 0.0,
+        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cannamedical hybrid forte: chocolate marshmallows",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "tweed glitter bomb 20/1: glitter bomb",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "420 natural 22/1 ca dbb: dj blueberry",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "25/1 therismos brb: bruce banner",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cm 20/1 karl og: ak-og kush",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "canopy lsk 18: lemon skunk",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "remexian 30/1 mtl lab: la brunch",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 11.16,
+        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
+        "vix": 1,
+        "low_offer": 11.16
+    },
+    {
+        "key_flower": "madrecan 24/1 sky: skywalker",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "enua 25/1 cro ca: crescendo cookies",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cannamedical indica light ury: dawg bud fusion",
+        "cannalivery": 0.0,
+        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "tilray thc 25 spotlight vancouver: purps",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "beacon i-hybrid thc 22: wappa",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "khiron 20/1: hindu kush",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "enua 21/1 sc ca: strawberry cake",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0,
+        "cannem": 0.0,
+        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar"
+    },
+    {
+        "key_flower": "imc gl41 thc20: selected gelato #41",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "demecan ag epic drop: guava barz",
+        "cannalivery": 0.0,
+        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 1,
+        "low_offer": 8.99,
+        "cannem": 8.99,
+        "verfuegbarkeit_cannem": "verf\u00fcgbar",
+        "medicalherbs": 0.0,
+        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
+    },
+    {
+        "key_flower": "cm 28/1 crm: creamy kee's",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0,
+        "cannem": 0.0,
+        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
+        "medicalherbs": 0.0,
+        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
+    },
+    {
+        "key_flower": "re:cannis 1/17 cbd: g40",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0,
+        "medicalherbs": 0.0,
+        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
+    },
+    {
+        "key_flower": "typ 3 aphria: churchill",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "420 balanced basic pt slg: super lemon g",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "mac 3+: ice & sugar",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "drapalin 27/1 pink gas: pink gas",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "adrex 28 koko can: koko\u00b4s cookies",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "herbasana colombiana 20:01: apple soda",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "gm south african mungo 27:01: mungo",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "tilray thc22 spotlight porto: blueberry",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "420 natural 25/1 ca srk: sour kush",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "amp classic 25/1: frosted lemon angel",
+        "grbl": 0.0,
+        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "cannalivery": 0.0,
+        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
+        "lux99": 10.95,
+        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
+        "vix": 1,
+        "low_offer": 10.95
+    },
+    {
+        "key_flower": "420 natural 20/1 ca zrp: zour apple",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cannamedical sativa light: amnesia haze",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cannamedical hybrid classic nm: blueberry headband",
+        "cannalivery": 0.0,
+        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "VORR\u00c4TIG                                                            (30 Gramm)",
+        "vix": 1,
+        "low_offer": 8.79,
+        "cannem": 8.79,
+        "verfuegbarkeit_cannem": "verf\u00fcgbar"
+    },
+    {
+        "key_flower": "oceanic bc: black cookies",
+        "grbl": 0.0,
+        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "medmen bcp t25: black cherry punch",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "cannalivery": 0.0,
+        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cookies 22/1 a&b: apples & bananas",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cm 20/1: dave's kush",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "dascoli gg4 19/1: gorilla glue 4",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "adrex 22/1 wm col: octagon kush",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cannamedical sativa classic: ghost train haze",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cannamedical indica light nm: og punch",
+        "grbl": 0.0,
+        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "cannalivery": 0.0,
+        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "ceres no.4: top 5",
+        "grbl": 0.0,
+        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cannabis flos 22/1 pt ku.mango dab canify: mango",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "tilray thc18 spotlight vancouver: rockstar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "adrex 17/1 can sb: shishkaberry",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "adrex 24/1 can gorilla glue 4: gorilla glue",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "peace naturals 27/1 cb: cocoa bomba",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "cannalivery": 0.0,
+        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "27/1 amici sb: strawberry banana",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "adrex 19/1 can: gorilla glue 4",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "tilray thc25 spotlight porto: sirius",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "avaay 23/1 cre: creamy kee's",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "demecan 18:01 florestura: amnesia haze",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "sibanax hybrid mcf 20/1: mac fem",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "adrex 22/1 can: gorilla glue 4",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cannamedical hybrid classic ury: white gorilla",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0,
+        "cannem": 0.0,
+        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
+        "medicalherbs": 0.0,
+        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
+    },
+    {
+        "key_flower": "iqanna no. 7: red dragon og",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "imc go thc23: selected jokerz #53",
+        "santa": 0.0,
+        "verfuegbarkeit_santa": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "drapalin 20/1 pop: lemon freeze pop",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "tilray indica thc strong: mango",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "blkmkt cm thc 22 blk mlk: cereal milk",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "VORR\u00c4TIG                                                            (50 Gramm)",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "26/1 n!ce c: cherry pie",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "ostara balance: long valley legend",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "420 natural 18/1 ca sk: sour kush",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cm 28/1 koko: koko\u00b4s cookies",
+        "cannalivery": 0.0,
+        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "madrecan 21/1 rch: remo chemo",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "nimbus zrp 21/1: zour apple",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "tilray thc 25 indica no.1: master kush",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cannamedical indica forte ng: legendary larry",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cannovum natura 25/1 vivid: strawberry og",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "22/1 n!ce js: jack skunkset",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "adrex 20/1 can: delahaze",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "tilray thc18 spotlight porto: white widow",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "tilray thc22 spotlight porto: island sweet skunk",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "therismos 25/1 dsm: dark side of the moon",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cannamedical hybrid forte ng: incredible milk",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "gm supernova 25:01: colour of space 12",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "khiron 1/14: god bud",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "tilray thc25 spotlight porto: white widow",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "althea thc 24: la sage",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "sumo canada craft no.2: apex og",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cannabis flos 24/1 ls ku. bafokeng choice: bafokeng choice",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "enua 22/1 db ca: pink kush",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "craft zoero 22:01: oreoz",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "remexian 30/1 hma cdc: chem de la chem",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "santa": 0.0,
+        "verfuegbarkeit_santa": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "therismos 30/1 qsg: queen sangria",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "blackbird plain sativa: euforia",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cannamedical hybrid light ury: white gorilla",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0,
+        "cannem": 0.0,
+        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar"
+    },
+    {
+        "key_flower": "cannabistada 19/1: gorilla glue 4",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cannabistada 25/1 gg: gorilla glue 4",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "enua 25/1 mb ca: mega breath",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "santa": 0.0,
+        "verfuegbarkeit_santa": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "aleph amber 20/1: kl003",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "typ 2 aphria: great bear",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cm 24/1 og kush: og kush",
+        "cannalivery": 6.99,
+        "verfuegbarkeit_cannalivery": "Auf Lager",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 1,
+        "low_offer": 6.99
+    },
+    {
+        "key_flower": "tilray thc25 spotlight porto: galaxy walker og",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "alpinolin 20/1: french cookies",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "demecan craft dosidos 24:01: dosidos",
+        "cannalivery": 0.0,
+        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0,
+        "cannem": 0.0,
+        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
+        "medicalherbs": 0.0,
+        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
+    },
+    {
+        "key_flower": "27/1 amici cp: cherry pie",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "aleph amber 22/1: kl003",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "8/8 vayamed: equiposa",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cannabis flos 20/1 co ku. mac: mac",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "27/1 n!ce s: strawberry banana",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "tilray indica strong: cheese quake",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "canopy krypton 25: chemdawg 91 / captain krypt og",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "therismos 23/1 jfg: jet fuel gelato",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "enua 25/1 slc ca: slurricane",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0,
+        "cannem": 0.0,
+        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
+        "medicalherbs": 0.0,
+        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
+    },
+    {
+        "key_flower": "420 evolution 27/1 ca str: star struck",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "demecan 25:01 calama: sour kush",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "navcora thc22 spotlight porto: master kush",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -5303,33 +6139,6 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "kejf. skr 23/1: siggis kirsche",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "enua 30/1 dsh ca: dark shadow haze",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0,
-        "cannem": 0.0,
-        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar"
-    },
-    {
-        "key_flower": "cannabistada wem 25: wedding mints",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
         "key_flower": "cannamedical hybrid forte ng: dark side of the moon",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
@@ -5344,16 +6153,14 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "together pharma cassiopeia: ninja",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "key_flower": "tilray thc18 spotlight porto: lemon sour diesel",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
         "low_offer": 0.0
     },
     {
-        "key_flower": "tilray thc18 spotlight porto: lemon sour diesel",
+        "key_flower": "enua 25/1 ggz ca: gogurtz",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -5455,15 +6262,6 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "avaay 26/1 glx: galaxy",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
         "key_flower": "ibt03.4: hindu kush",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
@@ -5506,100 +6304,6 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "adrex 25/1 wm col: octagon kush",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "aleph amber 24/1: kl003",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "enua 21/1 sg ca: sherbert glue",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0,
-        "cannem": 0.0,
-        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
-        "medicalherbs": 0.0,
-        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
-    },
-    {
-        "key_flower": "navcora thc22 spotlight porto: island sweet skunk",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "lot 420 ab: apples & bananas",
-        "grbl": 0.0,
-        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "cannabixir medium: cannabixir medium",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "enua 25/1 sj ca: splitter jelato",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0,
-        "cannem": 0.0,
-        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
-        "medicalherbs": 0.0,
-        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
-    },
-    {
-        "key_flower": "the bc green sck 25/1: scotti's cake",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "420 evolution 30/1 ca tgp: tiger paw",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "ceres no.4: top 5",
-        "grbl": 0.0,
-        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
         "key_flower": "cannamedical hybrid classic pt: headband",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
@@ -5622,13 +6326,6 @@
         "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
         "medicalherbs": 0.0,
         "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
-    },
-    {
-        "key_flower": "tilray thc22 spotlight vancouver: pink kush",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
     },
     {
         "key_flower": "costa canna dynamics-fortissimo: liberty haze",
@@ -5678,101 +6375,6 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "green karat pv: pav\u00e9 s1",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0,
-        "medicalherbs": 0.0,
-        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
-    },
-    {
-        "key_flower": "relecan indica strong: peyote critical",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "hapa pharm thc17:cbd1: amnesia kush",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "mccn no. 5: lemon sour diesel",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "mediprocan smaragd 22/1: la sage",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "navcora thc22 spotlight porto: sirius",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "navcora thc18 spotlight porto: sour diesel",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "alephsana amber 26/1: kl003",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "cannamedical indica forte dk: gelat skyfloater",
-        "cannalivery": 0.0,
-        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0,
-        "medicalherbs": 0.0,
-        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
-    },
-    {
-        "key_flower": "craft black triangle 27:01: black triangle",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "bg mi: god bud",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
         "key_flower": "cm 24/1 icm: incredible milk",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
@@ -5780,23 +6382,28 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "cannamedical hybrid forte: headband",
+        "key_flower": "cannabis flos 18/1 uy ku. gorilla glue: gorilla glue 4",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
         "low_offer": 0.0
     },
     {
-        "key_flower": "tilray thc25 spotlight porto: pink kush",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "key_flower": "canpharma flos sk 26/1: sour kush",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
         "low_offer": 0.0
     },
     {
-        "key_flower": "cannamedical sativa forte ma: strawberry ice",
+        "key_flower": "demecan mc regular drop: sherbet mints",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "imc gga thc22: purple grape",
         "cannabisapo24": 0.0,
         "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
         "lux99": 0.0,
@@ -5806,45 +6413,6 @@
     },
     {
         "key_flower": "adrex 18/1 can: delahaze",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "canpharma flos sk 24/1: sour kush",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "cannamedical indica classic nm: kerosene krash",
-        "cannalivery": 0.0,
-        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "cannamedical hybrid forte: chocolate marshmallows",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "25/1 therismos brb: bruce banner",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "cm 20/1 karl og: ak-og kush",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -5971,64 +6539,6 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "madrecan 24/1 sky: skywalker",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "remexian 30/1 mtl lab: la brunch",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 11.16,
-        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
-        "vix": 1,
-        "low_offer": 11.16
-    },
-    {
-        "key_flower": "canopy lsk 18: lemon skunk",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "adrex 30/1 8bk can: 8-ball kush",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "29/1 amici wc: wedding cake",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "cannalivery": 0.0,
-        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "cumulus hybrid: lemon berry candy",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
         "key_flower": "stratus indica thc20: wappa",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
@@ -6050,6 +6560,15 @@
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
         "low_offer": 0.0
+    },
+    {
+        "key_flower": "imc thc20 t02: og kush",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0,
+        "cannem": 0.0,
+        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar"
     },
     {
         "key_flower": "demecan 24:01 cresina: creamy kee's",
@@ -6171,67 +6690,6 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "drapalin 1/17 maluti cbd: otto kush x acdc",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "apocan natural gg 20/1: gorilla glue 4",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "canpharma flos 20/1: hindu kush",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "cannabistada 17/1: shishkaberry",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "enua 25/1 cro ca: crescendo cookies",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "cannamedical indica light ury: dawg bud fusion",
-        "cannalivery": 0.0,
-        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "ostara eclipse: life hack",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
         "key_flower": "tilray thc22 indica no. 4: sirius",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
@@ -6331,25 +6789,56 @@
         "low_offer": 0.0
     },
     {
+        "key_flower": "aurora 1/12 dnk ct: cannatonic",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cm 27/1 punch: gelati punch",
+        "cannalivery": 0.0,
+        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "420 natural 20/1 ca dbb: dj blueberry",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cnbs ffc 21/1: frosted fruit cake",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "all nations gm-104: mac doughnut",
+        "grbl": 0.0,
+        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
         "key_flower": "cannamedical sativa forte ma: lemon slushie",
         "cannalivery": 0.0,
         "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "VORR\u00c4TIG                                                            (45 Gramm)",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "tilray thc 25 spotlight vancouver: purps",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "beacon i-hybrid thc 22: wappa",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
         "low_offer": 0.0
     },
@@ -6384,6 +6873,13 @@
         "low_offer": 0.0
     },
     {
+        "key_flower": "alephsana matterhorn 25/1: banjo",
+        "lux99": 15.95,
+        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
+        "vix": 1,
+        "low_offer": 15.95
+    },
+    {
         "key_flower": "tilray thc18 spotlight porto: mango",
         "cannabisapo24": 0.0,
         "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
@@ -6414,6 +6910,109 @@
         "verfuegbarkeit_lux99": "VORR\u00c4TIG",
         "vix": 1,
         "low_offer": 9.12
+    },
+    {
+        "key_flower": "demecan craft fcf 28:01: first class funk",
+        "lux99": 18.09,
+        "verfuegbarkeit_lux99": "VORR\u00c4TIG                                                            (20 Gramm)",
+        "vix": 1,
+        "low_offer": 18.09
+    },
+    {
+        "key_flower": "avaay signature 23/1 cr: crescendo",
+        "cannalivery": 0.0,
+        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0,
+        "cannem": 0.0,
+        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
+        "medicalherbs": 0.0,
+        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
+    },
+    {
+        "key_flower": "25/1 amici cp: cherry pie",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "green karat mg 31/1: modified gas",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "re:cannis 21/1 indica: erez",
+        "grbl": 0.0,
+        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "cannalivery": 0.0,
+        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0,
+        "medicalherbs": 0.0,
+        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
+    },
+    {
+        "key_flower": "420 natural 15/1 ca trp: tropicana cookies",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 13.09,
+        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
+        "vix": 2,
+        "low_offer": 9.99,
+        "medicalherbs": 9.99,
+        "verfuegbarkeit_medicalherbs": "verf\u00fcgbar"
+    },
+    {
+        "key_flower": "imc thc25 t04: strawberry og",
+        "grbl": 0.0,
+        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "santa": 0.0,
+        "verfuegbarkeit_santa": "nicht verf\u00fcgbar",
+        "lux99": 10.0,
+        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
+        "vix": 1,
+        "low_offer": 10.0,
+        "cannem": 0.0,
+        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
+        "medicalherbs": 0.0,
+        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
+    },
+    {
+        "key_flower": "tilray thc15 spotlight porto: blueberry",
+        "grbl": 0.0,
+        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0,
+        "medicalherbs": 0.0,
+        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
+    },
+    {
+        "key_flower": "canopy kmi 28: kush mint",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 13.09,
+        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
+        "vix": 1,
+        "low_offer": 13.09
     },
     {
         "key_flower": "khiron lbo 24/1: lemon berry og",
@@ -6475,24 +7074,6 @@
         "low_offer": 11.26
     },
     {
-        "key_flower": "canopy kmi 28: kush mint",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 13.09,
-        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
-        "vix": 1,
-        "low_offer": 13.09
-    },
-    {
-        "key_flower": "khiron 20/1: hindu kush",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
         "key_flower": "navcora thc18 spotlight porto: galaxy walker og",
         "mycannabis": 0.0,
         "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
@@ -6516,6 +7097,13 @@
         "verfuegbarkeit_lux99": "VORR\u00c4TIG",
         "vix": 1,
         "low_offer": 9.52
+    },
+    {
+        "key_flower": "28/1 therismos sdk: sensi double kush",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
     },
     {
         "key_flower": "social choice 12/1 gro dos: do-si-dos",
@@ -6614,6 +7202,15 @@
         "low_offer": 0.0
     },
     {
+        "key_flower": "bathera 23/1 pm: permanent marker",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 1,
+        "low_offer": 9.59,
+        "medicalherbs": 9.59,
+        "verfuegbarkeit_medicalherbs": "verf\u00fcgbar"
+    },
+    {
         "key_flower": "mediprocan lunaris 23/1: lava cake",
         "mycannabis": 0.0,
         "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
@@ -6665,37 +7262,6 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "enua 21/1 sc ca: strawberry cake",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0,
-        "cannem": 0.0,
-        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar"
-    },
-    {
-        "key_flower": "imc gl41 thc20: selected gelato #41",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "demecan ag epic drop: guava barz",
-        "cannalivery": 0.0,
-        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 1,
-        "low_offer": 8.99,
-        "cannem": 8.99,
-        "verfuegbarkeit_cannem": "verf\u00fcgbar",
-        "medicalherbs": 0.0,
-        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
-    },
-    {
         "key_flower": "canopy bakerstreet 22: hindu kush",
         "cannalivery": 9.49,
         "verfuegbarkeit_cannalivery": "Auf Lager",
@@ -6721,17 +7287,6 @@
         "verfuegbarkeit_lux99": "VORR\u00c4TIG",
         "vix": 1,
         "low_offer": 13.09
-    },
-    {
-        "key_flower": "cm 28/1 crm: creamy kee's",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0,
-        "cannem": 0.0,
-        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
-        "medicalherbs": 0.0,
-        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
     },
     {
         "key_flower": "navcora thc18 spotlight porto: sirius",
@@ -6866,49 +7421,6 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "typ 3 aphria: churchill",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "enua 25/1 j31: jokers #31",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
-        "vix": 1,
-        "low_offer": 9.39,
-        "medicalherbs": 9.39,
-        "verfuegbarkeit_medicalherbs": "verf\u00fcgbar"
-    },
-    {
-        "key_flower": "herbasana colombiana 20:01: apple soda",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "gm south african mungo 27:01: mungo",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "tilray thc22 spotlight porto: blueberry",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
         "key_flower": "tilray thc18 spotlight porto: headband",
         "grbl": 0.0,
         "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
@@ -6929,539 +7441,6 @@
         "verfuegbarkeit_lux99": "VORR\u00c4TIG",
         "vix": 1,
         "low_offer": 12.14
-    },
-    {
-        "key_flower": "enua 27/1 cck ca: cold creek kush",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 11.42,
-        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
-        "vix": 1,
-        "low_offer": 11.42
-    },
-    {
-        "key_flower": "weeco king louis: cali sunset",
-        "lux99": 10.95,
-        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
-        "vix": 1,
-        "low_offer": 10.95
-    },
-    {
-        "key_flower": "enua 25/1 ssv ca: sweet san valley",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 12.85,
-        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
-        "vix": 1,
-        "low_offer": 12.85
-    },
-    {
-        "key_flower": "enua 25/1 udc ca: upside down cake",
-        "lux99": 12.85,
-        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
-        "vix": 1,
-        "low_offer": 12.85
-    },
-    {
-        "key_flower": "cannabistada 24/1 pik: pink kush",
-        "lux99": 14.26,
-        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
-        "vix": 1,
-        "low_offer": 14.26
-    },
-    {
-        "key_flower": "amp classic 25/1: frosted lemon angel",
-        "grbl": 0.0,
-        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "cannalivery": 0.0,
-        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
-        "lux99": 10.95,
-        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
-        "vix": 1,
-        "low_offer": 10.95
-    },
-    {
-        "key_flower": "420 natural 20/1 ca zrp: zour apple",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "cannamedical sativa light: amnesia haze",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "cannamedical hybrid classic nm: blueberry headband",
-        "cannalivery": 0.0,
-        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "VORR\u00c4TIG                                                            (30 Gramm)",
-        "vix": 1,
-        "low_offer": 8.79,
-        "cannem": 8.79,
-        "verfuegbarkeit_cannem": "verf\u00fcgbar"
-    },
-    {
-        "key_flower": "oceanic bc: black cookies",
-        "grbl": 0.0,
-        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "cannabis flos 22/1 pt ku.mango dab canify: mango",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "adrex 17/1 can sb: shishkaberry",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "27/1 amici sb: strawberry banana",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "adrex 19/1 can: gorilla glue 4",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "tilray thc25 spotlight porto: sirius",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "avaay 23/1 cre: creamy kee's",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "demecan 18:01 florestura: amnesia haze",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "sibanax hybrid mcf 20/1: mac fem",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "adrex 20/1 can: delahaze",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "tilray thc18 spotlight porto: white widow",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "tilray thc22 spotlight porto: island sweet skunk",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "therismos 25/1 dsm: dark side of the moon",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "cannamedical hybrid forte ng: incredible milk",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "gm supernova 25:01: colour of space 12",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "26/1 n!ce c: cherry pie",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "ostara balance: long valley legend",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "420 natural 18/1 ca sk: sour kush",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "cm 28/1 koko: koko\u00b4s cookies",
-        "cannalivery": 0.0,
-        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "madrecan 21/1 rch: remo chemo",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "nimbus zrp 21/1: zour apple",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "tilray thc 25 indica no.1: master kush",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "craft zoero 22:01: oreoz",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "remexian 30/1 hma cdc: chem de la chem",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "santa": 0.0,
-        "verfuegbarkeit_santa": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "therismos 30/1 qsg: queen sangria",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "blackbird plain sativa: euforia",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "khiron 1/14: god bud",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "tilray thc25 spotlight porto: white widow",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "8/8 vayamed: equiposa",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "althea thc 24: la sage",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "sumo canada craft no.2: apex og",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "cannabis flos 24/1 ls ku. bafokeng choice: bafokeng choice",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "cannabis flos 20/1 co ku. mac: mac",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "re:cannis 9.5/10.5 hybrid: midnight",
-        "grbl": 0.0,
-        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0,
-        "medicalherbs": 0.0,
-        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
-    },
-    {
-        "key_flower": "27/1 n!ce s: strawberry banana",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "tilray indica strong: cheese quake",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "canopy krypton 25: chemdawg 91 / captain krypt og",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "therismos 23/1 jfg: jet fuel gelato",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "enua 25/1 slc ca: slurricane",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "vorr\u00e4tig",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0,
-        "cannem": 0.0,
-        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
-        "medicalherbs": 0.0,
-        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
-    },
-    {
-        "key_flower": "enua 25/1 ggz ca: gogurtz",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "kejf.spz 31/1: spritzer",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "cannabis flos 18/1 uy ku. gorilla glue: gorilla glue 4",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "demecan mc regular drop: sherbet mints",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "canpharma flos sk 26/1: sour kush",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "imc gga thc22: purple grape",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "imc thc20 t02: og kush",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0,
-        "cannem": 0.0,
-        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar"
-    },
-    {
-        "key_flower": "aurora 1/12 dnk ct: cannatonic",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "cm 27/1 punch: gelati punch",
-        "cannalivery": 0.0,
-        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "420 natural 20/1 ca dbb: dj blueberry",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "cnbs ffc 21/1: frosted fruit cake",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "all nations gm-104: mac doughnut",
-        "grbl": 0.0,
-        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "weeco 20/1: frosted lemon angel",
-        "lux99": 8.45,
-        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
-        "vix": 1,
-        "low_offer": 8.45
-    },
-    {
-        "key_flower": "re:cannis 21/1 indica: erez",
-        "grbl": 0.0,
-        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "cannalivery": 0.0,
-        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0,
-        "medicalherbs": 0.0,
-        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
-    },
-    {
-        "key_flower": "28/1 therismos sdk: sensi double kush",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
     },
     {
         "key_flower": "cannamedical balanced classic: mango haze",
@@ -7490,36 +7469,24 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "cannamedical cbd light: california orange",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "mediprocan african ruby 20/1: mimosa",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "tilray thc9:cbd9 no. 1: warlock cbd",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "canopy hsk 8/7: cbd skunk haze",
+        "key_flower": "re:cannis 9.5/10.5 hybrid: midnight",
         "grbl": 0.0,
         "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
-        "low_offer": 0.0
+        "low_offer": 0.0,
+        "medicalherbs": 0.0,
+        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
+    },
+    {
+        "key_flower": "enua 25/1 j31: jokers #31",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
+        "vix": 1,
+        "low_offer": 9.39,
+        "medicalherbs": 9.39,
+        "verfuegbarkeit_medicalherbs": "verf\u00fcgbar"
     },
     {
         "key_flower": "pure sunfarms 20/1: pink kush",
@@ -7596,6 +7563,31 @@
         "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
         "mycannabis": 0.0,
         "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "canopy hsk 8/7: cbd skunk haze",
+        "grbl": 0.0,
+        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cannamedical cbd light: california orange",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "tilray thc9:cbd9 no. 1: warlock cbd",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -7707,43 +7699,6 @@
         "low_offer": 20.4
     },
     {
-        "key_flower": "cannamedical cbd: california orange",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "cannamedical balanced forte: california orange",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "enua 22/1 afsc ca: animal face sherb crasher",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "420 compound 27/1 ca bbw: bling blaow",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "VORR\u00c4TIG                                                            (235 Gramm)",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "pedanios 8/8 dnk: equiposa",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
         "key_flower": "imc cbd14 c01: god bud",
         "mycannabis": 0.0,
         "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
@@ -7764,6 +7719,20 @@
         "verfuegbarkeit_lux99": "VORR\u00c4TIG",
         "vix": 1,
         "low_offer": 21.9
+    },
+    {
+        "key_flower": "cannamedical cbd: california orange",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "cannamedical balanced forte: california orange",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
     },
     {
         "key_flower": "cantourage fotmer t3i: cheese quake",
@@ -7794,6 +7763,29 @@
         "verfuegbarkeit_lux99": "VORR\u00c4TIG",
         "vix": 1,
         "low_offer": 12.14
+    },
+    {
+        "key_flower": "enua 22/1 afsc ca: animal face sherb crasher",
+        "mycannabis": 0.0,
+        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "420 compound 27/1 ca bbw: bling blaow",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "VORR\u00c4TIG                                                            (235 Gramm)",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "pedanios 8/8 dnk: equiposa",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
     },
     {
         "key_flower": "eufloria 30/1 sfr: strawberry froyo",
@@ -7945,7 +7937,7 @@
     {
         "key_flower": "tilray thc18 spotlight porto: jean guy",
         "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "vorr\u00e4tig",
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -7977,58 +7969,35 @@
         "low_offer": 15.23
     },
     {
-        "key_flower": "supreme 24/1: frosted lemon cake",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "vorr\u00e4tig",
-        "mycannabis": 0.0,
-        "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
+        "key_flower": "enua 27/1 zs ca: zurple syrup",
         "lux99": 12.38,
         "verfuegbarkeit_lux99": "VORR\u00c4TIG",
-        "vix": 1,
-        "low_offer": 12.38
+        "vix": 2,
+        "low_offer": 8.95,
+        "jiroo": 8.95,
+        "verfuegbarkeit_jiroo": "verf\u00fcgbar"
+    },
+    {
+        "key_flower": "nimbus easy 24/1: la sage",
+        "grbl": 0.0,
+        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "santa": 0.0,
+        "verfuegbarkeit_santa": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0,
+        "cannem": 0.0,
+        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
+        "medicalherbs": 0.0,
+        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
     },
     {
         "key_flower": "enua 30/1 gmo ca: kokos cookies",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "VORR\u00c4TIG",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "re:cannis 19/1 sativa: alaska",
-        "grbl": 0.0,
-        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0,
-        "medicalherbs": 0.0,
-        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
-    },
-    {
-        "key_flower": "enua 25/1 rs11: rainbow sherbert 11",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "drapalin 10/11 batha balanced: bafokeng choice x granddaddy purple",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "31/1 amici as: atomic sour grapefruit",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "cannalivery": 0.0,
-        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
         "low_offer": 0.0
     },
@@ -8099,6 +8068,44 @@
         "verfuegbarkeit_lux99": "VORR\u00c4TIG",
         "vix": 1,
         "low_offer": 17.09
+    },
+    {
+        "key_flower": "re:cannis 19/1 sativa: alaska",
+        "grbl": 0.0,
+        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0,
+        "medicalherbs": 0.0,
+        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar"
+    },
+    {
+        "key_flower": "enua 25/1 rs11: rainbow sherbert 11",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "drapalin 10/11 batha balanced: bafokeng choice x granddaddy purple",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "31/1 amici as: atomic sour grapefruit",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "cannalivery": 0.0,
+        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
     },
     {
         "key_flower": "remexian 33/1 vcc gwa: g wagon",
@@ -8307,15 +8314,6 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "cannamedical balanced classic: california orange",
-        "cannalivery": 0.0,
-        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
         "key_flower": "nice 25/1 ram: rainbow amnesia",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
@@ -8323,7 +8321,9 @@
         "low_offer": 0.0
     },
     {
-        "key_flower": "30/1 amici ul: ultra limelight",
+        "key_flower": "cannamedical balanced classic: california orange",
+        "cannalivery": 0.0,
+        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -8349,6 +8349,13 @@
         "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
         "cannabisapo24": 0.0,
         "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "30/1 amici ul: ultra limelight",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -8481,13 +8488,6 @@
         "low_offer": 12.85
     },
     {
-        "key_flower": "tilray thc22 spotlight porto: wappa",
-        "lux99": 11.66,
-        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
-        "vix": 1,
-        "low_offer": 11.66
-    },
-    {
         "key_flower": "tikun gnc 30/1: grapes and cream",
         "lux99": 14.04,
         "verfuegbarkeit_lux99": "VORR\u00c4TIG",
@@ -8525,6 +8525,22 @@
         "low_offer": 0.0
     },
     {
+        "key_flower": "alephsana water 5/13: amnesia balanced",
+        "cannalivery": 0.0,
+        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0
+    },
+    {
+        "key_flower": "tikun midnight 10/14: midnight",
+        "lux99": 14.04,
+        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
+        "vix": 1,
+        "low_offer": 14.04
+    },
+    {
         "key_flower": "bediol: elida",
         "cannabisapo24": 0.0,
         "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
@@ -8542,15 +8558,6 @@
     },
     {
         "key_flower": "khiron c 5/7: caramel",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 0,
-        "low_offer": 0.0
-    },
-    {
-        "key_flower": "alephsana water 5/13: amnesia balanced",
-        "cannalivery": 0.0,
-        "verfuegbarkeit_cannalivery": "nicht verf\u00fcgbar",
         "lux99": 0.0,
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
@@ -8577,13 +8584,6 @@
         "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
         "vix": 0,
         "low_offer": 0.0
-    },
-    {
-        "key_flower": "tikun midnight 10/14: midnight",
-        "lux99": 14.04,
-        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
-        "vix": 1,
-        "low_offer": 14.04
     },
     {
         "key_flower": "alephsana water 4/8: amnesia balanced",
@@ -8666,10 +8666,10 @@
         "verfuegbarkeit_cannalivery": "Auf Lager",
         "mycannabis": 0.0,
         "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "vix": 2,
-        "low_offer": 9.89,
-        "cannem": 0.0,
-        "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
+        "vix": 3,
+        "low_offer": 7.49,
+        "cannem": 7.49,
+        "verfuegbarkeit_cannem": "verf\u00fcgbar",
         "medicalherbs": 0.0,
         "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar",
         "jiroo": 9.95,
@@ -8694,10 +8694,10 @@
         "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
         "mycannabis": 0.0,
         "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
-        "vix": 1,
-        "low_offer": 7.69,
-        "medicalherbs": 7.69,
-        "verfuegbarkeit_medicalherbs": "verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0,
+        "medicalherbs": 0.0,
+        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar",
         "jiroo": 0.0,
         "verfuegbarkeit_jiroo": "nicht verf\u00fcgbar"
     },
@@ -8779,7 +8779,7 @@
         "grbl": 0.0,
         "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
         "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "vorr\u00e4tig",
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
         "cannalivery": 10.95,
         "verfuegbarkeit_cannalivery": "Auf Lager",
         "mycannabis": 0.0,
@@ -8941,26 +8941,13 @@
         "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
         "santa": 0.0,
         "verfuegbarkeit_santa": "nicht verf\u00fcgbar",
-        "vix": 2,
+        "vix": 1,
         "low_offer": 11.9,
         "cannem": 0.0,
         "verfuegbarkeit_cannem": "nicht verf\u00fcgbar",
-        "medicalherbs": 12.79,
-        "verfuegbarkeit_medicalherbs": "verf\u00fcgbar",
+        "medicalherbs": 0.0,
+        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar",
         "jiroo": 11.9,
-        "verfuegbarkeit_jiroo": "verf\u00fcgbar"
-    },
-    {
-        "key_flower": "oht ckz 1: rntz",
-        "grbl": 0.0,
-        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "lux99": 0.0,
-        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
-        "vix": 1,
-        "low_offer": 6.5,
-        "jiroo": 6.5,
         "verfuegbarkeit_jiroo": "verf\u00fcgbar"
     },
     {
@@ -9001,10 +8988,10 @@
         "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
         "santa": 0.0,
         "verfuegbarkeit_santa": "nicht verf\u00fcgbar",
-        "vix": 2,
+        "vix": 3,
         "low_offer": 9.95,
-        "medicalherbs": 0.0,
-        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar",
+        "medicalherbs": 11.79,
+        "verfuegbarkeit_medicalherbs": "verf\u00fcgbar",
         "jiroo": 9.95,
         "verfuegbarkeit_jiroo": "verf\u00fcgbar"
     },
@@ -9032,6 +9019,19 @@
         "vix": 1,
         "low_offer": 8.5,
         "jiroo": 8.5,
+        "verfuegbarkeit_jiroo": "verf\u00fcgbar"
+    },
+    {
+        "key_flower": "oht ckz 1: rntz",
+        "grbl": 0.0,
+        "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 1,
+        "low_offer": 6.5,
+        "jiroo": 6.5,
         "verfuegbarkeit_jiroo": "verf\u00fcgbar"
     },
     {
@@ -9087,14 +9087,14 @@
         "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
         "santa": 0.0,
         "verfuegbarkeit_santa": "nicht verf\u00fcgbar",
-        "vix": 2,
-        "low_offer": 10.99,
-        "cannem": 10.99,
+        "vix": 4,
+        "low_offer": 8.5,
+        "cannem": 9.99,
         "verfuegbarkeit_cannem": "verf\u00fcgbar",
-        "medicalherbs": 0.0,
-        "verfuegbarkeit_medicalherbs": "nicht verf\u00fcgbar",
-        "jiroo": 0.0,
-        "verfuegbarkeit_jiroo": "nicht verf\u00fcgbar"
+        "medicalherbs": 10.99,
+        "verfuegbarkeit_medicalherbs": "verf\u00fcgbar",
+        "jiroo": 8.5,
+        "verfuegbarkeit_jiroo": "verf\u00fcgbar"
     },
     {
         "key_flower": "green karat mg: modified gas",
@@ -9418,6 +9418,15 @@
         "verfuegbarkeit_jiroo": "verf\u00fcgbar"
     },
     {
+        "key_flower": "enua 30/1 slc: slurricane",
+        "lux99": 0.0,
+        "verfuegbarkeit_lux99": "nicht verf\u00fcgbar",
+        "vix": 0,
+        "low_offer": 0.0,
+        "jiroo": 0.0,
+        "verfuegbarkeit_jiroo": "nicht verf\u00fcgbar"
+    },
+    {
         "key_flower": "enua 22/1 mac f ca: mac f",
         "grbl": 0.0,
         "verfuegbarkeit_grbl": "nicht verf\u00fcgbar",
@@ -9488,26 +9497,6 @@
         "verfuegbarkeit_jiroo": "verf\u00fcgbar"
     },
     {
-        "key_flower": "420 sungrown 27/1 ca lly: legendary larry",
-        "gruenhorn": 0.0,
-        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
-        "vix": 1,
-        "low_offer": 9.5,
-        "jiroo": 9.5,
-        "verfuegbarkeit_jiroo": "verf\u00fcgbar"
-    },
-    {
-        "key_flower": "avaay signature 23/1 mc: mandarin cookies",
-        "gruenhorn": 0.0,
-        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
-        "cannabisapo24": 0.0,
-        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
-        "vix": 1,
-        "low_offer": 9.95,
-        "jiroo": 9.95,
-        "verfuegbarkeit_jiroo": "verf\u00fcgbar"
-    },
-    {
         "key_flower": "remexian 30/1 prt tft: think fast",
         "mycannabis": 0.0,
         "verfuegbarkeit_mycannabis": "nicht verf\u00fcgbar",
@@ -9567,6 +9556,26 @@
         "low_offer": 0.0,
         "jiroo": 0.0,
         "verfuegbarkeit_jiroo": "nicht verf\u00fcgbar"
+    },
+    {
+        "key_flower": "420 sungrown 27/1 ca lly: legendary larry",
+        "gruenhorn": 0.0,
+        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "vix": 1,
+        "low_offer": 9.5,
+        "jiroo": 9.5,
+        "verfuegbarkeit_jiroo": "verf\u00fcgbar"
+    },
+    {
+        "key_flower": "avaay signature 23/1 mc: mandarin cookies",
+        "gruenhorn": 0.0,
+        "verfuegbarkeit_gruenhorn": "nicht verf\u00fcgbar",
+        "cannabisapo24": 0.0,
+        "verfuegbarkeit_cannabisapo24": "nicht verf\u00fcgbar",
+        "vix": 1,
+        "low_offer": 9.95,
+        "jiroo": 9.95,
+        "verfuegbarkeit_jiroo": "verf\u00fcgbar"
     },
     {
         "key_flower": "pedanios 31/1 cmk-ca: chemango kush",
@@ -9775,15 +9784,6 @@
         "verfuegbarkeit_medicalherbs": "verf\u00fcgbar",
         "jiroo": 0.0,
         "verfuegbarkeit_jiroo": "nicht verf\u00fcgbar"
-    },
-    {
-        "key_flower": "enua 27/1 zs ca: zurple syrup",
-        "lux99": 12.38,
-        "verfuegbarkeit_lux99": "VORR\u00c4TIG",
-        "vix": 2,
-        "low_offer": 8.95,
-        "jiroo": 8.95,
-        "verfuegbarkeit_jiroo": "verf\u00fcgbar"
     },
     {
         "key_flower": "origine nature chem: chemdawg og",
