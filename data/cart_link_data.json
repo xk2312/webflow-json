@@ -11942,5 +11942,39 @@
         "price2_per_g": 10.95,
         "av_price_per_g": 11.425,
         "total_price": 114.25
+    },
+    {
+        "id": 706,
+        "cart_status": 1,
+        "timestamp": "2025-05-16 21:16:06.304218",
+        "session_id": "9404da88-c766-4c6a-90d7-24748abe4c4d",
+        "link_source": "doc-link-1",
+        "link_name": "DoktorABC",
+        "link_url": "https://go.nicetracking.com/click?pid=308&offer_id=84&sub1=hp&l=1740661425",
+        "name_apo_1": "cannalivery",
+        "name_apo_2": "placeholder",
+        "name_apo_3": "placeholder",
+        "produktname1": "bathera 28/1: facetz",
+        "quantity1": 5.0,
+        "price1_per_g": 7.49,
+        "av_price_per_g": 7.49,
+        "total_price": 37.45
+    },
+    {
+        "id": 707,
+        "cart_status": 1,
+        "timestamp": "2025-05-16 22:20:38.133365",
+        "session_id": "a3c5dd10-014e-4014-8b87-60777b0cdbc1",
+        "link_source": "doc-link-1",
+        "link_name": "DoktorABC",
+        "link_url": "https://go.nicetracking.com/click?pid=308&offer_id=84&sub1=hp&l=1740661425",
+        "name_apo_1": "cannalivery",
+        "name_apo_2": "jiroo",
+        "name_apo_3": "placeholder",
+        "produktname1": "avaay 23/1 ck: critical kush",
+        "quantity1": 5.0,
+        "price1_per_g": 7.29,
+        "av_price_per_g": 7.290000000000001,
+        "total_price": 36.45
     }
 ]
