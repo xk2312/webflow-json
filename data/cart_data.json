@@ -33075,5 +33075,43 @@
         "aponame2": "jiroo",
         "preis2": 44.75,
         "timestamp": "2025-05-16 20:19:02.387000"
+    },
+    {
+        "id": 2650,
+        "session_id": "d343a7fc-1ab2-485f-b173-d9621a5d8591",
+        "produktname1": "cannamedical sativa classic: strawberry ice",
+        "menge1": 5.0,
+        "preisprogramm1": 11.99,
+        "aponame1": "cannalivery",
+        "preis1": 59.95,
+        "timestamp": "2025-05-17 18:26:38.005000"
+    },
+    {
+        "id": 2651,
+        "session_id": "f4212616-2dcd-4183-bc9d-d91a5b79294e",
+        "produktname1": "cannamedical sativa forte nm: wedding tree",
+        "menge1": 5.0,
+        "preisprogramm1": 11.99,
+        "aponame1": "cannem",
+        "preis1": 59.95,
+        "timestamp": "2025-05-17 22:15:39.077000"
+    },
+    {
+        "id": 2652,
+        "session_id": "df27ad61-d44f-4800-8a1c-ff2c389b327d",
+        "produktname1": "nedcann ah 22/01 amnesia: amnesia #d21",
+        "menge1": 5.0,
+        "preisprogramm1": 8.81,
+        "aponame1": "lux99",
+        "preis1": 44.05,
+        "timestamp": "2025-05-17 23:37:23.365000"
+    },
+    {
+        "id": 2653,
+        "session_id": "072e27e3-b754-4d89-82b0-14a6cfc5b7d2",
+        "produktname1": "cannamedical sativa forte nm: wedding tree",
+        "menge1": 5.0,
+        "preisprogramm1": 11.99,
+        "timestamp": "2025-05-18 07:28:48.679000"
     }
 ]
