@@ -60,6 +60,11 @@
         "price_apo_rank1": 10.49
     },
     {
+        "key_flower": "420 evolution 27/1 ca icc: ice cream cake kush mints",
+        "name_apo_rank1": "cannalivery",
+        "price_apo_rank1": 10.99
+    },
+    {
         "key_flower": "cannamedical indica forte ma: tire fire",
         "name_apo_rank1": "cannalivery",
         "price_apo_rank1": 8.49
@@ -70,9 +75,9 @@
         "price_apo_rank1": 9.18
     },
     {
-        "key_flower": "420 evolution 27/1 ca icc: ice cream cake kush mints",
-        "name_apo_rank1": "cannalivery",
-        "price_apo_rank1": 10.99
+        "key_flower": "demecan craft t4n-g 25:01: banjo",
+        "name_apo_rank1": "medicalherbs",
+        "price_apo_rank1": 12.39
     },
     {
         "key_flower": "remexian 27/1 grg: grape galena",
@@ -80,16 +85,6 @@
         "price_apo_rank1": 8.29,
         "name_apo_rank2": "medicalherbs",
         "price_apo_rank2": 9.79
-    },
-    {
-        "key_flower": "demecan craft t4n-g 25:01: banjo",
-        "name_apo_rank1": "medicalherbs",
-        "price_apo_rank1": 12.39
-    },
-    {
-        "key_flower": "demecan craft fcf 31:01: first class funk",
-        "name_apo_rank1": "cannalivery",
-        "price_apo_rank1": 9.29
     },
     {
         "key_flower": "remexian 27/1 psl: pink slurricane",
@@ -106,6 +101,11 @@
         "price_apo_rank2": 11.99
     },
     {
+        "key_flower": "demecan craft fcf 31:01: first class funk",
+        "name_apo_rank1": "cannalivery",
+        "price_apo_rank1": 9.29
+    },
+    {
         "key_flower": "cannamedical sativa forte: venomz eve",
         "name_apo_rank1": "cannalivery",
         "price_apo_rank1": 9.49
@@ -114,11 +114,6 @@
         "key_flower": "remexian balanced cnf: mango cheese",
         "name_apo_rank1": "cannalivery",
         "price_apo_rank1": 9.99
-    },
-    {
-        "key_flower": "alephsana amber 26: mango kush",
-        "name_apo_rank1": "medicalherbs",
-        "price_apo_rank1": 9.39
     },
     {
         "key_flower": "demecan craft marker 25:01: magic marker #2",
@@ -201,110 +196,9 @@
         "price_apo_rank1": 8.29
     },
     {
-        "key_flower": "demecan craft permanent marker 22:01: permanent marker",
-        "name_apo_rank1": "cannalivery",
-        "price_apo_rank1": 9.99,
-        "name_apo_rank2": "cannem",
-        "price_apo_rank2": 9.99,
-        "name_apo_rank3": "lux99",
-        "price_apo_rank3": 16.42
-    },
-    {
-        "key_flower": "420 natural 15/1 ca trp: tropicana cookies",
+        "key_flower": "enua 25/1 j31: jokers #31",
         "name_apo_rank1": "medicalherbs",
-        "price_apo_rank1": 9.99,
-        "name_apo_rank2": "lux99",
-        "price_apo_rank2": 13.09
-    },
-    {
-        "key_flower": "imc thc25 t04: strawberry og",
-        "name_apo_rank1": "lux99",
-        "price_apo_rank1": 10.0
-    },
-    {
-        "key_flower": "pedanios 28/1 cmk-ca: chemango kush",
-        "name_apo_rank1": "lux99",
-        "price_apo_rank1": 15.23
-    },
-    {
-        "key_flower": "wellford aquaponic 30/1 qsg: queen sangria",
-        "name_apo_rank1": "lux99",
-        "price_apo_rank1": 17.14
-    },
-    {
-        "key_flower": "cannamedical hybrid classic: mac1",
-        "name_apo_rank1": "cannalivery",
-        "price_apo_rank1": 8.49,
-        "name_apo_rank2": "lux99",
-        "price_apo_rank2": 9.28
-    },
-    {
-        "key_flower": "indimed 20/1 iss-de: island sweet skunk",
-        "name_apo_rank1": "lux99",
-        "price_apo_rank1": 10.0
-    },
-    {
-        "key_flower": "weeco 25/1: frosted lemon angel",
-        "name_apo_rank1": "lux99",
-        "price_apo_rank1": 10.0
-    },
-    {
-        "key_flower": "enua 25/1 afsc: animal face sherb crasher",
-        "name_apo_rank1": "lux99",
-        "price_apo_rank1": 12.85
-    },
-    {
-        "key_flower": "sumo canada craft no.3: garlic chem",
-        "name_apo_rank1": "jiroo",
-        "price_apo_rank1": 7.95
-    },
-    {
-        "key_flower": "pedanios 10/10 eqi-ca: equiposa",
-        "name_apo_rank1": "jiroo",
-        "price_apo_rank1": 6.95,
-        "name_apo_rank2": "medicalherbs",
-        "price_apo_rank2": 10.99
-    },
-    {
-        "key_flower": "eufloria 30/1 mcd: mac deluxe",
-        "name_apo_rank1": "jiroo",
-        "price_apo_rank1": 8.95,
-        "name_apo_rank2": "lux99",
-        "price_apo_rank2": 12.26
-    },
-    {
-        "key_flower": "mac 1+: mac 1",
-        "name_apo_rank1": "jiroo",
-        "price_apo_rank1": 9.95
-    },
-    {
-        "key_flower": "420 evolution 27/1 ca gmo: gmo",
-        "name_apo_rank1": "jiroo",
-        "price_apo_rank1": 10.5,
-        "name_apo_rank2": "cannem",
-        "price_apo_rank2": 11.99,
-        "name_apo_rank3": "lux99",
-        "price_apo_rank3": 16.42
-    },
-    {
-        "key_flower": "420 sungrown 27/1 ca lly: legendary larry",
-        "name_apo_rank1": "jiroo",
-        "price_apo_rank1": 9.5
-    },
-    {
-        "key_flower": "cannamedical indica classic zaf: dank wafers",
-        "name_apo_rank1": "cannalivery",
-        "price_apo_rank1": 6.49
-    },
-    {
-        "key_flower": "cannamedical hybrid classic: waffle cone #2",
-        "name_apo_rank1": "cannalivery",
-        "price_apo_rank1": 9.99
-    },
-    {
-        "key_flower": "cannamedical hybrid ultra dk: ghost train haze",
-        "name_apo_rank1": "cannalivery",
-        "price_apo_rank1": 10.49
+        "price_apo_rank1": 9.39
     },
     {
         "key_flower": "demecan craft d-jungle 31:01: purple punch x jungle cake",
@@ -312,46 +206,6 @@
         "price_apo_rank1": 8.95,
         "name_apo_rank2": "cannem",
         "price_apo_rank2": 10.99
-    },
-    {
-        "key_flower": "peace naturals 33/1 gc: gmo cookies",
-        "name_apo_rank1": "cannalivery",
-        "price_apo_rank1": 9.99
-    },
-    {
-        "key_flower": "cannamedical sativa classic nm: snowflake",
-        "name_apo_rank1": "cannalivery",
-        "price_apo_rank1": 7.99
-    },
-    {
-        "key_flower": "cm 24/1 og kush: og kush",
-        "name_apo_rank1": "cannalivery",
-        "price_apo_rank1": 6.99
-    },
-    {
-        "key_flower": "remexian 30/1 mtl lab: la brunch",
-        "name_apo_rank1": "lux99",
-        "price_apo_rank1": 11.16
-    },
-    {
-        "key_flower": "alephsana matterhorn 25/1: banjo",
-        "name_apo_rank1": "lux99",
-        "price_apo_rank1": 15.95
-    },
-    {
-        "key_flower": "demecan core moonbow-112 23:01: monnbow 112 ix",
-        "name_apo_rank1": "lux99",
-        "price_apo_rank1": 8.33
-    },
-    {
-        "key_flower": "khiron g 19/1: gelato 44",
-        "name_apo_rank1": "lux99",
-        "price_apo_rank1": 9.12
-    },
-    {
-        "key_flower": "demecan craft fcf 28:01: first class funk",
-        "name_apo_rank1": "lux99",
-        "price_apo_rank1": 18.09
     },
     {
         "key_flower": "canopy kmi 28: kush mint",
@@ -374,6 +228,114 @@
         "key_flower": "khiron g 23/1: gelato 42",
         "name_apo_rank1": "lux99",
         "price_apo_rank1": 11.26
+    },
+    {
+        "key_flower": "cannamedical hybrid classic: mac1",
+        "name_apo_rank1": "cannalivery",
+        "price_apo_rank1": 8.49,
+        "name_apo_rank2": "lux99",
+        "price_apo_rank2": 9.28
+    },
+    {
+        "key_flower": "indimed 20/1 iss-de: island sweet skunk",
+        "name_apo_rank1": "lux99",
+        "price_apo_rank1": 10.0
+    },
+    {
+        "key_flower": "weeco 25/1: frosted lemon angel",
+        "name_apo_rank1": "lux99",
+        "price_apo_rank1": 10.0
+    },
+    {
+        "key_flower": "canopy akh 24: afghan kush",
+        "name_apo_rank1": "lux99",
+        "price_apo_rank1": 13.09
+    },
+    {
+        "key_flower": "weeco king louis: cali sunset",
+        "name_apo_rank1": "lux99",
+        "price_apo_rank1": 10.95
+    },
+    {
+        "key_flower": "cannamedical indica classic zaf: dank wafers",
+        "name_apo_rank1": "cannalivery",
+        "price_apo_rank1": 6.49
+    },
+    {
+        "key_flower": "cannamedical hybrid classic: waffle cone #2",
+        "name_apo_rank1": "cannalivery",
+        "price_apo_rank1": 9.99
+    },
+    {
+        "key_flower": "cannamedical hybrid ultra dk: ghost train haze",
+        "name_apo_rank1": "cannalivery",
+        "price_apo_rank1": 10.49
+    },
+    {
+        "key_flower": "peace naturals 33/1 gc: gmo cookies",
+        "name_apo_rank1": "cannalivery",
+        "price_apo_rank1": 9.99
+    },
+    {
+        "key_flower": "cannamedical sativa classic nm: snowflake",
+        "name_apo_rank1": "cannalivery",
+        "price_apo_rank1": 7.99
+    },
+    {
+        "key_flower": "amp classic 25/1: frosted lemon angel",
+        "name_apo_rank1": "lux99",
+        "price_apo_rank1": 10.95
+    },
+    {
+        "key_flower": "remexian 30/1 mtl lab: la brunch",
+        "name_apo_rank1": "lux99",
+        "price_apo_rank1": 11.16
+    },
+    {
+        "key_flower": "alephsana matterhorn 25/1: banjo",
+        "name_apo_rank1": "lux99",
+        "price_apo_rank1": 15.95
+    },
+    {
+        "key_flower": "imc thc20 t01 hk: hindu kush",
+        "name_apo_rank1": "lux99",
+        "price_apo_rank1": 9.52
+    },
+    {
+        "key_flower": "demecan core moonbow-112 23:01: monnbow 112 ix",
+        "name_apo_rank1": "lux99",
+        "price_apo_rank1": 8.33
+    },
+    {
+        "key_flower": "khiron g 19/1: gelato 44",
+        "name_apo_rank1": "lux99",
+        "price_apo_rank1": 9.12
+    },
+    {
+        "key_flower": "demecan craft fcf 28:01: first class funk",
+        "name_apo_rank1": "lux99",
+        "price_apo_rank1": 18.09
+    },
+    {
+        "key_flower": "demecan craft permanent marker 22:01: permanent marker",
+        "name_apo_rank1": "cannalivery",
+        "price_apo_rank1": 9.99,
+        "name_apo_rank2": "cannem",
+        "price_apo_rank2": 9.99,
+        "name_apo_rank3": "lux99",
+        "price_apo_rank3": 16.42
+    },
+    {
+        "key_flower": "420 natural 15/1 ca trp: tropicana cookies",
+        "name_apo_rank1": "medicalherbs",
+        "price_apo_rank1": 9.99,
+        "name_apo_rank2": "lux99",
+        "price_apo_rank2": 13.09
+    },
+    {
+        "key_flower": "imc thc25 t04: strawberry og",
+        "name_apo_rank1": "lux99",
+        "price_apo_rank1": 10.0
     },
     {
         "key_flower": "navcora thc18 spotlight porto: galaxy walker og",
@@ -443,11 +405,6 @@
         "price_apo_rank2": 10.69
     },
     {
-        "key_flower": "demecan ag epic drop: guava barz",
-        "name_apo_rank1": "cannem",
-        "price_apo_rank1": 8.99
-    },
-    {
         "key_flower": "blkmkt rbp thc 27 rainbow pie: rainbow pie",
         "name_apo_rank1": "lux99",
         "price_apo_rank1": 13.09
@@ -461,6 +418,11 @@
         "key_flower": "imc thc22 t06: black russian",
         "name_apo_rank1": "lux99",
         "price_apo_rank1": 8.33
+    },
+    {
+        "key_flower": "demecan ag epic drop: guava barz",
+        "name_apo_rank1": "cannem",
+        "price_apo_rank1": 8.99
     },
     {
         "key_flower": "barongo 23/1 oo: orange octane",
@@ -510,11 +472,6 @@
         "price_apo_rank1": 11.42
     },
     {
-        "key_flower": "weeco king louis: cali sunset",
-        "name_apo_rank1": "lux99",
-        "price_apo_rank1": 10.95
-    },
-    {
         "key_flower": "enua 25/1 ssv ca: sweet san valley",
         "name_apo_rank1": "lux99",
         "price_apo_rank1": 12.85
@@ -530,34 +487,19 @@
         "price_apo_rank1": 14.26
     },
     {
-        "key_flower": "amp classic 25/1: frosted lemon angel",
-        "name_apo_rank1": "lux99",
-        "price_apo_rank1": 10.95
-    },
-    {
         "key_flower": "cannamedical hybrid classic nm: blueberry headband",
         "name_apo_rank1": "cannem",
         "price_apo_rank1": 8.79
     },
     {
-        "key_flower": "imc thc20 t01 hk: hindu kush",
-        "name_apo_rank1": "lux99",
-        "price_apo_rank1": 9.52
+        "key_flower": "cm 24/1 og kush: og kush",
+        "name_apo_rank1": "cannalivery",
+        "price_apo_rank1": 6.99
     },
     {
         "key_flower": "weeco 20/1: frosted lemon angel",
         "name_apo_rank1": "lux99",
         "price_apo_rank1": 8.45
-    },
-    {
-        "key_flower": "canopy akh 24: afghan kush",
-        "name_apo_rank1": "lux99",
-        "price_apo_rank1": 13.09
-    },
-    {
-        "key_flower": "enua 25/1 j31: jokers #31",
-        "name_apo_rank1": "medicalherbs",
-        "price_apo_rank1": 9.39
     },
     {
         "key_flower": "cannamedical hybrid classic nm: critical bilbo",
@@ -607,6 +549,11 @@
         "price_apo_rank2": 16.66
     },
     {
+        "key_flower": "mother 22/1 ais can: apes in space",
+        "name_apo_rank1": "lux99",
+        "price_apo_rank1": 11.07
+    },
+    {
         "key_flower": "tilray craft thc25: bienville (jean guy)",
         "name_apo_rank1": "lux99",
         "price_apo_rank1": 9.76
@@ -627,11 +574,6 @@
         "price_apo_rank1": 9.52
     },
     {
-        "key_flower": "mother 22/1 ais can: apes in space",
-        "name_apo_rank1": "lux99",
-        "price_apo_rank1": 11.07
-    },
-    {
         "key_flower": "remexian 24/1 cbm fu: future island",
         "name_apo_rank1": "lux99",
         "price_apo_rank1": 9.5
@@ -650,6 +592,16 @@
         "key_flower": "supreme 24/1: frosted lemon cake",
         "name_apo_rank1": "lux99",
         "price_apo_rank1": 12.38
+    },
+    {
+        "key_flower": "pedanios 28/1 cmk-ca: chemango kush",
+        "name_apo_rank1": "lux99",
+        "price_apo_rank1": 15.23
+    },
+    {
+        "key_flower": "wellford aquaponic 30/1 qsg: queen sangria",
+        "name_apo_rank1": "lux99",
+        "price_apo_rank1": 17.14
     },
     {
         "key_flower": "cm 24/1 bry: strawberry og",
@@ -738,6 +690,11 @@
         "price_apo_rank1": 9.52
     },
     {
+        "key_flower": "enua 25/1 afsc: animal face sherb crasher",
+        "name_apo_rank1": "lux99",
+        "price_apo_rank1": 12.85
+    },
+    {
         "key_flower": "tilray thc22 spotlight porto: wappa",
         "name_apo_rank1": "lux99",
         "price_apo_rank1": 11.66
@@ -823,16 +780,16 @@
         "price_apo_rank2": 9.99
     },
     {
-        "key_flower": "huala 22/1 ca btr: black triangle",
-        "name_apo_rank1": "jiroo",
-        "price_apo_rank1": 5.95
-    },
-    {
         "key_flower": "420 sungrown 22/1 ca zrp: zour apple",
         "name_apo_rank1": "cannalivery",
         "price_apo_rank1": 8.39,
         "name_apo_rank2": "jiroo",
         "price_apo_rank2": 8.95
+    },
+    {
+        "key_flower": "remexian 30/1 che: chem cookies",
+        "name_apo_rank1": "jiroo",
+        "price_apo_rank1": 9.95
     },
     {
         "key_flower": "pedanios 29/1 srd-ca: sourdough",
@@ -980,6 +937,11 @@
         "price_apo_rank1": 5.95
     },
     {
+        "key_flower": "sumo canada craft no.3: garlic chem",
+        "name_apo_rank1": "jiroo",
+        "price_apo_rank1": 7.95
+    },
+    {
         "key_flower": "green karat cg: cool grapes",
         "name_apo_rank1": "jiroo",
         "price_apo_rank1": 9.5
@@ -1039,11 +1001,6 @@
         "price_apo_rank2": 11.99
     },
     {
-        "key_flower": "remexian 30/1 che: chem cookies",
-        "name_apo_rank1": "jiroo",
-        "price_apo_rank1": 9.95
-    },
-    {
         "key_flower": "enua 22/1 mac f ca: mac f",
         "name_apo_rank1": "jiroo",
         "price_apo_rank1": 8.5
@@ -1064,6 +1021,11 @@
         "key_flower": "green karat ro: runtz og",
         "name_apo_rank1": "jiroo",
         "price_apo_rank1": 9.95
+    },
+    {
+        "key_flower": "420 sungrown 27/1 ca lly: legendary larry",
+        "name_apo_rank1": "jiroo",
+        "price_apo_rank1": 9.5
     },
     {
         "key_flower": "avaay signature 23/1 mc: mandarin cookies",
@@ -1151,5 +1113,33 @@
         "key_flower": "pedanios 26/1 ehd-ca: electric honeydew",
         "name_apo_rank1": "jiroo",
         "price_apo_rank1": 9.5
+    },
+    {
+        "key_flower": "pedanios 10/10 eqi-ca: equiposa",
+        "name_apo_rank1": "jiroo",
+        "price_apo_rank1": 6.95,
+        "name_apo_rank2": "medicalherbs",
+        "price_apo_rank2": 10.99
+    },
+    {
+        "key_flower": "eufloria 30/1 mcd: mac deluxe",
+        "name_apo_rank1": "jiroo",
+        "price_apo_rank1": 8.95,
+        "name_apo_rank2": "lux99",
+        "price_apo_rank2": 12.26
+    },
+    {
+        "key_flower": "mac 1+: mac 1",
+        "name_apo_rank1": "jiroo",
+        "price_apo_rank1": 9.95
+    },
+    {
+        "key_flower": "420 evolution 27/1 ca gmo: gmo",
+        "name_apo_rank1": "jiroo",
+        "price_apo_rank1": 10.5,
+        "name_apo_rank2": "cannem",
+        "price_apo_rank2": 11.99,
+        "name_apo_rank3": "lux99",
+        "price_apo_rank3": 16.42
     }
 ]
