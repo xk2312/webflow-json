@@ -12108,5 +12108,28 @@
         "price1_per_g": 9.4,
         "av_price_per_g": 9.4,
         "total_price": 47.0
+    },
+    {
+        "id": 716,
+        "cart_status": 3,
+        "timestamp": "2025-05-19 22:54:15.109196",
+        "session_id": "404b31f9-b1c1-4022-8e19-36865aba341c",
+        "link_source": "doc-link-3",
+        "link_name": "telecan",
+        "link_url": "https://telecan.de/",
+        "name_apo_1": "jiroo",
+        "name_apo_2": "placeholder",
+        "name_apo_3": "placeholder",
+        "produktname1": "420 evolution 33/1 ca pch: peach chementine",
+        "quantity1": 5.0,
+        "price1_per_g": 11.9,
+        "produktname2": "avaay 29/1 scp: sour cherry punch",
+        "quantity2": 5.0,
+        "price2_per_g": 9.95,
+        "produktname3": "avaay 23/1 ck: critical kush",
+        "quantity3": 5.0,
+        "price3_per_g": 8.95,
+        "av_price_per_g": 10.266666666666667,
+        "total_price": 154.0
     }
 ]
