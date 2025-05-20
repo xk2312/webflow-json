@@ -44174,5 +44174,541 @@
         "source_url": "https://www.zencan.de/search?query=skywalker+24%2F1",
         "item_class": "w-layout-blockcontainer ad-container-head w-container",
         "item_id": "ad-container-head"
+    },
+    {
+        "id": 5601,
+        "session_id": "072e27e3-b754-4d89-82b0-14a6cfc5b7d2",
+        "timestamp": "2025-05-20 08:39:56.919867",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "warenkorb_icon_image",
+        "item_id": "warenkorb_icon_image"
+    },
+    {
+        "id": 5602,
+        "session_id": "681366f0-f548-4340-824a-ad3d80b54c7f",
+        "timestamp": "2025-05-20 10:11:57.041496",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "warenkorb_icon_image",
+        "item_id": "warenkorb_icon_image"
+    },
+    {
+        "id": 5603,
+        "session_id": "681366f0-f548-4340-824a-ad3d80b54c7f",
+        "timestamp": "2025-05-20 10:12:18.662584",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "warenkorb_icon_image",
+        "item_id": "warenkorb_icon_image"
+    },
+    {
+        "id": 5604,
+        "session_id": "c4aed75f-5638-4217-a201-a3e1bd3d1341",
+        "timestamp": "2025-05-20 10:28:47.902645",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer filter-icon w-container",
+        "item_id": "filter-icon"
+    },
+    {
+        "id": 5605,
+        "session_id": "c4aed75f-5638-4217-a201-a3e1bd3d1341",
+        "timestamp": "2025-05-20 10:47:16.184644",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "x-out-image",
+        "item_id": "x-out-image"
+    },
+    {
+        "id": 5606,
+        "session_id": "c4aed75f-5638-4217-a201-a3e1bd3d1341",
+        "timestamp": "2025-05-20 10:47:22.082846",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer filter-icon w-container",
+        "item_id": "filter-icon"
+    },
+    {
+        "id": 5607,
+        "session_id": "bd7bc5e2-c649-4bc8-bba1-5f5c5dc7656f",
+        "timestamp": "2025-05-20 10:51:21.739811",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "warenkorb_icon_image",
+        "item_id": "warenkorb_icon_image"
+    },
+    {
+        "id": 5608,
+        "session_id": "c4aed75f-5638-4217-a201-a3e1bd3d1341",
+        "timestamp": "2025-05-20 10:52:58.551200",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer filter-icon w-container",
+        "item_id": "filter-icon"
+    },
+    {
+        "id": 5609,
+        "session_id": "f66ef338-656a-4976-8715-e94ace9a91fc",
+        "timestamp": "2025-05-20 11:46:50.614558",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer sort_icon w-container",
+        "item_id": "sort_icon"
+    },
+    {
+        "id": 5610,
+        "session_id": "f66ef338-656a-4976-8715-e94ace9a91fc",
+        "timestamp": "2025-05-20 11:46:52.050165",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer sort_price w-container",
+        "item_id": "sort_price"
+    },
+    {
+        "id": 5611,
+        "session_id": "9012b391-1b96-46d6-b9c4-8d12582741b2",
+        "timestamp": "2025-05-20 12:16:37.497096",
+        "source_url": "https://www.zencan.de/?sort=terps",
+        "item_class": "w-layout-blockcontainer filter-icon w-container",
+        "item_id": "filter-icon"
+    },
+    {
+        "id": 5612,
+        "session_id": "9012b391-1b96-46d6-b9c4-8d12582741b2",
+        "timestamp": "2025-05-20 12:17:16.422878",
+        "source_url": "https://www.zencan.de/?sort=terps",
+        "item_class": "x-out-image",
+        "item_id": "x-out-image"
+    },
+    {
+        "id": 5613,
+        "session_id": "9012b391-1b96-46d6-b9c4-8d12582741b2",
+        "timestamp": "2025-05-20 12:17:17.810037",
+        "source_url": "https://www.zencan.de/?sort=terps",
+        "item_class": "w-layout-blockcontainer filter-icon w-container",
+        "item_id": "filter-icon"
+    },
+    {
+        "id": 5614,
+        "session_id": "9012b391-1b96-46d6-b9c4-8d12582741b2",
+        "timestamp": "2025-05-20 12:17:18.606174",
+        "source_url": "https://www.zencan.de/?sort=terps",
+        "item_class": "x-out-image",
+        "item_id": "x-out-image"
+    },
+    {
+        "id": 5615,
+        "session_id": "9012b391-1b96-46d6-b9c4-8d12582741b2",
+        "timestamp": "2025-05-20 12:17:19.171518",
+        "source_url": "https://www.zencan.de/?sort=terps",
+        "item_class": "w-layout-blockcontainer sort_icon w-container",
+        "item_id": "sort_icon"
+    },
+    {
+        "id": 5616,
+        "session_id": "9012b391-1b96-46d6-b9c4-8d12582741b2",
+        "timestamp": "2025-05-20 12:17:22.753583",
+        "source_url": "https://www.zencan.de/?sort=terps",
+        "item_class": "w-layout-blockcontainer sort_price w-container",
+        "item_id": "sort_price"
+    },
+    {
+        "id": 5617,
+        "session_id": "cef1edc0-a89e-42d5-8274-002ce32f29eb",
+        "timestamp": "2025-05-20 13:34:58.954173",
+        "source_url": "https://www.zencan.de/?sort=thc",
+        "item_class": "w-layout-blockcontainer filter-icon w-container",
+        "item_id": "filter-icon"
+    },
+    {
+        "id": 5618,
+        "session_id": "cef1edc0-a89e-42d5-8274-002ce32f29eb",
+        "timestamp": "2025-05-20 13:35:34.431152",
+        "source_url": "https://www.zencan.de/?sort=thc",
+        "item_class": "w-layout-blockcontainer sort_icon w-container",
+        "item_id": "sort_icon"
+    },
+    {
+        "id": 5619,
+        "session_id": "cef1edc0-a89e-42d5-8274-002ce32f29eb",
+        "timestamp": "2025-05-20 13:35:36.754212",
+        "source_url": "https://www.zencan.de/?sort=thc",
+        "item_class": "w-layout-blockcontainer sort_price w-container",
+        "item_id": "sort_price"
+    },
+    {
+        "id": 5620,
+        "session_id": "cef1edc0-a89e-42d5-8274-002ce32f29eb",
+        "timestamp": "2025-05-20 13:36:39.687425",
+        "source_url": "https://www.zencan.de/?sort=thc",
+        "item_class": "w-layout-blockcontainer sort_icon w-container",
+        "item_id": "sort_icon"
+    },
+    {
+        "id": 5621,
+        "session_id": "cef1edc0-a89e-42d5-8274-002ce32f29eb",
+        "timestamp": "2025-05-20 13:37:30.694257",
+        "source_url": "https://www.zencan.de/?sort=thc",
+        "item_class": "w-layout-blockcontainer sort_price w-container mixitup-control-active",
+        "item_id": "sort_price"
+    },
+    {
+        "id": 5622,
+        "session_id": "cef1edc0-a89e-42d5-8274-002ce32f29eb",
+        "timestamp": "2025-05-20 13:41:11.775191",
+        "source_url": "https://www.zencan.de/?sort=thc#",
+        "item_class": "warenkorb_icon_image",
+        "item_id": "warenkorb_icon_image"
+    },
+    {
+        "id": 5623,
+        "session_id": "fc06d0ad-c551-41f2-aedb-4b597f210bf7",
+        "timestamp": "2025-05-20 13:45:35.161953",
+        "source_url": "https://www.zencan.de/produkte/demecan-craft-sky-25-01-sky-pie",
+        "item_class": "warenkorb_icon_image",
+        "item_id": "warenkorb_icon_image"
+    },
+    {
+        "id": 5624,
+        "session_id": "fc06d0ad-c551-41f2-aedb-4b597f210bf7",
+        "timestamp": "2025-05-20 13:45:49.639478",
+        "source_url": "https://www.zencan.de/produkte/demecan-craft-sky-25-01-sky-pie",
+        "item_class": "warenkorb-x",
+        "item_id": "warenkorb-x"
+    },
+    {
+        "id": 5625,
+        "session_id": "c78b0ad7-8a13-4aff-8684-9009558e3061",
+        "timestamp": "2025-05-20 15:01:25.228444",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer ad-container-head w-container",
+        "item_id": "ad-container-head"
+    },
+    {
+        "id": 5626,
+        "session_id": "082e29f0-7088-46c9-95ca-2d294441973e",
+        "timestamp": "2025-05-20 15:13:13.432829",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer filter-icon w-container",
+        "item_id": "filter-icon"
+    },
+    {
+        "id": 5627,
+        "session_id": "082e29f0-7088-46c9-95ca-2d294441973e",
+        "timestamp": "2025-05-20 15:13:16.194651",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "x-out-image",
+        "item_id": "x-out-image"
+    },
+    {
+        "id": 5628,
+        "session_id": "082e29f0-7088-46c9-95ca-2d294441973e",
+        "timestamp": "2025-05-20 15:13:40.815121",
+        "source_url": "https://www.zencan.de/produkte/bathera-24-1-permanent-marker",
+        "item_class": "warenkorb_icon_image",
+        "item_id": "warenkorb_icon_image"
+    },
+    {
+        "id": 5629,
+        "session_id": "082e29f0-7088-46c9-95ca-2d294441973e",
+        "timestamp": "2025-05-20 15:13:50.501264",
+        "source_url": "https://www.zencan.de/produkte/bathera-24-1-permanent-marker",
+        "item_class": "warenkorb-x",
+        "item_id": "warenkorb-x"
+    },
+    {
+        "id": 5630,
+        "session_id": "fda2dd28-69bf-4b07-b2ae-e10e0434540b",
+        "timestamp": "2025-05-20 17:09:40.004198",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer filter-icon w-container",
+        "item_id": "filter-icon"
+    },
+    {
+        "id": 5631,
+        "session_id": "fda2dd28-69bf-4b07-b2ae-e10e0434540b",
+        "timestamp": "2025-05-20 17:09:47.858576",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "x-out-image",
+        "item_id": "x-out-image"
+    },
+    {
+        "id": 5632,
+        "session_id": "fda2dd28-69bf-4b07-b2ae-e10e0434540b",
+        "timestamp": "2025-05-20 17:09:48.883027",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer sort_icon w-container",
+        "item_id": "sort_icon"
+    },
+    {
+        "id": 5633,
+        "session_id": "fda2dd28-69bf-4b07-b2ae-e10e0434540b",
+        "timestamp": "2025-05-20 17:09:50.375209",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer sort_thc w-container",
+        "item_id": "sort_thc"
+    },
+    {
+        "id": 5634,
+        "session_id": "fda2dd28-69bf-4b07-b2ae-e10e0434540b",
+        "timestamp": "2025-05-20 17:09:52.308261",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer sort_icon w-container",
+        "item_id": "sort_icon"
+    },
+    {
+        "id": 5635,
+        "session_id": "fda2dd28-69bf-4b07-b2ae-e10e0434540b",
+        "timestamp": "2025-05-20 17:09:54.351981",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer sort_pqi w-container",
+        "item_id": "sort_pqi"
+    },
+    {
+        "id": 5636,
+        "session_id": "fda2dd28-69bf-4b07-b2ae-e10e0434540b",
+        "timestamp": "2025-05-20 17:10:07.428960",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer sort_icon w-container",
+        "item_id": "sort_icon"
+    },
+    {
+        "id": 5637,
+        "session_id": "fda2dd28-69bf-4b07-b2ae-e10e0434540b",
+        "timestamp": "2025-05-20 17:10:10.687907",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer sort_price w-container",
+        "item_id": "sort_price"
+    },
+    {
+        "id": 5638,
+        "session_id": "fda2dd28-69bf-4b07-b2ae-e10e0434540b",
+        "timestamp": "2025-05-20 17:10:34.292771",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "warenkorb_icon_image",
+        "item_id": "warenkorb_icon_image"
+    },
+    {
+        "id": 5639,
+        "session_id": "fda2dd28-69bf-4b07-b2ae-e10e0434540b",
+        "timestamp": "2025-05-20 17:10:51.417936",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "warenkorb-x",
+        "item_id": "warenkorb-x"
+    },
+    {
+        "id": 5640,
+        "session_id": "b4fe2e06-9691-48d2-a7e3-78e46c74248f",
+        "timestamp": "2025-05-20 17:53:19.656828",
+        "source_url": "https://www.zencan.de/?sort=thc",
+        "item_class": "w-layout-blockcontainer sort_icon w-container",
+        "item_id": "sort_icon"
+    },
+    {
+        "id": 5641,
+        "session_id": "b4fe2e06-9691-48d2-a7e3-78e46c74248f",
+        "timestamp": "2025-05-20 17:53:28.685089",
+        "source_url": "https://www.zencan.de/?sort=thc",
+        "item_class": "w-layout-blockcontainer sort_price w-container",
+        "item_id": "sort_price"
+    },
+    {
+        "id": 5642,
+        "session_id": "b4fe2e06-9691-48d2-a7e3-78e46c74248f",
+        "timestamp": "2025-05-20 17:54:01.073941",
+        "source_url": "https://www.zencan.de/?sort=thc",
+        "item_class": "warenkorb_icon_image",
+        "item_id": "warenkorb_icon_image"
+    },
+    {
+        "id": 5643,
+        "session_id": "b4fe2e06-9691-48d2-a7e3-78e46c74248f",
+        "timestamp": "2025-05-20 17:56:15.310554",
+        "source_url": "https://www.zencan.de/?sort=thc",
+        "item_class": "warenkorb_icon_image",
+        "item_id": "warenkorb_icon_image"
+    },
+    {
+        "id": 5644,
+        "session_id": "6fb67684-ddaa-4112-9ec8-61765483f560",
+        "timestamp": "2025-05-20 20:47:33.513242",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "warenkorb_icon_image",
+        "item_id": "warenkorb_icon_image"
+    },
+    {
+        "id": 5645,
+        "session_id": "6fb67684-ddaa-4112-9ec8-61765483f560",
+        "timestamp": "2025-05-20 20:48:31.165405",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "warenkorb-x",
+        "item_id": "warenkorb-x"
+    },
+    {
+        "id": 5646,
+        "session_id": "6fb67684-ddaa-4112-9ec8-61765483f560",
+        "timestamp": "2025-05-20 20:48:35.909359",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "warenkorb_icon_image",
+        "item_id": "warenkorb_icon_image"
+    },
+    {
+        "id": 5647,
+        "session_id": "6fb67684-ddaa-4112-9ec8-61765483f560",
+        "timestamp": "2025-05-20 20:48:44.219274",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "warenkorb-x",
+        "item_id": "warenkorb-x"
+    },
+    {
+        "id": 5648,
+        "session_id": "a39ef164-a407-4faa-ba75-ee25f4914cad",
+        "timestamp": "2025-05-20 21:26:02.155029",
+        "source_url": "https://www.zencan.de/?sort=terps",
+        "item_class": "warenkorb_icon_image",
+        "item_id": "warenkorb_icon_image"
+    },
+    {
+        "id": 5649,
+        "session_id": "a39ef164-a407-4faa-ba75-ee25f4914cad",
+        "timestamp": "2025-05-20 21:26:10.801156",
+        "source_url": "https://www.zencan.de/?sort=terps",
+        "item_class": "warenkorb-x",
+        "item_id": "warenkorb-x"
+    },
+    {
+        "id": 5650,
+        "session_id": "a39ef164-a407-4faa-ba75-ee25f4914cad",
+        "timestamp": "2025-05-20 21:26:15.403651",
+        "source_url": "https://www.zencan.de/?sort=terps",
+        "item_class": "w-layout-blockcontainer filter-icon w-container",
+        "item_id": "filter-icon"
+    },
+    {
+        "id": 5651,
+        "session_id": "a39ef164-a407-4faa-ba75-ee25f4914cad",
+        "timestamp": "2025-05-20 21:26:21.649591",
+        "source_url": "https://www.zencan.de/?sort=terps",
+        "item_class": "x-out-image",
+        "item_id": "x-out-image"
+    },
+    {
+        "id": 5652,
+        "session_id": "a39ef164-a407-4faa-ba75-ee25f4914cad",
+        "timestamp": "2025-05-20 21:28:16.542777",
+        "source_url": "https://www.zencan.de/?sort=terps",
+        "item_class": "w-layout-blockcontainer filter-icon w-container",
+        "item_id": "filter-icon"
+    },
+    {
+        "id": 5653,
+        "session_id": "a39ef164-a407-4faa-ba75-ee25f4914cad",
+        "timestamp": "2025-05-20 21:28:23.412940",
+        "source_url": "https://www.zencan.de/?sort=terps",
+        "item_class": "x-out-image",
+        "item_id": "x-out-image"
+    },
+    {
+        "id": 5654,
+        "session_id": "a39ef164-a407-4faa-ba75-ee25f4914cad",
+        "timestamp": "2025-05-20 21:28:26.182074",
+        "source_url": "https://www.zencan.de/?sort=terps",
+        "item_class": "warenkorb_icon_image",
+        "item_id": "warenkorb_icon_image"
+    },
+    {
+        "id": 5655,
+        "session_id": "a39ef164-a407-4faa-ba75-ee25f4914cad",
+        "timestamp": "2025-05-20 21:28:39.288401",
+        "source_url": "https://www.zencan.de/?sort=terps",
+        "item_class": "warenkorb-x",
+        "item_id": "warenkorb-x"
+    },
+    {
+        "id": 5656,
+        "session_id": "a39ef164-a407-4faa-ba75-ee25f4914cad",
+        "timestamp": "2025-05-20 21:29:17.081318",
+        "source_url": "https://www.zencan.de/?sort=terps",
+        "item_class": "w-layout-blockcontainer filter-icon w-container",
+        "item_id": "filter-icon"
+    },
+    {
+        "id": 5657,
+        "session_id": "a39ef164-a407-4faa-ba75-ee25f4914cad",
+        "timestamp": "2025-05-20 21:30:09.094369",
+        "source_url": "https://www.zencan.de/?sort=terps",
+        "item_class": "w-layout-blockcontainer filter-icon w-container",
+        "item_id": "filter-icon"
+    },
+    {
+        "id": 5658,
+        "session_id": "a39ef164-a407-4faa-ba75-ee25f4914cad",
+        "timestamp": "2025-05-20 21:30:11.187790",
+        "source_url": "https://www.zencan.de/?sort=terps",
+        "item_class": "x-out-image",
+        "item_id": "x-out-image"
+    },
+    {
+        "id": 5659,
+        "session_id": "a39ef164-a407-4faa-ba75-ee25f4914cad",
+        "timestamp": "2025-05-20 21:30:12.580572",
+        "source_url": "https://www.zencan.de/?sort=terps",
+        "item_class": "w-layout-blockcontainer sort_icon w-container",
+        "item_id": "sort_icon"
+    },
+    {
+        "id": 5660,
+        "session_id": "a39ef164-a407-4faa-ba75-ee25f4914cad",
+        "timestamp": "2025-05-20 21:30:25.672880",
+        "source_url": "https://www.zencan.de/?sort=terps",
+        "item_class": "warenkorb_icon_image",
+        "item_id": "warenkorb_icon_image"
+    },
+    {
+        "id": 5661,
+        "session_id": "a39ef164-a407-4faa-ba75-ee25f4914cad",
+        "timestamp": "2025-05-20 21:30:31.399818",
+        "source_url": "https://www.zencan.de/?sort=terps",
+        "item_class": "warenkorb-x",
+        "item_id": "warenkorb-x"
+    },
+    {
+        "id": 5662,
+        "session_id": "a39ef164-a407-4faa-ba75-ee25f4914cad",
+        "timestamp": "2025-05-20 21:30:41.032581",
+        "source_url": "https://www.zencan.de/?sort=terps",
+        "item_class": "w-layout-blockcontainer sort_terps w-container mixitup-control-active",
+        "item_id": "sort_terps"
+    },
+    {
+        "id": 5663,
+        "session_id": "a39ef164-a407-4faa-ba75-ee25f4914cad",
+        "timestamp": "2025-05-20 21:30:45.808584",
+        "source_url": "https://www.zencan.de/?sort=terps",
+        "item_class": "warenkorb_icon_image",
+        "item_id": "warenkorb_icon_image"
+    },
+    {
+        "id": 5664,
+        "session_id": "58ddcabe-80c9-4f46-bed6-32599dda479a",
+        "timestamp": "2025-05-20 21:30:56.181145",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer filter-icon w-container",
+        "item_id": "filter-icon"
+    },
+    {
+        "id": 5665,
+        "session_id": "2fdb8bc9-812a-41dc-9170-58ba6f1f2018",
+        "timestamp": "2025-05-20 21:56:25.638606",
+        "source_url": "https://www.zencan.de/search?query=Demecan+Craft+Cali+29%3A01+Hawaiian+Rain+X+Permanent+Marker",
+        "item_class": "w-layout-blockcontainer ad-container-head w-container",
+        "item_id": "ad-container-head"
+    },
+    {
+        "id": 5666,
+        "session_id": "bd926fc5-f3f1-4a20-b60d-4b4659c88d2f",
+        "timestamp": "2025-05-20 22:31:30.018034",
+        "source_url": "https://www.zencan.de/kultivare/sensi-star",
+        "item_class": "warenkorb_icon_image",
+        "item_id": "warenkorb_icon_image"
+    },
+    {
+        "id": 5667,
+        "session_id": "bd926fc5-f3f1-4a20-b60d-4b4659c88d2f",
+        "timestamp": "2025-05-20 22:31:30.693559",
+        "source_url": "https://www.zencan.de/kultivare/sensi-star",
+        "item_class": "warenkorb-x",
+        "item_id": "warenkorb-x"
     }
 ]
