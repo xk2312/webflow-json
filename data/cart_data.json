@@ -33255,5 +33255,54 @@
         "aponame1": "lux99",
         "preis1": 47.0,
         "timestamp": "2025-05-19 07:56:19.481000"
+    },
+    {
+        "id": 2666,
+        "session_id": "0473044b-2474-40e0-95f5-71b0e84bbade",
+        "produktname1": "420 evolution 27/1 ca icc: ice cream cake kush mints",
+        "menge1": 5.0,
+        "preisprogramm1": 10.99,
+        "aponame1": "cannalivery",
+        "preis1": 54.95,
+        "timestamp": "2025-05-19 10:01:30.702000"
+    },
+    {
+        "id": 2667,
+        "session_id": "404b31f9-b1c1-4022-8e19-36865aba341c",
+        "produktname1": "420 evolution 33/1 ca pch: peach chementine",
+        "menge1": 5.0,
+        "preisprogramm1": 11.9,
+        "aponame1": "jiroo",
+        "preis1": 59.5,
+        "timestamp": "2025-05-19 20:51:17.517000"
+    },
+    {
+        "id": 2668,
+        "session_id": "404b31f9-b1c1-4022-8e19-36865aba341c",
+        "produktname1": "420 evolution 33/1 ca pch: peach chementine",
+        "menge1": 5.0,
+        "preisprogramm1": 11.9,
+        "produktname2": "avaay 29/1 scp: sour cherry punch",
+        "menge2": 5.0,
+        "preisprogramm2": 9.95,
+        "aponame1": "jiroo",
+        "preis1": 109.25,
+        "timestamp": "2025-05-19 20:51:25.543000"
+    },
+    {
+        "id": 2669,
+        "session_id": "404b31f9-b1c1-4022-8e19-36865aba341c",
+        "produktname1": "420 evolution 33/1 ca pch: peach chementine",
+        "menge1": 5.0,
+        "preisprogramm1": 11.9,
+        "produktname2": "avaay 29/1 scp: sour cherry punch",
+        "menge2": 5.0,
+        "preisprogramm2": 9.95,
+        "produktname3": "avaay 23/1 ck: critical kush",
+        "menge3": 5.0,
+        "preisprogramm3": 8.95,
+        "aponame1": "jiroo",
+        "preis1": 154.0,
+        "timestamp": "2025-05-19 20:51:33.535000"
     }
 ]
