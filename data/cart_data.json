@@ -33620,5 +33620,126 @@
         "aponame1": "jiroo",
         "preis1": 137.0,
         "timestamp": "2025-05-20 19:31:56.188000"
+    },
+    {
+        "id": 2697,
+        "session_id": "6e8e8f9a-8264-4a70-9994-6f65c4dd04d3",
+        "produktname1": "cannamedical sativa classic: strawberry ice",
+        "menge1": 5.0,
+        "preisprogramm1": 11.99,
+        "aponame1": "cannalivery",
+        "preis1": 59.95,
+        "timestamp": "2025-05-20 23:20:12.482000"
+    },
+    {
+        "id": 2698,
+        "session_id": "6e8e8f9a-8264-4a70-9994-6f65c4dd04d3",
+        "produktname1": "cannamedical sativa classic: strawberry ice",
+        "menge1": 5.0,
+        "preisprogramm1": 11.99,
+        "produktname2": "cannamedical sativa light: strawberry ice",
+        "menge2": 5.0,
+        "preisprogramm2": 8.49,
+        "aponame1": "cannalivery",
+        "preis1": 102.4,
+        "timestamp": "2025-05-20 23:20:19.523000"
+    },
+    {
+        "id": 2699,
+        "session_id": "6e8e8f9a-8264-4a70-9994-6f65c4dd04d3",
+        "produktname1": "cannamedical sativa classic: strawberry ice",
+        "menge1": 5.0,
+        "preisprogramm1": 11.99,
+        "produktname2": "cannamedical sativa light: strawberry ice",
+        "menge2": 5.0,
+        "preisprogramm2": 8.49,
+        "produktname3": "cannamedical hybrid classic nm: gorilla zkittlez",
+        "menge3": 5.0,
+        "preisprogramm3": 9.18,
+        "aponame1": "cannalivery",
+        "preis1": 148.3,
+        "timestamp": "2025-05-20 23:20:28.563000"
+    },
+    {
+        "id": 2700,
+        "session_id": "3d587314-590b-4185-b766-10c3fc510391",
+        "produktname1": "avaay 32/1 ahc: amnesia haze cake",
+        "menge1": 5.0,
+        "preisprogramm1": 10.95,
+        "aponame1": "jiroo",
+        "preis1": 54.75,
+        "timestamp": "2025-05-21 01:28:18.233000"
+    },
+    {
+        "id": 2701,
+        "session_id": "d1ffb4ef-e3b7-48bb-85c6-f067343d5476",
+        "produktname1": "pedanios 10/13 mbe-ca: moon berry",
+        "menge1": 5.0,
+        "preisprogramm1": 9.99,
+        "aponame1": "cannem",
+        "preis1": 49.95,
+        "timestamp": "2025-05-21 08:50:19.558000"
+    },
+    {
+        "id": 2702,
+        "session_id": "4eeb59cd-7c5d-419b-aa18-e5cdcd6f4e51",
+        "produktname1": "420 evolution 25/1 ca pld: plum driver",
+        "menge1": 5.0,
+        "preisprogramm1": 7.95,
+        "aponame1": "jiroo",
+        "preis1": 39.75,
+        "timestamp": "2025-05-21 08:51:08.918000"
+    },
+    {
+        "id": 2703,
+        "session_id": "f6100e2e-1058-4433-9dab-c916c5e5f554",
+        "produktname1": "avaay 29/1 scp: sour cherry punch",
+        "menge1": 5.0,
+        "preisprogramm1": 9.95,
+        "aponame1": "jiroo",
+        "preis1": 49.75,
+        "timestamp": "2025-05-21 09:30:58.349000"
+    },
+    {
+        "id": 2704,
+        "session_id": "cd5340bd-dafd-4c0f-b9de-ea19685b6667",
+        "produktname1": "avaay 32/1 ahc: amnesia haze cake",
+        "menge1": 5.0,
+        "preisprogramm1": 10.95,
+        "aponame1": "jiroo",
+        "preis1": 54.75,
+        "timestamp": "2025-05-21 22:17:28.744000"
+    },
+    {
+        "id": 2705,
+        "session_id": "094ce14b-688a-462a-b538-1da542b9f473",
+        "produktname1": "lot 420 glt: gelato 33",
+        "menge1": 5.0,
+        "preisprogramm1": 10.95,
+        "aponame1": "jiroo",
+        "preis1": 54.75,
+        "aponame2": "cannem",
+        "preis2": 59.95,
+        "timestamp": "2025-05-21 23:19:03.696000"
+    },
+    {
+        "id": 2706,
+        "session_id": "3ab8ad03-107f-4bf0-adcf-25dce82fdd88",
+        "produktname1": "420 evolution 25/1 ca pld: plum driver",
+        "menge1": 5.0,
+        "preisprogramm1": 7.95,
+        "aponame1": "jiroo",
+        "preis1": 39.75,
+        "timestamp": "2025-05-22 08:32:53.264000"
+    },
+    {
+        "id": 2707,
+        "session_id": "fe924cad-298c-40bd-a2f3-71b8d595c804",
+        "produktname1": "bathera 24/1: permanent marker",
+        "menge1": 5.0,
+        "preisprogramm1": 8.95,
+        "aponame1": "jiroo",
+        "preis1": 44.75,
+        "timestamp": "2025-05-22 08:32:56.534000"
     }
 ]
