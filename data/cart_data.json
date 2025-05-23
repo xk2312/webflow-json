@@ -31905,6 +31905,16 @@
         "timestamp": "2025-05-07 20:40:03.454000"
     },
     {
+        "id": 2708,
+        "session_id": "d5007163-39c5-4110-9c16-ce9fa7339ee6",
+        "produktname1": "peace naturals 31/1 gc: gmo cookies",
+        "menge1": 5.0,
+        "preisprogramm1": 10.49,
+        "aponame1": "cannalivery",
+        "preis1": 52.45,
+        "timestamp": "2025-05-22 11:30:36.204000"
+    },
+    {
         "id": 2551,
         "session_id": "2f362c2e-454b-44e5-81f0-e621237c5ed3",
         "produktname1": "420 compound 27/1 ca gap: gastro pop",
@@ -32516,6 +32526,16 @@
         "aponame1": "cannabisapo24",
         "preis1": 88.15,
         "timestamp": "2025-05-11 19:38:17.496000"
+    },
+    {
+        "id": 2709,
+        "session_id": "4c91b6ef-5b1c-4dc9-8493-81f998ada804",
+        "produktname1": "bathera 24/1: permanent marker",
+        "menge1": 5.0,
+        "preisprogramm1": 8.95,
+        "aponame1": "jiroo",
+        "preis1": 44.75,
+        "timestamp": "2025-05-22 12:09:25.923000"
     },
     {
         "id": 2602,
@@ -33741,5 +33761,74 @@
         "aponame1": "jiroo",
         "preis1": 44.75,
         "timestamp": "2025-05-22 08:32:56.534000"
+    },
+    {
+        "id": 2710,
+        "session_id": "6f3f8e7e-c09a-46f0-a5de-6553850430a8",
+        "produktname1": "bathera 24/1: permanent marker",
+        "menge1": 5.0,
+        "preisprogramm1": 8.95,
+        "produktname2": "bathera 24/1: permanent marker",
+        "menge2": 5.0,
+        "preisprogramm2": 8.95,
+        "aponame1": "jiroo",
+        "preis1": 89.5,
+        "timestamp": "2025-05-22 12:55:34.221000"
+    },
+    {
+        "id": 2711,
+        "session_id": "293e9514-d3c9-43b2-9389-a6e09918c7b9",
+        "produktname1": "420 evolution 25/1 ca flm: frozen lemon mints",
+        "menge1": 5.0,
+        "preisprogramm1": 8.5,
+        "aponame1": "jiroo",
+        "preis1": 42.5,
+        "aponame2": "medicalherbs",
+        "preis2": 58.95,
+        "timestamp": "2025-05-22 17:17:20.943000"
+    },
+    {
+        "id": 2712,
+        "session_id": "47aecf8f-047d-4852-a7b4-8bfc8810cdc6",
+        "produktname1": "420 evolution 22/1 ca mac: mac 1",
+        "menge1": 5.0,
+        "preisprogramm1": 8.95,
+        "aponame1": "jiroo",
+        "preis1": 44.75,
+        "aponame2": "cannem",
+        "preis2": 44.95,
+        "timestamp": "2025-05-22 21:25:53.276000"
+    },
+    {
+        "id": 2713,
+        "session_id": "f518f8bb-d075-4c18-964a-3828358573e2",
+        "produktname1": "peace naturals 33/1 sc: space cake",
+        "menge1": 5.0,
+        "preisprogramm1": 11.99,
+        "aponame1": "cannalivery",
+        "preis1": 59.95,
+        "timestamp": "2025-05-22 21:49:32.327000"
+    },
+    {
+        "id": 2714,
+        "session_id": "31f69d2c-40ef-44dc-8e7b-25207b6ff1e6",
+        "produktname1": "avaay 23/1 ck: critical kush",
+        "menge1": 5.0,
+        "preisprogramm1": 7.29,
+        "aponame1": "cannalivery",
+        "preis1": 36.45,
+        "aponame2": "jiroo",
+        "preis2": 44.75,
+        "timestamp": "2025-05-22 23:30:02.316000"
+    },
+    {
+        "id": 2715,
+        "session_id": "1c477a0e-5271-4683-a861-1611c3cb73bf",
+        "produktname1": "huala 20/1 ca alm: alien mints",
+        "menge1": 5.0,
+        "preisprogramm1": 5.95,
+        "aponame1": "jiroo",
+        "preis1": 29.75,
+        "timestamp": "2025-05-23 00:03:55.803000"
     }
 ]
