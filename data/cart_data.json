@@ -33830,5 +33830,74 @@
         "aponame1": "jiroo",
         "preis1": 29.75,
         "timestamp": "2025-05-23 00:03:55.803000"
+    },
+    {
+        "id": 2716,
+        "session_id": "37d030c0-6a32-4aa2-a400-c97da906ab8e",
+        "produktname1": "420 compound 30/1 ca rpv: rose gold pav\u00e9",
+        "menge1": 5.0,
+        "preisprogramm1": 8.5,
+        "aponame1": "jiroo",
+        "preis1": 42.5,
+        "timestamp": "2025-05-23 05:50:35.756000"
+    },
+    {
+        "id": 2717,
+        "session_id": "c0cdaa97-be7c-452a-b2d1-89eb003f81f3",
+        "produktname1": "420 evolution 30/1 ca icc: ice cream cake kush mints",
+        "menge1": 5.0,
+        "preisprogramm1": 11.49,
+        "aponame1": "cannem",
+        "preis1": 57.45,
+        "timestamp": "2025-05-23 13:40:47.483000"
+    },
+    {
+        "id": 2718,
+        "session_id": "c0cdaa97-be7c-452a-b2d1-89eb003f81f3",
+        "produktname1": "420 evolution 30/1 ca icc: ice cream cake kush mints",
+        "menge1": 5.0,
+        "preisprogramm1": 11.49,
+        "produktname2": "cannamedical sativa forte nm: wedding tree",
+        "menge2": 5.0,
+        "preisprogramm2": 11.99,
+        "aponame1": "cannem",
+        "preis1": 117.4,
+        "timestamp": "2025-05-23 13:41:05.606000"
+    },
+    {
+        "id": 2719,
+        "session_id": "c0cdaa97-be7c-452a-b2d1-89eb003f81f3",
+        "produktname1": "420 evolution 30/1 ca icc: ice cream cake kush mints",
+        "menge1": 5.0,
+        "preisprogramm1": 11.49,
+        "produktname2": "cannamedical sativa forte nm: wedding tree",
+        "menge2": 5.0,
+        "preisprogramm2": 11.99,
+        "produktname3": "pedanios 10/13 mbe-ca: moon berry",
+        "menge3": 5.0,
+        "preisprogramm3": 9.99,
+        "aponame1": "cannem",
+        "preis1": 167.35,
+        "timestamp": "2025-05-23 13:41:12.743000"
+    },
+    {
+        "id": 2720,
+        "session_id": "506facd0-c558-45d3-b3bf-58ffe5ebcaa6",
+        "produktname1": "30/1 amici ul: ultra limelight",
+        "menge1": 5.0,
+        "preisprogramm1": 17.83,
+        "aponame1": "lux99",
+        "preis1": 89.15,
+        "timestamp": "2025-05-23 19:11:58.647000"
+    },
+    {
+        "id": 2721,
+        "session_id": "88c71e9a-906d-4a2d-a1fb-c019e41f0d9a",
+        "produktname1": "remexian 30/1 mtl lab: la brunch",
+        "menge1": 5.0,
+        "preisprogramm1": 11.16,
+        "aponame1": "lux99",
+        "preis1": 55.8,
+        "timestamp": "2025-05-23 20:13:49.996000"
     }
 ]
