@@ -34563,5 +34563,78 @@
         "aponame1": "cannem",
         "preis1": 49.95,
         "timestamp": "2025-05-28 20:18:51.473000"
+    },
+    {
+        "id": 2778,
+        "session_id": "b3e9c9a2-bb6d-414d-9b64-810a6f7c3819",
+        "produktname1": "barongo 24/1 banjo: banjo",
+        "menge1": 5.0,
+        "preisprogramm1": 8.99,
+        "aponame1": "cannalivery",
+        "preis1": 44.95,
+        "timestamp": "2025-05-29 07:31:22.198000"
+    },
+    {
+        "id": 2779,
+        "session_id": "21bfe7b3-9144-4115-bec1-3c5316f840c4",
+        "produktname1": "pedanios 31/1 cos-ca: cosmic cream",
+        "menge1": 5.0,
+        "preisprogramm1": 9.9,
+        "aponame1": "jiroo",
+        "preis1": 49.5,
+        "timestamp": "2025-05-29 08:38:02.458000"
+    },
+    {
+        "id": 2780,
+        "session_id": "623db03e-6fc1-4e87-a6fc-5a097534517a",
+        "produktname1": "420 evolution 25/1 ca pld: plum driver",
+        "menge1": 5.0,
+        "preisprogramm1": 7.9,
+        "aponame1": "jiroo",
+        "preis1": 39.5,
+        "timestamp": "2025-05-29 10:47:58.564000"
+    },
+    {
+        "id": 2781,
+        "session_id": "4ce3d900-34f4-4a52-a37b-8e89ac5f5c37",
+        "produktname1": "avaay 32/1 ahc: amnesia haze cake",
+        "menge1": 5.0,
+        "preisprogramm1": 10.9,
+        "aponame1": "jiroo",
+        "preis1": 54.5,
+        "timestamp": "2025-05-29 10:52:46.528000"
+    },
+    {
+        "id": 2782,
+        "session_id": "0c874c24-d3f7-436a-b877-dd500714fd42",
+        "produktname1": "barongo 24/1 banjo: banjo",
+        "menge1": 5.0,
+        "preisprogramm1": 8.99,
+        "produktname2": "cannamedical sativa light: strawberry ice",
+        "menge2": 5.0,
+        "preisprogramm2": 8.49,
+        "aponame1": "cannalivery",
+        "preis1": 87.4,
+        "timestamp": "2025-05-29 12:38:25.454000"
+    },
+    {
+        "id": 2783,
+        "session_id": "a094d5f5-2b6a-4dc9-8b46-8e0968c88971",
+        "produktname1": "bathera 24/1: permanent marker",
+        "menge1": 5.0,
+        "preisprogramm1": 8.9,
+        "aponame1": "jiroo",
+        "preis1": 44.5,
+        "timestamp": "2025-05-29 17:14:16.984000"
+    },
+    {
+        "id": 2784,
+        "session_id": "c0f681e5-be6d-414d-a938-750283b13a46",
+        "produktname1": "bathera 28/1: blue z",
+        "menge1": 5.0,
+        "preisprogramm1": 9.49,
+        "aponame1": "cannalivery",
+        "preis1": 47.45,
+        "timestamp": "2025-05-29 19:30:43.021000"
     }
 ]
