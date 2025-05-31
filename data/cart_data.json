@@ -34636,5 +34636,77 @@
         "aponame1": "cannalivery",
         "preis1": 47.45,
         "timestamp": "2025-05-29 19:30:43.021000"
+    },
+    {
+        "id": 2785,
+        "session_id": "1e37eb0b-277f-4d36-86ce-1dc8c6fa72ca",
+        "produktname1": "420 evolution 33/1 ca pch: peach chementine",
+        "menge1": 5.0,
+        "preisprogramm1": 11.8,
+        "aponame1": "jiroo",
+        "preis1": 59.0,
+        "timestamp": "2025-05-30 12:28:25.465000"
+    },
+    {
+        "id": 2786,
+        "session_id": "19e900ca-c9de-4de1-a84b-b80083a32ab2",
+        "produktname1": "avaay 32/1 ahc: amnesia haze cake",
+        "menge1": 5.0,
+        "preisprogramm1": 10.9,
+        "aponame1": "jiroo",
+        "preis1": 54.5,
+        "timestamp": "2025-05-30 12:30:17.464000"
+    },
+    {
+        "id": 2787,
+        "session_id": "c0d1fa36-90d7-4100-b792-552406fdef3e",
+        "produktname1": "aurora 22/1: delahaze",
+        "menge1": 5.0,
+        "preisprogramm1": 10.99,
+        "aponame1": "cannalivery",
+        "preis1": 54.95,
+        "timestamp": "2025-05-30 14:27:28.198000"
+    },
+    {
+        "id": 2788,
+        "session_id": "a6343027-c745-43dc-9afc-80d3e04786f3",
+        "produktname1": "avaay 23/1 ck: critical kush",
+        "menge1": 5.0,
+        "preisprogramm1": 7.29,
+        "aponame1": "cannalivery",
+        "preis1": 36.45,
+        "aponame2": "jiroo",
+        "preis2": 44.5,
+        "timestamp": "2025-05-30 15:21:27.085000"
+    },
+    {
+        "id": 2789,
+        "session_id": "a3b9c421-d302-4c15-9197-29e6de6903b6",
+        "produktname1": "420 evolution 30/1 ca icc: ice cream cake kush mints",
+        "menge1": 5.0,
+        "preisprogramm1": 11.49,
+        "aponame1": "cannem",
+        "preis1": 57.45,
+        "timestamp": "2025-05-30 18:44:21.671000"
+    },
+    {
+        "id": 2790,
+        "session_id": "32f85261-624e-4c22-addb-26486aa6e4ad",
+        "produktname1": "avaay 29/1 scp: sour cherry punch",
+        "menge1": 5.0,
+        "preisprogramm1": 9.9,
+        "aponame1": "jiroo",
+        "preis1": 49.5,
+        "timestamp": "2025-05-30 22:06:56.270000"
+    },
+    {
+        "id": 2791,
+        "session_id": "34442080-971d-4e8a-aefb-ad555119ca46",
+        "produktname1": "420 evolution 25/1 ca pld: plum driver",
+        "menge1": 5.0,
+        "preisprogramm1": 7.9,
+        "aponame1": "jiroo",
+        "preis1": 39.5,
+        "timestamp": "2025-05-31 03:51:16.189000"
     }
 ]
