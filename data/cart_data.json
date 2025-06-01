@@ -34708,5 +34708,70 @@
         "aponame1": "jiroo",
         "preis1": 39.5,
         "timestamp": "2025-05-31 03:51:16.189000"
+    },
+    {
+        "id": 2792,
+        "session_id": "23de7609-ac28-482a-8ed5-faf54338886b",
+        "produktname1": "420 evolution 33/1 ca pch: peach chementine",
+        "menge1": 5.0,
+        "preisprogramm1": 11.8,
+        "aponame1": "jiroo",
+        "preis1": 59.0,
+        "aponame2": "medicalherbs",
+        "preis2": 63.95,
+        "timestamp": "2025-05-31 15:34:46.469000"
+    },
+    {
+        "id": 2793,
+        "session_id": "1b203e0a-5138-4ee2-b595-07b2635f5187",
+        "produktname1": "remexian balanced cnf: mango cheese",
+        "menge1": 5.0,
+        "preisprogramm1": 9.99,
+        "aponame1": "medicalherbs",
+        "preis1": 49.95,
+        "timestamp": "2025-05-31 21:40:03.741000"
+    },
+    {
+        "id": 2794,
+        "session_id": "71b9eefb-d80c-40d1-a5c8-fb48bd97b480",
+        "produktname1": "avaay 32/1 ahc: amnesia haze cake",
+        "menge1": 5.0,
+        "preisprogramm1": 10.9,
+        "aponame1": "jiroo",
+        "preis1": 54.5,
+        "timestamp": "2025-05-31 22:33:56.292000"
+    },
+    {
+        "id": 2795,
+        "session_id": "66200d67-b316-4319-840a-a70ed8fa756f",
+        "produktname1": "huala 22/1 ca alm: alien mints",
+        "menge1": 5.0,
+        "preisprogramm1": 6.2,
+        "aponame1": "jiroo",
+        "preis1": 31.0,
+        "timestamp": "2025-05-31 23:22:04.786000"
+    },
+    {
+        "id": 2796,
+        "session_id": "66200d67-b316-4319-840a-a70ed8fa756f",
+        "produktname1": "huala 22/1 ca alm: alien mints",
+        "menge1": 5.0,
+        "preisprogramm1": 6.2,
+        "produktname2": "huala 20/1 ca grf: grape face",
+        "menge2": 5.0,
+        "preisprogramm2": 6.4,
+        "aponame1": "jiroo",
+        "preis1": 63.0,
+        "timestamp": "2025-05-31 23:23:20.404000"
+    },
+    {
+        "id": 2797,
+        "session_id": "ebbbac4a-4592-41f4-9b1d-a28ada743f32",
+        "produktname1": "bathera 28/1: facetz",
+        "menge1": 5.0,
+        "preisprogramm1": 7.49,
+        "aponame1": "cannalivery",
+        "preis1": 37.45,
+        "timestamp": "2025-06-01 03:01:27.414000"
     }
 ]
