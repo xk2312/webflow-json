@@ -15735,6 +15735,15 @@
         "produktname4": "mac 1+: mac 1"
     },
     {
+        "id": 947,
+        "timestamp": "2025-06-01 13:34:53.433100",
+        "session_id": "2b6b91d5-4d96-4ee8-bbcd-31b5388ef448",
+        "selecteddisease": "Therapiegebiet ausw\u00e4hlen",
+        "produktname1": "cannamedical balanced forte: mango haze",
+        "produktname2": "pedanios 10/10 eqi-ca: equiposa",
+        "produktname3": "pedanios 10/13 mbe-ca: moon berry"
+    },
+    {
         "id": 747,
         "timestamp": "2025-05-06 20:58:05.912514",
         "session_id": "95257758-d143-4a27-89e7-3c59f232fadb",
@@ -17737,6 +17746,13 @@
         "produktname2": "cannamedical sativa forte: venomz eve"
     },
     {
+        "id": 948,
+        "timestamp": "2025-06-02 05:11:52.670666",
+        "session_id": "20cba484-ac2d-4cd8-8bdc-efec5fb1ec3d",
+        "selecteddisease": "Angstzust\u00e4nde (tags)",
+        "produktname1": "cannamedical sativa forte nm: wedding tree"
+    },
+    {
         "id": 792,
         "timestamp": "2025-05-13 18:15:31.205746",
         "session_id": "adf00510-6c9c-4e63-9440-ad29a50ee307",
@@ -18013,6 +18029,20 @@
         "produktname2": "pedanios 10/13 mbe-ca: moon berry",
         "produktname3": "cannamedical balanced forte: mango haze",
         "produktname4": "pedanios 10/10 eqi-ca: equiposa"
+    },
+    {
+        "id": 949,
+        "timestamp": "2025-06-02 05:12:04.294945",
+        "session_id": "20cba484-ac2d-4cd8-8bdc-efec5fb1ec3d",
+        "selecteddisease": "chronische Schmerzen (tags)",
+        "produktname1": "bathera 24/1: permanent marker",
+        "produktname2": "pedanios 27/1 frg-ca: farm gas",
+        "produktname3": "420 evolution 22/1 ca mac: mac 1",
+        "produktname4": "remexian 27/1 grg: grape galena",
+        "produktname5": "remexian 27/1 psl: pink slurricane",
+        "produktname6": "demecan craft fcf 31:01: first class funk",
+        "produktname7": "avaay 29/1 scp: sour cherry punch",
+        "produktname8": "mac 1+: mac 1"
     },
     {
         "id": 800,
@@ -21921,5 +21951,29 @@
         "produktname65": "avaay 29/1 scp: sour cherry punch",
         "produktname66": "mac 1+: mac 1",
         "produktname67": "avaay 5/1 thcv12: thcv12"
+    },
+    {
+        "id": 950,
+        "timestamp": "2025-06-02 05:12:26.058449",
+        "session_id": "20cba484-ac2d-4cd8-8bdc-efec5fb1ec3d",
+        "selecteddisease": "Stress (tags)",
+        "produktname1": "avaay signature 23/1 mc: mandarin cookies",
+        "produktname2": "huala 25/1 uk cin: cinderella kush",
+        "produktname3": "enua 22/1 jlsy ca: jealousy",
+        "produktname4": "enua 22/1 jfg ca: jet fuel gelato",
+        "produktname5": "cannamedical sativa forte nm: gelato dream",
+        "produktname6": "cannamedical hybrid classic nm: gorilla zkittlez",
+        "produktname7": "cannamedical hybrid forte nm: gorilla zkittlez",
+        "produktname8": "enua 22/1 bcp ca: black cherry punch",
+        "produktname9": "cannamedical sativa forte nm: wedding tree",
+        "produktname10": "420 evolution 22/1 ca pld: plum driver"
+    },
+    {
+        "id": 951,
+        "timestamp": "2025-06-02 05:13:02.331236",
+        "session_id": "20cba484-ac2d-4cd8-8bdc-efec5fb1ec3d",
+        "selecteddisease": "PTBS (tags)",
+        "produktname1": "cannamedical sativa classic: strawberry ice",
+        "produktname2": "cannamedical sativa light: strawberry ice"
     }
 ]
