@@ -4343,6 +4343,14 @@
         "timestamp": "2025-01-10 10:45:32.041000"
     },
     {
+        "id": 2838,
+        "session_id": "25c4bf82-987e-4a9f-954d-ffc80ec4d5eb",
+        "produktname1": "bathera 28/1: facetz",
+        "menge1": 5.0,
+        "preisprogramm1": 7.49,
+        "timestamp": "2025-06-03 20:21:24.244000"
+    },
+    {
         "id": 359,
         "session_id": "f6bfdc47-4997-4e68-9131-5adf7ced4072",
         "produktname1": "pedanios 18/1 tng-ca: tangerine dream",
@@ -34362,6 +34370,11 @@
         "timestamp": "2025-05-26 23:32:01.824000"
     },
     {
+        "id": 2839,
+        "session_id": "46b7333b-38ed-434d-ba0a-9e1c39a7e763",
+        "timestamp": "2025-06-03 22:47:01.984000"
+    },
+    {
         "id": 2760,
         "session_id": "7dc8e496-388e-4fc6-aa90-b8f2a2c75dfa",
         "produktname1": "420 evolution 33/1 ca pch: peach chementine",
@@ -34983,6 +34996,11 @@
         "timestamp": "2025-06-01 21:07:54.749000"
     },
     {
+        "id": 2840,
+        "session_id": "46b7333b-38ed-434d-ba0a-9e1c39a7e763",
+        "timestamp": "2025-06-03 22:47:42.242000"
+    },
+    {
         "id": 2816,
         "session_id": "9c89357e-afa2-453b-94c1-60de5db42ccf",
         "produktname1": "bathera 28/1: blue z",
@@ -35101,5 +35119,129 @@
         "aponame1": "jiroo",
         "preis1": 39.5,
         "timestamp": "2025-06-03 06:29:10.647000"
+    },
+    {
+        "id": 2827,
+        "session_id": "2cadd281-60a5-4216-9cc8-709ca1bcbbfe",
+        "produktname1": "bathera 28/1: facetz",
+        "menge1": 5.0,
+        "preisprogramm1": 7.49,
+        "aponame1": "cannalivery",
+        "preis1": 37.45,
+        "timestamp": "2025-06-03 12:39:17.309000"
+    },
+    {
+        "id": 2828,
+        "session_id": "7a30cdfb-62bd-4b21-b800-da1151ccf3bc",
+        "produktname1": "cannamedical indica forte ma: carmelita",
+        "menge1": 5.0,
+        "preisprogramm1": 9.99,
+        "aponame1": "cannalivery",
+        "preis1": 49.95,
+        "timestamp": "2025-06-03 15:01:49.968000"
+    },
+    {
+        "id": 2829,
+        "session_id": "7a30cdfb-62bd-4b21-b800-da1151ccf3bc",
+        "produktname1": "cannamedical indica forte ma: carmelita",
+        "menge1": 5.0,
+        "preisprogramm1": 9.99,
+        "produktname2": "420 evolution 27/1 ca flm: frozen lemon mints",
+        "menge2": 5.0,
+        "preisprogramm2": 9.89,
+        "aponame1": "cannalivery",
+        "preis1": 99.4,
+        "timestamp": "2025-06-03 15:02:39.055000"
+    },
+    {
+        "id": 2830,
+        "session_id": "a1fe496d-6a03-47ed-b978-55473adcd31f",
+        "produktname1": "420 evolution 33/1 ca pch: peach chementine",
+        "menge1": 5.0,
+        "preisprogramm1": 11.8,
+        "aponame1": "jiroo",
+        "preis1": 59.0,
+        "timestamp": "2025-06-03 16:43:14.184000"
+    },
+    {
+        "id": 2831,
+        "session_id": "16415f14-0b60-425a-98ae-87683c96917f",
+        "produktname1": "420 compound 30/1 ca rpv: rose gold pav\u00e9",
+        "menge1": 5.0,
+        "preisprogramm1": 8.4,
+        "aponame1": "jiroo",
+        "preis1": 42.0,
+        "timestamp": "2025-06-03 16:44:28.828000"
+    },
+    {
+        "id": 2832,
+        "session_id": "2f558ca8-8416-46ab-85d4-3e94709100c4",
+        "produktname1": "420 evolution 25/1 ca pld: plum driver",
+        "menge1": 5.0,
+        "preisprogramm1": 7.9,
+        "aponame1": "jiroo",
+        "preis1": 39.5,
+        "timestamp": "2025-06-03 18:58:46.319000"
+    },
+    {
+        "id": 2833,
+        "session_id": "2f558ca8-8416-46ab-85d4-3e94709100c4",
+        "produktname1": "420 evolution 25/1 ca pld: plum driver",
+        "menge1": 5.0,
+        "preisprogramm1": 7.9,
+        "produktname2": "bathera 24/1: permanent marker",
+        "menge2": 5.0,
+        "preisprogramm2": 8.9,
+        "aponame1": "jiroo",
+        "preis1": 84.0,
+        "timestamp": "2025-06-03 18:58:51.661000"
+    },
+    {
+        "id": 2834,
+        "session_id": "2f558ca8-8416-46ab-85d4-3e94709100c4",
+        "produktname1": "420 evolution 25/1 ca pld: plum driver",
+        "menge1": 5.0,
+        "preisprogramm1": 7.9,
+        "produktname2": "bathera 24/1: permanent marker",
+        "menge2": 5.0,
+        "preisprogramm2": 8.9,
+        "produktname3": "420 evolution 33/1 ca pch: peach chementine",
+        "menge3": 5.0,
+        "preisprogramm3": 11.8,
+        "aponame1": "jiroo",
+        "preis1": 143.0,
+        "timestamp": "2025-06-03 18:58:56.952000"
+    },
+    {
+        "id": 2835,
+        "session_id": "d4831706-2bdb-4470-b992-f413adac95a9",
+        "produktname1": "demecan craft walkie talkie 31:01: sugar cake",
+        "menge1": 5.0,
+        "preisprogramm1": 11.19,
+        "aponame1": "cannalivery",
+        "preis1": 55.95,
+        "timestamp": "2025-06-03 18:59:53.582000"
+    },
+    {
+        "id": 2836,
+        "session_id": "31b91370-0c26-4926-8731-014cc6d071c2",
+        "produktname1": "420 evolution 30/1 ca pch: peach chementine",
+        "menge1": 5.0,
+        "preisprogramm1": 10.49,
+        "aponame1": "cannalivery",
+        "preis1": 52.45,
+        "aponame2": "cannem",
+        "preis2": 59.95,
+        "timestamp": "2025-06-03 19:49:08.295000"
+    },
+    {
+        "id": 2837,
+        "session_id": "25c4bf82-987e-4a9f-954d-ffc80ec4d5eb",
+        "produktname1": "bathera 28/1: facetz",
+        "menge1": 5.0,
+        "preisprogramm1": 7.49,
+        "aponame1": "cannalivery",
+        "preis1": 37.45,
+        "timestamp": "2025-06-03 20:20:33.065000"
     }
 ]
