@@ -35243,5 +35243,86 @@
         "aponame1": "cannalivery",
         "preis1": 37.45,
         "timestamp": "2025-06-03 20:20:33.065000"
+    },
+    {
+        "id": 2841,
+        "session_id": "584430d6-dab9-41a4-adf5-e2221c62df0d",
+        "produktname1": "420 evolution 25/1 ca pld: plum driver",
+        "menge1": 5.0,
+        "preisprogramm1": 7.95,
+        "produktname2": "bathera 24/1: permanent marker",
+        "menge2": 5.0,
+        "preisprogramm2": 8.95,
+        "produktname3": "huala 20/1 ca grf: grape face",
+        "menge3": 5.0,
+        "preisprogramm3": 6.5,
+        "aponame1": "jiroo",
+        "preis1": 117.0,
+        "timestamp": "2025-06-04 08:15:14.362000"
+    },
+    {
+        "id": 2842,
+        "session_id": "2534e0e0-d20b-41da-992f-9aa2466c3e4b",
+        "produktname1": "420 evolution 33/1 ca pch: peach chementine",
+        "menge1": 5.0,
+        "preisprogramm1": 11.8,
+        "aponame1": "jiroo",
+        "preis1": 59.0,
+        "timestamp": "2025-06-04 10:36:58.446000"
+    },
+    {
+        "id": 2843,
+        "session_id": "10eda30c-0ed1-4430-9c3a-4028ee7ce81d",
+        "produktname1": "cannamedical sativa classic: strawberry ice",
+        "menge1": 5.0,
+        "preisprogramm1": 11.99,
+        "aponame1": "cannalivery",
+        "preis1": 59.95,
+        "timestamp": "2025-06-04 11:18:58.367000"
+    },
+    {
+        "id": 2844,
+        "session_id": "cba2b4d3-c430-4f0b-8428-1d3d3e8f9e02",
+        "produktname1": "huala 20/1 ca alm: alien mints",
+        "menge1": 5.0,
+        "preisprogramm1": 5.9,
+        "aponame1": "jiroo",
+        "preis1": 29.5,
+        "timestamp": "2025-06-04 15:48:08.551000"
+    },
+    {
+        "id": 2845,
+        "session_id": "076cd0af-0881-425b-a432-8752182a413e",
+        "produktname1": "pedanios 10/10 eqi-ca: equiposa",
+        "menge1": 5.0,
+        "preisprogramm1": 6.9,
+        "aponame1": "jiroo",
+        "preis1": 34.5,
+        "aponame2": "cannem",
+        "preis2": 49.95,
+        "timestamp": "2025-06-04 16:13:37.253000"
+    },
+    {
+        "id": 2846,
+        "session_id": "0ceb85ef-7d2a-40b0-935a-f80956fc3b2c",
+        "produktname1": "420 evolution 25/1 ca pld: plum driver",
+        "menge1": 5.0,
+        "preisprogramm1": 7.9,
+        "aponame1": "jiroo",
+        "preis1": 39.5,
+        "timestamp": "2025-06-04 19:56:04.056000"
+    },
+    {
+        "id": 2847,
+        "session_id": "0ceb85ef-7d2a-40b0-935a-f80956fc3b2c",
+        "produktname1": "420 evolution 25/1 ca pld: plum driver",
+        "menge1": 5.0,
+        "preisprogramm1": 7.9,
+        "produktname2": "420 evolution 33/1 ca pch: peach chementine",
+        "menge2": 5.0,
+        "preisprogramm2": 11.8,
+        "aponame1": "jiroo",
+        "preis1": 98.5,
+        "timestamp": "2025-06-04 19:56:14.737000"
     }
 ]
