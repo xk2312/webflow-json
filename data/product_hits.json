@@ -14211,6 +14211,13 @@
         "produktname10": "mac 1+: mac 1"
     },
     {
+        "id": 971,
+        "timestamp": "2025-06-04 18:13:27.136357",
+        "session_id": "076cd0af-0881-425b-a432-8752182a413e",
+        "selecteddisease": "Therapiegebiet ausw\u00e4hlen",
+        "produktname1": "pedanios 10/10 eqi-ca: equiposa"
+    },
+    {
         "id": 709,
         "timestamp": "2025-04-30 19:52:45.568814",
         "session_id": "d5a9637f-6474-41e0-a261-717996c41858",
@@ -18993,6 +19000,13 @@
         "produktname82": "mac 1+: mac 1"
     },
     {
+        "id": 974,
+        "timestamp": "2025-06-04 19:29:37.090256",
+        "session_id": "51e49c1f-5ee7-485c-bed4-271624c0396e",
+        "selecteddisease": "Schlafst\u00f6rungen",
+        "produktname1": "420 compound 27/1 ca gap: gastro pop"
+    },
+    {
         "id": 834,
         "timestamp": "2025-05-17 22:02:10.803603",
         "session_id": "0f71a2bb-ef47-4a8e-88a1-5114a52103f5",
@@ -22392,6 +22406,15 @@
         "produktname72": "mac 1+: mac 1"
     },
     {
+        "id": 975,
+        "timestamp": "2025-06-04 19:30:25.101274",
+        "session_id": "51e49c1f-5ee7-485c-bed4-271624c0396e",
+        "selecteddisease": "Schlafst\u00f6rungen",
+        "produktname1": "420 compound 25/1 ca rgr: rose gold runtz",
+        "produktname2": "420 compound 22/1 ca mwz: mellowz #8",
+        "produktname3": "420 compound 27/1 ca gap: gastro pop"
+    },
+    {
         "id": 970,
         "timestamp": "2025-06-04 00:22:15.941336",
         "session_id": "e558347f-c27c-439c-adbc-eb1c45152cc3",
@@ -22468,5 +22491,94 @@
         "produktname70": "pedanios 31/1 pnd-ca: pink diesel",
         "produktname71": "avaay 29/1 scp: sour cherry punch",
         "produktname72": "mac 1+: mac 1"
+    },
+    {
+        "id": 972,
+        "timestamp": "2025-06-04 18:21:01.540054",
+        "session_id": "0c4b38b2-b3d6-4dd6-a38c-3b49db2bdf62",
+        "selecteddisease": "Schlafst\u00f6rungen",
+        "produktname1": "420 compound 25/1 ca rgr: rose gold runtz",
+        "produktname2": "420 compound 22/1 ca mwz: mellowz #8",
+        "produktname3": "420 compound 27/1 ca gap: gastro pop"
+    },
+    {
+        "id": 973,
+        "timestamp": "2025-06-04 19:28:08.368151",
+        "session_id": "51e49c1f-5ee7-485c-bed4-271624c0396e",
+        "selecteddisease": "Schlafst\u00f6rungen",
+        "produktname1": "420 compound 25/1 ca rgr: rose gold runtz",
+        "produktname2": "420 compound 22/1 ca mwz: mellowz #8",
+        "produktname3": "420 compound 27/1 ca gap: gastro pop"
+    },
+    {
+        "id": 976,
+        "timestamp": "2025-06-05 00:14:47.939585",
+        "session_id": "67784729-5ec8-4864-9409-726f48d7e4b9",
+        "selecteddisease": "Therapiegebiet ausw\u00e4hlen",
+        "produktname1": "remexian 30/1 crn: garlic breath",
+        "produktname2": "pedanios 31/1 cos-ca: cosmic cream",
+        "produktname3": "avaay 26/1 sk: sour og kush",
+        "produktname4": "bathera 28/1: facetz",
+        "produktname5": "peace naturals 31/1 sc: space cake",
+        "produktname6": "demecan mc epic drop: hawaiian rain x permanent marker",
+        "produktname7": "avaay signature 29/1 ogc: ocean grown cookies",
+        "produktname8": "420 evolution 33/1 ca pch: peach chementine",
+        "produktname9": "420 evolution 30/1 ca wes: wedding singer",
+        "produktname10": "remexian 30/1 che: chem cookies",
+        "produktname11": "remexian 30/1 gjy flv: flawless victory",
+        "produktname12": "remexian 30/1 heg: helios gold",
+        "produktname13": "bathera 28/1: blue z",
+        "produktname14": "demecan craft walkie talkie 31:01: sugar cake",
+        "produktname15": "420 evolution 27/1 ca icc: ice cream cake kush mints",
+        "produktname16": "remexian 27/1 grg: grape galena",
+        "produktname17": "peace naturals 31/1 gc: gmo cookies",
+        "produktname18": "420 evolution 30/1 ca icc: ice cream cake kush mints",
+        "produktname19": "420 compound 30/1 ca rpv: rose gold pav\u00e9",
+        "produktname20": "pedanios 29/1 srd-ca: sourdough",
+        "produktname21": "420 evolution 30/1 ca pch: peach chementine",
+        "produktname22": "pedanios 31/1 pnd-ca: pink diesel",
+        "produktname23": "420 compound 27/1 ca gap: gastro pop"
+    },
+    {
+        "id": 977,
+        "timestamp": "2025-06-05 00:15:55.144496",
+        "session_id": "6789e2ef-3258-4765-a4dd-4d34c3507522",
+        "selecteddisease": "Therapiegebiet ausw\u00e4hlen",
+        "produktname1": "420 evolution 25/1 ca flm: frozen lemon mints",
+        "produktname2": "420 evolution 22/1 ca mac: mac 1",
+        "produktname3": "demecan craft marker 25:01: magic marker #2",
+        "produktname4": "420 sungrown 22/1 ca zrp: zour apple",
+        "produktname5": "pedanios 27/1 frg-ca: farm gas",
+        "produktname6": "aurora 22/1: delahaze",
+        "produktname7": "remexian 27/1 psl: pink slurricane",
+        "produktname8": "pedanios 22/1: ghost train haze",
+        "produktname9": "remexian 27/1 grg: grape galena",
+        "produktname10": "cannamedical indica forte: el jefe",
+        "produktname11": "420 evolution 27/1 ca flm: frozen lemon mints",
+        "produktname12": "bedrocan: afina",
+        "produktname13": "pedanios 31/1 pnd-ca: pink diesel",
+        "produktname14": "avaay 23/1 ck: critical kush",
+        "produktname15": "bathera 24/1: permanent marker",
+        "produktname16": "mac 1+: mac 1"
+    },
+    {
+        "id": 978,
+        "timestamp": "2025-06-05 02:49:25.114202",
+        "session_id": "4b723488-27ee-47b8-9bab-d58607563970",
+        "selecteddisease": "Therapiegebiet ausw\u00e4hlen",
+        "produktname1": "avaay 26/1 sk: sour og kush",
+        "produktname2": "pedanios 26/1 ehd-ca: electric honeydew",
+        "produktname3": "420 evolution 30/1 ca wes: wedding singer",
+        "produktname4": "420 compound 30/1 ca rpv: rose gold pav\u00e9",
+        "produktname5": "avaay signature 28/1 wb: waffle bites",
+        "produktname6": "420 compound 27/1 ca gap: gastro pop"
+    },
+    {
+        "id": 979,
+        "timestamp": "2025-06-05 02:49:56.932558",
+        "session_id": "4b723488-27ee-47b8-9bab-d58607563970",
+        "selecteddisease": "Therapiegebiet ausw\u00e4hlen",
+        "produktname1": "avaay signature 28/1 wb: waffle bites",
+        "produktname2": "420 compound 27/1 ca gap: gastro pop"
     }
 ]
