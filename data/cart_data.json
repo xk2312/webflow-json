@@ -35878,5 +35878,54 @@
         "aponame1": "cannalivery",
         "preis1": 74.9,
         "timestamp": "2025-06-06 17:47:07.275000"
+    },
+    {
+        "id": 2892,
+        "session_id": "4ca9df17-7cec-49de-ab15-f8227f0982e0",
+        "produktname1": "remexian 30/1 crn: garlic breath",
+        "menge1": 5.0,
+        "preisprogramm1": 9.9,
+        "aponame1": "jiroo",
+        "preis1": 49.5,
+        "timestamp": "2025-06-06 21:28:51.135000"
+    },
+    {
+        "id": 2893,
+        "session_id": "3c935527-3672-4da3-bfe7-a9cce0024b8f",
+        "produktname1": "420 evolution 25/1 ca wes: wedding singer",
+        "menge1": 5.0,
+        "preisprogramm1": 7.9,
+        "aponame1": "jiroo",
+        "preis1": 39.5,
+        "aponame2": "cannem",
+        "preis2": 46.45,
+        "aponame3": "medicalherbs",
+        "preis3": 49.75,
+        "timestamp": "2025-06-06 23:33:05.665000"
+    },
+    {
+        "id": 2894,
+        "session_id": "004a3ee0-49b0-4223-82b5-cd81e7018c49",
+        "produktname1": "pedanios 29/1 srd-ca: sourdough",
+        "menge1": 5.0,
+        "preisprogramm1": 8.9,
+        "aponame1": "jiroo",
+        "preis1": 44.5,
+        "aponame2": "cannalivery",
+        "preis2": 59.95,
+        "timestamp": "2025-06-07 06:30:38.821000"
+    },
+    {
+        "id": 2895,
+        "session_id": "004a3ee0-49b0-4223-82b5-cd81e7018c49",
+        "produktname1": "pedanios 29/1 srd-ca: sourdough",
+        "menge1": 5.0,
+        "preisprogramm1": 11.99,
+        "produktname2": "demecan mc epic drop: hawaiian rain x permanent marker",
+        "menge2": 5.0,
+        "preisprogramm2": 11.49,
+        "aponame1": "cannalivery",
+        "preis1": 117.4,
+        "timestamp": "2025-06-07 07:03:48.277000"
     }
 ]
