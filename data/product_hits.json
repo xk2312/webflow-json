@@ -536,6 +536,13 @@
         "produktname7": "demecan mc strong drop: magic marker"
     },
     {
+        "id": 1004,
+        "timestamp": "2025-06-09 20:49:36.332792",
+        "session_id": "a250b16b-7465-46fa-ac63-76b13961496d",
+        "selecteddisease": "Therapiegebiet ausw\u00e4hlen",
+        "produktname1": "cannamedical balanced forte: mango haze"
+    },
+    {
         "id": 28,
         "timestamp": "2025-02-17 08:40:09.706084",
         "session_id": "c189a2b2-2dc9-4d75-bc38-02a4f97a63f0",
@@ -23131,5 +23138,50 @@
         "produktname70": "420 compound 30/1 ca rpv: rose gold pav\u00e9",
         "produktname71": "pedanios 29/1 srd-ca: sourdough",
         "produktname72": "mac 1+: mac 1"
+    },
+    {
+        "id": 1003,
+        "timestamp": "2025-06-09 10:49:08.681312",
+        "session_id": "790128a2-9928-4dc4-8986-519e3f59d403",
+        "selecteddisease": "Sleep disorders",
+        "produktname1": "420 compound 27/1 ca gap: gastro pop",
+        "produktname2": "420 compound 22/1 ca mwz: mellowz #8",
+        "produktname3": "420 compound 25/1 ca rgr: rose gold runtz"
+    },
+    {
+        "id": 1005,
+        "timestamp": "2025-06-09 22:57:38.669055",
+        "session_id": "683d8a55-2e3a-4f14-991f-6229cb22253a",
+        "selecteddisease": "PTBS (tags)",
+        "produktname1": "cannamedical sativa light: strawberry ice",
+        "produktname2": "cannamedical sativa classic: strawberry ice"
+    },
+    {
+        "id": 1006,
+        "timestamp": "2025-06-09 22:58:33.968261",
+        "session_id": "683d8a55-2e3a-4f14-991f-6229cb22253a",
+        "selecteddisease": "Depressionen (tags)",
+        "produktname1": "bathera 24/1: permanent marker",
+        "produktname2": "bedrocan: afina",
+        "produktname3": "420 evolution 22/1 ca mac: mac 1",
+        "produktname4": "aurora 22/1: delahaze",
+        "produktname5": "pedanios 22/1: ghost train haze"
+    },
+    {
+        "id": 1007,
+        "timestamp": "2025-06-09 22:59:22.306194",
+        "session_id": "683d8a55-2e3a-4f14-991f-6229cb22253a",
+        "selecteddisease": "Depressionen (tags)",
+        "produktname1": "pedanios 31/1 pnd-ca: pink diesel",
+        "produktname2": "pedanios 27/1 frg-ca: farm gas",
+        "produktname3": "bathera 24/1: permanent marker",
+        "produktname4": "bedrocan: afina",
+        "produktname5": "420 evolution 27/1 ca flm: frozen lemon mints",
+        "produktname6": "420 evolution 22/1 ca mac: mac 1",
+        "produktname7": "aurora 22/1: delahaze",
+        "produktname8": "remexian 27/1 psl: pink slurricane",
+        "produktname9": "pedanios 22/1: ghost train haze",
+        "produktname10": "420 evolution 25/1 ca flm: frozen lemon mints",
+        "produktname11": "mac 1+: mac 1"
     }
 ]
