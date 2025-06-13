@@ -36061,6 +36061,11 @@
         "timestamp": "2025-06-08 19:13:36.551000"
     },
     {
+        "id": 2943,
+        "session_id": "866c1a0c-276d-4f20-9596-c1b97efdd19d",
+        "timestamp": "2025-06-12 12:29:22.093000"
+    },
+    {
         "id": 2907,
         "session_id": "97c0cd04-f982-48d1-aee8-75c0f2f6c18d",
         "produktname1": "bathera 28/1: facetz",
@@ -36481,5 +36486,84 @@
         "aponame1": "jiroo",
         "preis1": 158.0,
         "timestamp": "2025-06-11 23:01:50.760000"
+    },
+    {
+        "id": 2944,
+        "session_id": "372cb53e-2a06-4ae2-83f3-647bdfc7d608",
+        "produktname1": "aurora 22/1: delahaze",
+        "menge1": 5.0,
+        "preisprogramm1": 10.99,
+        "aponame1": "cannalivery",
+        "preis1": 54.95,
+        "timestamp": "2025-06-12 13:37:02.237000"
+    },
+    {
+        "id": 2945,
+        "session_id": "e156e993-f844-4cac-92cb-fd626c77c1f6",
+        "produktname1": "cannamedical sativa forte: duke",
+        "menge1": 5.0,
+        "preisprogramm1": 9.99,
+        "aponame1": "cannalivery",
+        "preis1": 49.95,
+        "timestamp": "2025-06-12 14:38:04.999000"
+    },
+    {
+        "id": 2946,
+        "session_id": "4d91133b-ec7a-4589-bac0-4b778044f2ec",
+        "produktname1": "peace naturals 31/1 gc: gmo cookies",
+        "menge1": 5.0,
+        "preisprogramm1": 8.99,
+        "aponame1": "cannalivery",
+        "preis1": 44.95,
+        "timestamp": "2025-06-12 14:38:05.228000"
+    },
+    {
+        "id": 2947,
+        "session_id": "5e0623f3-43ce-4e43-b454-2f49e7219599",
+        "produktname1": "420 compound 22/1 ca mwz: mellowz #8",
+        "menge1": 5.0,
+        "preisprogramm1": 10.49,
+        "aponame1": "cannalivery",
+        "preis1": 52.45,
+        "timestamp": "2025-06-12 16:28:36.224000"
+    },
+    {
+        "id": 2948,
+        "session_id": "523d78c0-6d6a-4696-b186-1067913d561c",
+        "produktname1": "pedanios 22/1: ghost train haze",
+        "menge1": 5.0,
+        "preisprogramm1": 8.4,
+        "aponame1": "jiroo",
+        "preis1": 42.0,
+        "aponame2": "cannem",
+        "preis2": 49.95,
+        "aponame3": "cannalivery",
+        "preis3": 54.95,
+        "timestamp": "2025-06-12 17:54:58.646000"
+    },
+    {
+        "id": 2949,
+        "session_id": "523d78c0-6d6a-4696-b186-1067913d561c",
+        "produktname1": "pedanios 22/1: ghost train haze",
+        "menge1": 5.0,
+        "preisprogramm1": 10.99,
+        "produktname2": "cannamedical indica forte: el jefe",
+        "menge2": 5.0,
+        "preisprogramm2": 9.59,
+        "aponame1": "cannalivery",
+        "preis1": 102.9,
+        "timestamp": "2025-06-12 17:56:06.297000"
+    },
+    {
+        "id": 2950,
+        "session_id": "13e92a50-e4bc-49d4-9bd8-8f643f17a80e",
+        "produktname1": "pedanios 31/1 pnd-ca: pink diesel",
+        "menge1": 5.0,
+        "preisprogramm1": 10.9,
+        "aponame1": "jiroo",
+        "preis1": 54.5,
+        "aponame2": "cannalivery",
+        "preis2": 69.95,
+        "timestamp": "2025-06-12 21:51:59.050000"
     }
 ]
