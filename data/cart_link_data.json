@@ -15564,5 +15564,34 @@
         "price1_per_g": 11.49,
         "av_price_per_g": 11.49,
         "total_price": 57.45
+    },
+    {
+        "id": 909,
+        "cart_status": 1,
+        "timestamp": "2025-06-16 18:16:16.568418",
+        "session_id": "1c427ae7-601b-4ee2-a6ef-4c65f493b588",
+        "link_source": "doc-link-2",
+        "link_name": "123Can",
+        "link_url": "https://123can.de/",
+        "name_apo_1": "jiroo",
+        "name_apo_2": "placeholder",
+        "name_apo_3": "placeholder",
+        "produktname1": "bathera 24/1: permanent marker",
+        "quantity1": 5.0,
+        "price1_per_g": 8.9,
+        "av_price_per_g": 8.9,
+        "total_price": 44.5
+    },
+    {
+        "id": 910,
+        "cart_status": 0,
+        "timestamp": "2025-06-16 19:01:09.726168",
+        "session_id": "542a98c1-eecf-4817-8904-95a2cfcf5a8f",
+        "link_source": "doc-link-1",
+        "link_name": "DoktorABC",
+        "link_url": "https://go.nicetracking.com/click?pid=308&offer_id=84&sub1=hp&l=1740661425",
+        "name_apo_1": "placeholder",
+        "name_apo_2": "placeholder",
+        "name_apo_3": "placeholder"
     }
 ]
