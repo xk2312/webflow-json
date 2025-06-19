@@ -37271,5 +37271,99 @@
         "aponame2": "cannalivery",
         "preis2": 124.4,
         "timestamp": "2025-06-18 00:43:48.437000"
+    },
+    {
+        "id": 3010,
+        "session_id": "afd89071-b4d4-4a49-a1e5-1ddb5cd70307",
+        "produktname1": "bathera 24/1: permanent marker",
+        "menge1": 5.0,
+        "preisprogramm1": 8.9,
+        "aponame1": "jiroo",
+        "preis1": 44.5,
+        "timestamp": "2025-06-18 09:40:50.765000"
+    },
+    {
+        "id": 3011,
+        "session_id": "9ca6ea9a-393d-4d4d-a38a-a80aa71e3798",
+        "produktname1": "avaay 26/1 sk: sour og kush",
+        "menge1": 5.0,
+        "preisprogramm1": 9.99,
+        "aponame1": "cannalivery",
+        "preis1": 49.95,
+        "timestamp": "2025-06-18 12:43:13.789000"
+    },
+    {
+        "id": 3012,
+        "session_id": "0fda65a4-78e6-4c3a-b8e9-0441c55fa5b8",
+        "produktname1": "420 evolution 33/1 ca pch: peach chementine",
+        "menge1": 5.0,
+        "preisprogramm1": 11.8,
+        "aponame1": "jiroo",
+        "preis1": 59.0,
+        "timestamp": "2025-06-18 14:31:46.171000"
+    },
+    {
+        "id": 3013,
+        "session_id": "cbb21e3a-1b89-44e8-b4d8-ebd7e72407ac",
+        "produktname1": "demecan mc epic drop: hawaiian rain x permanent marker",
+        "menge1": 5.0,
+        "preisprogramm1": 11.49,
+        "aponame1": "cannalivery",
+        "preis1": 57.45,
+        "timestamp": "2025-06-18 14:37:48.299000"
+    },
+    {
+        "id": 3014,
+        "session_id": "cbb21e3a-1b89-44e8-b4d8-ebd7e72407ac",
+        "produktname1": "demecan mc epic drop: hawaiian rain x permanent marker",
+        "menge1": 5.0,
+        "preisprogramm1": 11.49,
+        "produktname2": "cannamedical hybrid classic nm: gorilla zkittlez",
+        "menge2": 5.0,
+        "preisprogramm2": 9.18,
+        "aponame1": "cannalivery",
+        "preis1": 103.35,
+        "timestamp": "2025-06-18 14:47:21.998000"
+    },
+    {
+        "id": 3015,
+        "session_id": "a85daaf1-407f-49a4-ab7c-57dee476b990",
+        "produktname1": "avaay 23/1 rg: royal gorilla",
+        "menge1": 5.0,
+        "preisprogramm1": 8.9,
+        "aponame1": "jiroo",
+        "preis1": 44.5,
+        "aponame2": "cannalivery",
+        "preis2": 44.95,
+        "timestamp": "2025-06-18 21:47:53.599000"
+    },
+    {
+        "id": 3016,
+        "session_id": "c363d47b-2757-4e46-a809-9d1de368b79b",
+        "produktname1": "pedanios 29/1 srd-ca: sourdough",
+        "menge1": 5.0,
+        "preisprogramm1": 11.99,
+        "produktname2": "aurora 22/1: delahaze",
+        "menge2": 5.0,
+        "preisprogramm2": 10.99,
+        "aponame1": "cannalivery",
+        "preis1": 114.9,
+        "timestamp": "2025-06-19 06:06:53.434000"
+    },
+    {
+        "id": 3017,
+        "session_id": "c363d47b-2757-4e46-a809-9d1de368b79b",
+        "produktname1": "pedanios 29/1 srd-ca: sourdough",
+        "menge1": 5.0,
+        "preisprogramm1": 11.99,
+        "produktname2": "aurora 22/1: delahaze",
+        "menge2": 5.0,
+        "preisprogramm2": 10.99,
+        "produktname3": "pedanios 27/1 frg-ca: farm gas",
+        "menge3": 5.0,
+        "preisprogramm3": 10.49,
+        "aponame1": "cannalivery",
+        "preis1": 167.35,
+        "timestamp": "2025-06-19 06:06:55.734000"
     }
 ]
