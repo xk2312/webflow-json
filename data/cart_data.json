@@ -37365,5 +37365,83 @@
         "aponame1": "cannalivery",
         "preis1": 167.35,
         "timestamp": "2025-06-19 06:06:55.734000"
+    },
+    {
+        "id": 3018,
+        "session_id": "a1363441-65f1-4e37-8ba5-31be4edf7609",
+        "produktname1": "remexian 30/1 crn: garlic breath",
+        "menge1": 5.0,
+        "preisprogramm1": 9.9,
+        "aponame1": "jiroo",
+        "preis1": 49.5,
+        "timestamp": "2025-06-19 12:55:22.282000"
+    },
+    {
+        "id": 3019,
+        "session_id": "a1363441-65f1-4e37-8ba5-31be4edf7609",
+        "produktname1": "remexian 30/1 crn: garlic breath",
+        "menge1": 5.0,
+        "preisprogramm1": 9.9,
+        "produktname2": "pedanios 31/1 cos-ca: cosmic cream",
+        "menge2": 5.0,
+        "preisprogramm2": 9.9,
+        "aponame1": "jiroo",
+        "preis1": 99.0,
+        "timestamp": "2025-06-19 12:55:51.191000"
+    },
+    {
+        "id": 3020,
+        "session_id": "a1363441-65f1-4e37-8ba5-31be4edf7609",
+        "produktname1": "remexian 30/1 crn: garlic breath",
+        "menge1": 5.0,
+        "preisprogramm1": 9.9,
+        "produktname2": "pedanios 31/1 cos-ca: cosmic cream",
+        "menge2": 5.0,
+        "preisprogramm2": 9.9,
+        "produktname3": "pedanios 29/1 srd-ca: sourdough",
+        "menge3": 5.0,
+        "preisprogramm3": 8.9,
+        "aponame1": "jiroo",
+        "preis1": 143.5,
+        "timestamp": "2025-06-19 12:55:58.007000"
+    },
+    {
+        "id": 3021,
+        "session_id": "e282e7ab-f69d-4355-9666-5f62815a29b6",
+        "produktname1": "420 evolution 33/1 ca pch: peach chementine",
+        "menge1": 5.0,
+        "preisprogramm1": 11.8,
+        "aponame1": "jiroo",
+        "preis1": 59.0,
+        "timestamp": "2025-06-19 17:45:18.922000"
+    },
+    {
+        "id": 3022,
+        "session_id": "e282e7ab-f69d-4355-9666-5f62815a29b6",
+        "produktname1": "420 evolution 33/1 ca pch: peach chementine",
+        "menge1": 5.0,
+        "preisprogramm1": 11.8,
+        "produktname2": "pedanios 31/1 cos-ca: cosmic cream",
+        "menge2": 5.0,
+        "preisprogramm2": 9.9,
+        "aponame1": "jiroo",
+        "preis1": 108.5,
+        "timestamp": "2025-06-19 17:45:36.145000"
+    },
+    {
+        "id": 3023,
+        "session_id": "e282e7ab-f69d-4355-9666-5f62815a29b6",
+        "produktname1": "420 evolution 33/1 ca pch: peach chementine",
+        "menge1": 5.0,
+        "preisprogramm1": 11.8,
+        "produktname2": "pedanios 31/1 cos-ca: cosmic cream",
+        "menge2": 5.0,
+        "preisprogramm2": 9.9,
+        "produktname3": "pedanios 29/1 srd-ca: sourdough",
+        "menge3": 5.0,
+        "preisprogramm3": 8.9,
+        "aponame1": "jiroo",
+        "preis1": 153.0,
+        "timestamp": "2025-06-19 17:45:49.742000"
     }
 ]
