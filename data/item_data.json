@@ -52513,5 +52513,32 @@
         "item_class": "canalytics-links",
         "item_id": "canalytics-link-patienten",
         "target_url": "https://www.zencan.de/canalytics-fuer-patienten"
+    },
+    {
+        "id": 5857,
+        "session_id": "94bee964-bef2-41d8-aebd-391e4a2367aa",
+        "source_url": "https://www.zencan.de/produkte/pedanios-26-1-ehd-ca-electric-honeydew",
+        "timestamp": "2025-06-25 09:42:26.151765",
+        "item_class": "link-to-top-terps-selection w-inline-block",
+        "item_id": "link-to-top-terps-selection",
+        "target_url": "https://www.zencan.de/?sort=terps"
+    },
+    {
+        "id": 5858,
+        "session_id": "94bee964-bef2-41d8-aebd-391e4a2367aa",
+        "source_url": "https://www.zencan.de/produkte/pedanios-26-1-ehd-ca-electric-honeydew",
+        "timestamp": "2025-06-25 09:43:40.331824",
+        "item_class": "link-to-top-terps-selection w-inline-block",
+        "item_id": "link-to-top-terps-selection",
+        "target_url": "https://www.zencan.de/?sort=terps"
+    },
+    {
+        "id": 5859,
+        "session_id": "94bee964-bef2-41d8-aebd-391e4a2367aa",
+        "source_url": "https://www.zencan.de/?sort=terps",
+        "timestamp": "2025-06-25 09:50:49.948339",
+        "item_class": "nav-brand-v1 w-nav-brand w--current",
+        "item_id": "logo-link-navi",
+        "target_url": "https://www.zencan.de/"
     }
 ]
