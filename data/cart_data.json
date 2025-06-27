@@ -38487,5 +38487,55 @@
         "aponame1": "cannalivery",
         "preis1": 149.85,
         "timestamp": "2025-06-25 23:54:06.705000"
+    },
+    {
+        "id": 3111,
+        "session_id": "89b63f23-5666-4530-9f21-3cc2ea01c922",
+        "produktname1": "bathera 24/1: permanent marker",
+        "menge1": 5.0,
+        "preisprogramm1": 8.9,
+        "timestamp": "2025-06-26 11:16:03.297000"
+    },
+    {
+        "id": 3112,
+        "session_id": "35eed4b9-3b16-42ef-b2b9-2b75a4212931",
+        "produktname1": "420 evolution 33/1 ca pch: peach chementine",
+        "menge1": 5.0,
+        "preisprogramm1": 11.8,
+        "aponame1": "jiroo",
+        "preis1": 59.0,
+        "timestamp": "2025-06-26 17:05:55.590000"
+    },
+    {
+        "id": 3113,
+        "session_id": "1d7bb0f7-6eca-479f-9c5b-72b8ef8779d7",
+        "produktname1": "cannamedical sativa classic: strawberry ice",
+        "menge1": 5.0,
+        "preisprogramm1": 11.99,
+        "aponame1": "cannalivery",
+        "preis1": 59.95,
+        "aponame2": "lux99",
+        "preis2": 96.4,
+        "timestamp": "2025-06-26 20:18:20.755000"
+    },
+    {
+        "id": 3114,
+        "session_id": "3d06d8ac-31fc-48a1-9456-2d58aa0a2d84",
+        "produktname1": "420 evolution 25/1 ca pld: plum driver",
+        "menge1": 5.0,
+        "preisprogramm1": 7.9,
+        "aponame1": "jiroo",
+        "preis1": 39.5,
+        "timestamp": "2025-06-26 20:19:45.766000"
+    },
+    {
+        "id": 3115,
+        "session_id": "4928ca81-110f-4dbc-931c-39bb88aa57ef",
+        "produktname1": "420 evolution 33/1 ca pch: peach chementine",
+        "menge1": 5.0,
+        "preisprogramm1": 11.8,
+        "aponame1": "jiroo",
+        "preis1": 59.0,
+        "timestamp": "2025-06-26 20:44:34.238000"
     }
 ]
