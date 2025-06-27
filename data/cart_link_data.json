@@ -16716,5 +16716,22 @@
         "price3_per_g": 10.99,
         "av_price_per_g": 9.990000000000002,
         "total_price": 149.85000000000002
+    },
+    {
+        "id": 975,
+        "cart_status": 1,
+        "timestamp": "2025-06-26 19:06:05.256508",
+        "session_id": "35eed4b9-3b16-42ef-b2b9-2b75a4212931",
+        "link_source": "doc-link-1",
+        "link_name": "DoktorABC",
+        "link_url": "https://go.nicetracking.com/click?pid=308&offer_id=84&sub1=hp&l=1740661425",
+        "name_apo_1": "jiroo",
+        "name_apo_2": "placeholder",
+        "name_apo_3": "placeholder",
+        "produktname1": "420 evolution 33/1 ca pch: peach chementine",
+        "quantity1": 5.0,
+        "price1_per_g": 11.8,
+        "av_price_per_g": 11.8,
+        "total_price": 59.0
     }
 ]
