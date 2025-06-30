@@ -38697,5 +38697,122 @@
         "aponame1": "cannalivery",
         "preis1": 49.45,
         "timestamp": "2025-06-28 21:00:33.006000"
+    },
+    {
+        "id": 3130,
+        "session_id": "156c10bc-0223-43cb-8704-fd95010c298c",
+        "produktname1": "cannamedical indica classic zaf: black cherry punch",
+        "menge1": 5.0,
+        "preisprogramm1": 5.29,
+        "aponame1": "cannalivery",
+        "preis1": 26.45,
+        "timestamp": "2025-06-29 09:20:17.777000"
+    },
+    {
+        "id": 3131,
+        "session_id": "953b1521-5469-4ee6-87a2-a2341cda1601",
+        "produktname1": "avaay signature 28/1 wb: waffle bites",
+        "menge1": 5.0,
+        "preisprogramm1": 10.95,
+        "aponame1": "cannalivery",
+        "preis1": 54.75,
+        "timestamp": "2025-06-29 09:49:26.020000"
+    },
+    {
+        "id": 3132,
+        "session_id": "5f3a2ea2-4ff9-456b-be5b-d474f78b1ddd",
+        "produktname1": "bedrocan: afina",
+        "menge1": 5.0,
+        "preisprogramm1": 6.69,
+        "aponame1": "cannalivery",
+        "preis1": 33.45,
+        "aponame2": "jiroo",
+        "preis2": 44.5,
+        "timestamp": "2025-06-29 09:51:01.517000"
+    },
+    {
+        "id": 3133,
+        "session_id": "86714533-a467-46c6-a8d9-adb87294b922",
+        "produktname1": "420 evolution 25/1 ca flm: frozen lemon mints",
+        "menge1": 5.0,
+        "preisprogramm1": 8.4,
+        "aponame1": "jiroo",
+        "preis1": 42.0,
+        "aponame2": "medicalherbs",
+        "preis2": 53.95,
+        "timestamp": "2025-06-29 13:09:37.654000"
+    },
+    {
+        "id": 3134,
+        "session_id": "86714533-a467-46c6-a8d9-adb87294b922",
+        "produktname1": "420 evolution 25/1 ca flm: frozen lemon mints",
+        "menge1": 5.0,
+        "preisprogramm1": 8.4,
+        "produktname2": "420 evolution 27/1 ca flm: frozen lemon mints",
+        "menge2": 5.0,
+        "preisprogramm2": 9.9,
+        "aponame1": "jiroo",
+        "preis1": 91.5,
+        "timestamp": "2025-06-29 13:11:07.247000"
+    },
+    {
+        "id": 3135,
+        "session_id": "86714533-a467-46c6-a8d9-adb87294b922",
+        "produktname1": "420 evolution 25/1 ca flm: frozen lemon mints",
+        "menge1": 5.0,
+        "preisprogramm1": 8.4,
+        "produktname2": "420 evolution 27/1 ca flm: frozen lemon mints",
+        "menge2": 5.0,
+        "preisprogramm2": 9.9,
+        "produktname3": "pedanios 22/1: ghost train haze",
+        "menge3": 5.0,
+        "preisprogramm3": 8.4,
+        "aponame1": "jiroo",
+        "preis1": 133.5,
+        "timestamp": "2025-06-29 13:11:24.158000"
+    },
+    {
+        "id": 3136,
+        "session_id": "10767814-0d4e-4840-a767-d83b605fae23",
+        "produktname1": "pedanios 31/1 cos-ca: cosmic cream",
+        "menge1": 5.0,
+        "preisprogramm1": 9.9,
+        "aponame1": "jiroo",
+        "preis1": 49.5,
+        "aponame2": "medicalherbs",
+        "preis2": 52.95,
+        "aponame3": "cannalivery",
+        "preis3": 59.95,
+        "timestamp": "2025-06-29 18:55:50.481000"
+    },
+    {
+        "id": 3137,
+        "session_id": "1919fd34-fc7a-419d-a8dc-ea565ad30b78",
+        "produktname1": "420 evolution 33/1 ca pch: peach chementine",
+        "menge1": 5.0,
+        "preisprogramm1": 11.8,
+        "aponame1": "jiroo",
+        "preis1": 59.0,
+        "timestamp": "2025-06-29 19:20:19.708000"
+    },
+    {
+        "id": 3138,
+        "session_id": "379f1d2c-00d9-4479-88c0-f04f6b229162",
+        "produktname1": "420 evolution 33/1 ca pch: peach chementine",
+        "menge1": 5.0,
+        "preisprogramm1": 11.8,
+        "aponame1": "jiroo",
+        "preis1": 59.0,
+        "timestamp": "2025-06-29 19:38:54.165000"
+    },
+    {
+        "id": 3139,
+        "session_id": "b83af74b-d8e5-4b00-998c-9005a746a314",
+        "produktname1": "khiron g 23/1: gelato 42",
+        "menge1": 5.0,
+        "preisprogramm1": 11.26,
+        "aponame1": "lux99",
+        "preis1": 56.3,
+        "timestamp": "2025-06-29 21:09:06.239000"
     }
 ]
