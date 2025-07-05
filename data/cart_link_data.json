@@ -17534,5 +17534,28 @@
         "price1_per_g": 7.29,
         "av_price_per_g": 7.290000000000001,
         "total_price": 72.9
+    },
+    {
+        "id": 1025,
+        "cart_status": 3,
+        "timestamp": "2025-07-04 14:54:42.904352",
+        "session_id": "facbcf2d-3ebe-4b6a-b890-b9a00cbb5609",
+        "link_source": "apo-link-1",
+        "link_name": "jiroo",
+        "link_url": "https://jiroo.de/cart/?add-many-to-cart=43822*20,137054*15,39198*5",
+        "name_apo_1": "jiroo",
+        "name_apo_2": "placeholder",
+        "name_apo_3": "placeholder",
+        "produktname1": "420 evolution 22/1 ca pld: plum driver",
+        "quantity1": 20.0,
+        "price1_per_g": 8.9,
+        "produktname2": "avaay signature 23/1 mc: mandarin cookies",
+        "quantity2": 15.0,
+        "price2_per_g": 9.9,
+        "produktname3": "420 compound 27/1 ca gap: gastro pop",
+        "quantity3": 5.0,
+        "price3_per_g": 10.9,
+        "av_price_per_g": 9.525,
+        "total_price": 381.0
     }
 ]
