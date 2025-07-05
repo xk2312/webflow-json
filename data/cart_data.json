@@ -39462,5 +39462,61 @@
         "aponame1": "cannalivery",
         "preis1": 26.45,
         "timestamp": "2025-07-03 20:29:56.292000"
+    },
+    {
+        "id": 3194,
+        "session_id": "ac71d223-d7b7-47be-9a74-a56e8684d0e4",
+        "produktname1": "cannamedical indica classic zaf: black cherry punch",
+        "menge1": 5.0,
+        "preisprogramm1": 5.29,
+        "aponame1": "cannalivery",
+        "preis1": 26.45,
+        "timestamp": "2025-07-04 10:14:44.565000"
+    },
+    {
+        "id": 3195,
+        "session_id": "aa523a16-5f4d-4583-b9e6-2dd47427cd0c",
+        "produktname1": "remexian 30/1 crn: garlic breath",
+        "menge1": 5.0,
+        "preisprogramm1": 9.9,
+        "aponame1": "jiroo",
+        "preis1": 49.5,
+        "timestamp": "2025-07-04 10:31:50.977000"
+    },
+    {
+        "id": 3196,
+        "session_id": "facbcf2d-3ebe-4b6a-b890-b9a00cbb5609",
+        "produktname1": "420 evolution 22/1 ca pld: plum driver",
+        "menge1": 20.0,
+        "preisprogramm1": 8.9,
+        "produktname2": "avaay signature 23/1 mc: mandarin cookies",
+        "menge2": 35.0,
+        "preisprogramm2": 9.9,
+        "produktname3": "420 compound 27/1 ca gap: gastro pop",
+        "menge3": 5.0,
+        "preisprogramm3": 10.9,
+        "aponame1": "jiroo",
+        "preis1": 579.0,
+        "timestamp": "2025-07-04 12:54:28.785000"
+    },
+    {
+        "id": 3197,
+        "session_id": "b3638783-79ed-478a-b572-e717d83be994",
+        "produktname1": "remexian 30/1 crn: garlic breath",
+        "menge1": 5.0,
+        "preisprogramm1": 9.9,
+        "aponame1": "jiroo",
+        "preis1": 49.5,
+        "timestamp": "2025-07-04 14:29:31.552000"
+    },
+    {
+        "id": 3198,
+        "session_id": "c56bccf1-fa90-46ec-a0e1-bd2cb0837e3f",
+        "produktname1": "bathera 24/1: permanent marker",
+        "menge1": 5.0,
+        "preisprogramm1": 8.9,
+        "aponame1": "jiroo",
+        "preis1": 44.5,
+        "timestamp": "2025-07-04 18:29:16.769000"
     }
 ]
