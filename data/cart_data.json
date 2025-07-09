@@ -39783,5 +39783,94 @@
         "aponame1": "cannalivery",
         "preis1": 26.45,
         "timestamp": "2025-07-08 18:53:13.526000"
+    },
+    {
+        "id": 3222,
+        "session_id": "ce3908b2-7360-4622-a7a5-589de245f519",
+        "produktname1": "avaay 23/1 ck: critical kush",
+        "menge1": 5.0,
+        "preisprogramm1": 0.8,
+        "aponame1": "jiroo",
+        "preis1": 4.0,
+        "aponame2": "cannalivery",
+        "preis2": 36.45,
+        "timestamp": "2025-07-09 07:56:55.053000"
+    },
+    {
+        "id": 3223,
+        "session_id": "a37855aa-bfa3-4e1e-bed2-7631d491e3bb",
+        "produktname1": "cannamedical indica classic zaf: black cherry punch",
+        "menge1": 5.0,
+        "preisprogramm1": 5.29,
+        "aponame1": "cannalivery",
+        "preis1": 26.45,
+        "timestamp": "2025-07-09 10:22:22.393000"
+    },
+    {
+        "id": 3224,
+        "session_id": "4aafa65f-0426-4c47-929f-99c59e0415d0",
+        "produktname1": "cannamedical hybrid forte nm: gorilla zkittlez",
+        "menge1": 5.0,
+        "preisprogramm1": 8.99,
+        "aponame1": "cannalivery",
+        "preis1": 44.95,
+        "timestamp": "2025-07-09 13:50:35.672000"
+    },
+    {
+        "id": 3225,
+        "session_id": "b14cda47-61c9-49f2-b323-8db22150f906",
+        "produktname1": "420 evolution 30/1 ca pch: peach chementine",
+        "menge1": 5.0,
+        "preisprogramm1": 10.19,
+        "aponame1": "cannem",
+        "preis1": 50.95,
+        "aponame2": "cannalivery",
+        "preis2": 52.45,
+        "timestamp": "2025-07-09 15:37:27.646000"
+    },
+    {
+        "id": 3226,
+        "session_id": "aa7e33f9-835f-4679-92e4-765d4e3f79d4",
+        "produktname1": "pedanios 10/10 eqi-ca: equiposa",
+        "menge1": 5.0,
+        "preisprogramm1": 0.6,
+        "aponame1": "jiroo",
+        "preis1": 3.0,
+        "aponame2": "cannem",
+        "preis2": 49.95,
+        "timestamp": "2025-07-09 15:52:33.644000"
+    },
+    {
+        "id": 3227,
+        "session_id": "d3aa9249-192f-4aed-b558-0edc6b79071c",
+        "produktname1": "avaay 29/1 scp: sour cherry punch",
+        "menge1": 5.0,
+        "preisprogramm1": 0.9,
+        "aponame1": "jiroo",
+        "preis1": 4.5,
+        "timestamp": "2025-07-09 16:21:56.086000"
+    },
+    {
+        "id": 3228,
+        "session_id": "f7711f65-0d85-45b1-92cc-9376fc2d81a6",
+        "produktname1": "bathera 24/1: permanent marker",
+        "menge1": 5.0,
+        "preisprogramm1": 0.8,
+        "aponame1": "jiroo",
+        "preis1": 4.0,
+        "timestamp": "2025-07-09 20:26:21.035000"
+    },
+    {
+        "id": 3229,
+        "session_id": "f7711f65-0d85-45b1-92cc-9376fc2d81a6",
+        "produktname1": "bathera 24/1: permanent marker",
+        "menge1": 5.0,
+        "preisprogramm1": 0.8,
+        "produktname2": "420 evolution 22/1 ca mac: mac 1",
+        "menge2": 5.0,
+        "preisprogramm2": 0.7,
+        "aponame1": "jiroo",
+        "preis1": 7.5,
+        "timestamp": "2025-07-09 20:26:32.699000"
     }
 ]
