@@ -17907,5 +17907,40 @@
         "price2_per_g": 0.7,
         "av_price_per_g": 0.75,
         "total_price": 7.5
+    },
+    {
+        "id": 1045,
+        "cart_status": 3,
+        "timestamp": "2025-07-10 07:24:27.701514",
+        "session_id": "29b120a8-8d6f-47fc-8b20-f499dd2d2950",
+        "link_source": "doc-link-3",
+        "link_name": "telecan",
+        "link_url": "https://telecan.de/",
+        "name_apo_1": "cannalivery",
+        "name_apo_2": "placeholder",
+        "name_apo_3": "placeholder",
+        "produktname1": "420 evolution 27/1 ca icc: ice cream cake kush mints",
+        "quantity1": 10.0,
+        "price1_per_g": 9.89,
+        "produktname2": "420 evolution 27/1 ca flm: frozen lemon mints",
+        "quantity2": 10.0,
+        "price2_per_g": 9.89,
+        "produktname3": "cannamedical indica classic zaf: black cherry punch",
+        "quantity3": 10.0,
+        "price3_per_g": 5.29,
+        "av_price_per_g": 8.356666666666667,
+        "total_price": 250.70000000000002
+    },
+    {
+        "id": 1046,
+        "cart_status": 0,
+        "timestamp": "2025-07-10 11:51:42.992545",
+        "session_id": "095e0604-be1f-4b5f-a84f-9ff0eede33a2",
+        "link_source": "doc-link-1",
+        "link_name": "DoktorABC",
+        "link_url": "https://go.nicetracking.com/click?pid=308&offer_id=84&sub1=hp&l=1740661425",
+        "name_apo_1": "placeholder",
+        "name_apo_2": "placeholder",
+        "name_apo_3": "placeholder"
     }
 ]
