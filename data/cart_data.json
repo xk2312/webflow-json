@@ -39872,5 +39872,83 @@
         "aponame1": "jiroo",
         "preis1": 7.5,
         "timestamp": "2025-07-09 20:26:32.699000"
+    },
+    {
+        "id": 3230,
+        "session_id": "4d0697dd-83ae-46ec-8c4a-eec3c5527456",
+        "produktname1": "enua 22/1 bcp ca: black cherry punch",
+        "menge1": 5.0,
+        "preisprogramm1": 0.6,
+        "aponame1": "jiroo",
+        "preis1": 3.0,
+        "timestamp": "2025-07-10 00:17:49.957000"
+    },
+    {
+        "id": 3231,
+        "session_id": "4d0697dd-83ae-46ec-8c4a-eec3c5527456",
+        "produktname1": "enua 22/1 bcp ca: black cherry punch",
+        "menge1": 5.0,
+        "preisprogramm1": 0.6,
+        "produktname2": "avaay 23/1 ck: critical kush",
+        "menge2": 5.0,
+        "preisprogramm2": 0.8,
+        "aponame1": "jiroo",
+        "preis1": 7.0,
+        "timestamp": "2025-07-10 00:19:11.918000"
+    },
+    {
+        "id": 3232,
+        "session_id": "4d0697dd-83ae-46ec-8c4a-eec3c5527456",
+        "produktname1": "enua 22/1 bcp ca: black cherry punch",
+        "menge1": 5.0,
+        "preisprogramm1": 0.6,
+        "produktname2": "avaay 23/1 ck: critical kush",
+        "menge2": 5.0,
+        "preisprogramm2": 0.8,
+        "produktname3": "avaay 29/1 scp: sour cherry punch",
+        "menge3": 5.0,
+        "preisprogramm3": 0.9,
+        "aponame1": "jiroo",
+        "preis1": 11.5,
+        "timestamp": "2025-07-10 00:19:16.064000"
+    },
+    {
+        "id": 3233,
+        "session_id": "29b120a8-8d6f-47fc-8b20-f499dd2d2950",
+        "produktname1": "420 evolution 27/1 ca icc: ice cream cake kush mints",
+        "menge1": 5.0,
+        "preisprogramm1": 9.89,
+        "aponame1": "cannalivery",
+        "preis1": 49.45,
+        "timestamp": "2025-07-10 05:21:42.544000"
+    },
+    {
+        "id": 3234,
+        "session_id": "29b120a8-8d6f-47fc-8b20-f499dd2d2950",
+        "produktname1": "420 evolution 27/1 ca icc: ice cream cake kush mints",
+        "menge1": 5.0,
+        "preisprogramm1": 9.89,
+        "produktname2": "420 evolution 27/1 ca flm: frozen lemon mints",
+        "menge2": 5.0,
+        "preisprogramm2": 9.89,
+        "aponame1": "cannalivery",
+        "preis1": 98.9,
+        "timestamp": "2025-07-10 05:22:20.640000"
+    },
+    {
+        "id": 3235,
+        "session_id": "29b120a8-8d6f-47fc-8b20-f499dd2d2950",
+        "produktname1": "420 evolution 27/1 ca icc: ice cream cake kush mints",
+        "menge1": 5.0,
+        "preisprogramm1": 9.89,
+        "produktname2": "420 evolution 27/1 ca flm: frozen lemon mints",
+        "menge2": 5.0,
+        "preisprogramm2": 9.89,
+        "produktname3": "cannamedical indica classic zaf: black cherry punch",
+        "menge3": 5.0,
+        "preisprogramm3": 5.29,
+        "aponame1": "cannalivery",
+        "preis1": 125.35,
+        "timestamp": "2025-07-10 05:23:51.569000"
     }
 ]
