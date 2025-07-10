@@ -58642,5 +58642,50 @@
         "item_class": "nav-brand-v1 w-nav-brand w--current",
         "item_id": "logo-link-navi",
         "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 6538,
+        "session_id": "4d0697dd-83ae-46ec-8c4a-eec3c5527456",
+        "source_url": "https://www.zencan.de/kultivare/purple-haze",
+        "timestamp": "2025-07-10 02:16:38.835726",
+        "item_class": "w-inline-block",
+        "item_id": "slide-terps-category",
+        "target_url": "https://www.zencan.de/?sort=terps"
+    },
+    {
+        "id": 6539,
+        "session_id": "eee492da-9a56-49cb-8ce7-0c707b27d707",
+        "source_url": "https://www.zencan.de/ratgeber/marihuana-kaufen",
+        "timestamp": "2025-07-10 02:39:30.379431",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 6540,
+        "session_id": "eee492da-9a56-49cb-8ce7-0c707b27d707",
+        "source_url": "https://www.zencan.de/ratgeber/marihuana-kaufen",
+        "timestamp": "2025-07-10 02:39:33.576795",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 6541,
+        "session_id": "9428c43a-18e8-4e24-80b8-8efb95cc3a53",
+        "source_url": "https://www.zencan.de/ratgeber/cannabis-medizin",
+        "timestamp": "2025-07-10 06:53:08.221268",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 6542,
+        "session_id": "8ec0dc1a-7f22-4375-a9a6-2056e3fbf2bc",
+        "source_url": "https://www.zencan.de/produkte/weeco-27-1-kl-cali-sunset",
+        "timestamp": "2025-07-10 11:17:06.220219",
+        "item_class": "nav-brand-v1 w-nav-brand",
+        "item_id": "logo-link-navi",
+        "target_url": "https://www.zencan.de/"
     }
 ]
