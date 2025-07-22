@@ -43102,5 +43102,82 @@
         "aponame1": "cannalivery",
         "preis1": 158.35,
         "timestamp": "2025-07-22 07:25:01.812000"
+    },
+    {
+        "id": 3497,
+        "session_id": "5900b008-2330-4237-a609-e26c896eaa68",
+        "produktname1": "mac 1+: mac 1",
+        "menge1": 5.0,
+        "preisprogramm1": 8.89,
+        "aponame1": "jiroo",
+        "preis1": 44.45,
+        "aponame2": "lux99",
+        "preis2": 77.35,
+        "timestamp": "2025-07-22 12:01:22.969000"
+    },
+    {
+        "id": 3498,
+        "session_id": "2210ca8a-8e99-4cb0-b0d0-b465431ff897",
+        "produktname1": "420 evolution 33/1 ca pch: peach chementine",
+        "menge1": 5.0,
+        "preisprogramm1": 1.1,
+        "aponame1": "jiroo",
+        "preis1": 5.5,
+        "timestamp": "2025-07-22 15:09:32.448000"
+    },
+    {
+        "id": 3499,
+        "session_id": "2210ca8a-8e99-4cb0-b0d0-b465431ff897",
+        "produktname1": "420 evolution 33/1 ca pch: peach chementine",
+        "menge1": 5.0,
+        "preisprogramm1": 1.1,
+        "produktname2": "remexian 30/1 gjy flv: flawless victory",
+        "menge2": 5.0,
+        "preisprogramm2": 9.95,
+        "aponame1": "jiroo",
+        "preis1": 55.25,
+        "timestamp": "2025-07-22 15:11:55.147000"
+    },
+    {
+        "id": 3500,
+        "session_id": "2210ca8a-8e99-4cb0-b0d0-b465431ff897",
+        "produktname1": "420 evolution 33/1 ca pch: peach chementine",
+        "menge1": 5.0,
+        "preisprogramm1": 1.1,
+        "produktname2": "remexian 30/1 gjy flv: flawless victory",
+        "menge2": 5.0,
+        "preisprogramm2": 9.95,
+        "produktname3": "pedanios 31/1 pnd-ca: pink diesel",
+        "menge3": 5.0,
+        "preisprogramm3": 8.95,
+        "aponame1": "jiroo",
+        "preis1": 100.0,
+        "timestamp": "2025-07-22 15:12:06.339000"
+    },
+    {
+        "id": 3501,
+        "session_id": "2210ca8a-8e99-4cb0-b0d0-b465431ff897",
+        "produktname1": "420 evolution 33/1 ca pch: peach chementine",
+        "menge1": 5.0,
+        "preisprogramm1": 1.1,
+        "produktname2": "pedanios 31/1 pnd-ca: pink diesel",
+        "menge2": 5.0,
+        "preisprogramm2": 8.95,
+        "produktname3": "enua 22/1 bcp ca: black cherry punch",
+        "menge3": 5.0,
+        "preisprogramm3": 6.5,
+        "aponame1": "jiroo",
+        "preis1": 82.75,
+        "timestamp": "2025-07-22 15:14:53.086000"
+    },
+    {
+        "id": 3502,
+        "session_id": "982c542f-6b6c-4b96-90be-7a77d71e4862",
+        "produktname1": "420 evolution 22/1 ca mac: mac 1",
+        "menge1": 5.0,
+        "preisprogramm1": 8.99,
+        "aponame1": "cannem",
+        "preis1": 44.95,
+        "timestamp": "2025-07-22 19:19:01.746000"
     }
 ]
