@@ -63160,5 +63160,50 @@
         "item_class": "link-9",
         "item_id": "terpene-link-navi",
         "target_url": "https://www.zencan.de/terpene"
+    },
+    {
+        "id": 7040,
+        "session_id": "0e01eb21-1008-4837-8813-78a8c06a120e",
+        "source_url": "https://www.zencan.de/ratgeber/cannabis-auf-rezept",
+        "timestamp": "2025-07-22 23:27:50.650268",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 7041,
+        "session_id": "5e9bf21e-8b36-48b1-8a45-ee32b3e8841e",
+        "source_url": "https://www.zencan.de/ratgeber/jiroo",
+        "timestamp": "2025-07-23 01:55:12.061447",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 7042,
+        "session_id": "5e9bf21e-8b36-48b1-8a45-ee32b3e8841e",
+        "source_url": "https://www.zencan.de/",
+        "timestamp": "2025-07-23 02:00:08.205633",
+        "item_class": "link-7 w--current",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 7043,
+        "session_id": "20b10f02-4262-492f-9820-61743f5d1436",
+        "source_url": "https://www.zencan.de/search?query=Pink+Diesel",
+        "timestamp": "2025-07-23 07:48:56.669530",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 7044,
+        "session_id": "20b10f02-4262-492f-9820-61743f5d1436",
+        "source_url": "https://www.zencan.de/produkte/pedanios-27-1-frg-ca-farm-gas",
+        "timestamp": "2025-07-23 08:03:24.730156",
+        "item_class": "nav-brand-v1 w-nav-brand",
+        "item_id": "logo-link-navi",
+        "target_url": "https://www.zencan.de/"
     }
 ]
