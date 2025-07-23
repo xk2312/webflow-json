@@ -43179,5 +43179,74 @@
         "aponame1": "cannem",
         "preis1": 44.95,
         "timestamp": "2025-07-22 19:19:01.746000"
+    },
+    {
+        "id": 3503,
+        "session_id": "0e01eb21-1008-4837-8813-78a8c06a120e",
+        "produktname1": "420 evolution 22/1 ca pld: plum driver",
+        "menge1": 5.0,
+        "preisprogramm1": 8.95,
+        "aponame1": "jiroo",
+        "preis1": 44.75,
+        "timestamp": "2025-07-22 21:28:53.806000"
+    },
+    {
+        "id": 3504,
+        "session_id": "20b10f02-4262-492f-9820-61743f5d1436",
+        "produktname1": "remexian 30/1 heg: helios gold",
+        "menge1": 5.0,
+        "preisprogramm1": 9.95,
+        "aponame1": "jiroo",
+        "preis1": 49.75,
+        "timestamp": "2025-07-23 05:49:27.787000"
+    },
+    {
+        "id": 3505,
+        "session_id": "20b10f02-4262-492f-9820-61743f5d1436",
+        "produktname1": "pedanios 27/1 frg-ca: farm gas",
+        "menge1": 5.0,
+        "preisprogramm1": 0.9,
+        "aponame1": "jiroo",
+        "preis1": 4.5,
+        "timestamp": "2025-07-23 05:51:57.242000"
+    },
+    {
+        "id": 3506,
+        "session_id": "e229b87d-4bd8-4625-9a9a-4ed6dfd412d6",
+        "produktname1": "aurora 22/1: delahaze",
+        "menge1": 5.0,
+        "preisprogramm1": 10.99,
+        "aponame1": "cannalivery",
+        "preis1": 54.95,
+        "timestamp": "2025-07-23 06:18:12.931000"
+    },
+    {
+        "id": 3507,
+        "session_id": "e229b87d-4bd8-4625-9a9a-4ed6dfd412d6",
+        "produktname1": "aurora 22/1: delahaze",
+        "menge1": 5.0,
+        "preisprogramm1": 10.99,
+        "produktname2": "pedanios 31/1 cos-ca: cosmic cream",
+        "menge2": 5.0,
+        "preisprogramm2": 11.99,
+        "aponame1": "cannalivery",
+        "preis1": 114.9,
+        "timestamp": "2025-07-23 06:18:41.861000"
+    },
+    {
+        "id": 3508,
+        "session_id": "e229b87d-4bd8-4625-9a9a-4ed6dfd412d6",
+        "produktname1": "aurora 22/1: delahaze",
+        "menge1": 5.0,
+        "preisprogramm1": 10.99,
+        "produktname2": "pedanios 31/1 cos-ca: cosmic cream",
+        "menge2": 5.0,
+        "preisprogramm2": 11.99,
+        "produktname3": "bathera 28/1: facetz",
+        "menge3": 5.0,
+        "preisprogramm3": 7.49,
+        "aponame1": "cannalivery",
+        "preis1": 152.35,
+        "timestamp": "2025-07-23 06:18:47.285000"
     }
 ]
