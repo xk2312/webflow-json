@@ -67920,6 +67920,14 @@
         "item_id": "ad-container-head"
     },
     {
+        "id": 8823,
+        "session_id": "3e8b2e8f-43df-40f0-9b55-abbbd2df729d",
+        "timestamp": "2025-07-23 10:10:39.164512",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "warenkorb-x",
+        "item_id": "warenkorb-x"
+    },
+    {
         "id": 8519,
         "session_id": "9d085b33-bd5b-43c0-afd3-f2f4c522f855",
         "timestamp": "2025-07-17 08:23:25.902593",
@@ -69836,6 +69844,414 @@
         "session_id": "e0849dbd-3be3-4dab-a0a5-abbf390c2f7a",
         "timestamp": "2025-07-23 08:23:58.787970",
         "source_url": "https://www.zencan.de/kultivare/ice-and-sugar",
+        "item_class": "button-direkt-download w-button",
+        "item_id": "button-direkt-download"
+    },
+    {
+        "id": 8809,
+        "session_id": "7e5eeb3d-971e-4523-bd90-b87418efea53",
+        "timestamp": "2025-07-23 08:56:37.400981",
+        "source_url": "https://www.zencan.de/kultivare/zkittlez#",
+        "item_class": "button-direkt-download w-button",
+        "item_id": "button-direkt-download"
+    },
+    {
+        "id": 8810,
+        "session_id": "92efacde-3b27-45f6-97f2-81d7aac718c9",
+        "timestamp": "2025-07-23 09:35:00.960883",
+        "source_url": "https://www.zencan.de/#",
+        "item_class": "w-layout-blockcontainer filter-icon w-container",
+        "item_id": "filter-icon"
+    },
+    {
+        "id": 8811,
+        "session_id": "92efacde-3b27-45f6-97f2-81d7aac718c9",
+        "timestamp": "2025-07-23 09:41:21.400804",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer filter-icon w-container",
+        "item_id": "filter-icon"
+    },
+    {
+        "id": 8812,
+        "session_id": "92efacde-3b27-45f6-97f2-81d7aac718c9",
+        "timestamp": "2025-07-23 09:41:43.413328",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "x-out-image",
+        "item_id": "x-out-image"
+    },
+    {
+        "id": 8813,
+        "session_id": "92efacde-3b27-45f6-97f2-81d7aac718c9",
+        "timestamp": "2025-07-23 09:41:47.599513",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer filter-icon w-container",
+        "item_id": "filter-icon"
+    },
+    {
+        "id": 8814,
+        "session_id": "92efacde-3b27-45f6-97f2-81d7aac718c9",
+        "timestamp": "2025-07-23 09:42:26.045649",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "x-out-image",
+        "item_id": "x-out-image"
+    },
+    {
+        "id": 8815,
+        "session_id": "2811de58-f2c3-46ef-8559-b94d234eab38",
+        "timestamp": "2025-07-23 09:57:39.338227",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "warenkorb_icon_image",
+        "item_id": "warenkorb_icon_image"
+    },
+    {
+        "id": 8816,
+        "session_id": "2811de58-f2c3-46ef-8559-b94d234eab38",
+        "timestamp": "2025-07-23 09:57:49.082786",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "warenkorb-x",
+        "item_id": "warenkorb-x"
+    },
+    {
+        "id": 8817,
+        "session_id": "2811de58-f2c3-46ef-8559-b94d234eab38",
+        "timestamp": "2025-07-23 09:58:01.534631",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "warenkorb_icon_image",
+        "item_id": "warenkorb_icon_image"
+    },
+    {
+        "id": 8818,
+        "session_id": "3e8b2e8f-43df-40f0-9b55-abbbd2df729d",
+        "timestamp": "2025-07-23 09:58:54.853617",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer ad-container-head w-container",
+        "item_id": "ad-container-head"
+    },
+    {
+        "id": 8819,
+        "session_id": "3e8b2e8f-43df-40f0-9b55-abbbd2df729d",
+        "timestamp": "2025-07-23 09:59:06.733397",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "warenkorb_icon_image",
+        "item_id": "warenkorb_icon_image"
+    },
+    {
+        "id": 8820,
+        "session_id": "804b4f32-2d16-4c95-8410-276abcca9d3c",
+        "timestamp": "2025-07-23 10:08:22.920966",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer filter-icon w-container",
+        "item_id": "filter-icon"
+    },
+    {
+        "id": 8821,
+        "session_id": "804b4f32-2d16-4c95-8410-276abcca9d3c",
+        "timestamp": "2025-07-23 10:08:25.892282",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "x-out-image",
+        "item_id": "x-out-image"
+    },
+    {
+        "id": 8822,
+        "session_id": "804b4f32-2d16-4c95-8410-276abcca9d3c",
+        "timestamp": "2025-07-23 10:08:27.200288",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer filter-icon w-container",
+        "item_id": "filter-icon"
+    },
+    {
+        "id": 8824,
+        "session_id": "84822219-3fce-4a88-9da7-2d589aa35be9",
+        "timestamp": "2025-07-23 10:12:27.797866",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "warenkorb_icon_image",
+        "item_id": "warenkorb_icon_image"
+    },
+    {
+        "id": 8825,
+        "session_id": "4691c7cc-f275-4547-9fd7-f2d194740eac",
+        "timestamp": "2025-07-23 10:14:38.975274",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "warenkorb_icon_image",
+        "item_id": "warenkorb_icon_image"
+    },
+    {
+        "id": 8826,
+        "session_id": "4691c7cc-f275-4547-9fd7-f2d194740eac",
+        "timestamp": "2025-07-23 10:15:07.893381",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "warenkorb_icon_image",
+        "item_id": "warenkorb_icon_image"
+    },
+    {
+        "id": 8827,
+        "session_id": "2df4bf96-8117-4bea-8ad6-6e725127347a",
+        "timestamp": "2025-07-23 10:37:19.514927",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer filter-icon w-container",
+        "item_id": "filter-icon"
+    },
+    {
+        "id": 8828,
+        "session_id": "2df4bf96-8117-4bea-8ad6-6e725127347a",
+        "timestamp": "2025-07-23 10:38:08.375748",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "warenkorb_icon_image",
+        "item_id": "warenkorb_icon_image"
+    },
+    {
+        "id": 8829,
+        "session_id": "ce0d2d88-4d24-480b-9162-8019fc67933e",
+        "timestamp": "2025-07-23 11:36:10.843146",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "button-direkt-download w-button",
+        "item_id": "button-direkt-download"
+    },
+    {
+        "id": 8830,
+        "session_id": "ce0d2d88-4d24-480b-9162-8019fc67933e",
+        "timestamp": "2025-07-23 11:37:36.683194",
+        "source_url": "https://www.zencan.de/search?query=Dark+shadow+haze",
+        "item_class": "warenkorb_icon_image",
+        "item_id": "warenkorb_icon_image"
+    },
+    {
+        "id": 8831,
+        "session_id": "ce0d2d88-4d24-480b-9162-8019fc67933e",
+        "timestamp": "2025-07-23 11:38:10.681310",
+        "source_url": "https://www.zencan.de/search?query=Dark+shadow+haze",
+        "item_class": "warenkorb-x",
+        "item_id": "warenkorb-x"
+    },
+    {
+        "id": 8832,
+        "session_id": "ce0d2d88-4d24-480b-9162-8019fc67933e",
+        "timestamp": "2025-07-23 11:40:55.655729",
+        "source_url": "https://www.zencan.de/?sort=thc",
+        "item_class": "w-layout-blockcontainer filter-icon w-container",
+        "item_id": "filter-icon"
+    },
+    {
+        "id": 8833,
+        "session_id": "ce0d2d88-4d24-480b-9162-8019fc67933e",
+        "timestamp": "2025-07-23 11:41:03.696377",
+        "source_url": "https://www.zencan.de/?sort=thc",
+        "item_class": "x-out-image",
+        "item_id": "x-out-image"
+    },
+    {
+        "id": 8834,
+        "session_id": "ce0d2d88-4d24-480b-9162-8019fc67933e",
+        "timestamp": "2025-07-23 11:43:26.036143",
+        "source_url": "https://www.zencan.de/?sort=thc",
+        "item_class": "warenkorb_icon_image",
+        "item_id": "warenkorb_icon_image"
+    },
+    {
+        "id": 8835,
+        "session_id": "ce0d2d88-4d24-480b-9162-8019fc67933e",
+        "timestamp": "2025-07-23 11:43:39.473295",
+        "source_url": "https://www.zencan.de/?sort=thc",
+        "item_class": "warenkorb-x",
+        "item_id": "warenkorb-x"
+    },
+    {
+        "id": 8836,
+        "session_id": "ce0d2d88-4d24-480b-9162-8019fc67933e",
+        "timestamp": "2025-07-23 11:44:23.474984",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer ad-container-head w-container",
+        "item_id": "ad-container-head"
+    },
+    {
+        "id": 8837,
+        "session_id": "ea754345-ade1-422f-8e7b-196b7e72e0e5",
+        "timestamp": "2025-07-23 13:18:16.491469",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer sort_icon w-container",
+        "item_id": "sort_icon"
+    },
+    {
+        "id": 8838,
+        "session_id": "ea754345-ade1-422f-8e7b-196b7e72e0e5",
+        "timestamp": "2025-07-23 13:18:17.876685",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer sort_terps w-container",
+        "item_id": "sort_terps"
+    },
+    {
+        "id": 8839,
+        "session_id": "b325f5a8-b348-4793-b35e-9e0e5b91b25e",
+        "timestamp": "2025-07-23 14:50:48.140931",
+        "source_url": "https://www.zencan.de/produkte/pedanios-26-1-ehd-ca-electric-honeydew",
+        "item_class": "button-direkt-download w-button",
+        "item_id": "button-direkt-download"
+    },
+    {
+        "id": 8840,
+        "session_id": "4fabdd62-a59f-46f7-8530-a4d0c0b8811f",
+        "timestamp": "2025-07-23 14:56:58.865058",
+        "source_url": "https://www.zencan.de/kultivare/cookies-cream",
+        "item_class": "button-direkt-download w-button",
+        "item_id": "button-direkt-download"
+    },
+    {
+        "id": 8841,
+        "session_id": "cd8aa8e6-67cf-49a3-8d1c-8e2653e57380",
+        "timestamp": "2025-07-23 15:44:05.948967",
+        "source_url": "https://www.zencan.de/kultivare/cookies-cream",
+        "item_class": "button-direkt-download w-button",
+        "item_id": "button-direkt-download"
+    },
+    {
+        "id": 8842,
+        "session_id": "cd8aa8e6-67cf-49a3-8d1c-8e2653e57380",
+        "timestamp": "2025-07-23 15:44:12.928687",
+        "source_url": "https://www.zencan.de/kultivare/cookies-cream",
+        "item_class": "button-direkt-download w-button",
+        "item_id": "button-direkt-download"
+    },
+    {
+        "id": 8843,
+        "session_id": "cd8aa8e6-67cf-49a3-8d1c-8e2653e57380",
+        "timestamp": "2025-07-23 15:51:27.448778",
+        "source_url": "https://www.zencan.de/kultivare/cookies-cream",
+        "item_class": "button-direkt-download w-button",
+        "item_id": "button-direkt-download"
+    },
+    {
+        "id": 8844,
+        "session_id": "c0086460-9ed1-49f3-b948-e717eb4fbf74",
+        "timestamp": "2025-07-23 16:27:16.662170",
+        "source_url": "https://www.zencan.de/ratgeber/haschkekse",
+        "item_class": "button-direkt-download w-button",
+        "item_id": "button-direkt-download"
+    },
+    {
+        "id": 8845,
+        "session_id": "7eaae83f-2fe3-4a5d-963c-f8826ab7ddd1",
+        "timestamp": "2025-07-23 17:37:01.592807",
+        "source_url": "https://www.zencan.de/produkte/tilray-craft-thc25-tam-triangle-mints",
+        "item_class": "w-layout-blockcontainer ad-container-head w-container",
+        "item_id": "ad-container-head"
+    },
+    {
+        "id": 8846,
+        "session_id": "66e4ad22-de64-4005-8b1a-b4005360c1f7",
+        "timestamp": "2025-07-23 19:50:35.703932",
+        "source_url": "https://www.zencan.de/kultivare/electric-honeydew",
+        "item_class": "button-direkt-download w-button",
+        "item_id": "button-direkt-download"
+    },
+    {
+        "id": 8847,
+        "session_id": "fa631b21-d76a-472c-97de-5c33b5f44079",
+        "timestamp": "2025-07-23 20:56:40.977467",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer sort_icon w-container",
+        "item_id": "sort_icon"
+    },
+    {
+        "id": 8848,
+        "session_id": "fa631b21-d76a-472c-97de-5c33b5f44079",
+        "timestamp": "2025-07-23 20:56:42.170825",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer sort_terps w-container",
+        "item_id": "sort_terps"
+    },
+    {
+        "id": 8849,
+        "session_id": "fa631b21-d76a-472c-97de-5c33b5f44079",
+        "timestamp": "2025-07-23 21:00:04.750535",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer sort_icon w-container",
+        "item_id": "sort_icon"
+    },
+    {
+        "id": 8850,
+        "session_id": "fa631b21-d76a-472c-97de-5c33b5f44079",
+        "timestamp": "2025-07-23 21:00:05.992938",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer sort_aroma w-container",
+        "item_id": "sort_aroma"
+    },
+    {
+        "id": 8851,
+        "session_id": "fa631b21-d76a-472c-97de-5c33b5f44079",
+        "timestamp": "2025-07-23 21:00:17.305788",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer sort_icon w-container",
+        "item_id": "sort_icon"
+    },
+    {
+        "id": 8852,
+        "session_id": "fa631b21-d76a-472c-97de-5c33b5f44079",
+        "timestamp": "2025-07-23 21:00:18.285398",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer sort_aroma w-container",
+        "item_id": "sort_aroma"
+    },
+    {
+        "id": 8853,
+        "session_id": "bcaf8715-ee89-4a5c-8629-a67bc157fecc",
+        "timestamp": "2025-07-23 21:02:20.629377",
+        "source_url": "https://www.zencan.de/produkte/gr-nhorn-bc-33-1-tck-tiger-cake",
+        "item_class": "button-direkt-download w-button",
+        "item_id": "button-direkt-download"
+    },
+    {
+        "id": 8854,
+        "session_id": "4c743c6b-e59d-446b-a321-e2a2fccae4ed",
+        "timestamp": "2025-07-24 02:48:47.988356",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer sort_icon w-container",
+        "item_id": "sort_icon"
+    },
+    {
+        "id": 8855,
+        "session_id": "4c743c6b-e59d-446b-a321-e2a2fccae4ed",
+        "timestamp": "2025-07-24 02:48:49.365324",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer sort_aroma w-container",
+        "item_id": "sort_aroma"
+    },
+    {
+        "id": 8856,
+        "session_id": "e36b3445-7512-44d4-9625-fc3bd7e2cc61",
+        "timestamp": "2025-07-24 03:39:03.515905",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer sort_icon w-container",
+        "item_id": "sort_icon"
+    },
+    {
+        "id": 8857,
+        "session_id": "e36b3445-7512-44d4-9625-fc3bd7e2cc61",
+        "timestamp": "2025-07-24 03:39:04.930899",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer sort_terps w-container",
+        "item_id": "sort_terps"
+    },
+    {
+        "id": 8858,
+        "session_id": "e36b3445-7512-44d4-9625-fc3bd7e2cc61",
+        "timestamp": "2025-07-24 03:42:01.454298",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer sort_icon w-container",
+        "item_id": "sort_icon"
+    },
+    {
+        "id": 8859,
+        "session_id": "50201697-9736-4973-92d2-1b61c4c5f557",
+        "timestamp": "2025-07-24 08:45:45.348465",
+        "source_url": "https://www.zencan.de/produkte/botanics-purple-cream-22-1-purple-ice-water",
+        "item_class": "w-layout-blockcontainer ad-container-head w-container",
+        "item_id": "ad-container-head"
+    },
+    {
+        "id": 8860,
+        "session_id": "065df8b3-a4f4-4ee6-bd06-90517a00bf8e",
+        "timestamp": "2025-07-24 08:56:25.450755",
+        "source_url": "https://www.zencan.de/",
         "item_class": "button-direkt-download w-button",
         "item_id": "button-direkt-download"
     }
