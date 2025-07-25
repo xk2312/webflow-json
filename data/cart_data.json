@@ -43354,5 +43354,36 @@
         "aponame1": "jiroo",
         "preis1": 59.5,
         "timestamp": "2025-07-23 17:35:55.713000"
+    },
+    {
+        "id": 3518,
+        "session_id": "065df8b3-a4f4-4ee6-bd06-90517a00bf8e",
+        "produktname1": "pedanios 31/1 cos-ca: cosmic cream",
+        "menge1": 5.0,
+        "preisprogramm1": 8.95,
+        "aponame1": "jiroo",
+        "preis1": 44.75,
+        "aponame2": "cannalivery",
+        "preis2": 59.95,
+        "aponame3": "lux99",
+        "preis3": 74.95,
+        "timestamp": "2025-07-24 07:26:05.274000"
+    },
+    {
+        "id": 3519,
+        "session_id": "065df8b3-a4f4-4ee6-bd06-90517a00bf8e",
+        "produktname1": "pedanios 31/1 cos-ca: cosmic cream",
+        "menge1": 5.0,
+        "preisprogramm1": 8.95,
+        "produktname2": "pedanios 31/1 pnd-ca: pink diesel",
+        "menge2": 5.0,
+        "preisprogramm2": 8.95,
+        "aponame1": "jiroo",
+        "preis1": 89.5,
+        "aponame2": "cannalivery",
+        "preis2": 129.9,
+        "aponame3": "lux99",
+        "preis3": 149.9,
+        "timestamp": "2025-07-24 07:26:23.025000"
     }
 ]
