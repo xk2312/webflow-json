@@ -43868,5 +43868,147 @@
         "aponame1": "cannalivery",
         "preis1": 49.45,
         "timestamp": "2025-07-27 22:17:27.726000"
+    },
+    {
+        "id": 3556,
+        "session_id": "0cd068e3-b576-4461-8489-4acbbae7a5ea",
+        "produktname1": "pedanios 27/1 frg-ca: farm gas",
+        "menge1": 5.0,
+        "preisprogramm1": 9.95,
+        "timestamp": "2025-07-28 07:45:37.650000"
+    },
+    {
+        "id": 3557,
+        "session_id": "98c3d276-725a-4634-8886-5a933520e895",
+        "produktname1": "420 balanced basic pt slg: super lemon g",
+        "menge1": 5.0,
+        "preisprogramm1": 8.95,
+        "aponame1": "jiroo",
+        "preis1": 44.75,
+        "timestamp": "2025-07-28 07:47:38.946000"
+    },
+    {
+        "id": 3558,
+        "session_id": "c5916e31-cb9b-48c5-bcb6-72f6a09b981e",
+        "produktname1": "avaay signature 23/1 mc: mandarin cookies",
+        "menge1": 5.0,
+        "preisprogramm1": 9.95,
+        "aponame1": "jiroo",
+        "preis1": 49.75,
+        "timestamp": "2025-07-28 09:42:49.378000"
+    },
+    {
+        "id": 3559,
+        "session_id": "4af850b6-53b4-479e-91af-49a9d4edf426",
+        "produktname1": "aurora 22/1: delahaze",
+        "menge1": 5.0,
+        "preisprogramm1": 10.99,
+        "aponame1": "cannalivery",
+        "preis1": 54.95,
+        "timestamp": "2025-07-28 09:57:39.208000"
+    },
+    {
+        "id": 3560,
+        "session_id": "6559139a-643f-49b2-b282-0195a22a3adb",
+        "produktname1": "420 evolution 25/1 ca wes: wedding singer",
+        "menge1": 5.0,
+        "preisprogramm1": 9.29,
+        "aponame1": "cannem",
+        "preis1": 46.45,
+        "aponame2": "medicalherbs",
+        "preis2": 49.75,
+        "timestamp": "2025-07-28 11:25:57.733000"
+    },
+    {
+        "id": 3561,
+        "session_id": "6559139a-643f-49b2-b282-0195a22a3adb",
+        "produktname1": "420 evolution 25/1 ca wes: wedding singer",
+        "menge1": 5.0,
+        "preisprogramm1": 9.95,
+        "produktname2": "pedanios 31/1 cos-ca: cosmic cream",
+        "menge2": 5.0,
+        "preisprogramm2": 10.59,
+        "aponame1": "medicalherbs",
+        "preis1": 102.7,
+        "timestamp": "2025-07-28 11:27:19.845000"
+    },
+    {
+        "id": 3562,
+        "session_id": "f847e15f-ff6b-437a-8372-7e144246d6ac",
+        "produktname1": "pedanios 10/10 eqi-ca: equiposa",
+        "menge1": 5.0,
+        "preisprogramm1": 6.95,
+        "aponame1": "jiroo",
+        "preis1": 34.75,
+        "aponame2": "cannem",
+        "preis2": 49.95,
+        "timestamp": "2025-07-28 17:54:31.842000"
+    },
+    {
+        "id": 3563,
+        "session_id": "72e1cda9-f0e6-4c0d-b6f4-4d3b020aa55c",
+        "produktname1": "pedanios 31/1 pnd-ca: pink diesel",
+        "menge1": 5.0,
+        "preisprogramm1": 8.95,
+        "aponame1": "jiroo",
+        "preis1": 44.75,
+        "aponame2": "cannalivery",
+        "preis2": 69.95,
+        "aponame3": "lux99",
+        "preis3": 74.95,
+        "timestamp": "2025-07-28 19:52:08.091000"
+    },
+    {
+        "id": 3564,
+        "session_id": "72e1cda9-f0e6-4c0d-b6f4-4d3b020aa55c",
+        "produktname1": "420 evolution 30/1 ca pch: peach chementine",
+        "menge1": 5.0,
+        "preisprogramm1": 10.19,
+        "aponame1": "cannem",
+        "preis1": 50.95,
+        "aponame2": "cannalivery",
+        "preis2": 52.45,
+        "timestamp": "2025-07-28 19:54:15.724000"
+    },
+    {
+        "id": 3565,
+        "session_id": "ae99a2a2-3841-4db1-b71c-fceeef9bb514",
+        "produktname1": "remexian 30/1 heg: helios gold",
+        "menge1": 5.0,
+        "preisprogramm1": 9.95,
+        "aponame1": "jiroo",
+        "preis1": 49.75,
+        "timestamp": "2025-07-28 20:23:08.249000"
+    },
+    {
+        "id": 3566,
+        "session_id": "ae99a2a2-3841-4db1-b71c-fceeef9bb514",
+        "produktname1": "remexian 30/1 heg: helios gold",
+        "menge1": 5.0,
+        "preisprogramm1": 9.95,
+        "produktname2": "pedanios 29/1 srd-ca: sourdough",
+        "menge2": 5.0,
+        "preisprogramm2": 8.95,
+        "aponame1": "jiroo",
+        "preis1": 94.5,
+        "timestamp": "2025-07-28 20:23:14.087000"
+    },
+    {
+        "id": 3567,
+        "session_id": "74316928-6d1d-46fe-95d2-6f9a3dcc5138",
+        "produktname1": "420 natural 22/1 ca gg: gorilla glue 4",
+        "menge1": 5.0,
+        "preisprogramm1": 9.49,
+        "aponame1": "cannem",
+        "preis1": 47.45,
+        "timestamp": "2025-07-29 02:06:22.048000"
+    },
+    {
+        "id": 3568,
+        "session_id": "2689594b-d12d-4a7b-9061-04cc4942a093",
+        "produktname1": "bathera 24/1: permanent marker",
+        "menge1": 5.0,
+        "preisprogramm1": 9.79,
+        "timestamp": "2025-07-29 07:26:44.848000"
     }
 ]
