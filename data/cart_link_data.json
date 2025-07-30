@@ -22615,5 +22615,33 @@
         "price1_per_g": 8.95,
         "av_price_per_g": 8.95,
         "total_price": 44.75
+    },
+    {
+        "id": 1286,
+        "cart_status": 1,
+        "timestamp": "2025-07-30 10:43:32.203750",
+        "session_id": "b39bd497-4092-4d32-b5f8-61542d4e8988",
+        "link_source": "doc-link-1",
+        "link_name": "DoktorABC",
+        "link_url": "https://go.nicetracking.com/click?pid=308&offer_id=84&sub1=hp&l=1740661425",
+        "name_apo_1": "placeholder",
+        "name_apo_2": "placeholder",
+        "name_apo_3": "placeholder",
+        "produktname1": "bathera 24/1: permanent marker",
+        "quantity1": 5.0
+    },
+    {
+        "id": 1287,
+        "cart_status": 1,
+        "timestamp": "2025-07-30 10:43:36.892500",
+        "session_id": "b39bd497-4092-4d32-b5f8-61542d4e8988",
+        "link_source": "doc-link-1",
+        "link_name": "DoktorABC",
+        "link_url": "https://go.nicetracking.com/click?pid=308&offer_id=84&sub1=hp&l=1740661425",
+        "name_apo_1": "placeholder",
+        "name_apo_2": "placeholder",
+        "name_apo_3": "placeholder",
+        "produktname1": "bathera 24/1: permanent marker",
+        "quantity1": 5.0
     }
 ]
