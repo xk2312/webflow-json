@@ -65257,5 +65257,158 @@
         "item_class": "link-8",
         "item_id": "kultivare-link-navi",
         "target_url": "https://www.zencan.de/kultivare"
+    },
+    {
+        "id": 7273,
+        "session_id": "4c05c011-c5f0-4cdd-83e9-c9bb60e77cb3",
+        "source_url": "https://zencan.webflow.io/",
+        "timestamp": "2025-07-30 09:58:53.382684",
+        "item_class": "link-11",
+        "item_id": "ratgeber-link-navi",
+        "target_url": "https://zencan.webflow.io/ratgeber"
+    },
+    {
+        "id": 7274,
+        "session_id": "4c05c011-c5f0-4cdd-83e9-c9bb60e77cb3",
+        "source_url": "https://zencan.webflow.io/ratgeber/cannabiserde",
+        "timestamp": "2025-07-30 09:58:59.851492",
+        "item_class": "nav-brand-v1 w-nav-brand",
+        "item_id": "logo-link-navi",
+        "target_url": "https://zencan.webflow.io/"
+    },
+    {
+        "id": 7275,
+        "session_id": "ba503262-c138-41fe-98f2-14b4c3ac0b9e",
+        "source_url": "https://www.zencan.de/",
+        "timestamp": "2025-07-30 10:00:35.197261",
+        "item_class": "link-11",
+        "item_id": "ratgeber-link-navi",
+        "target_url": "https://www.zencan.de/ratgeber"
+    },
+    {
+        "id": 7276,
+        "session_id": "06659cd1-6692-43da-a50e-77b52859ce26",
+        "source_url": "https://zencan.webflow.io/",
+        "timestamp": "2025-07-30 10:01:12.309751",
+        "item_class": "nav-brand-v1 w-nav-brand w--current",
+        "item_id": "logo-link-navi",
+        "target_url": "https://zencan.webflow.io/"
+    },
+    {
+        "id": 7277,
+        "session_id": "06659cd1-6692-43da-a50e-77b52859ce26",
+        "source_url": "https://zencan.webflow.io/",
+        "timestamp": "2025-07-30 10:14:39.834274",
+        "item_class": "nav-brand-v1 w-nav-brand w--current",
+        "item_id": "logo-link-navi",
+        "target_url": "https://zencan.webflow.io/"
+    },
+    {
+        "id": 7278,
+        "session_id": "b39bd497-4092-4d32-b5f8-61542d4e8988",
+        "source_url": "https://www.zencan.de/ratgeber/edibles",
+        "timestamp": "2025-07-30 10:42:34.840551",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 7279,
+        "session_id": "ef03e32f-7737-48e7-89c9-8553507f692e",
+        "source_url": "https://www.zencan.de/",
+        "timestamp": "2025-07-30 10:57:36.451350",
+        "item_class": "link-11",
+        "item_id": "ratgeber-link-navi",
+        "target_url": "https://www.zencan.de/ratgeber"
+    },
+    {
+        "id": 7280,
+        "session_id": "275b3d00-fc6c-4e82-904e-af534ce99959",
+        "source_url": "https://www.zencan.de/",
+        "timestamp": "2025-07-30 11:03:46.054719",
+        "item_class": "nav-brand-v1 w-nav-brand w--current",
+        "item_id": "logo-link-navi",
+        "target_url": "https://www.zencan.de/"
+    },
+    {
+        "id": 7281,
+        "session_id": "0612dda5-2e94-4113-a258-9b397c98267c",
+        "source_url": "https://www.zencan.de/ratgeber/grinder",
+        "timestamp": "2025-07-30 11:19:02.896495",
+        "item_class": "w-inline-block",
+        "item_id": "slide-deal-category",
+        "target_url": "https://www.zencan.de/?sort=pqi"
+    },
+    {
+        "id": 7282,
+        "session_id": "0612dda5-2e94-4113-a258-9b397c98267c",
+        "source_url": "https://www.zencan.de/ratgeber/grinder",
+        "timestamp": "2025-07-30 11:19:04.990466",
+        "item_class": "w-inline-block",
+        "item_id": "slide-deal-category",
+        "target_url": "https://www.zencan.de/?sort=pqi"
+    },
+    {
+        "id": 7283,
+        "session_id": "0612dda5-2e94-4113-a258-9b397c98267c",
+        "source_url": "https://www.zencan.de/",
+        "timestamp": "2025-07-30 11:19:55.843921",
+        "item_class": "link-11",
+        "item_id": "ratgeber-link-navi",
+        "target_url": "https://www.zencan.de/ratgeber"
+    },
+    {
+        "id": 7284,
+        "session_id": "0612dda5-2e94-4113-a258-9b397c98267c",
+        "source_url": "https://www.zencan.de/ratgeber",
+        "timestamp": "2025-07-30 11:19:59.462607",
+        "item_class": "link-block w-inline-block",
+        "item_id": "slide-price-category",
+        "target_url": "https://www.zencan.de/?sort=price"
+    },
+    {
+        "id": 7285,
+        "session_id": "0612dda5-2e94-4113-a258-9b397c98267c",
+        "source_url": "https://www.zencan.de/ratgeber",
+        "timestamp": "2025-07-30 11:20:00.630352",
+        "item_class": "link-block w-inline-block",
+        "item_id": "slide-price-category",
+        "target_url": "https://www.zencan.de/?sort=price"
+    },
+    {
+        "id": 7286,
+        "session_id": "0612dda5-2e94-4113-a258-9b397c98267c",
+        "source_url": "https://www.zencan.de/ratgeber",
+        "timestamp": "2025-07-30 11:20:01.659106",
+        "item_class": "link-block w-inline-block",
+        "item_id": "slide-price-category",
+        "target_url": "https://www.zencan.de/?sort=price"
+    },
+    {
+        "id": 7287,
+        "session_id": "08d80f7d-c391-44bb-a9cc-062ed70c6aeb",
+        "source_url": "https://www.zencan.de/produkte/pedanios-16-1-tng-ca-tangerine-dream",
+        "timestamp": "2025-07-30 11:37:54.968653",
+        "item_class": "link-to-top-terps-selection w-inline-block",
+        "item_id": "link-to-top-terps-selection",
+        "target_url": "https://www.zencan.de/?sort=terps"
+    },
+    {
+        "id": 7288,
+        "session_id": "9858e4ec-468c-4ff0-bc38-f405909a2c7e",
+        "source_url": "https://www.zencan.de/produkte/tilray-craft-thc25-tam-triangle-mints",
+        "timestamp": "2025-07-30 12:20:01.094888",
+        "item_class": "link-to-top-thc-selection w-inline-block",
+        "item_id": "link-to-top-thc-selection",
+        "target_url": "https://www.zencan.de/?sort=thc"
+    },
+    {
+        "id": 7289,
+        "session_id": "d9382dd1-c418-4146-9833-5313ef6989cd",
+        "source_url": "https://www.zencan.de/impressum",
+        "timestamp": "2025-07-30 12:40:22.812235",
+        "item_class": "link-7",
+        "item_id": "cannaabis-kaufen-link-navi",
+        "target_url": "https://www.zencan.de/"
     }
 ]
