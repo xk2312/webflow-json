@@ -22971,5 +22971,22 @@
         "price1_per_g": 10.99,
         "av_price_per_g": 10.99,
         "total_price": 54.95
+    },
+    {
+        "id": 1307,
+        "cart_status": 1,
+        "timestamp": "2025-08-02 16:40:50.755222",
+        "session_id": "5f496f49-c9be-4d7b-86f8-827556531163",
+        "link_source": "apo-link-1",
+        "link_name": "jiroo",
+        "link_url": "https://jiroo.de/cart/?add-many-to-cart=61504*5",
+        "name_apo_1": "jiroo",
+        "name_apo_2": "medicalherbs",
+        "name_apo_3": "cannalivery",
+        "produktname1": "pedanios 31/1 cos-ca: cosmic cream",
+        "quantity1": 5.0,
+        "price1_per_g": 8.95,
+        "av_price_per_g": 8.95,
+        "total_price": 44.75
     }
 ]
