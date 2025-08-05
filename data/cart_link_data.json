@@ -22988,5 +22988,58 @@
         "price1_per_g": 8.95,
         "av_price_per_g": 8.95,
         "total_price": 44.75
+    },
+    {
+        "id": 1308,
+        "cart_status": 0,
+        "timestamp": "2025-08-05 00:42:43.854586",
+        "session_id": "8db57311-ea41-431d-9e1c-da9f64e42071",
+        "link_source": "doc-link-3",
+        "link_name": "telecan",
+        "link_url": "https://telecan.de/",
+        "name_apo_1": "placeholder",
+        "name_apo_2": "placeholder",
+        "name_apo_3": "placeholder"
+    },
+    {
+        "id": 1309,
+        "cart_status": 1,
+        "timestamp": "2025-08-05 01:58:06.094425",
+        "session_id": "05ea922d-1e71-4837-9169-1dc1e5871799",
+        "link_source": "apo-link-1",
+        "link_name": "jiroo",
+        "link_url": "https://jiroo.de/cart/?add-many-to-cart=125684*5",
+        "name_apo_1": "jiroo",
+        "name_apo_2": "placeholder",
+        "name_apo_3": "placeholder",
+        "produktname1": "remexian 30/1 crn: garlic breath",
+        "quantity1": 5.0,
+        "price1_per_g": 9.95,
+        "av_price_per_g": 9.95,
+        "total_price": 49.75
+    },
+    {
+        "id": 1310,
+        "cart_status": 0,
+        "timestamp": "2025-08-05 11:32:22.547246",
+        "session_id": "4379ab49-a5af-43cd-9d91-9f267a3e2f4f",
+        "link_source": "doc-link-1",
+        "link_name": "DoktorABC",
+        "link_url": "https://go.nicetracking.com/click?pid=308&offer_id=84&sub1=hp&l=1740661425",
+        "name_apo_1": "placeholder",
+        "name_apo_2": "placeholder",
+        "name_apo_3": "placeholder"
+    },
+    {
+        "id": 1311,
+        "cart_status": 0,
+        "timestamp": "2025-08-05 11:32:36.626847",
+        "session_id": "4379ab49-a5af-43cd-9d91-9f267a3e2f4f",
+        "link_source": "doc-link-3",
+        "link_name": "telecan",
+        "link_url": "https://telecan.de/",
+        "name_apo_1": "placeholder",
+        "name_apo_2": "placeholder",
+        "name_apo_3": "placeholder"
     }
 ]
