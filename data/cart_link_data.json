@@ -23408,5 +23408,22 @@
         "price2_per_g": 8.95,
         "av_price_per_g": 9.45,
         "total_price": 94.5
+    },
+    {
+        "id": 1333,
+        "cart_status": 1,
+        "timestamp": "2025-08-09 18:52:59.464812",
+        "session_id": "e64997ad-66dd-401c-9bb4-ef3a710dd98d",
+        "link_source": "doc-link-1",
+        "link_name": "DoktorABC",
+        "link_url": "https://go.nicetracking.com/click?pid=308&offer_id=84&sub1=hp&l=1740661425",
+        "name_apo_1": "cannalivery",
+        "name_apo_2": "placeholder",
+        "name_apo_3": "placeholder",
+        "produktname1": "420 evolution 27/1 ca icc: ice cream cake kush mints",
+        "quantity1": 5.0,
+        "price1_per_g": 8.69,
+        "av_price_per_g": 8.69,
+        "total_price": 43.449999999999996
     }
 ]
