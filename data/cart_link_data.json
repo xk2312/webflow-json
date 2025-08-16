@@ -23690,5 +23690,39 @@
         "price1_per_g": 6.5,
         "av_price_per_g": 6.5,
         "total_price": 32.5
+    },
+    {
+        "id": 1348,
+        "cart_status": 1,
+        "timestamp": "2025-08-15 11:09:07.965874",
+        "session_id": "18ed9ccd-b694-4853-a358-89bab61c2156",
+        "link_source": "apo-link-1",
+        "link_name": "jiroo",
+        "link_url": "https://jiroo.de/cart/?add-many-to-cart=125684*5",
+        "name_apo_1": "jiroo",
+        "name_apo_2": "placeholder",
+        "name_apo_3": "placeholder",
+        "produktname1": "remexian 30/1 crn: garlic breath",
+        "quantity1": 5.0,
+        "price1_per_g": 9.95,
+        "av_price_per_g": 9.95,
+        "total_price": 49.75
+    },
+    {
+        "id": 1349,
+        "cart_status": 1,
+        "timestamp": "2025-08-15 11:09:33.288651",
+        "session_id": "18ed9ccd-b694-4853-a358-89bab61c2156",
+        "link_source": "apo-link-1",
+        "link_name": "jiroo",
+        "link_url": "https://jiroo.de/cart/?add-many-to-cart=125684*20",
+        "name_apo_1": "jiroo",
+        "name_apo_2": "placeholder",
+        "name_apo_3": "placeholder",
+        "produktname1": "remexian 30/1 crn: garlic breath",
+        "quantity1": 20.0,
+        "price1_per_g": 9.95,
+        "av_price_per_g": 9.95,
+        "total_price": 199.0
     }
 ]
