@@ -75016,6 +75016,14 @@
         "item_id": "sort_price"
     },
     {
+        "id": 9502,
+        "session_id": "009e8806-a6d0-4847-8807-fcd87beac010",
+        "timestamp": "2025-08-15 20:53:21.723287",
+        "source_url": "https://www.zencan.de/?sort=thc",
+        "item_class": "w-layout-blockcontainer sort_icon w-container",
+        "item_id": "sort_icon"
+    },
+    {
         "id": 9456,
         "session_id": "55baa7c7-a701-44ff-acf7-1375ef83c701",
         "timestamp": "2025-08-12 13:30:14.501426",
@@ -75366,5 +75374,93 @@
         "source_url": "https://www.zencan.de/",
         "item_class": "w-layout-blockcontainer sort_price w-container",
         "item_id": "sort_price"
+    },
+    {
+        "id": 9500,
+        "session_id": "18ed9ccd-b694-4853-a358-89bab61c2156",
+        "timestamp": "2025-08-15 11:09:05.782599",
+        "source_url": "https://www.zencan.de/produkte/remexian-30-1-crn-garlic-breath",
+        "item_class": "warenkorb_icon_image",
+        "item_id": "warenkorb_icon_image"
+    },
+    {
+        "id": 9501,
+        "session_id": "31edaefd-4b1b-4b78-a8b7-083696bb38c6",
+        "timestamp": "2025-08-15 16:41:49.752605",
+        "source_url": "https://www.zencan.de/ratgeber/cannabis-auf-rezept",
+        "item_class": "w-layout-blockcontainer ad-container-head w-container",
+        "item_id": "ad-container-head"
+    },
+    {
+        "id": 9503,
+        "session_id": "d58a19c6-7cab-4e66-9c9c-57eefb8ec411",
+        "timestamp": "2025-08-15 21:21:11.996141",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer filter-icon w-container",
+        "item_id": "filter-icon"
+    },
+    {
+        "id": 9504,
+        "session_id": "d58a19c6-7cab-4e66-9c9c-57eefb8ec411",
+        "timestamp": "2025-08-15 21:21:13.456054",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "x-out-image",
+        "item_id": "x-out-image"
+    },
+    {
+        "id": 9505,
+        "session_id": "d58a19c6-7cab-4e66-9c9c-57eefb8ec411",
+        "timestamp": "2025-08-15 21:21:14.377869",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer sort_icon w-container",
+        "item_id": "sort_icon"
+    },
+    {
+        "id": 9506,
+        "session_id": "d58a19c6-7cab-4e66-9c9c-57eefb8ec411",
+        "timestamp": "2025-08-15 21:21:16.421375",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer sort_price w-container",
+        "item_id": "sort_price"
+    },
+    {
+        "id": 9507,
+        "session_id": "0714eb3b-bd50-49c0-ab20-33c360b43646",
+        "timestamp": "2025-08-16 06:48:41.188234",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer filter-icon w-container",
+        "item_id": "filter-icon"
+    },
+    {
+        "id": 9508,
+        "session_id": "0714eb3b-bd50-49c0-ab20-33c360b43646",
+        "timestamp": "2025-08-16 06:48:46.867329",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "x-out-image",
+        "item_id": "x-out-image"
+    },
+    {
+        "id": 9509,
+        "session_id": "0714eb3b-bd50-49c0-ab20-33c360b43646",
+        "timestamp": "2025-08-16 06:48:48.172380",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer sort_icon w-container",
+        "item_id": "sort_icon"
+    },
+    {
+        "id": 9510,
+        "session_id": "0714eb3b-bd50-49c0-ab20-33c360b43646",
+        "timestamp": "2025-08-16 06:48:57.617006",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer sort_icon w-container",
+        "item_id": "sort_icon"
+    },
+    {
+        "id": 9511,
+        "session_id": "0714eb3b-bd50-49c0-ab20-33c360b43646",
+        "timestamp": "2025-08-16 06:49:16.189137",
+        "source_url": "https://www.zencan.de/",
+        "item_class": "w-layout-blockcontainer filter-icon w-container",
+        "item_id": "filter-icon"
     }
 ]
