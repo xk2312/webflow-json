@@ -23724,5 +23724,39 @@
         "price1_per_g": 9.95,
         "av_price_per_g": 9.95,
         "total_price": 199.0
+    },
+    {
+        "id": 1350,
+        "cart_status": 1,
+        "timestamp": "2025-08-16 10:29:44.966920",
+        "session_id": "e3c0b792-61b3-41d5-98dd-30bb1a71478d",
+        "link_source": "doc-link-1",
+        "link_name": "DoktorABC",
+        "link_url": "https://go.nicetracking.com/click?pid=308&offer_id=84&sub1=hp&l=1740661425",
+        "name_apo_1": "jiroo",
+        "name_apo_2": "placeholder",
+        "name_apo_3": "placeholder",
+        "produktname1": "avaay signature 34/1 ogc: ocean grown cookies",
+        "quantity1": 5.0,
+        "price1_per_g": 11.9,
+        "av_price_per_g": 11.9,
+        "total_price": 59.5
+    },
+    {
+        "id": 1351,
+        "cart_status": 1,
+        "timestamp": "2025-08-17 08:51:00.072669",
+        "session_id": "a41c4b55-42fc-4f97-8d22-e5e450b98a1c",
+        "link_source": "doc-link-1",
+        "link_name": "DoktorABC",
+        "link_url": "https://go.nicetracking.com/click?pid=308&offer_id=84&sub1=hp&l=1740661425",
+        "name_apo_1": "cannalivery",
+        "name_apo_2": "placeholder",
+        "name_apo_3": "placeholder",
+        "produktname1": "cannamedical indica forte ma: carmelita",
+        "quantity1": 5.0,
+        "price1_per_g": 9.99,
+        "av_price_per_g": 9.99,
+        "total_price": 49.95
     }
 ]
