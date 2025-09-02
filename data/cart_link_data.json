@@ -15477,6 +15477,20 @@
         "total_price": 114.85000000000001
     },
     {
+        "id": 1400,
+        "cart_status": 1,
+        "timestamp": "2025-09-02 01:36:04.145917",
+        "session_id": "35ee2f1f-e8f9-45ac-a95d-9056b1b68754",
+        "link_source": "doc-link-1",
+        "link_name": "DoktorABC",
+        "link_url": "https://go.nicetracking.com/click?pid=308&offer_id=84&sub1=hp&l=1740661425",
+        "name_apo_1": "placeholder",
+        "name_apo_2": "placeholder",
+        "name_apo_3": "placeholder",
+        "produktname1": "demecan craft fcf 31:01: first class funk",
+        "quantity1": 5.0
+    },
+    {
         "id": 884,
         "cart_status": 0,
         "timestamp": "2025-06-14 01:39:06.222773",
@@ -24631,5 +24645,41 @@
         "price3_per_g": 8.69,
         "av_price_per_g": 7.89,
         "total_price": 118.35
+    },
+    {
+        "id": 1401,
+        "cart_status": 1,
+        "timestamp": "2025-09-02 02:04:51.743302",
+        "session_id": "42f64934-4d82-4b36-8af1-982036ef8f33",
+        "link_source": "apo-link-1",
+        "link_name": "jiroo",
+        "link_url": "https://jiroo.de/cart/?add-many-to-cart=125684*5",
+        "name_apo_1": "jiroo",
+        "name_apo_2": "placeholder",
+        "name_apo_3": "placeholder",
+        "produktname1": "remexian 30/1 crn: garlic breath",
+        "quantity1": 5.0,
+        "price1_per_g": 9.95,
+        "av_price_per_g": 9.95,
+        "total_price": 49.75
+    },
+    {
+        "id": 1402,
+        "cart_status": 2,
+        "timestamp": "2025-09-02 05:59:15.345594",
+        "session_id": "e2827389-b6b0-434b-b7b6-544b5c844251",
+        "link_source": "doc-link-1",
+        "link_name": "DoktorABC",
+        "link_url": "https://go.nicetracking.com/click?pid=308&offer_id=84&sub1=hp&l=1740661425",
+        "name_apo_1": "placeholder",
+        "name_apo_2": "placeholder",
+        "name_apo_3": "placeholder",
+        "produktname1": "pedanios 31/1 pnd-ca: pink diesel",
+        "quantity1": 5.0,
+        "price1_per_g": 8.95,
+        "produktname2": "bathera 28/1: blue z",
+        "quantity2": 5.0,
+        "av_price_per_g": 8.95,
+        "total_price": 44.75
     }
 ]
