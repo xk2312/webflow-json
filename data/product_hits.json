@@ -23641,6 +23641,13 @@
         "produktname23": "mac 1+: mac 1"
     },
     {
+        "id": 1397,
+        "timestamp": "2025-09-01 20:35:22.908986",
+        "session_id": "c1f9cf12-eddb-46a2-98d1-e85ae0f34367",
+        "selecteddisease": "Therapiegebiet ausw\u00e4hlen",
+        "produktname1": "pedanios 10/10 eqi-ca: equiposa"
+    },
+    {
         "id": 994,
         "timestamp": "2025-06-07 12:33:51.970488",
         "session_id": "01817583-76a5-4c60-a2f7-af45188ce5db",
@@ -26222,6 +26229,13 @@
         "selecteddisease": "Therapiegebiet ausw\u00e4hlen",
         "produktname1": "tilray thc18 spotlight porto: master kush",
         "produktname2": "pedanios 27/1 frg-ca: farm gas"
+    },
+    {
+        "id": 1398,
+        "timestamp": "2025-09-01 20:35:40.473730",
+        "session_id": "c1f9cf12-eddb-46a2-98d1-e85ae0f34367",
+        "selecteddisease": "Therapiegebiet ausw\u00e4hlen",
+        "produktname1": "pedanios 10/10 eqi-ca: equiposa"
     },
     {
         "id": 1102,
@@ -29552,6 +29566,13 @@
         "produktname4": "cannamedical sativa forte nm: wedding tree"
     },
     {
+        "id": 1402,
+        "timestamp": "2025-09-02 14:10:06.056771",
+        "session_id": "f37b7c3e-41e3-42b8-ba98-7ddfe1756122",
+        "selecteddisease": "PTBS (tags)",
+        "produktname1": "420 natural 17/1 ca trp: tropicana cookies"
+    },
+    {
         "id": 1218,
         "timestamp": "2025-07-22 20:30:55.620304",
         "session_id": "96c1fe05-7393-4a94-8e1e-3d619037dad0",
@@ -29821,6 +29842,13 @@
         "session_id": "5f6b11e9-9cc4-4e18-95dc-f955745327ca",
         "selecteddisease": "Angstzust\u00e4nde (tags)",
         "produktname1": "cannamedical sativa forte: venomz eve"
+    },
+    {
+        "id": 1404,
+        "timestamp": "2025-09-02 14:21:50.928771",
+        "session_id": "afef114c-c872-4caa-abb2-743b334e4cc1",
+        "selecteddisease": "Depressionen (tags)",
+        "produktname1": "pedanios 10/10 eqi-ca: equiposa"
     },
     {
         "id": 1232,
@@ -32245,6 +32273,19 @@
         "produktname10": "mac 1+: mac 1"
     },
     {
+        "id": 1403,
+        "timestamp": "2025-09-02 14:20:25.908173",
+        "session_id": "afef114c-c872-4caa-abb2-743b334e4cc1",
+        "selecteddisease": "Stress (tags)",
+        "produktname1": "huala 22/1 ca btr: black triangle",
+        "produktname2": "420 evolution 22/1 ca pld: plum driver",
+        "produktname3": "avaay signature 23/1 mc: mandarin cookies",
+        "produktname4": "bathera 24/1: z-splitter",
+        "produktname5": "tilray thc18 spotlight porto: master kush",
+        "produktname6": "cannamedical sativa forte nm: wedding tree",
+        "produktname7": "enua 22/1 jlsy ca: jealousy"
+    },
+    {
         "id": 1396,
         "timestamp": "2025-09-01 13:35:15.068360",
         "session_id": "c46e76f2-ad9c-4e36-bc11-3e546c1b57b6",
@@ -32260,5 +32301,88 @@
         "produktname9": "420 natural 22/1 ca gg4: gorilla glue 4",
         "produktname10": "bedrocan: afina",
         "produktname11": "aurora 22/1: delahaze"
+    },
+    {
+        "id": 1399,
+        "timestamp": "2025-09-02 01:33:04.907971",
+        "session_id": "35ee2f1f-e8f9-45ac-a95d-9056b1b68754",
+        "selecteddisease": "Therapiegebiet ausw\u00e4hlen",
+        "produktname1": "remexian 30/1 che: chem cookies",
+        "produktname2": "pedanios 31/1 cos-ca: cosmic cream",
+        "produktname3": "420 evolution 30/1 ca pch: peach chementine",
+        "produktname4": "pedanios 31/1 pnd-ca: pink diesel",
+        "produktname5": "420 evolution 30/1 ca wes: wedding singer",
+        "produktname6": "remexian 30/1 crn: garlic breath",
+        "produktname7": "remexian 30/1 gjy flv: flawless victory",
+        "produktname8": "remexian 30/1 heg: helios gold",
+        "produktname9": "demecan craft walkie talkie 31:01: sugar cake",
+        "produktname10": "avaay 32/1 ahc: amnesia haze cake",
+        "produktname11": "demecan mc epic drop: hawaiian rain x permanent marker",
+        "produktname12": "pedanios 31/1 cmk-ca: chemango kush",
+        "produktname13": "pedanios 29/1 srd-ca: sourdough",
+        "produktname14": "enua 30/1 lhz ca: lemonade haze"
+    },
+    {
+        "id": 1400,
+        "timestamp": "2025-09-02 02:04:26.731692",
+        "session_id": "42f64934-4d82-4b36-8af1-982036ef8f33",
+        "selecteddisease": "Therapiegebiet ausw\u00e4hlen",
+        "produktname1": "remexian 30/1 che: chem cookies",
+        "produktname2": "pedanios 31/1 cos-ca: cosmic cream",
+        "produktname3": "pedanios 31/1 pnd-ca: pink diesel",
+        "produktname4": "remexian 30/1 crn: garlic breath",
+        "produktname5": "demecan craft walkie talkie 31:01: sugar cake",
+        "produktname6": "avaay 32/1 ahc: amnesia haze cake",
+        "produktname7": "demecan mc epic drop: hawaiian rain x permanent marker",
+        "produktname8": "pedanios 29/1 srd-ca: sourdough",
+        "produktname9": "enua 30/1 lhz ca: lemonade haze"
+    },
+    {
+        "id": 1401,
+        "timestamp": "2025-09-02 12:18:38.701512",
+        "session_id": "fac555bc-1813-4f5d-b976-298ca6069c26",
+        "selecteddisease": "Therapiegebiet ausw\u00e4hlen",
+        "produktname1": "bathera 24/1: permanent marker",
+        "produktname2": "420 evolution 27/1 ca flm: frozen lemon mints",
+        "produktname3": "remexian 30/1 che: chem cookies",
+        "produktname4": "420 evolution 27/1 ca mmi: miracle mints",
+        "produktname5": "pedanios 26/1 ehd-ca: electric honeydew",
+        "produktname6": "pedanios 31/1 cos-ca: cosmic cream",
+        "produktname7": "420 evolution 25/1 ca wes: wedding singer",
+        "produktname8": "huala 22/1 ca alm: alien mints",
+        "produktname9": "420 evolution 30/1 ca pch: peach chementine",
+        "produktname10": "420 evolution 22/1 ca pld: plum driver",
+        "produktname11": "pedanios 31/1 pnd-ca: pink diesel",
+        "produktname12": "420 evolution 30/1 ca wes: wedding singer",
+        "produktname13": "huala 22/1 ca btr: black triangle",
+        "produktname14": "420 natural 17/1 ca trp: tropicana cookies",
+        "produktname15": "cannamedical sativa forte: tangie chem",
+        "produktname16": "cannamedical indica ultra au: el jefe",
+        "produktname17": "huala 20/1 ca alm: alien mints",
+        "produktname18": "avaay 23/1 ck: critical kush",
+        "produktname19": "remexian 30/1 crn: garlic breath",
+        "produktname20": "avaay signature 23/1 mc: mandarin cookies",
+        "produktname21": "bathera 24/1: z-splitter",
+        "produktname22": "imc thc22 t02: og kush",
+        "produktname23": "remexian 30/1 gjy flv: flawless victory",
+        "produktname24": "remexian 30/1 heg: helios gold",
+        "produktname25": "pedanios 10/10 eqi-ca: equiposa",
+        "produktname26": "enua 22/1 bcp ca: black cherry punch",
+        "produktname27": "remexian 27/1 psl: pink slurricane",
+        "produktname28": "demecan craft walkie talkie 31:01: sugar cake",
+        "produktname29": "pedanios 22/1: ghost train haze",
+        "produktname30": "avaay 32/1 ahc: amnesia haze cake",
+        "produktname31": "420 evolution 25/1 ca flm: frozen lemon mints",
+        "produktname32": "420 evolution 25/1 ca bul: bucket list",
+        "produktname33": "tilray thc18 spotlight porto: master kush",
+        "produktname34": "cannamedical sativa forte nm: wedding tree",
+        "produktname35": "enua 22/1 jlsy ca: jealousy",
+        "produktname36": "420 natural 22/1 ca gg4: gorilla glue 4",
+        "produktname37": "demecan mc epic drop: hawaiian rain x permanent marker",
+        "produktname38": "bedrocan: afina",
+        "produktname39": "pedanios 31/1 cmk-ca: chemango kush",
+        "produktname40": "pedanios 29/1 srd-ca: sourdough",
+        "produktname41": "enua 30/1 lhz ca: lemonade haze",
+        "produktname42": "mac 1+: mac 1"
     }
 ]
