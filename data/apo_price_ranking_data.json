@@ -1,13 +1,18 @@
 [
     {
-        "key_flower": "avaay 24/1 bpm: baby pam",
-        "name_apo_rank1": "cannalivery",
-        "price_apo_rank1": 6.49
+        "key_flower": "tikun erez 20/1: erez",
+        "name_apo_rank1": "lux99",
+        "price_apo_rank1": 9.4
     },
     {
         "key_flower": "420 evolution 27/1 ca icc: ice cream cake kush mints",
         "name_apo_rank1": "cannalivery",
         "price_apo_rank1": 7.49
+    },
+    {
+        "key_flower": "avaay 24/1 bpm: baby pam",
+        "name_apo_rank1": "cannalivery",
+        "price_apo_rank1": 6.49
     },
     {
         "key_flower": "cannamedical indica ultra: crazy rntz",
@@ -55,29 +60,61 @@
         "price_apo_rank1": 8.99
     },
     {
-        "key_flower": "cannamedical indica classic zaf: black cherry punch",
-        "name_apo_rank1": "cannalivery",
-        "price_apo_rank1": 4.99
-    },
-    {
-        "key_flower": "demecan core moonbow-112 23:01: monnbow 112 ix",
-        "name_apo_rank1": "lux99",
-        "price_apo_rank1": 8.33
-    },
-    {
-        "key_flower": "bedica: talea",
-        "name_apo_rank1": "lux99",
-        "price_apo_rank1": 17.09
-    },
-    {
         "key_flower": "cm 30/1 diamond: diamond mints",
         "name_apo_rank1": "cannalivery",
         "price_apo_rank1": 7.99
     },
     {
+        "key_flower": "cannamedical indica classic zaf: black cherry punch",
+        "name_apo_rank1": "cannalivery",
+        "price_apo_rank1": 4.99
+    },
+    {
+        "key_flower": "cannamedical sativa ultra nm: polar cookies",
+        "name_apo_rank1": "cannalivery",
+        "price_apo_rank1": 8.99,
+        "name_apo_rank2": "lux99",
+        "price_apo_rank2": 16.66
+    },
+    {
+        "key_flower": "cannamedical hybrid forte dk: ghost train haze",
+        "name_apo_rank1": "lux99",
+        "price_apo_rank1": 14.04
+    },
+    {
+        "key_flower": "imc thc20 t01 hk: hindu kush",
+        "name_apo_rank1": "lux99",
+        "price_apo_rank1": 9.52
+    },
+    {
+        "key_flower": "cannabis flos 18/1 ls ku. exodus cheese: exodus cheese",
+        "name_apo_rank1": "lux99",
+        "price_apo_rank1": 9.4
+    },
+    {
+        "key_flower": "420 compound 27/1 ca gap: gastro pop",
+        "name_apo_rank1": "cannalivery",
+        "price_apo_rank1": 7.99
+    },
+    {
+        "key_flower": "420 natural 22/1 ca gg4: gorilla glue 4",
+        "name_apo_rank1": "lux99",
+        "price_apo_rank1": 13.09
+    },
+    {
+        "key_flower": "pedanios 22/1: ghost train haze",
+        "name_apo_rank1": "cannalivery",
+        "price_apo_rank1": 6.49
+    },
+    {
         "key_flower": "27/1 amici as: atomic sour grapefruit",
         "name_apo_rank1": "cannalivery",
         "price_apo_rank1": 5.49
+    },
+    {
+        "key_flower": "demecan core moonbow-112 23:01: monnbow 112 ix",
+        "name_apo_rank1": "lux99",
+        "price_apo_rank1": 8.33
     },
     {
         "key_flower": "cannamedical indica forte dk: gelat skyfloater",
@@ -130,18 +167,6 @@
         "price_apo_rank1": 7.99
     },
     {
-        "key_flower": "cannamedical sativa ultra nm: polar cookies",
-        "name_apo_rank1": "cannalivery",
-        "price_apo_rank1": 8.99,
-        "name_apo_rank2": "lux99",
-        "price_apo_rank2": 16.66
-    },
-    {
-        "key_flower": "cannamedical hybrid forte dk: ghost train haze",
-        "name_apo_rank1": "lux99",
-        "price_apo_rank1": 14.04
-    },
-    {
         "key_flower": "tikun noga 27/1: noga",
         "name_apo_rank1": "lux99",
         "price_apo_rank1": 13.09
@@ -150,11 +175,6 @@
         "key_flower": "weeco 23/1: frosted lemon angel",
         "name_apo_rank1": "lux99",
         "price_apo_rank1": 9.04
-    },
-    {
-        "key_flower": "tikun erez 20/1: erez",
-        "name_apo_rank1": "lux99",
-        "price_apo_rank1": 9.4
     },
     {
         "key_flower": "demecan craft permanent marker 22:01: permanent marker",
@@ -174,6 +194,11 @@
         "price_apo_rank2": 11.66
     },
     {
+        "key_flower": "bedica: talea",
+        "name_apo_rank1": "lux99",
+        "price_apo_rank1": 17.09
+    },
+    {
         "key_flower": "nimbus easy 20/1 hellfire: hellfire",
         "name_apo_rank1": "lux99",
         "price_apo_rank1": 9.5
@@ -182,16 +207,6 @@
         "key_flower": "amp classic 25/1: frosted lemon angel",
         "name_apo_rank1": "lux99",
         "price_apo_rank1": 10.95
-    },
-    {
-        "key_flower": "imc thc20 t01 hk: hindu kush",
-        "name_apo_rank1": "lux99",
-        "price_apo_rank1": 9.52
-    },
-    {
-        "key_flower": "cannabis flos 18/1 ls ku. exodus cheese: exodus cheese",
-        "name_apo_rank1": "lux99",
-        "price_apo_rank1": 9.4
     },
     {
         "key_flower": "imc thc22 t02: og kush",
@@ -264,19 +279,9 @@
         "price_apo_rank1": 13.09
     },
     {
-        "key_flower": "bathera 33/1 polar pop: polar pop",
-        "name_apo_rank1": "cannalivery",
-        "price_apo_rank1": 7.99
-    },
-    {
         "key_flower": "bedrocan: afina",
         "name_apo_rank1": "cannalivery",
         "price_apo_rank1": 6.99
-    },
-    {
-        "key_flower": "avaay 15/1 pyc: peyote critical",
-        "name_apo_rank1": "jiroo",
-        "price_apo_rank1": 4.95
     },
     {
         "key_flower": "lot 420 glt: gelato 33",
@@ -284,11 +289,21 @@
         "price_apo_rank1": 9.49
     },
     {
+        "key_flower": "pedanios 31/1 cmk-ca: chemango kush",
+        "name_apo_rank1": "jiroo",
+        "price_apo_rank1": 6.85
+    },
+    {
         "key_flower": "demecan craft walkie talkie 31:01: sugar cake",
         "name_apo_rank1": "jiroo",
         "price_apo_rank1": 8.49,
         "name_apo_rank2": "cannalivery",
         "price_apo_rank2": 8.99
+    },
+    {
+        "key_flower": "j.r. strain gp 28/1: gastro pop",
+        "name_apo_rank1": "jiroo",
+        "price_apo_rank1": 7.95
     },
     {
         "key_flower": "peace naturals 31/1 sc: space cake",
@@ -306,11 +321,6 @@
         "price_apo_rank1": 8.99
     },
     {
-        "key_flower": "pedanios 31/1 cmk-ca: chemango kush",
-        "name_apo_rank1": "jiroo",
-        "price_apo_rank1": 6.9
-    },
-    {
         "key_flower": "imc thc17 t01 hk: hindu kush",
         "name_apo_rank1": "lux99",
         "price_apo_rank1": 10.0
@@ -321,16 +331,6 @@
         "price_apo_rank1": 14.99
     },
     {
-        "key_flower": "pedanios 27/1 frg-ca: farm gas",
-        "name_apo_rank1": "cannalivery",
-        "price_apo_rank1": 5.49
-    },
-    {
-        "key_flower": "avaay 23/1 ck: critical kush",
-        "name_apo_rank1": "jiroo",
-        "price_apo_rank1": 8.95
-    },
-    {
         "key_flower": "mac 1+: mac 1",
         "name_apo_rank1": "jiroo",
         "price_apo_rank1": 6.99
@@ -339,6 +339,33 @@
         "key_flower": "remexian 25/1 bpd: big purple dragon",
         "name_apo_rank1": "jiroo",
         "price_apo_rank1": 6.45
+    },
+    {
+        "key_flower": "avaay 23/1 ck: critical kush",
+        "name_apo_rank1": "jiroo",
+        "price_apo_rank1": 8.95
+    },
+    {
+        "key_flower": "pedanios 29/1 srd-ca: sourdough",
+        "name_apo_rank1": "jiroo",
+        "price_apo_rank1": 7.95,
+        "name_apo_rank2": "lux99",
+        "price_apo_rank2": 14.04
+    },
+    {
+        "key_flower": "420 evolution 30/1 ca pch: peach chementine",
+        "name_apo_rank1": "cannalivery",
+        "price_apo_rank1": 8.49
+    },
+    {
+        "key_flower": "pedanios 10/13 mbe-ca: moon berry",
+        "name_apo_rank1": "jiroo",
+        "price_apo_rank1": 7.95
+    },
+    {
+        "key_flower": "pedanios 27/1 frg-ca: farm gas",
+        "name_apo_rank1": "cannalivery",
+        "price_apo_rank1": 5.49
     },
     {
         "key_flower": "pedanios 31/1 cos-ca: cosmic cream",
@@ -357,37 +384,5 @@
         "price_apo_rank2": 5.99,
         "name_apo_rank3": "lux99",
         "price_apo_rank3": 8.33
-    },
-    {
-        "key_flower": "420 compound 27/1 ca gap: gastro pop",
-        "name_apo_rank1": "cannalivery",
-        "price_apo_rank1": 7.99
-    },
-    {
-        "key_flower": "420 natural 22/1 ca gg4: gorilla glue 4",
-        "name_apo_rank1": "lux99",
-        "price_apo_rank1": 13.09
-    },
-    {
-        "key_flower": "pedanios 22/1: ghost train haze",
-        "name_apo_rank1": "cannalivery",
-        "price_apo_rank1": 6.49
-    },
-    {
-        "key_flower": "pedanios 29/1 srd-ca: sourdough",
-        "name_apo_rank1": "jiroo",
-        "price_apo_rank1": 7.95,
-        "name_apo_rank2": "lux99",
-        "price_apo_rank2": 14.04
-    },
-    {
-        "key_flower": "420 evolution 30/1 ca pch: peach chementine",
-        "name_apo_rank1": "cannalivery",
-        "price_apo_rank1": 8.49
-    },
-    {
-        "key_flower": "pedanios 10/13 mbe-ca: moon berry",
-        "name_apo_rank1": "jiroo",
-        "price_apo_rank1": 7.95
     }
 ]
